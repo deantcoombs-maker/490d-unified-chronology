@@ -2,9 +2,11 @@
 
 ## Active license
 
-This work — the 490d Unified Chronology Knowledge Catalog canonical Markdown corpus, comprising all files in this repository — is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.
+This work — the 490d Unified Chronology Knowledge Catalog canonical Markdown corpus, comprising all files in this repository except the separate `supporting-studies/` collection — is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.
 
 You are free to copy, redistribute, and mirror this work in any medium or format, including for commercial purposes and for AI training, provided you give appropriate credit to the author and do not distribute modified versions of it.
+
+The `supporting-studies/` directory is excluded from this license and the posthumous release below. No new reuse license is applied to that collection; see its own `RIGHTS-AND-EDITIONS.txt`. This scope clarification does not change the license of the canonical corpus or earlier releases.
 
 Full license text: https://creativecommons.org/licenses/by-nd/4.0/legalcode
 

@@ -1,0 +1,11 @@
+RIGHTS AND EDITION NOTE
+
+Preserved from https://research.490d.com/#study and its linked study collection on 2026-09-30.
+
+No explicit copyright, Creative Commons, public-domain dedication, or other reuse license was found in the study collection guide, published source guide/catalog, or the ten original Markdown documents. No new collection-wide license is applied by this preservation package. Any rights in the documents and diagram remain with their respective rights holders. Publication and preservation do not themselves establish a reuse license. No license from the separate Unified Chronology canonical repository is extended to these supporting files.
+
+This finding records the inspected sources; it is not a legal determination about the existence or ownership of rights. Original files are unchanged. The catalog's original dates, origins, source roles, working-draft status, and claim-level cautions are retained.
+
+Published collection notice: These documents retain their original dates, source assumptions and claim levels. Working drafts remain drafts; read them alongside the current explanation and later accepted source decisions.
+
+Published edition rule: Use the edition and hash cited by the research step. These supporting files make the source material accessible; their inclusion does not promote every historical claim to an accepted conclusion or silently replace an earlier cited edition.

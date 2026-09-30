@@ -1,0 +1,399 @@
+{
+  "title": "Study documents",
+  "description": "Reports, source registers and diagrams supporting the numbered research steps, including material not yet in the Unified Repository.",
+  "editionNotice": "These documents retain their original dates, source assumptions and claim levels. Working drafts remain drafts; read them alongside the current explanation and later accepted source decisions.",
+  "documents": [
+    {
+      "id": "study-report-i",
+      "report": "I",
+      "title": "Regular MT–SP–LXX Creation-to-Noah Engine — Report I",
+      "filename": "Regular_MT-SP-LXX_Creation-to-Noah_Engine_Report_I_20260831.md",
+      "date": "2026-08-31",
+      "dateLabel": "August 31, 2026",
+      "scope": "Regular Creation–Flood variant geometry, Key-of-23 operations, and bounded SKL/Berossus extensions.",
+      "tags": [
+        "Regular",
+        "Calendar Keys"
+      ],
+      "sha256": "c13cd1461aaabc7da8b3e5dfcf057ad2e9e1e8cd1e76dcab3f533fb2247f09e8",
+      "group": "Engine reports I–V",
+      "format": "md",
+      "kind": "Report",
+      "role": "Study document",
+      "step": null,
+      "bytes": 52198,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/Regular_MT-SP-LXX_Creation-to-Noah_Engine_Report_I_20260831.md",
+      "derived": false,
+      "excerpt": "Regular Creation–Flood variant geometry, Key-of-23 operations, and bounded SKL/Berossus extensions.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "Regular_MT-SP-LXX_Creation-to-Noah_Engine_Report_I_20260831.md"
+    },
+    {
+      "id": "study-report-ii",
+      "report": "II",
+      "title": "Regular MT–SP–LXX Comparative Genealogical Engine — Report II",
+      "filename": "Regular_MT-SP-LXX_Comparative_Genealogical_Engine_Report_II_20260902.md",
+      "date": "2026-09-02",
+      "dateLabel": "September 2, 2026",
+      "scope": "Patriarch-by-patriarch regular comparisons, Creation-week and post-Flood patterns, and calendar closures.",
+      "tags": [
+        "Regular",
+        "Calendar Keys"
+      ],
+      "sha256": "66ac91f67a451eba44f89ce0af83b65093b3f786fbff6792dd66bc5876d343da",
+      "group": "Engine reports I–V",
+      "format": "md",
+      "kind": "Report",
+      "role": "Study document",
+      "step": null,
+      "bytes": 56122,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/Regular_MT-SP-LXX_Comparative_Genealogical_Engine_Report_II_20260902.md",
+      "derived": false,
+      "excerpt": "Patriarch-by-patriarch regular comparisons, Creation-week and post-Flood patterns, and calendar closures.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "Regular_MT-SP-LXX_Comparative_Genealogical_Engine_Report_II_20260902.md"
+    },
+    {
+      "id": "study-report-iii",
+      "report": "III",
+      "title": "Cumulative MT–SP–LXX Creation–Shem/Flood Engine — Report III",
+      "filename": "Cumulative_MT-SP-LXX_Creation-Shem_Comparative_Engine_Report_III_20260902.md",
+      "date": "2026-09-02",
+      "dateLabel": "September 2, 2026",
+      "scope": "Cumulative manuscript offsets, cumulative–regular bridges, and explicitly analytical “flattening.”",
+      "tags": [
+        "Cumulative",
+        "Regular",
+        "Calendar Keys"
+      ],
+      "sha256": "25623b1d84ab1131a1a66c075cf1ff2c19db2738042afd390a58b181b129a428",
+      "group": "Engine reports I–V",
+      "format": "md",
+      "kind": "Report",
+      "role": "Study document",
+      "step": null,
+      "bytes": 50383,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/Cumulative_MT-SP-LXX_Creation-Shem_Comparative_Engine_Report_III_20260902.md",
+      "derived": false,
+      "excerpt": "Cumulative manuscript offsets, cumulative–regular bridges, and explicitly analytical “flattening.”",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "Cumulative_MT-SP-LXX_Creation-Shem_Comparative_Engine_Report_III_20260902.md"
+    },
+    {
+      "id": "study-report-iv",
+      "report": "IV",
+      "title": "Rounded MT–SP–LXX Creation–Flood Harmonic Engine — Report IV",
+      "filename": "Rounded_MT-SP-LXX_Creation-Flood_Harmonic_Engine_Report_IV_20260904.md",
+      "date": "2026-09-04",
+      "dateLabel": "September 4, 2026 · revised September 5",
+      "scope": "Rounded regular/cumulative comparisons, state operations, Mirror connections, and SP–Jubilees relationships.",
+      "tags": [
+        "Rounded",
+        "Regular",
+        "Cumulative",
+        "Mirror / 529",
+        "Calendar Keys"
+      ],
+      "sha256": "589c89260bede3fc72388f6d48c94a96ca581e0055ebeafa6721c8e7271325d6",
+      "group": "Engine reports I–V",
+      "format": "md",
+      "kind": "Report",
+      "role": "Study document",
+      "step": null,
+      "bytes": 87263,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/Rounded_MT-SP-LXX_Creation-Flood_Harmonic_Engine_Report_IV_20260904.md",
+      "derived": false,
+      "excerpt": "Rounded regular/cumulative comparisons, state operations, Mirror connections, and SP–Jubilees relationships.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "Rounded_MT-SP-LXX_Creation-Flood_Harmonic_Engine_Report_IV_20260904.md"
+    },
+    {
+      "id": "study-report-v",
+      "report": "V",
+      "title": "The 365-Day Sothic Companion and Anchored SKL Symmetry — Report V",
+      "filename": "Sothic_Key23_Anchored_Symmetry_Report_V_20260906.md",
+      "date": "2026-09-06",
+      "dateLabel": "September 6, 2026",
+      "scope": "Sothic companion ratios, anchored finite-set symmetry, and Mosaic–Joshua/SKL selection analysis.",
+      "tags": [
+        "Calendar Keys",
+        "Regular",
+        "Covenant"
+      ],
+      "sha256": "c88ceed051554bece069560d7c48711c1bb2412110bbfdb3804dd9566f1809e5",
+      "group": "Engine reports I–V",
+      "format": "md",
+      "kind": "Report",
+      "role": "Study document",
+      "step": null,
+      "bytes": 32450,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/Sothic_Key23_Anchored_Symmetry_Report_V_20260906.md",
+      "derived": false,
+      "excerpt": "Sothic companion ratios, anchored finite-set symmetry, and Mosaic–Joshua/SKL selection analysis.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "Sothic_Key23_Anchored_Symmetry_Report_V_20260906.md"
+    },
+    {
+      "id": "study-file52c-combined",
+      "title": "File_52c — Rounded Whole-Span Inverse Detailed Study, with LXX/SP Appendix D",
+      "filename": "File_52c.Rounded_Whole_Span_Inverse_Detailed_Study_Combined.md",
+      "date": "2026-09-29",
+      "dateLabel": "September 25 study · additions through September 29, 2026",
+      "scope": "Combined detailed draft covering Rounded whole-span inversions, the 529 family and Actual chronology, with the LXX comparison and accepted SP Fall solution in Appendix D.",
+      "tags": [
+        "Rounded",
+        "Inverse",
+        "Cumulative",
+        "Regular",
+        "Mirror / 529"
+      ],
+      "sha256": "8a44894d5006de09e2116236ff95e73803d1ded8cf32c9b273f185aa47b4bf59",
+      "kind": "Draft",
+      "editionStatus": "Working draft · not marked Final",
+      "group": "Supporting studies & diagrams",
+      "format": "md",
+      "role": "Study document",
+      "step": null,
+      "bytes": 300965,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/File_52c.Rounded_Whole_Span_Inverse_Detailed_Study_Combined.md",
+      "derived": false,
+      "excerpt": "Combined detailed draft covering Rounded whole-span inversions, the 529 family and Actual chronology, with the LXX comparison and accepted SP Fall solution in Appendix D.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "File_52c.Rounded_Whole_Span_Inverse_Detailed_Study_Combined.md"
+    },
+    {
+      "id": "study-sp-noah-shem-register",
+      "title": "SP Noah–Shem Gear Knot — Canonical Register",
+      "filename": "SP_Noah_Shem_Gear_Knot_Canonical_Register_FLOOD_GEAR_CLARIFIED_20260918.md",
+      "date": "2026-09-18",
+      "dateLabel": "September 18, 2026",
+      "scope": "Governing SP coordinates, counting conventions and comparison permissions, separating universal Flood Gear transport from the SP-only Noah/Shem adjacent rail.",
+      "tags": [
+        "Regular",
+        "Cumulative",
+        "Calendar Keys"
+      ],
+      "sha256": "36dab70f4e5140920c7fdee0107793fb23995e9b1262f2848699e586782adf4d",
+      "kind": "Register",
+      "editionStatus": "Author-authorized revised register · preserved September 18 edition · original archive copy",
+      "group": "Supporting studies & diagrams",
+      "format": "md",
+      "download": "/api/archive-file/36dab70f4e5140920c7fdee0107793fb23995e9b1262f2848699e586782adf4d.md",
+      "storage": "existing-archive",
+      "archivePaths": [
+        "packets/C312/sources/GEAR_REGISTER.md"
+      ],
+      "role": "Study document",
+      "step": null,
+      "bytes": 20341,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level.",
+        "Existing archive: packets/C312/sources/GEAR_REGISTER.md"
+      ],
+      "derived": false,
+      "excerpt": "Governing SP coordinates, counting conventions and comparison permissions, separating universal Flood Gear transport from the SP-only Noah/Shem adjacent rail.",
+      "collection": "study-documents",
+      "downloadFilename": "GEAR_REGISTER.md"
+    },
+    {
+      "id": "study-mirror-axis-framework",
+      "title": "The 4232 / 8464 / 12696 Mirror framework",
+      "filename": "490d_Comprehensive_4232_8464_12696_Mirror_Axis_Report_20260925.md",
+      "date": "2026-09-24",
+      "dateLabel": "September 24, 2026 · addendum September 25",
+      "scope": "Integrated regular and cumulative Mirror study, distinguishing squared-number radii from doubled translation widths and preserving declared seasonal and civil-count frames.",
+      "tags": [
+        "Mirror / 529",
+        "Regular",
+        "Cumulative",
+        "Calendar Keys"
+      ],
+      "sha256": "5ec36bbcd2cf215ac76ac71a2557c1cad9b041951cdc190efb96435b394e0f82",
+      "kind": "Study",
+      "editionStatus": "Comprehensive working synthesis · bounded arithmetic and interpretation",
+      "group": "Supporting studies & diagrams",
+      "format": "md",
+      "role": "Study document",
+      "step": null,
+      "bytes": 74450,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/490d_Comprehensive_4232_8464_12696_Mirror_Axis_Report_20260925.md",
+      "derived": false,
+      "excerpt": "Integrated regular and cumulative Mirror study, distinguishing squared-number radii from doubled translation widths and preserving declared seasonal and civil-count frames.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "490d_Comprehensive_4232_8464_12696_Mirror_Axis_Report_20260925.md"
+    },
+    {
+      "id": "study-sothic-amendment-ledger",
+      "title": "The 365-Day Sothic Companion to the Key of 23 — Discussion and Amendment Ledger v0.3",
+      "filename": "365_Sothic_Key23_Discussion_and_Amendment_Ledger_v0_3_20260906.md",
+      "date": "2026-09-06",
+      "dateLabel": "September 6, 2026 · v0.3",
+      "scope": "Detailed Sothic–Mosaic selection discussion, Creation and Pillar applications, Long-SKL audit and prepared source amendments; companion to the Sothic Report V.",
+      "tags": [
+        "Calendar Keys",
+        "Cumulative",
+        "Regular",
+        "Covenant",
+        "Mirror / 529"
+      ],
+      "sha256": "81d5e80b3b81d2b28efb8315c24149b3ac4dc3f9e38e01b24582885cd40e0ed6",
+      "kind": "Ledger",
+      "editionStatus": "Working amendment ledger · Finalization and central registration not claimed",
+      "group": "Supporting studies & diagrams",
+      "format": "md",
+      "role": "Study document",
+      "step": null,
+      "bytes": 49249,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/365_Sothic_Key23_Discussion_and_Amendment_Ledger_v0_3_20260906.md",
+      "derived": false,
+      "excerpt": "Detailed Sothic–Mosaic selection discussion, Creation and Pillar applications, Long-SKL audit and prepared source amendments; companion to the Sothic Report V.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "365_Sothic_Key23_Discussion_and_Amendment_Ledger_v0_3_20260906.md"
+    },
+    {
+      "id": "study-mirror-bilateral-8395",
+      "title": "The Mirror: bilateral integration and the 8395 correspondence",
+      "filename": "490d_Mirror_Bilateral_Integration_and_8395_Correspondence_20260920.md",
+      "date": "2026-09-20",
+      "dateLabel": "September 20, 2026",
+      "scope": "Two realizations of the 8395-year correspondence, six-position source relationships, BJ birth positions and the central 7 + 7 geometry.",
+      "tags": [
+        "Mirror / 529",
+        "Regular",
+        "Cumulative",
+        "Calendar Keys"
+      ],
+      "sha256": "152ceaf2b3641ecf9dc1f5f5049640a2b644a881a7c9e674ede099a89f52b0d5",
+      "kind": "Study",
+      "editionStatus": "Research supplement · bounded structural inference · original archive copy",
+      "group": "Supporting studies & diagrams",
+      "format": "md",
+      "download": "/api/archive-file/152ceaf2b3641ecf9dc1f5f5049640a2b644a881a7c9e674ede099a89f52b0d5.md",
+      "storage": "existing-archive",
+      "archivePaths": [
+        "incoming/earlier_branch_context/490d_Mirror_Bilateral_Integration_and_8395_Correspondence_20260920.md",
+        "packets/C266/sources/MIRROR_BILATERAL.md",
+        "packets/C273/sources/MIRROR_BILATERAL.md",
+        "packets/C274/sources/MIRROR_BILATERAL.md",
+        "packets/C275/sources/MIRROR_BILATERAL.md",
+        "packets/C279/sources/BILATERAL.md",
+        "packets/C280/sources/BILATERAL.md",
+        "packets/C285/sources/BILATERAL.md"
+      ],
+      "role": "Study document",
+      "step": null,
+      "bytes": 17127,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level.",
+        "Existing archive: incoming/earlier_branch_context/490d_Mirror_Bilateral_Integration_and_8395_Correspondence_20260920.md",
+        "Existing archive: packets/C266/sources/MIRROR_BILATERAL.md",
+        "Existing archive: packets/C273/sources/MIRROR_BILATERAL.md",
+        "Existing archive: packets/C274/sources/MIRROR_BILATERAL.md",
+        "Existing archive: packets/C275/sources/MIRROR_BILATERAL.md",
+        "Existing archive: packets/C279/sources/BILATERAL.md",
+        "Existing archive: packets/C280/sources/BILATERAL.md",
+        "Existing archive: packets/C285/sources/BILATERAL.md"
+      ],
+      "derived": false,
+      "excerpt": "Two realizations of the 8395-year correspondence, six-position source relationships, BJ birth positions and the central 7 + 7 geometry.",
+      "collection": "study-documents",
+      "downloadFilename": "490d_Mirror_Bilateral_Integration_and_8395_Correspondence_20260920.md"
+    },
+    {
+      "id": "study-mirror-geometry",
+      "title": "Mirror geometry: two 8395-year frames and the central 7 + 7",
+      "filename": "490d_Mirror_Geometry_20260920.png",
+      "date": "2026-09-20",
+      "dateLabel": "September 20, 2026",
+      "scope": "Original companion diagram showing the two 8395-year Mirror frames, translated Flood/Shem positions and the central 7 + 7 junction.",
+      "tags": [
+        "Mirror / 529",
+        "Regular",
+        "Cumulative"
+      ],
+      "sha256": "03fc287b6eb70676dfb4d052ac2941f876938914a6d34973ed8ae5da95fa6bb0",
+      "kind": "Diagram",
+      "format": "png",
+      "editionStatus": "Preserved companion diagram · labels transcribed for accessible reading",
+      "imageAlt": "Two 8395-year Mirror frames and translated Flood/Shem positions around the January AD 1 axis and January AD 2 junction.",
+      "transcription": "# Diagram labels and accessible transcription\n\nThis transcription records the supplied diagram's labels; it is not a fresh verification of its chronological claims. The coordinates are signed pair-center positions measured from January AD 1, not historical year labels.\n\n## A. Two 8395-year frames\n\nThe same cross-Mirror span survives an opposite 460-year source exchange.\n\n| Source settings | Left outer | Left inner | Right inner | Right outer | Adjacent spans |\n|---|---:|---:|---:|---:|---|\n| LXX cumulative OFF; SP / LXX regular OFF | −5290 | −3105 | +3105 | +5290 | 2185 / 6210 / 2185 |\n| LXX cumulative ON; MT regular ON, Terah +60 | −5750 | −2645 | +2645 | +5750 | 3105 / 5290 / 3105 |\n\nBoth illustrated cross-Mirror spans are labeled 8395.\n\n## B. Translated Flood and Shem positions\n\nThe 600-year source shift and 598-year translation leave a two-year displacement.\n\n| Position | Start coordinate | End coordinate |\n|---|---:|---:|\n| MT Flood, translated | −6 | +1 |\n| SP Flood, translated | −1 | +6 |\n| LXX Flood, translated | 0 | +7 |\n| MT Shem, translated | −8 | −1 |\n| MT Shem, then reflected | +1 | +8 |\n\nThe fixed Mirror axis is January AD 1 at coordinate 0. The 7 + 7 junction is January AD 2 at coordinate +1.\n\n## Coordinate key and source settings\n\n- Nisan N BC has center −N; Nisan AD N has center N−1.\n- Each ordered t/n pair spans center ±¼ year.\n- Outer regular anchors: full 430; G1 Flood close.\n- OFF/ON denotes Cainan.\n- SP/LXX OFF uses Terah 0; MT ON uses Terah +60.\n",
+      "group": "Supporting studies & diagrams",
+      "role": "Study document",
+      "step": null,
+      "bytes": 335893,
+      "origins": [
+        "User-supplied supporting study edition; inclusion does not change its original claim level."
+      ],
+      "download": "/study-documents/files/490d_Mirror_Geometry_20260920.png",
+      "derived": false,
+      "excerpt": "Original companion diagram showing the two 8395-year Mirror frames, translated Flood/Shem positions and the central 7 + 7 junction.",
+      "collection": "study-documents",
+      "storage": "study-files",
+      "downloadFilename": "490d_Mirror_Geometry_20260920.png"
+    }
+  ],
+  "sourceGuide": {
+    "title": "Source guide for researchers and AI readers",
+    "description": "These documents contain information used or referenced in many of the numbered C-series research steps. If a subject or idea cannot be found in the 490d Unified Chronology Knowledge Catalog, consult this collection as another source of the underlying study material.",
+    "steps": [
+      {
+        "label": "Knowledge Catalog",
+        "href": "https://490d.com/knowledge-catalog/",
+        "detail": "Begin with the published Unified Chronology sources and controls."
+      },
+      {
+        "label": "Study documents",
+        "href": "/study-documents/index.html",
+        "detail": "Consult these supporting reports, registers, working drafts and diagrams for material beyond the published catalog."
+      },
+      {
+        "label": "Research sections",
+        "href": "/research/index.html",
+        "detail": "Choose a subject and its bounded study sequence. Selected reports and section/sequence JSON indexes route directly to the relevant C-actions and linked evidence."
+      },
+      {
+        "label": "Reports & sources",
+        "href": "/read/index.html",
+        "detail": "Search the numbered actions and their preserved source editions in the workspace; the public reading index also provides every record as a text page."
+      },
+      {
+        "label": "Archive & Verification",
+        "href": "/archive/index.html",
+        "detail": "Find original evidence packages, earlier editions and verification files when a study cites additional supporting material."
+      }
+    ],
+    "editionRule": "Use the edition and hash cited by the research step. These supporting files make the source material accessible; their inclusion does not promote every historical claim to an accepted conclusion or silently replace an earlier cited edition."
+  }
+}

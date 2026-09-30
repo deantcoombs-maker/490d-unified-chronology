@@ -30,7 +30,7 @@ This mirror preserves the **83 original downloads** listed by the live source in
 - **Internet Archive**: https://archive.org/details/490d-unified-chronology-live-source-2026-09-30
 - **Zenodo (September capture)**: https://zenodo.org/records/23068909
 - **Integrity and provenance**: [capture notes](preservation/2026-09-30/README.md), [source-to-repository inventory](preservation/2026-09-30/repository-inventory.json), and [SHA-256 checksums](preservation/2026-09-30/SHA256SUMS.txt)
-- **Separate supporting study documents**: https://archive.org/details/490d-supporting-study-documents-2026-09-30. That collection is not included in this repository and is not covered by this repository's canonical-corpus license.
+- **Separate supporting study documents**: https://archive.org/details/490d-supporting-study-documents-2026-09-30. That collection is preserved separately in [supporting-studies/2026-09-30/](supporting-studies/2026-09-30/), with its own rights and edition notice. It is not covered by this repository's canonical-corpus license.
 
 September 30 is the **capture date**, not a claim that every file was revised that day. Original version labels, older pointers, and pending-deposit wording in source documents are preserved as found; see the capture notes. The live canonical Markdown at 490d.com remains the controlling source. This repository is a preservation mirror of the recorded capture, not a promise of continuous synchronization.
 
@@ -47,7 +47,7 @@ Archived copies preserve their recorded editions; the live directory carries the
 
 ## License
 
-CC BY-ND 4.0, with an irrevocable posthumous release under CC BY 4.0 — see [LICENSE.md](LICENSE.md).
+The canonical corpus uses CC BY-ND 4.0, with an irrevocable posthumous release under CC BY 4.0 — see [LICENSE.md](LICENSE.md). The separate `supporting-studies/` collection is excluded; see its [rights notice](supporting-studies/2026-09-30/RIGHTS-AND-EDITIONS.txt).
 
 ## Author
 
