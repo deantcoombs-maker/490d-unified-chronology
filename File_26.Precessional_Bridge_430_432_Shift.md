@@ -1,14 +1,14 @@
 File: File_26
 Title: The Precessional Bridge — The 430/432 Shift from 18726 BC
-Status: Final; pressure tested
+Status: Final; pressure tested; bounded File_66 reciprocal pointer applied August 8 2026
 Pressure-test status: Current; publication-clean verification complete; May 28 2026 pressure-tested status retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed.
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Primary domain: SKL; Prophetic; Comparative; Calendar; Theological; Mirror; Deep Time
 Traditions: SKL; Hebrew Bible; MT; Exodus / Mosaic; Abrahamic; Danielic / prophetic; Egyptian calendar comparison
 Canonical source: Markdown
 Primary anchors: 434886 BC; 29516 BC; 27366 BC; AD 27366; 20916 BC; 20886 BC; 18766 BC; 18756 BC; 18726 BC; 2166 BC; 10136 BC; 10126 BC; 10086 BC; 1846 BC; 1526 BC; 1486 BC; 14466 BC; 1446 BC; 1406 BC; 586 BC; 2906 BC; 2886 BC; 2856 BC; AD 29515; AD 33 by dependency
-Related files: File_00; File_01; File_03; File_05; File_12; File_15; File_16; File_17; File_19; File_21; File_24; File_25; File_30 by dependency; File_51a; File_54
+Related files: File_00; File_01; File_03; File_05; File_12; File_15; File_16; File_17; File_19; File_21; File_24; File_25; File_30 by dependency; File_51a; File_54; File_66
 Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; SKL rounded mod-10 Mirror display `BC + AD − 2`; authorial forward-time `+` display; SKL `+30` rail-label addition; Pillar Mirror counterpart display label; `18726 − 2166 = 16560`; `18726 − 1526 = 17200`; `18726 − 1446 = 17280`; `27366 − 18726 = 8640`; `18726 − 10086 = 8640`; `10086 − 1446 = 8640`; `27366 − 1446 = 25920`; `18726 − 10126 = 8600`; `10126 − 1526 = 8600`; `10086 − 1486 = 8600`; `29516 − 27366 = 2150`; `29516 − 20916 = 8600`; `29516 − 18766 = 10750`; `29516 − 14466 = 15050`; `1446 + 29515 − 1 = 30960`; `586 + 29515 − 1 = 30100`; `434886 − 2886 = 432000`; `434886 − 1446 = 433440`; `434886 + 29515 − 1 = 464400`; `434886 + 27366 − 2 = 462250`; `430 × 40`; `432 × 40`; `120 × 72`; `120 × 71⅔`; `240 × 72`; `240 × 71⅔`; `360 × 72`; `360 × 71⅔`; `1290 × 336`; `1290 × 360`; `215 × 2150`; `430 × 1008`; `430 × 144 × 7`; `6450 × 72`; `6480 × 71⅔`; `18 × 25800`
 Major modal states: File_24 extra state; Nangishlishma-start / Abraham lock state; pre-branching `18726 BC` state; Balih standard / hidden-`50` start state; Historical Lock / `430` state; Cosmic Lock / `432` state; Standard `8640` precessional-season triad; Alternate `8600` precessional-season triad; `2160/2150` precessional-month dual state; Moses three-`40` life-division state; Egyptian three-season comparison state; Famine Window integration state; `1876 BC` Nexus 10x rail comparison state; Pillar Mirror counterpart display state; `AD 29515` actual Pillar state by File_19 / File_21 dependency; remote `434886 BC` Danielic / adjusted Pre-Creation circuit state; Priestly `1290 × 336` Exodus state; Prophetic `1290 × 360` Pillar state; SKL rounded mod-10 Mirror `AD 27366` counterpart state; Decimal Invariance / `10x` display state by File_25 dependency; no-formal-Mirror local state except explicitly bounded Pillar / SKL mod-10 Mirror display; no-Residue local state; Rounded Scaffold non-retrojection state
 Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized File_26 source; File_00; File_01; File_03; File_05; File_12; File_15; File_16; File_17; File_19; File_21; File_24; File_25; File_51a; File_54; Repository_Change_Archive (non-controlling history).
@@ -46,6 +46,10 @@ This external source-control note is used only for the calendrical analogy that 
 
 Dependency note:
 `File_26` is a companion to `File_24`. It does not rederive the full First Dynasty of Kish cipher, the SKL rail system, the En-tarah-ana coordinate quartet, the File_21 Pillar framework, or the File_30 AD 33 target. It isolates the pre-branching value of `18726 BC` and tests its `430/432`, `8640/8600`, `1876 BC` Nexus, Pillar, and remote Pre-Creation interfaces.
+
+
+File_66 reciprocal half-scale note:
+Final `File_66` uses the exact half-scale pair `215/216` as a bounded comparison with File_26's controlled `430/432` precessional pair: `2 × 215 = 430` and `2 × 216 = 432`. File_26 remains controlling for its precessional operators, month/season states, and deep-time coordinates.
 
 ## 0. File-function
 
@@ -136,6 +140,10 @@ A shared number, reign value, date-label, SKL rail, biblical anchor, harmonic, M
 | Appendix A | Preserves the local File_24 parallel matrix reference | standard / hidden-`50` First Dynasty of Kish columns |
 
 ## 0.3 Machine Guards
+
+Machine Guard [FILE_26 FILE_66 215 / 216 HALF-SCALE]:
+Final File_66's `215/216` third-day display is the exact half-scale of File_26's `430/432` precessional pair: `2 × 215 = 430`, `2 × 216 = 432`. The half-scale application does not redefine File_26's `430/432` operators, historical/cosmic states, or Primary anchors, and the textual “third day” identification remains File_66 structural interpretation.
+
 
 Machine Guard [FILE_26 SAME-SIDE BC SPANS]:
 All local BC-to-BC spans in `File_26` are same-side BC spans. Compute by subtracting the lower BC date from the higher BC date. No ordinary civil cross-axis span is active unless an AD target is explicitly present.

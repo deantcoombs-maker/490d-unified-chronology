@@ -10,7 +10,7 @@ Canonical source: Markdown
 Primary anchors: 1915 BC; 1805 BC; 1876 BC; 1700 BC; 1590 BC; 1661 BC; 1981 BC; 1806 BC; 1782 BC; 1476 BC; 1406 BC; 1859 BC; 1789 BC; 1919 BC; 1446 BC
 Reference-only methodological comparison dates: Joseph 1916–1806 BC (Rounded Scaffold clarity-only)
 Dependency-controlled comparison date: Joshua death 1366 BC, derived locally from `1476 − 110 = 1366` within the File_06 / Joshua-Conquest dependency field
-Related files: `File_00`; `File_06`; `File_16`; `File_51a`; `File_54`; `File_12`; `File_14`; Restart Capsule v11.17
+Related files: `File_00`; `File_06`; `File_16`; `File_51a`; `File_54`; `File_12`; `File_14`; `File_61`; Restart Capsule v11.17
 Major operators: same-side BC subtraction; 110-year ideal-life module; 3 × 110; 32 × 7; chiastic overlap; −215 Sojourn state; `343 = 7 × 7 × 7`; Priestly `336` by File_12 dependency
 Major modal states: standard 1876 BC Entry state; −215 / 1661 BC Entry state; BJ hybrid Abraham state; Rounded Scaffold Joseph clarity-only reference state; Levi comparison state; Joshua / Conquest state; minor −33 Entry variant; SOR non-active comparison state; Levi / Judah post-Jacob span state
 Major claim-status labels: textual datum; arithmetic fact; structural inference; typological reading; theological note; dependency-controlled; audit note
@@ -58,7 +58,7 @@ The `+60 Terah` state does not affect Joseph’s era. It propagates backward fro
 | §0 | File-function, working-state controls, node-class firewall, operator register, Machine Guards, and claim-status controls | standard Joseph; `−215`; BJ hybrid; Rounded Scaffold clarity-only; no Mirror / inverse / Residue active |
 | §§1–2 | Joseph identity and harmonic anchors | textual datum; typological reading; same-side BC subtraction; `110`; `3 × 110`; `32 × 7`; chiastic overlap |
 | §§3 and 6 | Verification matrix and arithmetic ledger | arithmetic facts; dependency-controlled rows; same-side BC arithmetic; integer multiplication |
-| §§4–5 | Cross-reference index and source-control firewalls | `File_00`; `File_06`; `File_16`; `File_51a`; `File_54`; modal-state firewalling |
+| §§4–5 | Cross-reference index and source-control firewalls | `File_00`; `File_06`; `File_16`; `File_51a`; `File_54`; `File_61`; modal-state firewalling |
 | §§7–9 | Final argument controls, audit/dependency notes, and unresolved issues | claim-status control; audit-only; dependency-controlled |
 
 File-map note:
@@ -189,6 +189,9 @@ The shared `110` creates the ideal-life module used by this file. The module fra
 
 Typological reading:
 Joseph preserves the family in Egypt, and Joshua brings the nation into Canaan. The “Ideal Life” language names this typological role; it does not add a second arithmetic claim beyond the shared `110`.
+
+Downstream cumulative pointer:
+`File_61` develops this Joseph–Joshua `110` bookend as a collateral cumulative double portion: a Levi-anchored forward `110`, a Kohath-anchored backward `110`, their crossed `30 + 80 + 30` display, the `430/460` translations to Joshua, and Joseph’s bones carried from the Exodus into the inheritance. `File_03` retains control of Joseph’s regular biographies and the ideal-life module; `File_61` retains control of the cumulative coordinates and crossed-hands construction.
 
 ### 2.2 The Conquest Harmonic: 330-Year Span
 
@@ -344,6 +347,7 @@ Argument-control note:
 | `File_16`, §7 | Daniel Quadruple Lock; famine projections to Exile | Pointer confirmed: §7 is `Daniel Quadruple Lock: Famine → Exile projection` |
 | `File_51a` | Rounded Scaffold Joseph clarity-only reference state, `1916–1806 BC`; Joseph–Joshua 110/440 module | Distinct methodological dependency state; does not overwrite Joseph’s standard `1915–1805 BC` state and is not a literal chronology |
 | `File_54` | Later-file style-control exemplar for Conquest / Joshua comparative phrasing and claim-status control | Style-control dependency |
+| `File_61` | Joseph’s bidirectional cumulative double portion, crossed-hands `30 + 80 + 30`, double `110²`, `430/460` Joshua translation, and bones-to-inheritance closure | Downstream cumulative synthesis; does not replace File_03’s regular Joseph biographies or ideal-life proof burden |
 
 ## 5. Source-Control Notes
 
@@ -458,7 +462,7 @@ Pointer confirmation note:
 `File_06` confirms the Joshua birth / Conquest dependency for `1476 BC` and `1406 BC`; `1366 BC` remains dependency-controlled through the local `File_03` calculation `1476 − 110 = 1366`. `File_16`, §7, is confirmed as `Daniel Quadruple Lock: Famine → Exile projection`.
 
 Dependency note:
-The controlling Levi source or table remains dependency-controlled. The local calculation `1805 − 1782 = 23` checks cleanly, but the full external Levi derivation is not reproduced in `File_03`.
+The controlling Levi source or table remains dependency-controlled. The local calculation `1805 − 1782 = 23` checks cleanly, but the full external Levi derivation is not reproduced in `File_03`. `File_61` provides the downstream cumulative Joseph–Levi and Joseph–Joshua synthesis without changing this regular-biography proof boundary.
 
 ## 9. Unresolved Issues
 

@@ -4,19 +4,20 @@ Legacy source title: ENTITY_BIOLOGICAL_FRACTALS.md
 Entity: Biological and Numerical Fractals
 Classification: Micro-Chronology / Biological Validation
 UUID: SYS_BIO_FRACTAL
-Status: Final; post-final pressure tested; consecutive-birth interval application bounded update applied (July 2026)
-Pressure-test status: Current; publication-clean verification complete; post-final pressure-tested status retained. Focused check complete for the consecutive-birth interval application bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded consecutive-birth interval application (§2A) only, with File_51b §14 declared controlling for the interval states; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Final; post-final pressure tested; consecutive-birth interval application bounded update applied (July 2026); gestation-triad non-collision confirmation applied (July 2026); bounded File_62 half-clutch birth-law reciprocal pointer applied July 23 2026; bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Pressure-test status: Current; publication-clean verification complete; post-final pressure-tested status retained. Focused check complete for the consecutive-birth interval application bounded update. Focused check complete for the gestation-triad non-collision confirmation. Focused reciprocal-routing check complete for the bounded File_62 birth-law pointer; no local proof-bearing arithmetic was reopened; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status:bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded File_62 reciprocal-routing pointer and corrected File_61 handoff only. File_14 remains controlling for the male `7 + 33 = 40`, female `14 + 66 = 80`, and normative `270 / 280` biological-fractal vocabulary; Files 61–62 control their derived cumulative coordinates, clutch operators, Joseph inheritance, Mosaic-phase application, and Joshua closure. No pre-existing File_14 arithmetic, anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, Machine Guard, claim-status label, theological claim, or dependency boundary changed. The prior consecutive-birth and gestation-triad bounded updates remain retained; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
 Primary domain: Regular; Comparative; Calendar; Prophetic; Theological
-Traditions: MT; SP; LXX; NT / Pauline; Levitical; Exodus; Creation
+Traditions: MT; SP; LXX; NT / Pauline; Levitical; Exodus; Creation; BJ / Jubilees by dependency
 Canonical source: Markdown
 Primary anchors: 270; 275; 276; 280; 400; 144000; 30; 32; 40; 80; 4186 BC; 4146 BC; 4106 BC; 1486 BC; 1446 BC; 1406 BC; 4181 BC; 4176 BC; 4176n BC; 4175n BC; 3906 BC; 3901 BC; 3901n BC; 3900n BC; 2166 BC; 2156 BC; 1886 BC; 4174 BC; 3899 BC; 4474 BC; 4199 BC; 5554 BC; 5279 BC; 5555 BC; 2243 BC; 587 BC; 586 BC; 5556 BC; 1876 BC; 3680; 4000; 320; 1919 BC
-Related files: File_00; File_01; File_02; File_04; File_05; File_07; File_08; File_13; File_15; File_16; File_17; File_51a; File_54; File_51b; File_03; Restart Capsule v11.17; 490d Repository Style Guide v2.5; Project Procedures v3.3; State Vocabulary Register v1.18
-Major operators: `9 × 30`; `7 × 40`; `144000 ÷ 360 = 400`; `30 days = 30 years`; `+30 Apparent Age`; `+2`; `7 + 33 = 40`; `14 + 66 = 80`; `60 + 155 + 60 = 275`; diagonal Year-0 / Year-6 measurement; Year-6 full-year boundary `4176n BC → 3900n BC = 276`; `275 + 1 = 276`; `276 × 70/69 = 280`; `1656`; `1656 × 3 = 4968`; `25/23`; `70/69`; precessional-day `72`; same-side BC subtraction; `8 × 40 = 320`; `9 × 40 = 360`; `280 + 40 = 320` and `280 + 80 = 360` by File_51b dependency
-Major modal states: biological-fractal state; gestation axiom state; purification state; Creation `40 + 40` state; Exodus `40 + 40` state; Incarnation male-purification state; variant-gap gestation state; sequential `60 + 155 + 60` display; compressed `60 + 215` boundary display; diagonal Year-0 / Year-6 measurement state; Year-6 full-year boundary pair state; `276` full-year boundary-extension state; Abraham-Sarah completion state; tri-manuscript witness state; LXX Maximum node-label state; Triple-1656 Spine; `587 BC` allowed Fall of Jerusalem / exact Triple-1656 terminus state; `586 BC` primary Fall of Jerusalem / schematic endpoint state; LXX source-reconstruction witness state; Sarah-Eve typology state; typological mirroring state; no-formal-Mirror-protocol state; consecutive-birth interval application state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded consecutive-birth interval application (§2A) registered from the Regular-page publication discussion record.
+Related files: File_00; File_01; File_02; File_04; File_05; File_07; File_08; File_13; File_15; File_16; File_17; File_20; File_51a; File_54; File_51b; File_03; File_61; File_62; Restart Capsule v11.30; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31; File_69
+Major operators: `9 × 30`; `7 × 40`; `144000 ÷ 360 = 400`; `30 days = 30 years`; `+30 Apparent Age`; `+2`; `7 + 33 = 40`; `14 + 66 = 80`; `2 × (7 + 33) = 14 + 66 = 80`; half-clutch midpoint `H7(C) = C − 7` by Files 61–62 dependency; full clutch `T14(C) = C − 14` by Files 61–62 dependency; `60 + 155 + 60 = 275`; diagonal Year-0 / Year-6 measurement; Year-6 full-year boundary `4176n BC → 3900n BC = 276`; `275 + 1 = 276`; `276 × 70/69 = 280`; `1656`; `1656 × 3 = 4968`; `25/23`; `70/69`; precessional-day `72`; same-side BC subtraction; `8 × 40 = 320`; `9 × 40 = 360`; `280 + 40 = 320` and `280 + 80 = 360` by File_51b dependency
+Major modal states: biological-fractal state; gestation axiom state; purification state; Creation `40 + 40` state; Exodus `40 + 40` state; Incarnation male-purification state; variant-gap gestation state; sequential `60 + 155 + 60` display; compressed `60 + 215` boundary display; diagonal Year-0 / Year-6 measurement state; Year-6 full-year boundary pair state; `276` full-year boundary-extension state; Abraham-Sarah completion state; tri-manuscript witness state; LXX Maximum node-label state; Triple-1656 Spine; `587 BC` allowed Fall of Jerusalem / exact Triple-1656 terminus state; `586 BC` primary Fall of Jerusalem / schematic endpoint state; LXX source-reconstruction witness state; Sarah-Eve typology state; typological mirroring state; no-formal-Mirror-protocol state; consecutive-birth interval application state; File_61/File_62 half-clutch/full-clutch birth-law interface dependency state; Jubilees explicit birth-law reception witness by File_62 / File_20 / File_53 dependency
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; corrected Final File_61; Final post-final pressure-tested File_62; prior finalized File_14 source; Repository_Change_Archive (non-controlling history); Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Bounded File_62 reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. File_14 remains the controlling source for biological-fractal and Levitical birth-law vocabulary. The corrected File_61 controls the concise cumulative half-/full-clutch application; Final File_62 controls the detailed Joseph, Mosaic-phase, Joshua-`216`, and BJ comparative synthesis. No File_14 proof-bearing arithmetic, anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, Machine Guard, claim-status label, theological claim, or dependency boundary changed. Prior consecutive-birth and gestation-triad bounded updates remain retained; detailed change history is routed to Repository_Change_Archive; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_14 — Biological and Numerical Fractals
 
@@ -35,11 +36,20 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_15` | Controls the Generational Axiom and `40/70/100` measuring standards where those states are opened by dependency. `File_14` does not import the full File_15 argument unless a local section explicitly opens it. |
 | `File_16` | Controls the `1876 BC` Nexus, `586 BC` primary Fall of Jerusalem state, Danielic spans, Famine / Entry states, and Bullseye / convergence claim controls. |
 | `File_17` | Controls prophetic span-component anatomy, including `40`, `80`, `400`, `430`, `1260`, `1290`, `1656`, `1800`, `25/23`, `70/69`, and purification-extension terminology. |
+| `File_20` | Registers the Enochian 364-frame gestation member `273 = 3 × 91 = 39 × 7` (§8A.5) under its gestation-triad `270/273/280` display state; the `270 / 280` axiom pair here remains normative by the File_20 non-collision guard. |
+| `File_61` | Applies File_14's established purification and gestation vocabulary to the corrected cumulative root through the half-clutch male display `1526 → 1519 → 1486 BC = 7 + 33 = 40` and the full-clutch female display `1526 → 1512 → 1446 BC = 14 + 66 = 80`. File_61 controls the concise derived dates, `H7/T14` operators, and cumulative arithmetic. |
+| `File_62` | Controls the detailed half-clutch/full-clutch birth-law interface, including Joseph's inherited translations, Moses' phase-paired and Key-of-23 applications, Joshua's fixed-endpoint `230 → 216` contraction, Jubilees 3 explicit reception warrant, and the Sarah/Kohath–Amram `270` comparison. File_62 does not replace File_14's normative `270/280` gestation axiom or Leviticus 12 vocabulary. |
 | `File_51a` | Provides Rounded Scaffold precedent for state-register and File-map handling. |
 | `File_54` | Provides later-file style-control precedent for claim-status restraint, Mirror classification, theological-note preservation, and non-inflated comparative synthesis. |
 
 Dependency note:
 LXX chronology is materially active in this file. Henry B. Smith Jr.'s reconstruction of the LXX Genesis 5 and 11 chronology is therefore an important external source-reconstruction witness for the LXX layer. Smith is not the source of this file's harmonic interpretation, biological-fractal argument, Mirror logic, providential synthesis, or theological reading.
+
+File_69 Mosaic-center reciprocal note:
+Final File_69 now routes its Matthean slot–rail theorem through the controlled Mosaic center matrix: `1406 BC` historical Moses-death / Conquest, `1446 BC` primary Exodus, `1448 BC` strict `72`-carrier companion, and `1486 BC` Moses age `40`. The parent anchor and generational-unit hierarchies remain unchanged.
+
+Machine Guard [FILE_05 FILE_06 FILE_14 FILE_15 FILE_69 MOSAIC-CENTER ROUTING]:
+Final File_69 may register the center matrix `1406/1446/1448/1486 BC` and the paired slot–rail exchanges `110−70=40` and `110−72=38`. File_05 retains `1446 BC` as the primary Exodus anchor; File_06 retains `1406 BC` as the historical Moses-death / Conquest transition; File_14 retains `1486 BC` as Moses age `40` and the biological-fractal controls; File_15 retains the authorized `100/70/40` generational units. `1448 BC` remains a strict schematic companion center and does not replace any historical anchor.
 
 ## 0. File-function
 
@@ -70,6 +80,7 @@ The following states are active in `File_14`. They are simultaneous, non-competi
 | Priestly fractal state | `30 days = 30 years`; Year `32` | priestly month / priestly generation / Temple foundation | Preserved as scale-state; do not generalize without local operator. |
 | Creation 40 + 40 state | `4186 → 4146 BC`; `4146 → 4106 BC`; total `80` | Creation purification encoding | Preserve as Creation-side purification structure. |
 | Exodus 40 + 40 state | `1486 → 1446 BC`; `1446 → 1406 BC`; total `80` | Exodus / national birth encoding | Preserve as Exodus-side purification structure. |
+| File_61/File_62 birth-law interface dependency state | male `1526 → 1519 → 1486 = 7 + 33 = 40`; female `1526 → 1512 → 1446 = 14 + 66 = 80`; `2 × (7 + 33) = 14 + 66 = 80` | downstream half-clutch/full-clutch application | File_14 controls the birth-law and biological-fractal vocabulary. File_61 controls the corrected concise cumulative application; File_62 controls the detailed proof and BJ comparison. Derived dates are not File_14 anchors. |
 | Pauline reciprocal-dependence state | 1 Corinthians 11:8–12 | typological mirroring / reciprocal order | Classify as typological mirroring unless a formal Mirror protocol is opened. |
 | Incarnation male-purification state | `40` days | Christ / Luke 2 purification field | Controlled by `File_13`; do not expand into full Christological Matrix unless File_13 is opened. |
 | Variant-gap gestation state | `60 + 155 + 60 = 275`; diagonal `270` and `280`; average `275` | MT / SP / LXX variant-gap field | Preserve all values and diagonal measurements. |
@@ -383,6 +394,9 @@ Use measured expressions such as `supports`, `is consistent with`, `functions as
 Claim-status note:
 The factorization of `270` and `280` is an arithmetic fact. The biological labels are source-retained interpretation. The Isaac and John / Jesus applications remain dependency-aware comparisons unless their full local derivations are opened.
 
+Cross-file confirmation note (bounded addition):
+`File_20` §8A.5 registers `273 = 3 × 91 = 39 × 7` as the Enochian 364-frame member of a gestation-triad `270 / 273 / 280` display state (Isaac's conception-to-birth span on the 364-day calendar, Jubilees 16:12–13). Non-collision confirmed: the `270 / 280` axiom pair in this section remains normative; `273` is a calendar-frame member controlled by `File_20`, not a correction of this axiom. Registered in State_Vocabulary_Register v1.21 §D.20.
+
 ### 1.2 The count-to-chronology axiom
 
 The sealed-count logic identifies the `144000` of Revelation 7 with the `400` years of affliction through the 360-day year:
@@ -439,6 +453,12 @@ Active state: Exodus-side purification / national-birth structure.
 | `1486 → 1446 BC` | `40` years | male purification, `7 + 33` | Moses in Midian |
 | `1446 → 1406 BC` | `40` years | male pattern typologically mirrored | wilderness; Israel born |
 | Total | `80` years | female purification, `14 + 66` | nation birthed |
+
+Downstream cumulative / half-clutch pointer:
+Corrected Final `File_61` and Final `File_62` apply both Levitical forms to the cumulative Moses–Amram root. The half-clutch midpoint gives the male display `1526 → 1519 → 1486 BC = 7 + 33 = 40`; the full clutch gives the female display `1526 → 1512 → 1446 BC = 14 + 66 = 80`. Their regrouping is exact: `2 × (7 + 33) = 14 + 66 = 80`. `File_14` retains control of the biological and Levitical purification vocabulary. `File_61` controls the concise corrected cumulative dates and `H7/T14` operators; `File_62` controls the detailed Joseph, Mosaic-phase, Joshua-`216`, and comparative Jubilees argument. None of the derived `1519/1512 BC` labels is promoted to a File_14 anchor.
+
+Comparative reception note:
+Final `File_62`, under `File_20` / `File_53` BJ dependency controls, cites Jubilees 3 as explicit ancient reception of the male `7 + 33 = 40` and female `14 + 66 = 80` structures in the Adam–Eve chronology. This supplies hermeneutical precedent; it does not prove direct dependence or alter File_14's textual and arithmetic proof burden.
 
 ### 2.4 Pauline reciprocal-dependence chiasm
 
@@ -884,11 +904,16 @@ When processing `File_14`, preserve the following retrieval-safe controls:
 | `File_15`, Generational Axiom | Dependency for `40/70/100` generational standards where those states are opened. |
 | `File_16`, 1876 BC Nexus | `1876 BC`, `586 BC`, Danielic spans, and `586 BC + 1290` controls. `File_14` preserves the separate allowed `587 BC` Fall of Jerusalem / exact Triple-1656 terminus state locally. |
 | `File_17`, Prophetic Time Span Anatomy | `40`, `80`, `400`, `430`, `1260`, `1290`, `1656`, `1800`, `25/23`, `70/69`, precessional-day `72`, and purification-extension terminology. |
+| `File_61`, Jacob–Moses Cumulative–Regular Root System | Corrected downstream cumulative application of the male half-clutch `7 + 33 = 40` and female full-clutch `14 + 66 = 80`; File_61 controls the concise derived coordinates and `H7/T14` operators. |
+| `File_62`, Half-Clutch Birth-Law Interface | Detailed downstream proof of the half-/full-clutch birth-law interface, Joseph inheritance, Mosaic phase structure, Joshua `216`, and BJ explicit-hermeneutic comparison. File_14 remains controlling for birth-law and biological-fractal vocabulary. |
 | `File_51a` | State-register, File-map, and Rounded Scaffold precedent. |
 | `File_54` | Claim-status restraint, Mirror classification, and theological-note preservation. |
 
 Dependency note:
 `File_15` is now treated as a finalized dependency for generational-unit vocabulary. Its full generational-measure argument remains outside `File_14` unless a local section explicitly opens that proof burden.
+
+Dependency note [FILE_14 FILE_61 / FILE_62 BIRTH-LAW ROUTING]:
+The reciprocal pointer is bounded. File_14 defines the male/female purification and gestational vocabulary; corrected File_61 defines the concise cumulative `H7/T14` application; Final File_62 defines the detailed downstream synthesis. Do not import File_62's Joseph coordinates, proposed Moses/Aaron phase pairs, Joshua `216`, Noah lattice, or BJ reconstruction into File_14 as local anchors or local proof.
 
 ## Audit notes
 

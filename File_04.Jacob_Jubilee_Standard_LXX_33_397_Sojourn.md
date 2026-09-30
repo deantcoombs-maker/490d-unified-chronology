@@ -3,19 +3,20 @@ Title: Jacob as Jubilee Standard and the LXX 33 + 397 Sojourn Interpretation
 Entity: Jacob (Israel)
 Classification: Patriarch / The Jubilee Clock
 UUID: PATRIARCH_JACOB
-Status: Final; post-final pressure test complete; File_18 2nd Cainan variant-boundary and Pentateuchal Funnel structural-harmony clarifications applied; 1876 Cainan macro-vector cross-file update applied
+Status: Final; bounded September 13 2026 Terah-inclusive `−33` scope pointer applied; bounded September 13 Payne/Zondervan provenance clarification applied; post-final pressure test complete; File_18 2nd Cainan variant-boundary and Pentateuchal Funnel structural-harmony clarifications applied; 1876 Cainan macro-vector cross-file update applied; bounded File_62 male `7+33` / localized `−33` reciprocal pointer applied July 23 2026; bounded File_64 Jacob final-`70` / paired-`930` reciprocal pointer applied July 27 2026
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; detailed pressure-test record archived rather than repeated in the public file body.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Pressure-test status: Current; publication-clean verification complete; detailed pressure-test record archived rather than repeated in the public file body; focused reciprocal-routing verification complete July 27 2026 for the bounded File_64 pointer; no new full pressure test claimed for the File_62 or File_64 pointer-only updates.
+Reciprocal-routing verification status: Final File_62 pointer applied and bounded machine-diff checked July 23 2026; Final full post-final pressure-tested File_64 pointer applied and focused machine-diff, dependency, state-firewall, Machine-Guard, Markdown-structure, and publication-clean checks completed July 27 2026; no new full pressure test was performed for either pointer-only update.
+Register Agreement status: Checked against State_Vocabulary_Register v1.34 and Restart Capsule v11.33; bounded File_62 and File_64 dependency routing only. The July 27 expanded File_64 amendment states remain Final-local pending separate Register / Capsule routing. The File_64 pointer adds no File_64-derived coordinate to File_04's Primary-anchor inventory or biography tables and changes no pre-existing File_04 arithmetic, anchors, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 Primary domain: Regular; Comparative; Cumulative; Theological
 Traditions: MT; SP; LXX
 Canonical source: Markdown
 Primary anchors: 2006 BC; 1973 BC; 1929 BC; 1896 BC; 1909 BC; 1876 BC; 1843 BC; 1859 BC; 1826 BC; 1782 BC; 1749 BC; 1446 BC; 1406 BC; 1936/1933 BC
-Related files: `File_00`; `File_01`; `File_02`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a`; `File_54`; Restart Capsule v11.15
+Related files: `File_00`; `File_01`; `File_02`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a`; `File_54`; `File_61`; `File_62`; `File_64`; Restart Capsule v11.33; State Vocabulary Register v1.34
 Major operators: same-side BC span; `+215 Position`; MT Minimum `−215`; LXX `−33`; LXX `33 + 397`; `147 = 3 × 49`; `+60 Terah`; `2nd Cainan`; Cainan macro-vector B6 by `File_16` dependency; subordinate Ramesside path; `70 × 7`; `7³`; Aaron/Moses `L = 3.5`; EnvNorm `7`; EnvSpread `7.5`
-Major modal states: `+215 Position`; MT Minimum; LXX `−33`; LXX `33 + 397`; shared `1876 BC` year-label; subordinate Ramesside Exodus state; `+60 Terah`; dependency-controlled `2nd Cainan`; Cainan macro-vector B6 dependency state; File_18 2nd Cainan variant-boundary state by dependency; File_18 Pentateuchal Funnel state by dependency; Levi death-state pair; Aaron/Moses Nisan/Tishri birth-phase register
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; `File_00`; `File_01`; `File_02`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Major modal states: `+215 Position`; MT Minimum; LXX `−33`; LXX `33 + 397`; shared `1876 BC` year-label; subordinate Ramesside Exodus state; `+60 Terah`; dependency-controlled `2nd Cainan`; Cainan macro-vector B6 dependency state; File_18 2nd Cainan variant-boundary state by dependency; File_18 Pentateuchal Funnel state by dependency; Levi death-state pair; Aaron/Moses Nisan/Tishri birth-phase register; File_62 male `7+33` downstream hybrid state; File_64 Jacob final-`70` / paired-`930` downstream dependency state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.33; State Vocabulary Register v1.34; Project Procedures v3.5; `File_00`; `File_01`; `File_02`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a`; `File_54`; corrected Final `File_61`; Final `File_62`; Final full post-final pressure-tested `File_64`; prior finalized source; bounded File_64 reciprocal-routing audit July 27 2026; Repository_Change_Archive (non-controlling history)
+Current refresh note: Bounded File_62 / File_64 reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.33, State_Vocabulary_Register v1.34, and Project Procedures v3.5. File_64 uses File_04's standard `1929/1909/1859 BC` final-life rail and localized LXX `1896/1876/1826 BC` rail in its downstream Jacob final-`70`, triple-`430`, and paired-`930` synthesis. File_64 locally derives the intermediate `1922/1889 BC` marriage coordinates from Genesis 29's seven-year service; those dates remain File_64 comparison coordinates and are not inserted into File_04's Primary anchors or biography tables. The update changes no File_04 proof-bearing arithmetic, chronology row, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, claim-status label, theological claim, or dependency boundary. Detailed history remains in Repository_Change_Archive.
 
 # File_04 — Jacob as Jubilee Standard and the LXX 33 + 397 Sojourn Interpretation
 
@@ -43,7 +44,7 @@ The following states are active in `File_04`. They are simultaneous, non-competi
 | `+215 Position` | 2006 BC; 1876 BC; 1859 BC | Jacob birth, Entry, and death state | Primary Jacob row in this file. |
 | MT Minimum `−215` | 1791 BC; 1661 BC; 1644 BC | minimum Jacob biography comparison state | Preserved as comparison state; does not replace the `+215 Position`. |
 | LXX `−33` | 1973 BC; 1876 BC; 1843 BC; 1826 BC | LXX Sojourn-period variant | Shifts Jacob’s return from Haran to `1876 BC` and Entry to `1843 BC`. |
-| LXX `33 + 397` | 1876 BC; 1843 BC; 1446 BC | Canaan/Egypt Sojourn split | Parses the 430 years as `33` years in Canaan and `397` years in Egypt. |
+| LXX `33 + 397` | 1876 BC; 1843 BC; 1446 BC | Canaan/Egypt Sojourn split | Parses the 430 years as `33` years in Canaan and `397` years in Egypt; this interpretation has external scholarly precedent in J. Barton Payne (1975). |
 | Shared `1876 BC` year-label | 1876 BC | Super-Anchor convergence label | Multiple node-classes land on this label; do not collapse them. |
 | SP-215 / Sojourn-215 convergence field | 1876 BC | Abraham Call / Death of Terah state | Retained as a convergence witness distinct from Jacob’s Entry. |
 | `+60 Terah` | 1876 BC | Death of Terah / Call of Abraham state | Preserved as an independent convergence mechanism. |
@@ -54,6 +55,8 @@ The following states are active in `File_04`. They are simultaneous, non-competi
 | Jacob Jubilee standard | 147 | patriarchal lifespan / Jubilee measure | Core identity of the file. |
 | Levi death-state pair | 1782 BC; 1749 BC | Levi death under `+215` and LXX `−33` states | Locally derived from the Jacob–Levi arc `77 + 70 + 77 = 224`. |
 | Aaron/Moses birth-phase register | 1936/1933 BC; `L = 3.5`; EnvNorm `7`; EnvSpread `7.5` | cumulative Aaron/Moses branch and phase straddle | Preserves both the three-year Nisan/Nisan branch and the phase-resolved Tishri/Nisan `3.5` operator. |
+| File_62 male `7+33` downstream hybrid | `H → K = 7`; `K → V = 33`; `H → V = 40` | downstream half-clutch / regular / localized-LXX comparison | `File_04` controls the localized `−33` state only. Corrected `File_61` and Final `File_62` control the derived clutch coordinates and full arithmetic. |
+| File_64 Jacob final-`70` / paired-`930` downstream dependency | File_04-controlled endpoint rails `1929/1909/1859 BC` and `1896/1876/1826 BC`; File_64-local intermediate comparison labels `1922/1889 BC` | downstream Jacob–sanctuary / construction comparison | `File_04` controls the endpoint chronology and localized `−33`. Final `File_64` controls the intermediate marriage coordinates, triple-`430` lattice, paired `930` comparisons, and their theological interpretation. |
 | Calendar-state suffix field | no local `n` / `t` suffixes in main tables | Nisan/Tishri display-state discipline | Nisan remains the unsuffixed default unless a local section explicitly opens a Tishri state. Do not infer `.5` from an unsuffixed date. |
 
 ### 0.2 File map
@@ -63,8 +66,8 @@ The following states are active in `File_04`. They are simultaneous, non-competi
 | §0 | Defines file function, active states, enumeration scope, modal-state rules, Machine Guards, arithmetic controls, claim-status controls, and File map | file-level modal states; same-side BC span; argument-control register |
 | §1 | Records Jacob’s chronological matrix and verifies visible row spans | `+215 Position`; MT Minimum `−215`; LXX `−33`; shared `1876 BC` label |
 | §2 | Defines the LXX `33 + 397` interpretation and local convergence subset | LXX Exodus 12:40; `33 + 397`; `+60 Terah`; subordinate Ramesside path; `2nd Cainan` dependency |
-| §3 | Preserves and checks the Jacob logic engine with claim-status control | `147 = 3 × 49`; `−33`; Levi death-state pair; `70 × 7`; `7³`; Aaron/Moses `L = 3.5` |
-| §4 | Lists cross-file dependencies | `File_00`; `File_01`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a` |
+| §3 | Preserves and checks the Jacob logic engine with claim-status control; adds bounded downstream File_62 and File_64 routing notes | `147 = 3 × 49`; `−33`; Levi death-state pair; `70 × 7`; `7³`; Aaron/Moses `L = 3.5`; downstream `7+33` hybrid; Jacob final-`70` / paired-`930` dependency |
+| §4 | Lists cross-file dependencies | `File_00`; `File_01`; `File_03`; `File_16`; `File_17`; `File_18`; `File_51a`; `File_61`; `File_62`; `File_64` |
 | Revision and archive note | Records public-clean archive routing and preservation controls | publication cleanup |
 
 ### 0.3 Modal-state processing rules
@@ -81,6 +84,7 @@ The following states are active in `File_04`. They are simultaneous, non-competi
 10. EnvNorm `7` and EnvSpread `7.5` are not competing corrections. EnvNorm is the normalized week label. EnvSpread is the phase-spread envelope when the half-year state is active.
 11. No Mirror protocol is active in the main argument of `File_04`. Any Mirror validation of `−33`, Flood ±2, or global/local scope belongs to `File_16` or `File_00` unless explicitly imported later.
 12. All local BC spans are same-side BC spans unless a later section explicitly opens a cross-axis state.
+13. Final File_62 may use the localized `−33` state in a downstream hybrid `H → K → V = 7 + 33 = 40`; this does not create a new File_04 biography row, broaden the standard `−33` scope, or merge half-clutch, regular, and LXX coordinates into one manuscript chronology.
 
 ### 0.4 Machine Guards for `File_04`
 
@@ -94,11 +98,11 @@ The `+215 Position`, MT Minimum `−215`, and LXX `−33` rows are modal states.
 
 Machine Guard [JACOB LXX 33 + 397]:
 
-The LXX `33 + 397` reading is a family-unit Sojourn interpretation. It places Jacob’s return from Haran at `1876 BC` and Jacob’s Entry into Egypt at `1843 BC`. Do not collapse this with the MT `430`-Egypt state, where Jacob’s Entry itself is `1876 BC`.
+The LXX `33 + 397` reading is a family-unit Sojourn interpretation. It places Jacob’s return from Haran at `1876 BC` and Jacob’s Entry into Egypt at `1843 BC`. J. Barton Payne independently uses the same `33 + 397` logic and the same `1843 BC` descent date; do not present this division as original to the repository. Do not collapse this with the MT `430`-Egypt state, where Jacob’s Entry itself is `1876 BC`.
 
 Machine Guard [JACOB −33 SCOPE]:
 
-The `−33` value is textual and derives from the LXX Exodus 12:40 interpretation. The standard Abraham–Levi localization is methodological, not a logical constraint. Global `−33` remains exploratory and dependency-controlled; it is not tracked in the standard `File_04` tables.
+The `−33` value is textual and derives from the LXX Exodus 12:40 interpretation. The former Abraham–Levi-only scope is superseded: the operative bounded corridor now begins at Terah and continues through Abraham→Jacob/Levi. `File_04` retains only the Jacob-family subset in its displayed tables. Global Noah/Adam `−33` remains exploratory and dependency-controlled.
 
 Machine Guard [JACOB SOJOURN / EXODUS / −33 FIREWALL]:
 
@@ -131,6 +135,14 @@ Machine Guard [JACOB FILE_18 PENTATEUCHAL FUNNEL]:
 Machine Guard [JACOB RAMESSES NON-REPLACEMENT]:
 
 `1231 BC` is a subordinate Ramesside Exodus state. It is valid for the local convergence row `1231 + 430 + 215 = 1876`, but it must not replace the primary `1446 BC` Exodus anchor in the Jacob matrix or the LXX `33 + 397` calculation.
+
+Machine Guard [JACOB FILE_62 HYBRID NON-RETROJECTION]:
+
+Final `File_62` may combine corrected `File_61` half-clutch / full-clutch coordinates with `File_04`'s localized LXX `−33` endpoints in the downstream form `H → K = 7`, `K → V = 33`, `H → V = 40`. `File_04` supplies only the controlled `−33` state. The derived `H7/T14` coordinates, including `2073/2066/2033`, `1926/1919/1886`, and `1789/1782/1749 BC`, remain File_61/File_62 states and must not be inserted into File_04's standard biography tables, Primary anchors, Bullseye inventory, or one continuous manuscript chronology. File_04's local LXX Daniel lock `1896 → 1406 = 490` remains distinct from File_62's MT/Jacob extended-week carrier `1929 → 1439 = 490`.
+
+Machine Guard [JACOB FILE_64 DERIVED-MARRIAGE NON-RETROJECTION]:
+
+Final `File_64` may derive `1922 BC` and `1889 BC` as seven-year marriage-field comparisons between the File_04-controlled flight and return endpoints. Those labels, together with File_64's `999/992/979 BC` construction rail and paired `930` comparisons, remain File_64-local downstream states. Do not insert `1922/1889 BC` into File_04's Primary anchors or biography tables, and do not treat File_64's Jacob–Temple, Adamic, Danielic, royal, or sanctuary interpretation as a new local File_04 proof.
 
 ### 0.5 Arithmetic-control summary
 
@@ -335,7 +347,7 @@ The LXX phrase in Exodus 12:40 may be parsed as the sojourning of the children o
 
 | Segment | Duration | From | To | Arithmetic check | Claim-status |
 |---|---:|---:|---:|---|---|
-| Canaan, as “children of Israel” | 33 years | 1876 BC | 1843 BC | `1876 − 1843 = 33` | structural inference from LXX family-unit reading |
+| Canaan, as “children of Israel” | 33 years | 1876 BC | 1843 BC | `1876 − 1843 = 33` | structural inference from LXX family-unit reading; external scholarly precedent (Payne 1975) |
 | Egypt | 397 years | 1843 BC | 1446 BC | `1843 − 1446 = 397` | arithmetic fact under LXX reading |
 | Total | 430 years | 1876 BC | 1446 BC | `1876 − 1446 = 430` | textual datum plus arithmetic fact |
 
@@ -343,7 +355,13 @@ State note:
 The `1876 BC` start in this table is Jacob’s return from Haran under the LXX `−33` state. The `1843 BC` date is Jacob’s Entry into Egypt under the same state.
 
 Claim-status note:
-The LXX wording is the textual datum. The segmentation into `33 + 397` is a structural inference built from Jacob’s age data and the LXX family-unit reading. The arithmetic checks once that interpretation is active.
+The LXX wording is the textual datum. The segmentation into `33 + 397` is a structural inference built from Jacob’s age data and the LXX family-unit reading, but the interpretation itself is not original to this repository. The arithmetic checks once that interpretation is active.
+
+#### 2.1A External scholarly precedent
+
+J. Barton Payne, “Chronology of the Old Testament,” in *The Zondervan Pictorial Encyclopedia of the Bible*, Vol. 1, ed. Merrill C. Tenney (Grand Rapids: Zondervan, 1975), pp. 829–845, especially p. 832, independently uses the same logic. Payne states that under the LXX wording Jacob and his sons had been in Palestine for `33` years before removal to Egypt, leaving `397` years for the Egyptian sojourn and dating the descent to `1843 BC`. He also retains the MT descent at `1876 BC`.
+
+Therefore, neither the `33 + 397` division nor the `1843 BC` LXX descent is claimed here as the author's original discovery. The distinctive Unified Chronology proposal is the **bounded scope** of the localized `−33`: it is tracked upstream through Terah and downstream through Abraham→Jacob/Levi, while normal execution stops before Noah/Shem. `File_00` §3.7.1 carries the broader external-validation note.
 
 ### 2.2 The logic
 
@@ -385,7 +403,7 @@ This provides the fourth direct chronological fork in the broader `File_16` conv
 | 1 | MT | `1446 BC + 430` years in Egypt | `1876 − 1446 = 430` | `1876 BC`, Jacob’s Entry into Egypt | arithmetic fact; textual datum by MT Sojourn reading |
 | 2 | SP-215 | `1446 BC + 215 + 215` | `215 + 215 = 430`; `1446 + 430 = 1876` | `1876 BC`, Call of Abraham / Death of Terah | arithmetic fact; dependency-controlled convergence witness |
 | 3 | Ramesside | `1231 BC + 430 + 215` | `430 + 215 = 645`; `1231 + 645 = 1876` | `1876 BC`, Call of Abraham / Death of Terah | arithmetic fact inside subordinate state; dependency-controlled witness |
-| 4 | LXX `33 + 397` | `33` Canaan + `397` Egypt | `33 + 397 = 430`; `1876 − 1446 = 430` | `1876 BC`, Jacob’s return from Haran | structural inference from LXX reading; arithmetic fact |
+| 4 | LXX `33 + 397` | `33` Canaan + `397` Egypt | `33 + 397 = 430`; `1876 − 1446 = 430` | `1876 BC`, Jacob’s return from Haran | structural inference with external scholarly precedent (Payne 1975); arithmetic fact |
 | 5 | `+60 Terah` | Abraham’s birth at Terah’s 130th year, not his 70th | `205 − 75 = 130`; `130 − 70 = 60` | `1876 BC`, Death of Terah = Call of Abraham | textual harmonization; structural inference |
 | 6 | `2nd Cainan` | Dependency-controlled cumulative-to-regular gear; full mechanism in `File_16` | dependency-controlled | `1876 BC`, Death of Cainan | dependency-controlled |
 
@@ -438,12 +456,12 @@ The `+60 Terah` mechanism is not the LXX `−33` mechanism and is not the Sojour
 Active state:
 `−33` scope register.
 
-The standard repository tables localize `−33` to the Abraham–Levi / Sojourn-period field. This is a methodological default, not a logical impossibility.
+The standard repository scope is now the **bounded Terah-through-Levi corridor**. This supersedes the older Abraham–Levi-only shorthand. The textual `33` still comes from the LXX Exodus 12:40 “children of Israel” / Jacob-family-unit reading; extending the operator one generation upstream to Terah is an author-approved structural scope decision.
 
-The `−33` value derives from the LXX Exodus 12:40 interpretation and is most directly controlled by the “children of Israel” / Jacob-family-unit reading. Global `−33` remains an exploratory permutation, but it is not tracked in standard `File_04` tables.
+`File_04` does not add Terah rows to its Jacob tables. Its local arithmetic remains the Jacob-family subset (`1929/1909/1859 → 1896/1876/1826`, Entry `1876→1843`, Levi death `1782→1749`). The detailed Terah `2203→1998` and composite `2263→2058` states are controlled by `File_60`; `File_00` controls repository-wide scope.
 
 Claim-status note:
-The origin of the `−33` value is a textual datum under the LXX reading. The Abraham–Levi scope is a methodological convention. Global `−33` is an exploratory note and dependency-controlled by `File_00` and `File_16`.
+The `−33` value is textual under the LXX reading. The Terah extension is structural/methodological. Global Noah/Adam `−33` remains exploratory and dependency-controlled by `File_00` and `File_16`.
 
 Arithmetic note:
 No global `−33` arithmetic is executed in `File_04`. The local `−33` arithmetic is checked only in the Jacob matrix, the LXX `33 + 397` table, and the Levi death-state pair.
@@ -635,6 +653,35 @@ The Aaron/Moses death pair belongs to the wilderness close: Aaron dies in summer
 Claim-status note:
 The three-year branch and `L = 3.5` phase-state are simultaneous modal representations. The statement that this straddle echoes later prophetic half-week structures is a structural inference. The broader fractal scaling into SKL and precessional `.5` registers is dependency-controlled by later files, especially `File_17`, and is not made load-bearing in `File_04`.
 
+File_61 downstream cumulative-root pointer:
+Corrected Final `File_61` uses the regular Jacob–Levi and Aaron/Moses states controlled here as inputs to its cumulative-root synthesis. It controls the full clutch `T14(C)=C−14`, the exact midpoint rail `H7(C)=C−7`, the cumulative Jacob-to-Levi and Levi-to-Kohath rails, their translated landings on regular Isaac / Levi coordinates, and the inherited Joseph branches. These derived cumulative coordinates do not alter `File_04`'s regular, LXX, Levi-death, or Aaron/Moses controls.
+
+File_62 downstream `7+33` pointer:
+Final `File_62` combines the File_61 half-clutch / full-clutch relation with File_04's localized `−33` state in the generational form:
+
+```markdown
+H → K = 7
+K → V = 33
+H → V = 40
+```
+
+Its principal examples are `2073 → 2066 → 2033`, `1926 → 1919 → 1886`, and `1789 → 1782 → 1749 BC`. These are downstream hybrid comparisons. File_04 controls the `−33` operator and the regular / LXX endpoints; Files 61–62 control the derived clutch coordinates, node-class firewalls, and full interpretation. File_04's own `1896 → 1406 = 490` LXX Daniel lock remains unchanged and distinct from File_62's `1929 → 1439 = 490` MT/Jacob carrier.
+
+File_64 downstream Jacob final-`70` / paired-`930` pointer:
+Final full post-final pressure-tested `File_64` uses File_04's standard endpoint rail:
+
+```markdown
+1929 → 1909 → 1859 BC = 20 + 50 = 70
+```
+
+and localized LXX endpoint rail:
+
+```markdown
+1896 → 1876 → 1826 BC = 20 + 50 = 70.
+```
+
+File_64 then locally derives the intermediate marriage-field labels `1922 BC` and `1889 BC` from Genesis 29's seven-year service, producing the downstream `7 + 13 = 20` comparison rails `1929/1922/1909 BC` and `1896/1889/1876 BC`. It carries the localized final-`70` rail through its triple-`430` Jacob–sanctuary–restoration lattice and compares both Jacob rails with the File_08-controlled Temple / palace construction rails. File_04 supplies the endpoint chronology, the localized `−33`, and shared-`1876 BC` non-collapse rule. File_64 controls `1922/1889 BC`, the paired `930` comparisons, the Adam–Bethel and Jacob–Daniel interpretations, and all Kings / sanctuary coordinates. None of those downstream coordinates is promoted into File_04's Primary-anchor inventory or source biography rows.
+
 ## 4. Cross-reference index
 
 | File | Section / function | Relevance | Dependency status |
@@ -650,7 +697,10 @@ The three-year branch and `L = 3.5` phase-state are simultaneous modal represent
 | `File_17` | Precessional 430/432 and macro-scale `.5` register | Downstream implication of the Aaron/Moses phase straddle; not imported into `File_04` logic | future cross-file handling |
 | `File_18` | Patriarchal dates, Entry positions, Abraham / Terah four-position field, 2nd Cainan variant-boundary state, Pentateuchal Funnel state, and Cainan macro-vector table-source values | MT Minimum and Entry-position data; 2nd Cainan variant-boundary, Pentateuchal Funnel, and Cainan macro-vector source values | dependency reference |
 | `File_51a` | Rounded Scaffold and cumulative state controls | Cumulative Aaron/Moses branch and display-state discipline | comparison / display-state precedent |
-| Restart Capsule v11.15 | Operator `L`; EnvNorm / EnvSpread | `3` / `3.5` and `7` / `7.5` state control | governing operator register |
+| `File_61` | Corrected Jacob–Moses cumulative root; full `T14` and midpoint `H7` rails | Downstream synthesis of the Jacob–Levi `147`, Levi `137`, Aaron/Moses phase states, and inherited Joseph translations | downstream dependency; `File_04` proof body unchanged |
+| `File_62` | Half-clutch birth-law interface; male `7+33`; dual Jacob `490` comparison | Uses File_04's localized `−33` endpoints inside a downstream hybrid while preserving File_04's LXX Daniel lock as a distinct state | downstream dependency; no File_62 coordinate promoted locally |
+| `File_64` | Jacob final-`70`; triple-`430` lattice; paired Jacob–construction `930` rails | Uses File_04's standard and localized-LXX endpoint rails; locally derives `1922/1889 BC` and retains all Temple / palace and theological synthesis states | downstream dependency; no File_64-derived coordinate promoted locally |
+| Restart Capsule v11.30 | Operator `L`; EnvNorm / EnvSpread; File_61/File_62 routing | `3` / `3.5`, `7` / `7.5`, and current dependency-state control | governing operator register |
 
 Dependency note:
 The cross-reference index functions as dependency control. It does not import full proofs from other files into `File_04`.
@@ -666,4 +716,4 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No pre-existing arithmetic, Primary anchors, biography rows, node-classes, sign conventions, local operators, slash-pairs, ranges, envelopes, Mirror protocols, claim-status labels, theological claims, or dependency boundaries are changed. The bounded amendment adds one downstream dependency state and one non-retrojection Machine Guard for Final File_64.

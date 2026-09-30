@@ -4,20 +4,24 @@ Legacy source title: CALENDRICAL_PHYSICS.md
 Entity: TIME PHYSICS
 Classification: Advanced Mechanics / Solar-Lunar Synchronization
 UUID: SYS_PHYSICS
-Status: Final; post-final Solstice Mirror, Tishri Recess, Priestly 336-day Ledger, priestly source-control, and focused pressure-test patches applied; File_34 post-final citation-control update applied and focused pressure tested June 3 2026; File_56-routed bibliography-vector update applied (July 6 2026); 360-day intercalation cycle bounded update applied (July 6 2026)
-Pressure-test status: Current; publication-clean verification complete; prior focused patches retained; File_34 post-final citation-control update focused pressure tested June 3 2026. Focused checks complete for the bibliography-vector and intercalation-cycle bounded updates; §7A focused pressure test PASS July 6 2026 (15/15 with File_17 §13A), the §7A.4 exact-closure note added at test.
-Register Agreement status: Checked against State_Vocabulary_Register v1.19 and active companion controls; bounded File_56-routed bibliography-vector update and 360-day intercalation cycle addition (§7A) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Verification-complete bounded amendment working copy — September 6 2026; inherited Final source preserved; Sothic additions centrally registered at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29; new material not separately author-Finalized or full-file pressure tested.
+Inherited Final status: Final; post-final Solstice Mirror, Tishri Recess, Priestly 336-day Ledger, priestly source-control, and focused pressure-test patches applied; File_34 post-final citation-control update applied and focused pressure tested June 3 2026; File_56-routed bibliography-vector update applied (July 6 2026); 360-day intercalation cycle bounded update applied (July 6 2026); bounded File_61 / File_62 Mosaic-phase and dual-`490` reciprocal pointer applied July 23 2026; bounded Final File_68 reciprocal pointer applied August 13 2026; bounded Final File_69 reciprocal pointer applied August 17 2026.
+Amendment trust scope: New sections, state rows, and guards are amendment-local pending separate author Finalization; central registration is complete at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29. All inherited Finalization, pressure-test, and publication assertions below refer to the frozen pre-amendment source unless expressly dated September 6 2026. No new full-file pressure test or live deployment is claimed.
+Pressure-test status: Current; publication-clean verification complete; prior focused patches retained; File_34 post-final citation-control update focused pressure tested June 3 2026. Focused checks complete for the bibliography-vector and intercalation-cycle bounded updates; §7A focused pressure test PASS July 6 2026 (15/15 with File_17 §13A), the §7A.4 exact-closure note added at test; focused reciprocal-routing verification complete August 13 2026 for the bounded File_68 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded corrected-File_61 / Final-File_62 calendrical pointers applied and focused machine-diff checked July 23 2026; no new full pressure test was performed for this pointer-only update; bounded Final File_68 pointer applied and focused machine-diff, dependency, guard, and Markdown checks completed August 13 2026; no new full pressure test; bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test.
+Register Agreement status: Inherited File_12 controls remain as previously registered; the September 6 Sothic/365-day amendment adds three centrally registered guards and companion states at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29. No inherited arithmetic, Primary anchor, calendar definition, Mirror protocol, source datum, or prior proof spine changes.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed.
 Primary domain: Calendar; Prophetic; Comparative; Theological
 Traditions: biblical calendar; Enochian; New Testament / Christological
 Canonical source: Markdown
+September 7 2026 calibration clarification: Author-approved bounded addition at §5.1A keeps `S_K / 7.475` dominant and adds `S_E / 7.5` as a supportive file-local companion. A bounded follow-up designates the later Simon/FITS expression as the primary epoch comparison, retains Laskar/NASA as an older independent check, and adds the Enoch–Moses midpoint as providential / typological corroboration only. Exact-rational, epoch-computation, dependency, and diff checks complete. The inherited Final and September 6 amendment trust scopes are unchanged; no new full-file pressure test, central registration, or deployment is claimed.
 Primary anchors: Nisan / Spring = 06:00; Tebeth / Winter = 00:00; Christ's Birth; 0.5-unit offset; 7 / 7.5; rounded Null Zone display 6 BC to AD 6 as 10 under mod-5 / mod-10 chronology; precise cross-axis 6 BC to AD 6 = 11; File_00 related exact Null Zone 6 BC → AD 5 = 10; 6480 / 6450 / 30; legacy 299/300 source label; author-resolved 300/299 Enochian Key-of-23 ratio; 365.2422 true-solar reference; 365.24 display; 364; 91 days; Day 91; 6-month offset; 3.5 years; 336-day Priestly Ledger; 24 priestly courses; 168 + 168; four festival-week / epagomenal-week corollary; 360-day Prophetic Year; 1 Enoch 75:1–2 / source shorthand 75:2; 1 Enoch 82; Enoch 80; Matthew 24:22
-Related files: File_00; File_01; File_02; File_04; File_06; File_07; File_08; File_09; File_16; File_17; File_34; File_51a; File_54; Restart Capsule v11.18; 490d Repository Style Guide v2.5; Project Procedures v3.3; State Vocabulary Register v1.19
-Major operators: 24-hour year; Solar/Lunar Straddle; 0.5-unit day-start offset; 7 / 7.5 duality; 10x Null Zone; rounded mod-5 / mod-10 Null Zone display; precise civil cross-axis span; Dual-Precession Drive; 6480 versus 6450; 30-year difference; Enochian Gearbox; legacy 299/300 source label; author-resolved 300/299 Enochian Key-of-23 operator; 91-day seasonal leader; Nisan Rule; Tishri Recess dependency fork; 6-month phase offset; Aaron/Moses `L = 3.5`; 3.5-year half-week state; Priestly 336-day Ledger; `24 × 7 = 168`; `168 + 168 = 336`; `24 × 14 = 336`; `4 × 7 = 28`; `336 + 28 = 364`; Priestly-Enochian liturgical half-week projection; Solstice Mirror; File_09 phase-resolved Mirror coordinate-completion; Julian Jan-1 phase-coordinate proof; Mirror suffix inversion; paired-versus-single Mirror distinction; epagomenal exclusion; 360-day Prophetic Year; theological shortening; claim-status control; argument-control rule; `6 × 360 + 30 = 2190 = 6 × 365`; `4 × 360 + 30 = 1470 = 3 × 490`; `14610 = 40 × 365.25`; leap-month counted-or-not option
-Major modal states: Nisan default; Tishri dual-date state; Creation-side Nisan/Tishri suffix state by File_07; File_09 phase-resolved Mirror suffix-inversion dependency where Mirror coordinate-completion is opened; File_09 Julian Jan-1 phase-coordinate proof state; File_09 paired-versus-single Mirror distinction; Solar / Lunar Straddle; EnvNorm 7; EnvSpread 7.5; 0.5-unit phase state; Tishri/Nisan 6-month phase-offset state; Aaron/Moses terminal `L = 3.5` straddle state; Priestly 336-day Ledger state; Priestly half-year `168` state; Priestly two-week shift variant; epagomenal festival-week corollary state; Priestly-Enochian liturgical projection state; File_34-controlled `3 months and 3.5 days` dependency state; File_34 post-final citation-control state; Appendix B phase-chain dependency state; 10x scale-state; symbolic Null Zone state; rounded mod-5 / mod-10 Null Zone state; precise 11-year cross-axis state; File_00 exact 10-year dependency state; Enochian year; Solar year; Prophetic Year; precessional standard / alternate display state; legacy relation-label state; author-resolved Enochian Key-of-23 ratio state; arithmetic-control state; argument-control state; source-retained datum state; verified source-text anchor state; arithmetic-fact state; architectural-axiom state; corollary state; structural-inference state; dependency-controlled Solstice Mirror state; theological-note state; punitive Enochian shortening; gracious Christological shortening; 360-day intercalation cycle state; counted-or-not option principle; `1260 / 1290` same-half-week corollary state; year-scale instantiation display
+Related files: File_00; File_01; File_02; File_04; File_06; File_07; File_08; File_09; File_16; File_17; File_34; File_51a; File_54; File_61; File_62; Restart Capsule v11.30; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31; File_68; File_69
+Major operators: 24-hour year; Solar/Lunar Straddle; 0.5-unit day-start offset; 7 / 7.5 duality; 10x Null Zone; rounded mod-5 / mod-10 Null Zone display; precise civil cross-axis span; Dual-Precession Drive; 6480 versus 6450; 30-year difference; Enochian Gearbox; legacy 299/300 source label; author-resolved 300/299 Enochian Key-of-23 operator; 91-day seasonal leader; Nisan Rule; Tishri Recess dependency fork; 6-month phase offset; Aaron/Moses `L = 3.5`; 3.5-year half-week state; Priestly 336-day Ledger; `24 × 7 = 168`; `168 + 168 = 336`; `24 × 14 = 336`; `4 × 7 = 28`; `336 + 28 = 364`; Priestly-Enochian liturgical half-week projection; Solstice Mirror; File_09 phase-resolved Mirror coordinate-completion; Julian Jan-1 phase-coordinate proof; Mirror suffix inversion; paired-versus-single Mirror distinction; epagomenal exclusion; 360-day Prophetic Year; theological shortening; claim-status control; argument-control rule; `6 × 360 + 30 = 2190 = 6 × 365`; `4 × 360 + 30 = 1470 = 3 × 490`; `14610 = 40 × 365.25`; leap-month counted-or-not option; File_62 proposed Jacob/Aaron/Moses phase pairs, quarter- and half-scale `25/23` expansion, distinct dual-`490` routes, and `525 × 336 = 490 × 360 = 176400` day-volume closure by downstream dependency
+Major modal states: Nisan default; Tishri dual-date state; Creation-side Nisan/Tishri suffix state by File_07; File_09 phase-resolved Mirror suffix-inversion dependency where Mirror coordinate-completion is opened; File_09 Julian Jan-1 phase-coordinate proof state; File_09 paired-versus-single Mirror distinction; Solar / Lunar Straddle; EnvNorm 7; EnvSpread 7.5; 0.5-unit phase state; Tishri/Nisan 6-month phase-offset state; Aaron/Moses terminal `L = 3.5` straddle state; Priestly 336-day Ledger state; Priestly half-year `168` state; Priestly two-week shift variant; epagomenal festival-week corollary state; Priestly-Enochian liturgical projection state; File_34-controlled `3 months and 3.5 days` dependency state; File_34 post-final citation-control state; Appendix B phase-chain dependency state; 10x scale-state; symbolic Null Zone state; rounded mod-5 / mod-10 Null Zone state; precise 11-year cross-axis state; File_00 exact 10-year dependency state; Enochian year; Solar year; Prophetic Year; precessional standard / alternate display state; legacy relation-label state; author-resolved Enochian Key-of-23 ratio state; arithmetic-control state; argument-control state; source-retained datum state; verified source-text anchor state; arithmetic-fact state; architectural-axiom state; corollary state; structural-inference state; dependency-controlled Solstice Mirror state; theological-note state; punitive Enochian shortening; gracious Christological shortening; 360-day intercalation cycle state; counted-or-not option principle; `1260 / 1290` same-half-week corollary state; year-scale instantiation display; File_61 / File_62 half-clutch, proposed Mosaic phase-pair, quarter-/half-scale Key, dual-`490`, and Priestly/Prophetic day-equivalence downstream dependency state
 Major claim-status labels: source-retained calendrical datum; author-resolved source control; verified source-text anchor; arithmetic fact; dependency-controlled arithmetic fact; architectural axiom; corollary; structural inference; dependency-fork clarification; dependency-controlled Mirror coordinate-completion; local Mirror source-label; theological note; source-text anchor; audit note
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.18; State Vocabulary Register v1.19; Project Procedures v3.3; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.18, State_Vocabulary_Register v1.19, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; prior finalized source; corrected Final File_61; Final File_62 post-final pressure tested; bounded reciprocal-routing update of July 23 2026; Repository_Change_Archive (non-controlling history); Final File_68 after the August 13 2026 Finalization refresh; State Vocabulary Register v1.40; Restart Capsule v11.39; Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package.
+Current refresh note: Bounded corrected-File_61 / Final-File_62 reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. Register Agreement status is recorded in the header; the downstream Mosaic-phase and dual-`490` pointers change no File_12 arithmetic, anchors, source data, modal-state logic, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, pre-existing Machine Guards, claim-status labels, theological claims, or dependency boundaries. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_12 — Calendrical Physics
 
@@ -38,6 +42,10 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_34` | Final; post-final pressure-tested dependency-controlled source for the full SKL / Berossus month/day function where `3 months and 3.5 days` is opened beyond `File_02` whole-year local arithmetic. Also controls Appendix B phase-chain machinery, Pillar / AD target state, and SKL-to-Berossus corridor vocabulary if those states are explicitly opened. `File_12` does not locally import those later File_34 systems. |
 | `File_51a` | Rounded Scaffold precedent for mod-5 architecture, rounded block-display conventions, strict cross-axis operator preservation, exact Key-of-23 ratio handling, and the `1680 = 5 × 336` priestly service-cycle relation. |
 | `File_54` | Later-file claim-status restraint, Mirror role classification, and theological-note preservation. |
+| `File_61` | Corrected downstream cumulative–regular root system. It applies File_12's `3/3.5`, `7/7.5`, Tishri/Nisan, Priestly `336`, and Prophetic `360` controls to the `H7/T14` birth-law interface, Joseph's inherited translations, and Joshua's fixed-endpoint `230 → 216`. File_12 remains controlling for the calendrical vocabulary and non-collapse rules. |
+| `File_62` | Final; post-final pressure-tested detailed companion for the proposed `1930t/1929n`, `1530t/1529n`, and `1527t/1526n` phase pairs; `40.25 → 43.75` and `80.5 → 87.5`; distinct Priestly and Prophetic routes from `483` to `490`; and `525 × 336 = 490 × 360 = 176400`. These are downstream applications and do not become File_12 source anchors or local calendrical proofs. |
+| `File_68` | Downstream Final derivation of `70+110=180=360/2`, `72+110=182=364/2`, and fully stretched `1260/1274` weeks. File_12 retains control of the Prophetic `360`, Enochian `364`, rounded `365`, and calendar-state firewalls. |
+| File_22; File_70 Supplement A | Coordinated September 6 working additions: matched-Cainan/Pillar applications and SKL Sothic symmetry; centrally registered bounded amendment; no inherited definition replaced. |
 
 Dependency note:
 `File_07` is controlling for the Creation-side Tishri/Nisan dual date. Where `File_12` opens Creation-side Nisan/Tishri forms, it must preserve `n` and `t` as state labels, preserve Creation-week endpoint slash-pairs, and keep endpoint states distinct from Year-6 / Adam states.
@@ -56,6 +64,22 @@ The 336-day Priestly Ledger is a foundational architectural baseline, not a peri
 
 File_34 post-final citation-control note:
 `File_34 Final; post-final pressure tested` now controls the full SKL / Berossus month/day function. In `File_12`, this remains a dependency state for the SKL appended `3 months and 3.5 days` datum only. File_34 Appendix B phase-chain arithmetic, the `2370` corridor, the `30 + 20 + 30` restoration corridor, Pillar / AD target spans, and Sanctuary Fractal machinery are not locally opened unless a section explicitly names those states.
+
+File_61 / File_62 reciprocal-routing note:
+Corrected Final File_61 and Final File_62 apply this file's calendar controls to a downstream Mosaic phase and birth-law investigation. File_62 proposes Jacob `1930t/1929n BC`, Aaron `1530t/1529n BC`, and Moses `1527t/1526n BC` as phase-paired states; develops `40.25 × 25/23 = 43.75`, `80.5 × 25/23 = 87.5`, the distinct closures `402.5 + (80.5 × 25/23) = 490` and `483 × 70/69 = 490`, and the exact total-day identity `525 × 336 = 490 × 360 = 176400`. File_12 controls the Tishri/Nisan, `3/3.5`, `7/7.5`, `336/360`, and ratio-family firewalls; Files 61–62 control the proposed dates and chronological applications. No proposed phase coordinate is promoted into File_12's Primary anchors, and equality of total days does not identify the Priestly and Prophetic year states.
+
+### File_68 generation-resolved calendar-half reciprocal note
+
+Final `File_68` uses File_12's established Prophetic `360` and Enochian `364` calendar registers to interpret the exact downstream identities `70+110=180=360/2`, `72+110=182=364/2`, `7×180=1260`, and `7×182=1274`. File_68's generation-resolved accordion is an application of those calendar states, not a redefinition of them.
+
+Machine Guard [FILE_12 FILE_68 GENERATION-RESOLVED CALENDAR-HALF ROUTING]:
+Final File_68 may derive `180/182` generation-resolved cells and `1260/1274` fully stretched weeks from its fixed `70/72` carriers plus `+110`. File_12 remains controlling for Prophetic `360`, Enochian `364`, rounded `365`, true-solar `365.2422`, `3.5×360/364`, and their non-collapse. File_68's generated `8756/8854/8936/9036 BC` coordinates and `720/728/730` triptych do not become File_12 Primary anchors or new calendar-year definitions.
+
+File_69 calendar-resolution reciprocal note:
+Final File_69 applies the established Prophetic `360`, Enochian `364`, and Priestly `336` registers within declared genealogical resolutions. File_12 remains the calendar-definition controller.
+
+Machine Guard [FILE_12 FILE_17 FILE_69 CALENDAR-RESOLUTION ROUTING]:
+Final File_69 may apply `180/182`, `600/614`, `1260/1274`, and `13/13.5/14×360/364` inside its declared genealogical-resolution states. File_12 remains controlling for the Priestly `336`, Prophetic `360`, Enochian `364`, and calendar non-collapse; File_17 remains controlling for prophetic-span grammar and the `25/23` and `70/69` operators. File_69 creates no new calendar-year definition, prophetic component, or parent-file Primary anchor.
 
 ## 0. File-function
 
@@ -102,6 +126,7 @@ The following states are active in `File_12`. They are simultaneous, non-competi
 | Enochian Gearbox legacy label state | 299/300 | legacy source / inverse relation display | Retained as source-history where it appears. It is not the operative conversion ratio after author resolution. |
 | Enochian Key-of-23 operator state | 300/299; `300 × 364 ≈ 299 × 365.2422` | author-resolved Enochian Key-of-23 ratio | Active third allowable Key-of-23 ratio after `25/23` and `70/69`. No longer audit-controlled. |
 | Solar-year display state | 365.24 | approximate solar-year display | Preserved as approximate source display. Do not invoke Residue Protocol unless a later section explicitly opens it. |
+| Dominant calibration / supportive companion | `S_K=336023/920`; `S_E=218415/598`; `7.475/7.5` days | exact rational standards; model-dependent epoch comparison | §5.1A only: `S_K` remains dominant; `S_E` is supportive and does not replace `N/40`, conceptual-display controls, or existing calendar states. Simon/FITS is the primary epoch comparison; the Enoch–Moses midpoint is providential / typological corroboration only. |
 | Enochian-year state | 364 | Enochian calendar year | Preserved and kept distinct from the 360-day Prophetic Year. |
 | Enochian Leader Principle | 91-day season; Day 91; Angelic Prince | Enochian seasonal-governance state | Preserved as source claim. The 91-day seasonal-leader structure is source-supported through 1 Enoch 82; exact Angelic Prince wording remains non-load-bearing repository terminology. |
 | Nisan Rule | Regular / Cumulative dates default to Nisan / Spring | calendar default state | Preserved and structurally aligned with repository calendar-state discipline. |
@@ -119,6 +144,9 @@ The following states are active in `File_12`. They are simultaneous, non-competi
 | 360-day Prophetic Year state | Solar Year reckoned harmonically as 360-day Prophetic Year | prophetic-grid harmonization state | Preserved without erasing Solar or Enochian states. |
 | Enochian punitive shortening | Enoch 80; shortened years; altered cosmic / seasonal order | theological / Enochian interpretation | Source-control verified as Enochian punitive-shortening / cosmic-disorder motif. |
 | Christological gracious shortening | Matthew 24:22 shortened-days text | theological / New Testament interpretation | Source-control verified as New Testament gracious-shortening text. |
+| File_61 / File_62 Mosaic phase and dual-`490` dependency state | proposed `1930t/1929n`, `1530t/1529n`, `1527t/1526n`; `40.25/43.75`; `80.5/87.5`; `483/490/525`; `525 × 336 = 490 × 360 = 176400` | downstream calendrical application | File_12 supplies the calendar-state definitions and firewalls. Files 61–62 control the proposed coordinates and chronology. Preserve `25/23` versus `70/69`, `336` versus `360`, and exact-rational versus approximate physical-calendar claims. |
+| Sothic-adjacent companion, amendment-local | `H=2923/2921`; `1460.5→1461.5` | half-23 Sothic/Julian-adjacent comparison | New §5A only; not exact-K; centrally registered at State Vocabulary Register v1.52 §D.42. |
+| Exact-K 365-day extension, amendment-local | `G=1680/1679`; `365G=K` | schematic day-volume preservation | Distinct from H and default three-Key inventory; new §5A only. |
 
 ### 0.1a Node-class and display-state register
 
@@ -172,11 +200,13 @@ This register identifies values most likely to be misapplied by future retrieval
 | §3 | Preserves the 10-Year Null Zone | rounded mod-5 / mod-10 Null Zone display; precise 11-year cross-axis state; File_00 related 6 BC → AD 5 exact dependency; “Year Zero” symbolic language |
 | §4 | Preserves the Dual-Precession Drive | 6480 versus 6450; 30-year difference; standard / alternate precessional display states |
 | §5 | Records the Enochian Gearbox | legacy 299/300 source label; author-resolved 300/299 Enochian Key-of-23 ratio; 365.2422 true-solar reference; 365.24 display; 364; 91-day seasons; Day 91 leader |
+| §5.1A | Distinguishes dominant `S_K` and supportive `S_E`; rational remainders, quarter-month display, primary Simon/FITS epoch comparison, and bounded Enoch–Moses midpoint corollary | bounded local clarification; existing Residue Protocol unchanged |
 | §6 | Records the Seasonal Directive | Nisan Rule; Tishri Recess; 336-day Priestly Ledger; Priestly-Enochian half-week projection; File_07 Creation-side dual-date dependency; File_09 Solstice Mirror / phase-resolved Mirror coordinate-completion dependency where opened |
 | §7 | Records the Epagomenal Exclusion Principle | 1 Enoch 75:1–2 / source shorthand 75:2; Enochian reckoning state; 360-day Prophetic Year |
 | §8 | Records Enochian and Christological shortening | Enoch 80; Matthew 24:22; theological states |
 | §9 | Lists cross-reference index | dependency tracking |
 | Revision and archive note | Records public-clean archive routing and preservation controls | public-clean source |
+| §5A | 365-day completion grammar; Sothic H and exact-K G; calibration and scope guards | September 6 bounded comparison addition; not Final |
 
 ### 0.3 Terminology controls
 
@@ -268,6 +298,10 @@ Machine Guard [FILE_12 ARGUMENT BURDEN]:
 
 Arithmetic facts may support calendrical mechanics. Dependency-controlled arithmetic facts may support the local argument only inside their stated dependency. Structural inferences require explicit state, node-class, tradition, and operator control. Theological notes, verified source-text anchors, local Mirror source-labels, dependency-controlled Mirror coordinate-completion states, and audit notes remain preserved but do not carry the main argument.
 
+Machine Guard [FILE_12 FILE_62 PHASE / DUAL-490 DEPENDENCY]:
+
+Final File_62's proposed Jacob, Aaron, and Moses phase pairs; `40.25/80.5` quarter- and half-scale calculations; distinct Priestly `25/23` and Prophetic `70/69` routes to `490`; and `525 × 336 = 490 × 360 = 176400` day-volume closure are downstream dependency states. Do not promote the proposed phase labels into File_12's Primary anchors, do not exchange `25/23` with `70/69`, do not identify a `336`-day Priestly year with a `360`-day Prophetic year, and do not convert exact rational equalities into exact physical solar-calendar identities.
+
 Machine Guard [CANONICAL MARKDOWN / DERIVED AI FORMATS]:
 
 Markdown remains the canonical repository source. This file is not reshaped into JSON, JSONL, prompt/response format, dialogue format, or generic AI-summary format during ordinary revision.
@@ -298,7 +332,7 @@ This arithmetic-control layer records visible arithmetic statements and arithmet
 | Priestly festival-week corollary | `4 × 7 = 28`; `336 + 28 = 364` | Structurally admissible bridge from the 336-day Priestly Ledger to the 364-day Enochian Year. Historical execution remains source-control dependent. |
 | Priestly-Enochian liturgical projection | `3.5` days → `3.5` years by day-year projection; `3.5 × 360 = 1260`; `3.5 × 364 = 1274` | Structural theorem inside File_12. The mathematical projection is active; Qumran-adjacent and roster-execution details remain source-control / corollary material. |
 | File_34 month/day dependency | `3 months and 3.5 days` | `File_02` / `File_34` dependency state. It is related by shared vocabulary only and does not explain the File_12 Tishri Recess unless File_34 mechanics are opened. |
-| Residue Protocol | `365.24` source display | Residue Protocol is not active. The source decimal remains an approximate solar-year display, not an exact residual calculation. |
+| Residue Protocol | `365.24` source display; §5.1A exact reference comparison | The source decimal remains an approximate display, not an exact residual calculation. §5.1A explicitly opens the bounded `S_K` / `S_E` comparison without altering File_00 residue execution. |
 
 Arithmetic-control result:
 The visible arithmetic checks are stable. The Null Zone is resolved by separating rounded mod-5 / mod-10 display from precise 11-year cross-axis counting. The Enochian ratio direction is resolved: `300/299` is the active Enochian Key-of-23 operator. The Solstice Mirror role is dependency-classified under File_09 where exact Mirror coordinate work is opened. The compressed Tishri Recess expression is resolved as a non-equivalence / dependency-fork clarification: 6 months remains the Tishri/Nisan phase-offset state, while `3.5` years remains the half-week / priestly-straddle state. The 336-day Priestly Ledger is elevated as a foundational architectural baseline, and the Priestly-Enochian `3.5`-day phase-offset is now a structural theorem for the prophetic half-week; historical execution variants remain corollary / source-control material.
@@ -513,10 +547,77 @@ Applying the ratio to the Enochian year gives the near-solar display:
 $$364 \times \frac{300}{299} = 365.217391\ldots$$
 
 Display-state note:
-`365.2422` is the true-solar reference used in the author decision. `365.24` remains the shorter source display. Neither display activates the Residue Protocol in this file.
+`365.2422` is the true-solar reference used in the author decision. `365.24` remains the shorter source display. Neither display activates the Residue Protocol in this file. Exact calibrated references are separately declared in §5.1A.
 
 Claim-status note:
 The active `300/299` operator is author-resolved source control and exact-ratio arithmetic. The statement that the Enochian Gearbox converts Solar and Enochian registers is structural inference under the active operator. The legacy `299/300` label no longer remains an unresolved audit issue.
+
+### 5.1A Dominant solar calibration and supportive Enoch-epoch companion
+
+Active state:
+File_00 §3.24 calibrated solar year `S_K` remains dominant. The author-approved `S_E` is a supportive rational companion only; it does not replace the Residue Protocol or any ordinary Key-of-23 operator.
+
+**Exact rational remainders.** With the unchanged common schematic year `K=8400/23`, the two standards are:
+
+\[
+S_K=K+\frac1{40}=365+\frac{223}{920}
+=\frac{336023}{920}=365.242391304\ldots,
+\]
+
+\[
+S_E=\frac{300(364)+7.5}{299}=365+\frac{145}{598}
+=\frac{218415}{598}=365.242474916\ldots.
+\]
+
+Both therefore retain a rational remainder beyond 365 days. Their respective 299-year direct day-volume residues are exactly:
+
+\[
+299S_K-300(364)=7.475,\qquad
+299S_E-300(364)=7.5.
+\]
+
+The established conceptual residual-display already gives `7.475 × 300/299 = 7.5`. The supportive companion supplies that same number as a direct residue under a different reference year; these are related but non-identical operations:
+
+\[
+S_E-S_K=\frac1{11960},\qquad
+S_E-K=\frac{300}{299}(S_K-K).
+\]
+
+State-control note:
+`S_K (7.475) dominant; S_E (7.5) supportive.` Keep the File_00 physical-residue formula `R_K(N)=N/40` and the existing `0.575`, `1.725`, and `7.475` direct residues unchanged. Do not apply the conceptual-display expansion again to `S_E`'s direct `7.5`, or use `S_E` to recalculate existing residue applications silently. The approximate `365.2422` display in §5.1, the `294/293` side ratio, and the Sothic/Julian comparisons in §5A remain distinct.
+
+**Quarter-month interpretation.** The §2 evening/morning half-day straddle supplies the repository's `7/7.5` envelope distinction. The §7 Enochian reckoning supplies the ideal thirty-day-month body with four annual seasonal service days:
+
+\[
+364=12(30)+4=4(90+1),\qquad7.5=\frac{30}{4}.
+\]
+
+The four service days occur every 364-day year; they are not occasional leap days. For an integer block count `n`, the supportive identity is `299nS_E−300n(364)=7.5n` days. Under dominant `S_K`, the direct residue is `7.475n` days and its Enochian conceptual display is `7.5n` days. Thus `15/30/45` days fit the half-/whole-/one-and-a-half-month grid without conflating the two calibrations. File_22 §7.11's existing Watcher's Month remains a conceptual residual-display under the dominant protocol, not a silently revised physical-drift calculation.
+
+**Model-dependent epoch comparison.** Solving the cited mean-tropical-year polynomials for the exact fractions above gives the following approximate ancient epochs, rounded to decades rather than presented as precise event dates:
+
+| Reference standard | Direct residue over 299 years | Primary Simon/FITS expression [TY1] | Older Laskar/NASA check [TY2] |
+|---|---:|---:|---:|
+| Dominant `S_K` | `7.475` days | about `1460 BC` | about `1470 BC` |
+| Supportive `S_E` | `7.5` days | about `3290 BC` | about `3310 BC` |
+
+For repository comparison, the later Simon/FITS expression is primary; the Laskar/NASA expression is retained as an older independent check rather than a coequal calibration rule. The dominant standard consequently has a modeled locus near the repository's Mosaic/Exodus era, while the supportive quarter-month companion has a modeled locus near `3300 BC`. These are computed comparisons, not dates stated by the astronomical sources. The models use Julian centuries from J2000 and uniform 86400-second days; they do not directly count ancient Earth-rotation days. Their agreement is not a statistical confidence interval, and neither fixed rational standard replaces the epoch-varying astronomical year across Genesis. [TY1; TY2]
+
+Within the selected MT chronology, the standard Creation endpoint gives `4114−622=3492 BC`, followed by `3492−365=3127 BC`; the Enoch lifetime midpoint is `3309.5` on the same-side BC numerical scale. The equally weighted eight-state `60/130/215` variant spectrum spans `4304–3899 BC`, with `60+70+60+25+60+70+60=405`. Its mean is `4101.5`, or `4102t BC` under the declared Nisan endpoint convention, and:
+
+\[
+\frac{4304+3899}{2}-622-\frac{365}{2}=3297,
+\]
+
+giving the phase-resolved Enoch center `3297n BC`. These are derived comparison centers, not new Primary anchors; File_18 controls the chronological inputs. The retained structural convergence is Enoch's `365` years, the supportive rational year `S_E`, and an MT Enoch-centered epoch near `3300 BC`, while `S_K` remains dominant.
+
+**Enoch–Moses midpoint corollary.** By File_06 dependency, Moses' `120`-year life runs from approximately `1526 BC` to `1406 BC`, placing its midpoint at `1466 BC`. Under the primary Simon/FITS comparison, exact `S_K` is reached at approximately `1456 BC`, about `10` years from that Mosaic midpoint. The standard-MT Enoch midpoint `3309.5 BC` lies about `18` years from the corresponding `S_E` equality at approximately `3291.5 BC`; the full-variant center `3297n BC` lies about `5.5` years from it. Evaluated at the biblical midpoints themselves, the same Simon expression differs from `S_K` at Moses' midpoint by only about `0.045` second per year, from `S_E` at the standard Enoch midpoint by about `0.060` second per year, and from `S_E` at the variant-spectrum Enoch center by about `0.018` second per year. These subsecond figures describe polynomial comparison only and are not historical accuracy claims.
+
+Claim-status note: Enoch and Moses may be paired as revelatory / intercessory ascent figures—Enoch as taken by God and, in Enochic tradition, a heavenly revelator/intercessor; Moses as the Sinai revelator who ascends the mountain and intercedes for Israel. The near-coincidence of their lifespan centers with the supportive `S_E` and dominant `S_K` astronomical loci is therefore retained only as **providential / typological corroboration**. It does not carry arithmetic proof burden, establish ancient knowledge of the fractions, independently date either life, or determine an event's exact month and day.
+
+Source-control references:
+[TY1] FITS Standard 4.0, §9.3, mean-tropical-year expression: `https://fits.gsfc.nasa.gov/standard40/fits_standard40aa-le.pdf`. The Simon et al. (1994) attribution is given in Rots et al. (2015), *Representations of time coordinates in FITS*, §4.2, DOI `10.1051/0004-6361/201424653`.
+[TY2] L. E. Doggett, *Calendars*, §1.1, Laskar (1986)-based polynomial and uniform-day convention, reproduced by NASA: `https://eclipse.gsfc.nasa.gov/SEhelp/calendars.html`.
 
 ### 5.2 The Leader Principle
 
@@ -537,6 +638,137 @@ The 91-day seasonal structure is an arithmetic fact when tied to `4 × 91 = 364`
 
 Source-control note:
 This Enochian seasonal-leader claim is preserved. The 91-day seasonal dominion is source-controlled through 1 Enoch 82. Treat “Angelic Prince on Day 91” as repository compression rather than a direct quotation.
+
+## 5A. The 365-day civil-year and Sothic companions
+
+**Amendment state:** Bounded September 6 2026 working addition; arithmetic verified, centrally registered at State Vocabulary Register v1.52 §D.42; not separately author-Finalized. The original three Keys remain the default inventory. The two 365-day ratios below are locally opened comparison operators with different preserved quantities.
+
+### 5A.1 One-extra-year completion and the half-23 grammar
+
+For a shorter year `d`, a chosen longer reference year `Y`, and a reference-year count `q`, exact one-extra-year alignment has:
+
+\[
+qY=(q+1)d,\qquad q=\frac{d}{Y-d},\qquad R=\frac{q+1}{q}.
+\]
+
+The ideal mean-year Sothic relation is:
+
+\[
+1460\times365.25=1461\times365=533265\text{ days}.
+\]
+
+Censorinus, *De die natali* ch. 18, attests the Egyptian 365-day civil-year drift and canicular synchronism. This supplies a historical analogue for the calculation, not evidence that any repository anchor was an observed heliacal reset. Source: https://topostext.org/work/741 .
+
+With the half-23 unit `u=23/2=11.5`, a general completion form is:
+
+\[
+\boxed{R_m=\frac{mu+1}{mu}=\frac{23m+2}{23m}.}
+\]
+
+| Calendar/comparison | `m` | Raw count | Completed count | Ratio |
+|---|---:|---:|---:|---|
+| Priestly `336` | 1 | 11.5 | 12.5 | `25/23` |
+| Prophetic `360` | 6 | 69 | 70 | `70/69` |
+| Enochian Key `364` | 26 | 299 | 300 | `300/299` |
+| Sothic-adjacent `365` | 127 | 1460.5 | 1461.5 | `2923/2921` |
+| Exact common-`K` continuation at `365` | 146 | 1679 | 1680 | `1680/1679` |
+
+This is a common mathematical form, not proof of one historical source or a uniquely forced coefficient sequence. The first half-block gives `12.5×336=4200` days, compared with `11.5S_K=4200.2875` days under the File_00 calibrated reference.
+
+### 5A.2 Three reference standards and two different extensions
+
+The File_00 §3.24 definitions remain unchanged:
+
+\[
+K=\frac{8400}{23},\qquad S_K=K+\frac1{40}=\frac{336023}{920}.
+\]
+
+The original three Keys share `K` exactly:
+
+\[
+336\frac{25}{23}=360\frac{70}{69}=364\frac{300}{299}=K.
+\]
+
+The separate ideal Julian mean is `J=365.25`. Define the Sothic-adjacent companion:
+
+\[
+\boxed{H=\frac{1461.5}{1460.5}=\frac{2923}{2921},\qquad2921=23\times127.}
+\]
+
+Its calibration is:
+
+\[
+365H=365.25-\frac1{11684},
+\]
+
+\[
+1461.5\times365-1460.5J=-\frac18\text{ day},
+\]
+
+\[
+1461.5\times365-1460.5S_K=\frac{879}{80}=10.9875\text{ days}.
+\]
+
+`H` therefore shadows the ideal Sothic/Julian relation closely; it does not preserve `K`. It is a **Sothic-adjacent Key-of-23 companion**, not an automatic replacement for any original Key.
+
+The distinct exact common-`K` continuation to 365 days is forced by the preservation requirement:
+
+\[
+\boxed{G=\frac K{365}=\frac{1680}{1679},\qquad1679=23\times73,\qquad365G=K.}
+\]
+
+`H` and `G` must not be conflated simply because both concern 365 days and denominators divisible by 23. A chronological use must declare which property it preserves.
+
+### 5A.3 Enochian side ratio and calibration sensitivity
+
+The already admitted `294/293` Enochian comparison and the default `300/299` Key preserve complementary features:
+
+\[
+299=23\times13,\quad364=4\times13\times7,\quad294=6\times7^2.
+\]
+
+Against the unchanged `S_K`:
+
+\[
+293S_K-294\times364=\frac{19}{920}\text{ day},
+\]
+
+\[
+299S_K-300\times364=\frac{299}{40}=7.475\text{ days}.
+\]
+
+File_53 controls the existing Enochian application. A printed finite decimal is an approximation; exact equivalence uses `107016/293`, not equality to a truncated decimal.
+
+For 365 days against `S_K`, the exact one-extra-year count is `335800/223≈1505.83`, whose nearest half-23 member is `1506.5=131u`, not `1460.5=127u`. Its sensitivity ratio `3015/3013` gives a block discrepancy of `−13/80` day. This is an explicit negative control only, not an additional adopted chronological operator. The selection of `127` expresses Sothic/Julian adjacency, not optimum tropical-year alignment.
+
+File_00 retains the same `S_K` calibration. Section 5.1A now supplies the separately sourced, model-dependent epoch comparison and the supportive `S_E` companion; it does not substitute an era-dependent astronomical curve for the dominant Residue Protocol.
+
+### 5A.4 Chronological interfaces and scope
+
+The ordinary `1460→1461` comparison and the half-step `1460.5→1461.5` comparison may be applied to explicitly anchored schematic year-spans. A mean-year day-volume relation and a generated civil-coordinate span are distinct operations; the latter is not automatically a reconstruction of an ancient calendar epoch.
+
+The established Mosaic half-scale gives:
+
+\[
+1380=120u,\quad80.5=7u,\quad1380+80.5=127u=1460.5,
+\]
+
+\[
+80.5\frac{25}{23}=87.5.
+\]
+
+`80.5` requires the phase-resolved comparison; same-phase `1526n→1446n BC` remains 80 years. Different Keys are alternative declared operations, not gains to accumulate silently.
+
+File_22 §§5A and 9B in the coordinated working amendment carry the matched-Cainan Creation and Pillar applications. File_70 Supplement A §13 carries the SKL paired-Mirror and Mosaic–Joshua selection application. File_09 remains the phase-coordinate controller; File_51a remains the Rounded Scaffold controller. These routed applications do not change the original calendar definitions, raw source rows, or Primary anchors.
+
+Machine Guard [SOTHIC CALIBRATION NON-COLLAPSE]:
+Keep `K=8400/23`, `S_K=336023/920`, and the ideal Julian mean `365.25` distinct. `H=2923/2921` is a Sothic-adjacent comparison and satisfies `365H≠K`; `G=1680/1679` is the distinct exact common-`K` 365-day extension. Neither silently replaces the default `25/23`, `70/69`, or `300/299` operator.
+
+Machine Guard [SOTHIC DRIFT AND PROJECTION]:
+A physical mean-year day-volume comparison is not a civil-coordinate chronology. Declare the anchor, direction, node class, phase, and ratio before a Sothic year-span projection. The File_00 Residue Protocol `N/40` follows from the common `K` calibration and must not be generalized to `H`. No Egyptian heliacal-reset epoch is inferred from an arithmetic landing.
+
+Machine Guard [SOTHIC SENSITIVITY SCOPE]:
+The `3015/3013` comparison is a calibration sensitivity control only. It is not an active alternative introduced to improve a chronological fit. The `294/293` Enochian side ratio, Sothic `1461/1460`, companion `H`, and extension `G` remain separately named operations with separately declared calibration and scope.
 
 ## 6. The Seasonal Directive: the Nisan Rule
 
@@ -848,6 +1080,7 @@ The gracious shortening view is a theological note / source-text anchor. It rema
 | Source-control anchors | 1 Enoch 75:1–2 / source shorthand 75:2, 1 Enoch 82 leader / 91-day material, Enoch 80, and Matthew 24:22 are verified source-text anchors or source-supported source-control notes. The 24-course Priestly architecture is also source-controlled by 1 Chronicles 24 and related roster / weekly-rotation witnesses. These do not become independent arithmetic operators. |
 | Precessional standard / alternate display states | Cross-reference `File_17` for precessional-day display controls; arithmetic records `90 × 72 = 6480`, `90 × 215/3 = 6450`, and `6480 − 6450 = 30`. |
 | Mirror role and claim-status restraint | Cross-reference `File_54` for later-file classification style, while using `File_09` for the exact Solstice Mirror / phase-resolved Mirror mechanics when opened. |
+| File_61 / File_62 Mosaic phase and dual-`490` application | Cross-reference corrected Final `File_61` for the bounded root-system handoff and Final `File_62` for the proposed Jacob/Aaron/Moses phase pairs, `40.25/80.5` half-scale work, distinct Priestly and Prophetic `490` routes, and `525 × 336 = 490 × 360 = 176400`. File_12 remains controlling for calendar-state definitions and firewalls; the downstream phase labels are not File_12 Primary anchors. |
 | Argument-control style | Cross-reference `File_54` and Project Procedures for the rule that arithmetic facts carry the base argument while theological and symbolic material should be preserved as labeled notes. |
 
 Cross-reference addition (§7A): `File_53` §14A.2 (tropical calibration); `File_13` §7.4 (`AD 25n`); `File_16` (`1876 / 1846` heads); `File_17` §13A (day-scale instances); `File_22` §9A.5.
@@ -858,6 +1091,13 @@ This public-clean Markdown source removes only archival amendment history, pass 
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No arithmetic, anchors, source data, modal-state logic, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, pre-existing Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. The new File_62 guard is a bounded non-collapse control for the reciprocal-routing state.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+
+
+## September 6 2026 bounded Sothic amendment record
+
+Prepared under the author's explicit consolidation/update instruction and delegated implementation choice. Intake, additive structure/state preparation, arithmetic/argument review, and bounded verification were performed within the current response. The complete earlier Final parent is preserved, and all pre-existing proof equations, node classes, and guard bodies remain unchanged. The new additions are verification-complete bounded working text, centrally registered but not separately author-Finalized or full-file pressure tested. Active controls are Capsule v11.51 / Register v1.52 / Style Guide v2.5 / Procedures v3.5.
+
+Open scope and adoption: explicit Finalization; registration of the new local states/guards; remote SKL source-chain test; the absent fixed-field `4383`; the actual-Apparent-Adam `4.5` residual. Source/control review proposals and complete diffs are supplied in the consolidation package. No publication manifest, archive replacement, deployment, or external preservation capture is claimed.

@@ -4,21 +4,22 @@ Legacy source title: ENTITY_BOOK_OF_JUBILEES.md
 Entity: Book of Jubilees
 Classification: Comparative Witness / Holographic Lens
 UUID: WITNESS_JUBILEES
-Status: Final; post-final pressure tested; File_31 Passion-state clarification applied; SOR sub-variant protocol bounded update applied
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; post-final pressure test after source-control closure patch retained; focused check complete for the SOR sub-variant protocol bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded SOR sub-variant protocol addition (§7A; header registers; Recommended Cross-File Updates 13–18) only; the earlier informal −215-sub-variant framing is superseded by the author reclassification recorded in §7A.0; no other arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested; File_31 Passion-state clarification applied; SOR sub-variant protocol bounded update applied; Isaac conception / birth (§8A) and Key-of-23 bookend tiling (§7A.10) bounded updates applied; File_58 corpus-fulfillment pointer bounded update applied and focused pressure tested (July 12 2026); bounded Final File_69 reciprocal pointer applied August 17 2026.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed.
+Pressure-test status: Current; publication-clean verification complete; prior post-final and focused checks retained; focused pressure test complete July 12 2026 for the File_58 corpus-fulfillment pointer update; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test was performed for this pointer-only update.
+Register Agreement status: Checked against State_Vocabulary_Register v1.24 and active companion controls; File_58 corpus-fulfillment routing registered at §D.22; bounded SOR sub-variant protocol addition (§7A; header registers; Recommended Cross-File Updates 13–18) only; the earlier informal −215-sub-variant framing is superseded by the author reclassification recorded in §7A.0; no other arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed. Bounded §7A.10 / §8A additions (Key-of-23 bookend tiling; Isaac conception / birth festival-calendar, attested-date holographic, corruption-symmetry / Nexus-centering, and gestation-triad states) applied July 2026; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed by these additions; The §7A.10 / §8A states are registered in State_Vocabulary_Register v1.24 Part D §D.20; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed.
 Post-final patch status: §7B BJ / Jubilees 500-year endpoint clarification applied; Jubilees 6 source-control refinement and source-control closure applied; pressure tested
 Source-history status: Legacy Complete — Holographic lens revealing unified architecture
 Primary domain: Comparative; Calendar; Theological; Prophetic; Regular; Cumulative
 Traditions: BJ / Jubilees; MT; SP; LXX; SOR; Enochian; NT / Christological comparison
 Canonical source: Markdown
-Primary anchors: 3856 BC; 4200 BC; 4199 BC; 2893 BC; 2549 BC; 2548 BC; 3150 BC; 3149 BC ± 1; 3148 BC; 2543 BC; 1 BC; AD 30; AD 33; 1406 BC; 1399 BC; 1191 BC; 1231 BC; 3641 BC; 1981 BC; 1906 BC; 1866 BC; 1806 BC; 1876 AM; 1876 BC; 1951 BC; 1991 BC; 3901 BC; 3896 BC; 3894 BC; 3926 BC; 3931 BC; 3888 BC; 2238 BC; 1946 BC; 1936 BC; 1846 BC; 1871 BC; 1771 BC; 1656 BC; 2366 BC; 2331 BC; 4026 BC; 4031 BC; 4116 BC; 3956 BC; 458 BC; AD 25; AD 29; 3920
-Related files: File_00; File_01; File_02; File_03; File_04; File_05; File_06; File_07; File_08; File_09; File_10; File_11; File_12; File_13; File_14; File_15; File_16; File_17; File_18; File_51a; File_51c; File_53; File_54; File_55; Restart Capsule v11.17; 490d Repository Style Guide v2.5; Project Procedures v3.3
-Major operators: same-side BC subtraction; civil cross-axis span `BC + AD − 1`; inclusive reckoning; exclusive reckoning; Jubilee `49`; `7 × 49 = 343`; `344`; `364 × 7 = 2548`; `52 × 49 = 2548`; `2580 = 1290 + 1290 = 430 × 6`; `1260`; `1290`; `1335`; `2450 = 50 × 49`; `3640 = 10 × 364`; `100 + 60 + 130`; `400`; `405 = 400 + 5`; `390`; `430`; `460`; `115 + 60 + 115`; BJ Abraham call-to-Conquest `500 = 100 + 400`; Key of 23 `25/23`; AM / BC ordinal-cardinal conversion; `+30 Apparent Age`; `±2 Shem Anomaly`; `+60 Terah`; `+215 Sojourn`; `+130 2nd Cainan`; SOR shift `−220 = −(215 + 5)`; `430 = 30 + 400`; `2450 = 1960 + 490`; `1950 = 5 × 390`; `2520 = 7 × 360`; `2160 = 6 × 360`; `920 = 460 + 460`; `2625 = 1290 + 1335`; `2670 = 1335 + 1335`; `3430 = 7 × 7 × 70`; `3920 = 80 × 49 = 8 × 490`; `483 + 3½ + 3½ = 490`; MT-preserving Kainan graft
-Major modal states: BJ / Jubilees fourth-witness state; BJ non-canonical derivative witness state; BJ holographic-lens state; providential multi-tradition system state; SP-to-BJ exclusive offset state; SP inclusive-theological offset state; SP Creation dual-anchor state; SP / BJ Creation-to-Flood constant; BJ Fall-Flood harmonic state; BJ Noah Ideal / Actual dual-track state; Shem Anomaly relocation state; SP Noah death / 1656 mirror state; BJ Flood-date cluster state; Flood-to-Christ 364 / 49 state; Iyar 27 Ascension parallel state; Danielic BJ Creation-to-Christ state; late Conquest / 364 signature state; BJ post-Flood MT-mainframe state; BJ textual-integrity / corruption state; SOR / BJ side-road state; BJ Abraham call-to-Conquest 500-year display state; AM / BC ordinal-cardinal inversion state; 3856 BC conversion-key state; Watcher binding comparison state; unified-projection hypothesis state; source-labeled Mirror / holographic correspondence state; SOR MT-sub-variant state; SOR landing-lattice state; Covenant–Nexus shared-label state; SOR variant-lattice / Danielic-completion state; Flood / Cainan cascade state; minimal-Kainan invariance state; Abram / Sarah 500/490 state; 80-jubilee triple-rod state; Danielic eight-cycle state; twin-2450 pairing state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; `File_00`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded SOR sub-variant protocol (§7A) registered from the Regular-page publication discussion record.
+Primary anchors: 3856 BC; 4200 BC; 4199 BC; 2893 BC; 2549 BC; 2548 BC; 3150 BC; 3149 BC ± 1; 3148 BC; 2543 BC; 1 BC; AD 30; AD 33; 1406 BC; 1399 BC; 1191 BC; 1231 BC; 3641 BC; 1981 BC; 1906 BC; 1866 BC; 1806 BC; 1876 AM; 1876 BC; 1951 BC; 1991 BC; 3901 BC; 3896 BC; 3894 BC; 3926 BC; 3931 BC; 3888 BC; 2238 BC; 1946 BC; 1936 BC; 1846 BC; 1871 BC; 1771 BC; 1656 BC; 2366 BC; 2331 BC; 4026 BC; 4031 BC; 4116 BC; 3956 BC; 458 BC; AD 25; AD 29; 3920; 1882/1881 BC; 1871/1870 BC; 3396 BC; 1526 BC; AM 461; AM 1975/1976; AM 1981; AM 1986/1987
+Related files: File_00; File_01; File_02; File_03; File_04; File_05; File_06; File_07; File_08; File_09; File_10; File_11; File_12; File_13; File_14; File_15; File_16; File_17; File_18; File_44; File_51a; File_51b; File_51c; File_53; File_54; File_55; File_58; Restart Capsule v11.23; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.24; File_69
+Major operators: same-side BC subtraction; civil cross-axis span `BC + AD − 1`; inclusive reckoning; exclusive reckoning; Jubilee `49`; `7 × 49 = 343`; `344`; `364 × 7 = 2548`; `52 × 49 = 2548`; `2580 = 1290 + 1290 = 430 × 6`; `1260`; `1290`; `1335`; `2450 = 50 × 49`; `3640 = 10 × 364`; `100 + 60 + 130`; `400`; `405 = 400 + 5`; `390`; `430`; `460`; `115 + 60 + 115`; BJ Abraham call-to-Conquest `500 = 100 + 400`; Key of 23 `25/23`; AM / BC ordinal-cardinal conversion; `+30 Apparent Age`; `±2 Shem Anomaly`; `+60 Terah`; `+215 Sojourn`; `+130 2nd Cainan`; SOR shift `−220 = −(215 + 5)`; `430 = 30 + 400`; `2450 = 1960 + 490`; `1950 = 5 × 390`; `2520 = 7 × 360`; `2160 = 6 × 360`; `920 = 460 + 460`; `2625 = 1290 + 1335`; `2670 = 1335 + 1335`; `3430 = 7 × 7 × 70`; `3920 = 80 × 49 = 8 × 490`; `483 + 3½ + 3½ = 490`; MT-preserving Kainan graft; `460 = 23 × 20 = 130 + 330`; `460 × 25/23 = 500`; `1950 = 15 × 130`; `2450 = 460 + 1950 + 40`; `345 = 23 × 15`; `345 × 70/69 = 350`; `575 = 23 × 25 = 110 + 345 + 120`; `575 × 25/23 = 625 = 25 × 25`; `273 = 3 × 91 = 39 × 7`; `280 = 273 + 7`; gestation triad `270 / 273 / 280` by File_14 dependency; nested-envelope centering `1882/1870 → 1876 BC` and `1881/1871 → 1876 BC`
+Major modal states: BJ / Jubilees fourth-witness state; File_58 Tabernacles-ledger corpus-fulfillment state; BJ non-canonical derivative witness state; BJ holographic-lens state; providential multi-tradition system state; SP-to-BJ exclusive offset state; SP inclusive-theological offset state; SP Creation dual-anchor state; SP / BJ Creation-to-Flood constant; BJ Fall-Flood harmonic state; BJ Noah Ideal / Actual dual-track state; Shem Anomaly relocation state; SP Noah death / 1656 mirror state; BJ Flood-date cluster state; Flood-to-Christ 364 / 49 state; Iyar 27 Ascension parallel state; Danielic BJ Creation-to-Christ state; late Conquest / 364 signature state; BJ post-Flood MT-mainframe state; BJ textual-integrity / corruption state; SOR / BJ side-road state; BJ Abraham call-to-Conquest 500-year display state; AM / BC ordinal-cardinal inversion state; 3856 BC conversion-key state; Watcher binding comparison state; unified-projection hypothesis state; source-labeled Mirror / holographic correspondence state; SOR MT-sub-variant state; SOR landing-lattice state; Covenant–Nexus shared-label state; SOR variant-lattice / Danielic-completion state; Flood / Cainan cascade state; minimal-Kainan invariance state; Abram / Sarah 500/490 state; 80-jubilee triple-rod state; Danielic eight-cycle state; twin-2450 pairing state; BJ Isaac conception / birth festival-calendar state; BJ attested-date holographic state; BJ corruption-symmetry / Nexus-centering state; BJ Key-of-23 bookend tiling state; gestation-triad `270/273/280` display state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.23; State Vocabulary Register v1.24; Project Procedures v3.5; File_58 Final post-final pressure tested; `File_00`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history); Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package.
+Current refresh note: Public-clean trust-status equalization and the bounded File_58 fulfillment pointer align active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.23, State_Vocabulary_Register v1.24, and Project Procedures v3.5. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded SOR sub-variant protocol (§7A) registered from the Regular-page publication discussion record. Bounded §7A.10 Key-of-23 bookend tiling and §8A Isaac conception / birth updates registered from the July 2026 `1876 BC` Nexus discussion record; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_20 — The Book of Jubilees as Fourth Chronological Witness
 
@@ -37,16 +38,25 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_12` | Calendrical physics, Enochian `364`, Priestly / Enochian distinction, and calendar-state controls. |
 | `File_13` | Christological Matrix, AD 33n preferred / AD 30n possible Passion-date field, AD 33t / AD 34 non-Passion display firewall, and Christological target vocabulary. |
 | `File_14` | Biological-fractal and purification controls where Leviticus 12, gestation, or typological birth material is opened. |
+| `File_58` | Final controlling corpus file for the Numbers 28–29 Tishri ledger, `182/189/280`, shemitah-scale constants, Esau `490/60`, Joseph `7 + 7`, and the full routing formerly deferred as Recommended Cross-File Update 22. |
 | `File_16` | `1876 BC` Nexus, Danielic spans, `1260` / `1290`, Cainan macro-vector, Famine window, and Bullseye / convergence claim controls. |
 | `File_17` | Prophetic span-component anatomy for `1260`, `1290`, `1335`, `390`, `430`, `490`, and Key-of-23 exact-rational operators. |
 | `File_18` | Chronological Data Tables, SP baseline / BJ comparison values, SP Normal / Toggle ON, SP Ideal / Exclusive, LXX source-control, and raw lookup data. |
+| `File_44` | Chronological scaling laws and the exact-ratio increment corollary `23n → +2n` under `25/23`, applied here to `460 → 500` and `575 → 625`. |
 | `File_51a` | Procedural model for state registers, File maps, Machine Guards, Rounded Scaffold, and pass discipline. |
+| `File_51b` | Cross-Polarity Mirror engines; famine-wedge `1876/1871 BC` ↔ rounded Aaron / Moses `1531/1526 BC` `345 = 23 × 15` relation and `70/69` regularization to `350`; `1526 BC` rounded-pair member control by dependency. |
 | `File_51c` | BJ as macro-rounded witness and 49 / 50 dual-register by dependency. |
 | `File_53` | BJ 22-fold witness, Cainan retained / expunged controls, and BJ claim-status restraint by dependency. |
 | `File_54` | Luke / Rounded / BJ comparative style exemplar, 49 / 50 register controls, Mirror classification, and non-inflated comparative synthesis. |
-| Restart Capsule v11.15 | Repository-wide anchor, operator, modal-state, BJ, Flood, Cainan, Christological, and calendar-state vocabulary. |
+| Restart Capsule v11.23 | Repository-wide anchor, operator, modal-state, BJ, Flood, Cainan, Christological, and calendar-state vocabulary. |
 | 490d Repository Style Guide v2.5 | Canonical Markdown, heading hierarchy, number formatting, claim-status control, file header, File map, and state-safe retrieval requirements. |
-| Project Procedures v3.2 | Required pass sequence, authorial-direction protocol, audit-note discipline, and prohibition on pressure testing unless requested. |
+| Project Procedures v3.5 | Required pass sequence, authorial-direction protocol, audit-note discipline, and prohibition on pressure testing unless requested. |
+
+File_69 BJ/Enoch-head reciprocal note:
+Final File_69 identifies `3856 BC` as Matthew's no-rail Enoch head while File_20 retains the same label as BJ Creation. This is a state-controlled cross-tradition overlap, not one event.
+
+Machine Guard [FILE_20 FILE_53 FILE_69 BJ-ENOCH-HEAD ROUTING]:
+Final File_69 may identify `3856 BC` as Matthew's ordinary no-rail Enoch head while Files 20 and 53 retain `3856 BC` as BJ Creation. The shared label is a cross-tradition overlap, not one event or proof that Matthew or Luke copied Jubilees. Files 20 and 53 retain BJ chronology, Cainan-expunction, `7/13`, and claim-status controls; no File_69 generated coordinate becomes a BJ Primary anchor.
 
 ## 0. File-function
 
@@ -108,6 +118,11 @@ The following states are active in `File_20`. They are simultaneous, non-competi
 | Watcher binding comparison state | `10000`; Enoch; LXX / SP swap; Key of 23 `25/23` | Enochic / non-canonical comparison | Preserve as external tradition / theological comparison. It does not become a canonical datum by use in this file. |
 | Source-labeled Mirror / holographic correspondence state | “Mirror”; “Messianic Mirror”; “holographic” | local source vocabulary / providential synchronization | Treat as source-labeled Mirror or holographic correspondence unless the local section explicitly opens formal Mirror coordinate-completion. |
 | Unified-projection hypothesis state | intuition strong; evidence partial; formal proof not achieved | hypothesis-status control | Preserve the working hypothesis without promoting it to final proof. |
+| BJ Isaac conception / birth festival-calendar state | Jubilees 15:1; 16:1; 16:12–13; firstfruits → firstfruits; mid month 6 conception; mid month 3 birth | BJ festival micro-calendar state | The festival micro-structure (promise on firstfruits; birth on firstfruits one festival year later) is internally exact and is preserved separately from the corrupted jubilee macro-count. |
+| BJ attested-date holographic state | AM 1986/1987; converted `1871/1870 BC` | rejected-timestamp architectural-data state | The §7A2.7 ruling stands: attested post-Abraham jubilee timestamps remain rejected as chronology. They are used in §8A only as holographic / architectural data under the §7A2.6 principle. Firewalled from the accepted blueprint pair AM 1975/1976 = `1882/1881 BC`. |
+| BJ corruption-symmetry / Nexus-centering state | envelopes `1882/1870` (12) and `1881/1871` (10); center `1876 BC` = AM 1981; age center `105` | corruption-displacement symmetry state | Both nested envelopes center exactly on the `1876 BC` label / AM 1981. Holographic corroboration of the File_16 Nexus; not a fifth Category A road; the File_16 Bullseye inventory is unchanged. |
+| BJ Key-of-23 bookend tiling state | `3856 → 3396 = 460`; `1906 → 1446 = 460`; translations `1950`; `2450 = 460 + 1950 + 40` | whole-arc rod-tiling state | The registered twin-2450 BJ member (§7A.8) tiles exactly in Key-of-23 / 130-family grammar. Authorial intent undetermined; providential synchronization is the standing alternative. |
+| Gestation-triad `270/273/280` display state | `270 = 9 × 30`; `273 = 3 × 91`; `280 = 7 × 40` | calendar-frame gestation register | `270/280` remain the normative File_14 gestation axiom pair. `273` enters as the Enochian 364-frame member, not a correction. |
 
 ### 0.2 Node-class and display-state register
 
@@ -142,6 +157,11 @@ The following states are active in `File_20`. They are simultaneous, non-competi
 | `1806 BC` | BJ Abraham death; `400`-to-Conquest anchor in §7B | BJ Abraham register; BJ `500 = 100 + 400` display state | Rounded Scaffold Joseph death `1806 BC` by File_03 / File_51a dependency; BJ Abraham call `1906 BC`. |
 | `1951 BC` | MT adjusted / SP Abraham birth by dependency | AM / BC inversion comparison | BJ Abraham birth `1981 BC`; MT regular Abraham birth `2166 BC`. |
 | `1991 BC` | MT regular Abraham death by dependency | AM / BC inversion comparison | BJ Abraham death `1806 BC`; adjusted Abraham death `1776 BC`. |
+| `1882/1881 BC` | blueprint Isaac conception / birth pair (AM 1975/1976; Abraham `99/100`) | BJ Isaac conception / birth festival-calendar state; accepted-frame member | attested converted pair `1871/1870 BC`; MT regular Isaac birth `2066 BC` by dependency. |
+| `1871/1870 BC` | attested Isaac conception / birth converted pair (AM 1986/1987; derived Abraham `110/111`) | BJ attested-date holographic state | `1871 BC` MT-frame famine end and File_51b rounded-nexus member — shared label, distinct states; blueprint pair `1882/1881 BC`. |
+| `3396 BC` | BJ Jared birth (AM 461, Jubilees 4:15); Watcher-descent era head | BJ Key-of-23 bookend tiling state | SP / MT / LXX Jared states by dependency; ordinary Creation-side labels. |
+| `1526 BC` | Moses' birth, regular chronology (`1446 + 80`, Exodus 7:7) | §8A.4 rod endpoint by File_51b dependency | rounded Aaron / Moses pair member `1531/1526 BC` (File_51b) — shared label, distinct states. |
+| AM 1981 | envelope-center ordinal label; axis-swap of the Abraham coordinate (AM 1876 = `1981 BC` ↔ AM 1981 = `1876 BC`) | BJ corruption-symmetry / Nexus-centering state | `1981 BC` BJ Abraham birth — same numeral, different label system. |
 | `343` | inclusive theological interval | SP inclusive-theological offset state | exclusive offset `344`. |
 | `344` | exclusive mathematical offset | SP-to-BJ exclusive offset state | inclusive offset `343 = 7 × 49`. |
 
@@ -214,6 +234,9 @@ Source-labeled Mirror language, holographic correspondence, civil cross-axis ari
 
 Machine Guard [BJ 500-YEAR DISPLAY]:
 The BJ / Jubilees `500`-year display in §7B is not unresolved. It uses same-side BC subtraction from Abraham's call at `1906 BC` to the primary Conquest at `1406 BC`. The decomposition is `1906 BC → 1806 BC = 100` and `1806 BC → 1406 BC = 400`, yielding `500 = 100 + 400`. Do not treat the BJ side as proof-bearing without the `1906 BC` call endpoint.
+
+Machine Guard [ATTESTED-DATE NON-REHABILITATION]:
+The §7A2.7 methodological ruling stands. Derived jubilee / week timestamps after Abraham remain rejected as chronology. §8A uses the attested AM 1986 / AM 1987 Isaac timestamps only as holographic / architectural data under the BJ attested-date holographic state, per the §7A2.6 principle that the source-identified errors reveal the underlying architecture. No §8A display re-admits the attested timestamps into the accepted patriarchal framework; the blueprint pair AM 1975 / AM 1976 remains the accepted-frame member.
 
 Machine Guard [LXX SOURCE-RECONSTRUCTION WITNESS]:
 Where LXX chronology becomes materially active, Smith may be cited as an external LXX reconstruction witness by project instruction. Smith does not become the source of the repository's harmonic interpretation, BJ / Jubilees argument, or providential synthesis.
@@ -288,7 +311,9 @@ Arithmetic check ledger:
 | §5 | Records Flood-to-Christ `364 × 7` / `52 × 49` span and Leviticus 12 typology | BJ Flood-date cluster; Enochian `364`; Jubilee `49`; Iyar 27 / AD 33 state |
 | §6 | Records Danielic-apocalyptic spans from BJ Creation to Christ and late Conquest `364` signature | `1260`; `1290`; `1335`; AD 30 state; subordinate Ramesside comparison |
 | §7 | Records BJ post-Flood MT mainframe, textual-integrity analysis, SOR comparison, and highway / side-road hierarchy | `100 + 60 + 130`; `400`; `405`; SOR / BJ side-road states |
+| §7A.10 | Records the Key-of-23 bookend tiling of the BJ 2450 | `460 = 23 × 20`; `1950`; `2450 = 460 + 1950 + 40`; `460 × 25/23 = 500`; typological reading |
 | §8 | Records sacrifice of Isaac and MT transfer | `460`; `390`; `430`; `115 + 60 + 115`; typological reading |
+| §8A | Records Isaac conception / birth festival calendar, the corruption symmetry centered on `1876 BC`, the `345/350/575` Moses-rod landings, and the `270/273/280` gestation triad | BJ attested-date holographic state; nested-envelope centering; `273 = 3 × 91`; File_14 and File_51b dependencies |
 | §9 | Records AM / BC holographic inversion from BJ Creation | AM ordinal conversion from `3856 BC`; `1876 AM` / `1876 BC` firewall |
 | §10 | Records `3856 BC` conversion-key matrix and cross-tradition holographic swaps | ordinal-cardinal conversion; inter-tradition gaps; source-labeled holographic correspondence |
 | §11 | Records Enochic Watcher binding comparison | `10000`; Key of 23 `25/23`; SP / LXX swap; external tradition comparison |
@@ -1101,6 +1126,50 @@ BJ and SOR are parallel side-roads twice over: each accounts for Abraham's `400`
 
 `1936 BC → 1 BC = 1935 = 215 × 9`; `3901 BC → 1 BC = 3900`; the `6 BC` preincarnate / `AD 1` Son-of-Man node-assignments (`File_13`); the mod-5 rail absorption of the SOR `−5` (`File_51a`). Deferred, not open.
 
+### 7A.10 The Key-of-23 bookend tiling of the BJ 2450 (bounded addition)
+
+Active state: BJ Key-of-23 bookend tiling state.
+
+The §7A.8 twin-2450 pairing records the BJ member as `3856 BC → 1406 BC = 2450 = 50 × 49` — jubilee grammar. The same rod tiles exactly in Key-of-23 / 130-family grammar through two `460`-year bookends and the wilderness `40`.
+
+The first bookend runs from Creation to Jared. Jubilees 4:15 places Jared's birth in the tenth jubilee, third week, sixth year — AM 461 — converting to `3396 BC`; the SP antediluvian begetting data transferred to BJ (§2; §3) sums to the same span:
+
+```markdown
+130 + 105 + 90 + 70 + 65 = 460
+3856 − 3396 = 460 = 23 × 20
+460 = 130 + 330  (Seth at Adam's 130; Jared at Adam's 460)
+```
+
+The second bookend runs from the call of Abram to the Exodus, already held by the §7B / call-to-Conquest register:
+
+```markdown
+1906 − 1446 = 460
+460 × 25/23 = 500  (increment +40 by the File_44 corollary, 23n → +2n, n = 20)
+1906 − 1406 = 500  (the registered 500 display, §7B)
+```
+
+The `25/23` expansion of the call-to-Exodus `460` therefore lands exactly on the registered call-to-Conquest `500`; the `+40` increment is the wilderness span `1446 BC → 1406 BC`. The two bookends stand one translation apart, head-to-head and tail-to-tail:
+
+```markdown
+3856 − 1906 = 1950
+3396 − 1446 = 1950
+1950 = 5 × 390 = 15 × 130 = 3900 / 2
+```
+
+| Segment | Span | Grammar |
+|---|---:|---|
+| `3856 BC → 3396 BC` (Creation → Jared) | 460 | `23 × 20`; `130 + 330` |
+| `3396 BC → 1446 BC` (translation, tail-to-tail) | 1950 | `5 × 390`; `15 × 130` |
+| `1446 BC → 1406 BC` (wilderness) | 40 | `25/23` increment of the second bookend |
+| Total `3856 BC → 1406 BC` | 2450 | `460 + 1950 + 40 = 50 × 49` |
+
+The tiling closes exactly: `460 + 1950 + 40 = 2450`. The jubilee reading (§7A.8) and the Key-of-23 / 130-family reading are two grammars on one rod. The Fall-to-Flood `1300` day-perfect lock (§3B) stands adjacent as the file's other whole-arc harmonic; cross-reference only.
+
+Typological note:
+Both bookends terminate at an idolatry pole. The first ends at the Watcher descent — Jubilees 4:15 dates Jared and, in the same verse, the descent of the Watchers "in his days." The second runs from the call of Abram out of Ur's forbidden practices (Jubilees 11–12) to the Exodus judgment of the gods of Egypt (Jubilees 48; Exodus 12:12): corruption's arrival answered by corruption's judgment.
+
+Claim-status: textual datum (Jubilees 4:15 timestamp and Watcher notice; the SP begetting figures by §2 / §3 transfer); arithmetic fact (all spans, factorizations, and the tiling identity); structural inference (the bookend / translation architecture); typological reading (the idolatry-pole framing); historical-critical inference, undetermined (authorial intent — the jubilee-schematic focus may have sponsored the pattern unplanned; providential synchronization remains the standing alternative).
+
 ## 8. Sacrifice of Isaac — BJ / Jubilees Illuminates MT
 
 Modal-state note:
@@ -1162,6 +1231,119 @@ Abraham’s lifecycle divides symmetrically in the source display.
 
 Cross-reference note:
 See `File_01`, Entity Abraham, and `File_16`, §1C, Triple `430 = 1290` Equivalence.
+
+## 8A. Isaac Conception / Birth — Festival Calendar, Corruption Symmetry, and the Gestation Triad (bounded addition)
+
+Modal-state note:
+This section opens the BJ Isaac conception / birth festival-calendar state, the BJ attested-date holographic state, the BJ corruption-symmetry / Nexus-centering state, and the gestation-triad `270/273/280` display state. Machine Guard [ATTESTED-DATE NON-REHABILITATION] governs throughout: the attested AM 1986 / AM 1987 timestamps remain rejected as chronology (§7A2.7) and function here only as holographic / architectural data (§7A2.6).
+
+### 8A.1 Textual data — the festival micro-calendar
+
+| Event | Citation | Calendar position | AM timestamp |
+|---|---|---|---:|
+| Promise / covenant scene; Abraham's "will a son be born to one who is 100?" | Jubilees 15:1; 15:17 | mid month 3, festival of firstfruits | 1986 |
+| Annunciation at Mamre | Jubilees 16:1 | new moon, month 4 | 1986 |
+| Conception — "in the middle of the sixth month the Lord visited Sarah… and she conceived" | Jubilees 16:12 | mid month 6 | 1986 |
+| Birth — "in the third month, in the middle of the month… on the festival of the firstfruits" | Jubilees 16:13 | mid month 3 | 1987 |
+
+The festival micro-structure is internally exact: promise on firstfruits, conception in mid month 6, birth on firstfruits exactly one festival year later — "at the appointed time next year" (Genesis 17:21; 18:14) fulfilled to the day on the 364-day calendar (Jubilees 6:23–38 control; §6H source anchors). The corruption sits in the jubilee macro-count only; the micro-calendar is intact. Claim-status: textual datum (the citations and calendar positions); arithmetic fact (the AM computations, §7A2.3 dependency).
+
+### 8A.2 The four-date system — blueprint versus attested
+
+| Frame | Conception | Birth | Abraham's age |
+|---|---:|---:|---|
+| Blueprint (§7A2.5; accepted) | AM 1975 = 1882 BC | AM 1976 = 1881 BC | 99 / 100 — Genesis 17:1, 21 concord at conception |
+| Attested (§7A2.3; rejected as chronology) | AM 1986 = 1871 BC | AM 1987 = 1870 BC | derived 110 / 111 — the `+11` corruption |
+
+Conversions follow the §9 ordinal rule (Year N → `3856 − (N − 1)`). The §7A2.4 seventy-cycle forcing remains the controlling account of the corruption's cause; §8A.3–§8A.4 record what the displacement's shape does, not why it was made.
+
+### 8A.3 The corruption symmetry — nested envelopes centered on `1876 BC`
+
+```markdown
+Outer envelope: 1882 − 1870 = 12; center (1882 + 1870) / 2 = 1876
+Inner envelope: 1881 − 1871 = 10; center (1881 + 1871) / 2 = 1876
+AM centers: (1975 + 1987) / 2 = (1976 + 1986) / 2 = 1981; 3856 − 1980 = 1876 BC
+Age center: (99 + 111) / 2 = (100 + 110) / 2 = 105
+Conception-pair split: 1882 − 1876 = 6; 1876 − 1871 = 5
+Birth-pair split: 1881 − 1876 = 5; 1876 − 1870 = 6
+```
+
+```text
+1882 ──── 1881 ──────── [1876 BC] ──────── 1871 ──── 1870
+conc(bp)  birth(bp)   center = AM 1981   conc(att)  birth(att)
+   └──── 6 ─┼──────── outer 12 ──────────┼─ 6 ────┘
+            └── 5 ──── inner 10 ──── 5 ──┘
+```
+
+Both nested envelopes center exactly on the `1876 BC` label. The `+11` displacement splits as `6 + 5` around the conception pair and `5 + 6` around the birth pair — the reversed-pair grammar (File_51b §1.1d Jacobic `75/70`–`70/75` precedent). The AM center, 1981, is the axis-swap of the registered Abraham coordinate: §9.4 records AM 1876 = `1981 BC` (Abraham's birth); here AM 1981 = `1876 BC` (the envelope center) — the same coordinate with the label systems exchanged. The age-center `105` coincides numerally with the MT Seth begetting age; noted without further claim.
+
+Claim-status: arithmetic fact (all centering identities, splits, and conversions); structural inference / providential synchronization (the Nexus-centering and axis-swap readings). Machine Guard [AM / BC ORDINAL-CARDINAL FIREWALL] applies: the shared numerals do not create identity.
+
+### 8A.4 The `345/350` famine-wedge relation and the `575` Moses-rod
+
+The attested conception year converts to `1871 BC` — a shared label with the MT-frame famine end and the File_51b rounded-nexus member (distinct states; §0.2 guard). From that label:
+
+```markdown
+1871 − 1526 = 345 = 23 × 15 = 69 × 5
+345 × 70/69 = 350
+1876 − 1526 = 350
+```
+
+The `70/69` regularization converts the famine-end member into the Nexus member by exactly `+5` — the famine remainder, "five years in which there shall be neither plowing nor harvest" (Genesis 45:6). The `1876/1871 BC ↔ 1531/1526 BC` `345` relation is File_51b-registered; `1526 BC` is Moses' birth in the regular chronology (`1446 + 80`, Exodus 7:7).
+
+The BJ Abraham anchor extends the same rod to Moses' death:
+
+```markdown
+1981 − 1406 = 575 = 23 × 25
+1981 − 1871 = 110; 1871 − 1526 = 345; 1526 − 1406 = 120
+110 + 345 + 120 = 575
+575 × 25/23 = 625 = 25 × 25  (increment +50 by the File_44 corollary, n = 25)
+75 + 25 + 75 = 175 = 7 × 25  (Abraham's lifespan in 25-year units)
+```
+
+The rod's two cuts are the corrupt derived conception age (`110`) and Moses' lifespan (`120`, Deuteronomy 34:7). Claim-status: arithmetic fact (all spans, factorizations, and expansions); structural inference (the rod segmentation and the landing of the corrupted timestamp on the registered `345/350` wedge); historical-critical inference, speculative (any claim that the `+11` displacement was aimed at these landings — §7A2.4 remains the controlling causal account); dependency-controlled (File_51b; File_44).
+
+### 8A.5 The gestation triad — `270 / 273 / 280`
+
+On the 364-day calendar, months 3 and 6 are the 31-day quarter-final months; the mid-month conception and mid-month birth, read at the same day-number (day 15 → day 15), span exactly three quarters:
+
+```markdown
+16 + (30 + 30 + 31 + 30 + 30 + 31) + (30 + 30) + 15 = 273
+273 = 3 × 91 = 39 × 7 = (3/4) × 364
+273 + 7 = 280  (circumcision on the eighth day inclusive of the birth day;
+                Genesis 17:12; Genesis 21:4; Jubilees 15:12)
+```
+
+The same-day-number reading is a structural inference; the day-count is an arithmetic fact once that reading is fixed. The `+7` closure uses the file's registered inclusive / exclusive operators: eighth day inclusive equals seven days exclusive.
+
+Gestation-triad register:
+
+| Register | Value | Frame |
+|---|---:|---|
+| Prophetic / 360 | `270 = 9 × 30` | mapped-to-360, normative (File_14 gestation axiom state) |
+| Enochian / 364 | `273 = 3 × 91` | BJ full-year, three quarters — this section's member |
+| Week-count | `280 = 7 × 40` | forty weeks (File_14 gestation axiom state) |
+
+Non-collision guard: `270/280` remain the normative File_14 gestation axiom pair; `273` enters as the 364-frame member, not a correction. File_14's Abraham–Sarah completion state (`2166 BC → 1886 BC = 280`; `2156 BC → 1886 BC = 270`, both terminating on Isaac's death) is the registered year-scale companion, dependency-controlled by File_14.
+
+The same chapter supplies the animal-count companion. At Isaac's conception-year festival rejoicing, Abraham keeps the feast of Tabernacles (Jubilees 16:20–31), offering daily:
+
+```markdown
+burnt: 2 oxen + 2 rams + 7 sheep = 11    (Jubilees 16:22)
+thank: 7 rams + 7 kids + 7 sheep + 7 goats = 28    (Jubilees 16:23)
+(11 + 28) × 7 days = 273
+sin-offering goats: 1 × 7 = 7; 273 + 7 = 280
+```
+
+Isaac's gestation counts `273` days; Abraham's first Tabernacles counts `273` animals — one chapter, one constant, two units. Claim-status: textual datum (the Jubilees 16 citations); arithmetic fact (the sums); structural inference / typological reading (the animals-as-time correspondence).
+
+Corpus-fulfillment note: `File_58 — The Numbers 28–29 Tishri Sacrificial Ledger` is now the Final controlling repository source for the complete Tabernacles ledger, including the `270 → 273 → 280` walk and shemitah-scale constants. The existing WordPress article at https://490d.com/feast-of-tabernacles-as-cipher-how-numbers-28-29-encodes-jacob-exile-and-return-with-jubilees-as-second-witness/ remains the human-facing presentation layer. Recommended Cross-File Update 22 is fulfilled.
+
+### 8A.6 The inverse witness — summary
+
+Where MT, SP, LXX, and SOR each hang a coherent span from the `1876 BC` label (File_16 §2A four-roads display), BJ's contribution is inverse: its principal internal contradiction, when its four Isaac coordinates are laid out, is exactly symmetric about that same label — the flaw confesses the target the roads converge on. The four roads are trajectories an editor chose; the BJ member is a defect no editor would choose, yet it falls symmetric about the Nexus label and about Abraham's own axis-swapped coordinate. This is the sharpest local instance of the §7A2.6 principle that the source-identified errors reveal the underlying architecture.
+
+Classification: holographic corroboration of the File_16 Nexus, not a fifth Category A road; the File_16 Bullseye Protocol inventory is unchanged. Claim-status: arithmetic fact (the centering, §8A.3); structural inference / providential synchronization (the confession reading).
 
 ## 9. The `1876/1951` Holographic Echo
 
@@ -2320,6 +2502,19 @@ No pressure-test blocker remains in the current `File_20` scope.
 16. `File_13`: classify the SOR rod termini (`6n BC`; `AD 25n` conception-count; `AD 33n`) within the existing Incarnation / Passion states; no new File_13 arithmetic.
 17. `File_51a`: register the SOR `−5` mod-5 rail absorption.
 18. State Vocabulary Register: SOR sub-variant convention entry (Part D), covering the §7A states and shared-label guards.
+19. `File_16`: add a one-line pointer under the §2A four-roads display noting the File_20 §8A BJ corruption-symmetry corroboration member — explicitly outside the Bullseye Category A inventory.
+20. Completed July 12 2026: the §7A.10 / §8A states (BJ Isaac conception / birth festival-calendar; BJ attested-date holographic; BJ corruption-symmetry / Nexus-centering; BJ Key-of-23 bookend tiling; gestation-triad `270/273/280` display) are registered in State Vocabulary Register v1.24 Part D §D.20.
+21. `File_14`: confirm the gestation-triad non-collision guard — `270/280` remain the normative axiom pair; `273` is the 364-frame member by `File_20` §8A.5.
+22. Completed July 12 2026: `File_58 — The Numbers 28–29 Tishri Sacrificial Ledger` is Final and fulfills the dedicated corpus request for `182/189/280`, shemitah-scale `1274/49/1323/490/1960`, Esau `490/60`, Joseph `7 + 7`, Genesis household / flock comparisons, and the controlled Johannine proposal. The URL in §8A.5 remains the presentation layer; File_58 Markdown is canonical.
+
+## Bounded File_58 corpus-fulfillment update
+
+This July 12 2026 update changes routing only:
+
+- Recommended Cross-File Update 22 is marked completed by Final File_58.
+- §8A.5 now points to File_58 as the canonical repository source while preserving the existing WordPress page as the presentation layer.
+- No File_20 arithmetic, anchor, modal-state logic, theological claim, or existing §7A.10 / §8A derivation is changed.
+- The prior post-final and focused pressure-test results remain historical controls; the File_58 pointer update is diff-verified and focused pressure tested July 12 2026.
 
 ## Revision and archive note
 

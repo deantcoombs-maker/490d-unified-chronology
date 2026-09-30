@@ -13,6 +13,8 @@ Related files: `File_43` (primary genealogy-lattice locks); `File_44` (cycle fam
 Revision basis: author-supplied `FILE_46` source; author direction of June 10 2026 removing the prime-lattice section; 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; File_43 Final Harmonized; File_45 Final post-final pressure tested; File_54 Final; File_00 Public-Clean precedent; Repository_Change_Archive (non-controlling history)
 Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Bounded deep-time overlay application (§6A) registered from the Regular / Cumulative page publication discussion record. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
 
+September 8 2026 bounded Lamech routing: former §6A.1–§6A.3 `777`-overlay executions move to Appendix A; stable headings route to them. §§1–6 and §6A.4–§6A.5 proof bodies are preserved. Registered at Register v1.53 §D.43 / Capsule v11.52 §10.30. Focused verification only; no new full pressure test or separate re-Finalization.
+
 # File_46 — Harmonic Expansion Protocols
 
 ## 0. File-function
@@ -61,7 +63,9 @@ The `File_43` genealogy ledger is display-table-only. Where this file uses a led
 | §4 | Rosetta Stone 3-calendar resolution; 11th-Week correction | one solar span, three translations; `420 + 70 = 490` |
 | §5 | 2nd Cainan non-lock motif | static `460 + 30 = 490` |
 | §6 | Jared → 2nd Cainan Daniel-9 front-packet | `File_45` pattern-template by dependency |
+| §6A | Main-chain deep-time applications; stable appendix routes | main §6A.4–§6A.5; overlay examples routed to Appendix A |
 | §7 | Content-scope and removal record | arithmetic-control and source-history notes |
+| Appendix A | Preserved LXX `777`-overlay applications | appendix-only `8070` examples; no main-chain propagation |
 
 ## 1. Locked Constants
 
@@ -340,41 +344,25 @@ This section asserts structural isomorphism — a pattern-template mapping withi
 
 ## 6A. Deep-time overlay application (dependency-controlled bounded addition)
 
-Active states: deep-time overlay application state; staged-Flood display state; Adam-field expansion state; twenty-of-years pair state; double-expansion licensing corollary state.
+Active states: main-chain cumulative comparison and Adam-field expansion; general double-expansion licensing. Deep-time `777` overlay, staged-Flood, and twenty-of-years executions are appendix-only.
 
-Source record: the Regular / Cumulative page publication discussion. Source-table values: `File_18` §6D (LXX cumulative; Lamech `777` overlay row `8077–8070 BC`). Narrative homes: `File_22` (Adam field; center jewel); `File_44` (×10 displays); `File_51b` (Mirror). `File_46` registers the expansion grammar only; no value below enters as an independent anchor.
+Source record: the Regular / Cumulative page publication discussion. Main source-table values remain controlled by File_18 §6D. Its LXX `777` overlay is now in File_18 Appendix B.2; applications depending on it have moved from §6A.1–§6A.3 to this file's Appendix A. The unaffected §6A.4–§6A.5 use the main cumulative chain and MT comparisons. Narrative homes remain File_22, File_44, and File_51b; no comparison becomes an independent anchor.
 
 Scope note: this section applies `File_46` operators outside the Matthew–Luke lattice, on the LXX cumulative deep-time frame. The application is registered here because the operators are this file's; the lattice-local rulings of §§1–6 are unchanged.
 
 Non-collapse guard [§5 vs deep-time `+460`]: §5's non-lock ruling for the 2nd Cainan is lattice-local to the Matthew–Luke carrier. The deep-time `+460` states (`File_56` rail; `File_18` restored-Cainan tables; the `430`-alignment of the leveled MT / LXX cumulatives) are load-bearing in their own frames and are not governed by §5. Do not collapse.
 
-### 6A.1 The twenty-of-years pair
+### 6A.1 The twenty-of-years pair — appendix route
 
-```markdown
-8070 BC → 1446 BC = 6624 = 1656 × 4 = 23 × 288 = 96 × 69
-6624 × 25/23 = 7200 = 20 × 360
-6624 × 70/69 = 6720 = 20 × 336
-```
+The LXX `777`-overlay application formerly executed here is preserved unchanged in Appendix A.1. It is not a main-chain Lamech derivation.
 
-The overlay's seven-year close to the Exodus expands to twenty years-of-years in each calendar — the same pair-structure as the five-of-years at `1656` (`1800 = 5 × 360`; `1680 = 5 × 336`; `File_17` §14; `File_18` Lamech block). Claim-status: arithmetic fact; exact-ratio arithmetic fact.
+### 6A.2 The staged-Flood display — appendix route
 
-### 6A.2 The staged-Flood display
+The dependent staged-Flood example is preserved in Appendix A.2, with its overlay provenance and typological classification retained.
 
-```markdown
-1446 + 7200 = 8646 BC;   1446 + 6720 = 8166 BC;   original close 8046 BC
-8646 BC (+480) → 8166 BC (+120) → 8046 BC;   480 + 120 = 600
-```
+### 6A.3 Double-expansion licensing and the appendix example
 
-The two expansions stage Genesis 6:3 in deep time: Noah's 480th year, the 120-year countdown, the Flood at 600. Increments: `7200 − 6624 = 576`; `576 + 24 = 600`; `6720 − 6624 = 96`; `96 + 24 = 120` — the `24` being the overlay quantum. Claim-status: arithmetic fact (spans and increments); display motif / structural inference (the staging); typological reading (the Gen. 6:3 identification).
-
-### 6A.3 Onward conversions and the double-expansion licensing corollary
-
-```markdown
-8070 BC → 5494 BC = 2576 = 23 × 112;   × 25/23 = 2800
-8070 BC → 3838 BC = 4232 = 23 × 23 × 8;   × 25/23 = 4600;   × 25/23 = 5000
-```
-
-Licensing corollary: a `23²`-multiple admits two successive integral `25/23` expansions; the `4232` instance closes on `5000`, ten times the `500` at which Noah begat Shem, Ham, and Japheth. Claim-status: arithmetic fact; exact-ratio arithmetic fact; the `500` resonance is a display motif.
+A span divisible by `23²` admits two successive integral `25/23` expansions. This operator fact remains in the main body. The particular LXX `777`-overlay example formerly here, including its onward conversions, is retained in Appendix A.3 and is not independent main-chain evidence.
 
 ### 6A.4 The cross-track `2300` and the Jared span
 
@@ -405,7 +393,40 @@ The source draft recorded that earlier `FILE_46` material containing placeholder
 Removal record:
 The source's prime-lattice section (P8–P12 extensions, including the P11 Exodus/Exile/Decimal spans, the P12 container span, and the "Enochian Unit" constant label) was removed in this revision by author direction of June 10 2026, as tangential to the file's harmonic-expansion subject. The prime-quadruple grid remains controlled by `File_32`, `File_33`, and `File_35`; nothing in this file depends on it.
 
-Scope-record addition (bounded): §6A registers a dependency-controlled deep-time application of the file's expansion operators, from the Regular / Cumulative page publication discussion record. The Matthew–Luke lattice scope of §§1–6 is unchanged; the §5 non-lock ruling remains lattice-local per the §6A non-collapse guard.
+Scope-record addition (bounded): §6A retains the main-chain deep-time applications and stable routing headings. September 8 2026 relocates only the LXX `777`-dependent executions to Appendix A. The Matthew–Luke lattice scope of §§1–6 and the main §6A.4–§6A.5 are unchanged; the §5 non-lock ruling remains lattice-local.
+
+## Appendix A. Preserved LXX `777`-overlay applications
+
+These examples use the appendix-only, row-local LXX `777` overlay, not the main `753` lifespan chain. Their equations are preserved from former §6A.1–§6A.3. File_18 Appendix B.2 controls the unchanged `8077–8070 BC` envelope; its `8070` close is the source of the following applications. Neither the overlap nor these expansions propagate an extra `24` into the cumulative chronology. Main §6A.4–§6A.5 and MT `777` comparisons remain outside this relocation.
+
+### A.1 The twenty-of-years pair
+
+```markdown
+8070 BC → 1446 BC = 6624 = 1656 × 4 = 23 × 288 = 96 × 69
+6624 × 25/23 = 7200 = 20 × 360
+6624 × 70/69 = 6720 = 20 × 336
+```
+
+The overlay's seven-year close to the Exodus expands to twenty years-of-years in each calendar — the same pair-structure as the five-of-years at `1656` (`1800 = 5 × 360`; `1680 = 5 × 336`; `File_17` §14; `File_18` Lamech block). Claim-status: arithmetic fact; exact-ratio arithmetic fact.
+
+### A.2 The staged-Flood display
+
+```markdown
+1446 + 7200 = 8646 BC;   1446 + 6720 = 8166 BC;   original close 8046 BC
+8646 BC (+480) → 8166 BC (+120) → 8046 BC;   480 + 120 = 600
+```
+
+The two expansions stage Genesis 6:3 in deep time: Noah's 480th year, the 120-year countdown, the Flood at 600. Increments: `7200 − 6624 = 576`; `576 + 24 = 600`; `6720 − 6624 = 96`; `96 + 24 = 120` — the `24` being the overlay quantum. Claim-status: arithmetic fact (spans and increments); display motif / structural inference (the staging); typological reading (the Gen. 6:3 identification).
+
+### A.3 Onward conversions and the double-expansion licensing corollary
+
+```markdown
+8070 BC → 5494 BC = 2576 = 23 × 112;   × 25/23 = 2800
+8070 BC → 3838 BC = 4232 = 23 × 23 × 8;   × 25/23 = 4600;   × 25/23 = 5000
+```
+
+Licensing corollary: a `23²`-multiple admits two successive integral `25/23` expansions; the `4232` instance closes on `5000`, ten times the `500` at which Noah begat Shem, Ham, and Japheth. Claim-status: arithmetic fact; exact-ratio arithmetic fact; the `500` resonance is a display motif.
+
 
 ## Revision and archive note
 
@@ -415,4 +436,4 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 
 The source-history removal record in §7 is retained because it controls the absence of the removed prime-lattice section.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+Inherited public-clean note: the earlier cleanup did not alter its source arithmetic or states. The September 8 amendment now changes the publication/proof hierarchy of the LXX `777` examples to appendix-only; their equations, endpoints, and stated interpretations are preserved.

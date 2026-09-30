@@ -1,26 +1,96 @@
 File: File_51a
 Title: The Rounded Scaffold — Mod-5 Architecture Underlying Biblical Chronology
-Status: Final; File_12 Priestly 336-day Ledger cross-file update applied; File_51b handoff guard applied; focused pressure test complete during trust-status equalization; SOR mod-5 absorption bounded update applied (July 2026)
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; File_51b handoff guard applied.
-Pressure-test status: Current; focused pressure test complete for the v2.3.1 file-map refresh, File_12 Priestly 336-day Ledger cross-file update, File_51b handoff guard, and public-clean cleanup; prior Final status retained. Focused check complete for the SOR mod-5 absorption bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded SOR mod-5 absorption (one register-row extension) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; prior focused pressure-tested status retained; bounded Rounded United-Monarchy companion-rail update applied July 24 2026; File_63 routing added; bounded File_67 reciprocal pointer applied August 10 2026
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; File_51b handoff guard and bounded Rounded-monarchy amendment applied.
+Pressure-test status: Current for the prior Final source; bounded July 24 2026 Rounded monarchy companion update independently focused-verified; no new full pressure test claimed; focused reciprocal-routing verification complete August 10 2026 for the bounded File_67 pointer; no new full pressure test claimed
+Focused correction verification status: Complete July 24 2026 — included in the File_63 Finalization package-level `176/176` verification PASS; no new full pressure test claimed
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded Rounded United-Monarchy state, `560` Aaron/Moses checks, literal/Rounded firewall, shared-`966` state, and File_63 routing only; no pre-existing Rounded Scaffold base arithmetic, Mirror protocol, inverse dependency, or other anchor altered; File_67 reciprocal guard registered at State_Vocabulary_Register v1.39 §D.31 and routed through Restart Capsule v11.38; no pre-existing proof-bearing state or Primary anchor changed
 Primary domain: Rounded; Regular; Cumulative; Mirror; Comparative; Statistical; Theological
 Traditions: MT; SP; LXX; SOR; SKL; Berossus
 Canonical source: Markdown
-Primary anchors: 4106 BC; 4112 BC; 4114 BC; 4116 BC; 4136 BC; 4166 BC; 2456 BC; 2166 BC; 2006 BC; 1876 BC; 1526 BC; 1446 BC; 1406 BC; 14006 BC; AD 1405; AD 1406
-Related files: `File_02`; `File_50a`–`File_50e`; `File_51b`; `File_51c`; `File_52a`; `File_52b`; `File_52c`; `File_52e`; `File_53`; `File_54`; `File_51_Supplement_A`; `File_51_Supplement_B`; `File_12`
-Display-state labels: `AD 1406 / AD 1401` are rounded Conquest-week block display labels where §§16.7–16.8 explicitly open that convention; strict Protocol 1 targets remain `AD 1405 / AD 1400`.
-Major operators: mod-5 rounding; Scaffold → Actual MT; Shift = Rounded BC − Actual BC; remaining-years rounding; +60 Terah; +30 Apparent Age; −215 Sojourn; +460 2nd Cainan; A-space; Protocol 1; Protocol 2; civil-span identity; Key of 23; Priestly 336-day Ledger; `1680 = 5 × 336`; `24 × 7 = 168`; `168 + 168 = 336`
-Major modal states: Actual MT; Rounded Scaffold; strict regular comparison base; standard MT regular base; MT Year-6 anchor; localized +30 Apparent Age; +60 Terah; −215 Sojourn; rounded death-date layer; cumulative rounded layer; transmitted SP; alternate SP local option; LXX rounded state; SOR / low-bound MT state; Protocol 1 Mirror; Protocol 2 Mirror; Mirror coordinate-completion; Mirror corroboration; Mirror appendix-only; inverse-number appendix-only; Priestly service-cycle state; File_12-controlled Priestly 336-day Ledger dependency; conquest-week rounded-block display convention
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; prior `File_51a` Final v2.1 Refresh; `File_12` pressure-tested Priestly 336-day Ledger patch; public-clean cleanup; File_51b handoff guard completion; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded SOR mod-5 absorption registered from the Regular-page publication discussion record; closes File_20 Recommended item 17.
+Primary anchors: 4106 BC; 4112 BC; 4114 BC; 4116 BC; 4136 BC; 4166 BC; 2456 BC; 2166 BC; 2006 BC; 1876 BC; 1531n BC; 1526n BC; 1446 BC; 1406 BC; Rounded United Monarchy `1051n→1011n→971n→931n BC`; Rounded Temple comparison `966n BC`; 14006 BC; AD 1405; AD 1406
+Related files: `File_02`; `File_08`; `File_18`; `File_50a`–`File_50e`; `File_51b`; `File_51c`; `File_52a`; `File_52b`; `File_52c`; `File_52e`; `File_53`; `File_54`; `File_63`; `File_51_Supplement_A`; `File_51_Supplement_B`; `File_12`; Restart Capsule v11.30; State Vocabulary Register v1.31; 490d Repository Style Guide v2.5; Project Procedures v3.5; File_67
+Display-state labels: The September 25 2026 author clarification opens symmetric Rounded BC/AD labels throughout the pure Rounded display layer: -1405 ↔ +1405 displays as 1406 BC ↔ AD 1406. Earlier strict astronomical/civil Protocol 1 rendering uses AD 1405 for +1405; retain that rendering only where its civil equation is explicitly being executed. The distinction applies analogously to the AD 1401 / legacy AD 1400 Conquest-week companion.
+Major operators: mod-5 rounding; Scaffold → Actual MT; Shift = Rounded BC − Actual BC; remaining-years rounding; +60 Terah; +30 Apparent Age; −215 Sojourn; +460 2nd Cainan; Rounded United-Monarchy one-year label shift; `1531n−971n=560`; `1526n−966n=560`; A-space; Protocol 1; Protocol 2; civil-span identity; Key of 23; Priestly 336-day Ledger; `1680 = 5 × 336`; `24 × 7 = 168`; `168 + 168 = 336`
+Major modal states: Actual MT; Rounded Scaffold; Rounded United-Monarchy companion state; literal/Rounded monarchy non-collapse state; shared-`966` state; strict regular comparison base; standard MT regular base; MT Year-6 anchor; localized +30 Apparent Age; +60 Terah; −215 Sojourn; rounded death-date layer; cumulative rounded layer; transmitted SP; alternate SP local option; LXX rounded state; SOR / low-bound MT state; Protocol 1 Mirror; Protocol 2 Mirror; Mirror coordinate-completion; Mirror corroboration; Mirror appendix-only; inverse-number appendix-only; Priestly service-cycle state; File_12-controlled Priestly 336-day Ledger dependency; conquest-week rounded-block display convention
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; prior File_51a Final; File_08 Kings controller; corrected File_18 table source; Final File_63; prior File_12 and File_51b updates; bounded Rounded United-Monarchy amendment; Repository_Change_Archive (non-controlling history); Final post-final pressure-tested File_67; State Vocabulary Register v1.39; Restart Capsule v11.38
+Current refresh note: Bounded July 24 2026 update assigns `1051n/1011n/971n/931n BC` to the Rounded Scaffold monarchy rail and preserves `1050t/n/1010t/n/970t/n/930t/n BC` as the literal/precise rail controlled by Files 08 and 18. Existing Rounded Scaffold base, statistical, Mirror, inverse, SKL, and cumulative arguments remain unchanged.
+
+September 8 2026 bounded Lamech routing: the former §17.4 MT/LXX five-before-Flood comparison moves to Appendix A.5, with the LXX member explicitly `777`-overlay-only. All Rounded Scaffold arithmetic and dates remain unchanged. Register v1.53 §D.43 / Capsule v11.52 §10.30; focused verification only; no new full pressure test.
+
+Rounded-coordinate clarification: Author-directed September 25 2026; signed mod-5 calculations and symmetric BC/AD display labels are distinguished from literal civil counts; amendment examples and bounded diffs verified; no new full-file pressure test or central-register update claimed.
+Rounded whole-span anchor clarification: Author-directed September 25 2026; 6/1406 BC for Rounded birth/event sources ending in 6 and 1/1401 BC for those ending in 1; segmented chains retain their stated rules; bounded amendment verification only, with no new full-file pressure test or central-register update claimed.
 
 # The Rounded Scaffold — Mod-5 Architecture Underlying Biblical Chronology
+
+## Author clarification — Rounded coordinates and civil spans (20260925)
+
+Author clarification: Dean, September 25 2026. Scope: the pure Rounded coordinate and display convention in Files 51a, 51b, 52a, and 52b. The choice to use a civil count as an input to a particular mixed inverse/expansion construction remains explicit and provisional.
+
+The Rounded calculation takes place on signed multiples of five. Write its coordinate as $q$:
+
+$$q(B\text{ BC})=-(B-1),\qquad q(\text{AD }A)=A-1.$$
+
+Reflection sends $q$ to $-q$. Display a nonzero coordinate with the numeral $|q|+1$ and the era indicated by its sign. Thus $-1405$ displays as **1406 BC**, and $+1405$ displays as **AD 1406**. Pure Rounded date labels end in **1 or 6** on both sides; their coordinates end in **0 or 5**. Zero denotes the algebraic Mirror origin and does not introduce a civil year zero. These labels do not acquire Tishri/Nisan phases merely from their final digits.
+
+For opposite-side displayed labels, distinguish two quantities:
+
+$$W_R=q(\text{AD }A)-q(B\text{ BC})=B+A-2,$$
+$$C=B+A-1=W_R+1.$$
+
+$W_R$ is the Rounded coordinate width. $C$ is the ordinary civil elapsed-year count between those same printed BC/AD numerals. The label mapping is therefore a Rounded display convention, not a single ordinary astronomical-year coordinate map. Use the appropriate count explicitly; do not transfer the extra year into a coordinate calculation silently.
+
+| Rounded coordinates | Symmetric displayed labels | Coordinate width $W_R$ | Literal civil count $C$ |
+|---|---|---:|---:|
+| $-1405\rightarrow+1405$ | 1406 BC → AD 1406 | 2810 | 2811 |
+| $-14010\rightarrow+14005$ | 14011 BC → AD 14006 | 28015 | 28016 |
+| $-8605\rightarrow+1445$ | 8606 BC → AD 1446 | 10050 | 10051 |
+| $-41005\rightarrow+14010$ | 41006 BC → AD 14011 | 55015 | 55016 |
+
+The last row begins at **41006 BC**, not 14006 BC. Accordingly, Dean's example is:
+
+$$14010-(-41005)=55015,\qquad41006+14011-1=55016.$$
+
+The selected civil-count conversion chains are:
+
+$$10051=19\times529\xrightarrow{25/23}10925\xrightarrow{25/23}11875,$$
+$$55016=104\times529\xrightarrow{25/23}59800\xrightarrow{25/23}65000,$$
+$$59800=200\times299\xrightarrow{300/299}60000.$$
+
+These are exact conversions of $C$, not of the neighboring coordinate widths 10050 and 55015. Their arithmetic alone does not establish the proposed inverse system as a third geometric axis.
+
+When a converted duration is subsequently applied on the Rounded grid, calculate with $q$ and restore the date label afterward. In Dean's separately stated launch from **14006 BC**:
+
+$$-14005+59800=+45795\quad\longrightarrow\quad\boxed{\text{AD }45796}.$$
+
+Here the coordinate width is **59800**; the literal civil count between the displayed labels 14006 BC and AD 45796 is **59801**. The starting anchor is declared separately from the original 41006 BC → AD 14011 span that generated the converted duration.
+
+**Existing-file reading rule.** Earlier Protocol 1 passages often render a positive coordinate $q$ as civil **AD $q$**; the symmetric Rounded display renders it **AD $(q+1)$**. Thus the legacy expression “1406 BC → AD 1405” and the symmetric display “1406 BC ↔ AD 1406” can refer to the same abstract coordinate pair $-1405,+1405$ under different renderings. An explicitly civil equation retains its stated civil labels and count. When redrawing a pure Rounded diagram, render its coordinates using the symmetric rule. Do not globally shift actual dates, phase-resolved dates, or no-placeholder inverse results.
+
+This author-directed clarification controls the pure Rounded display convention in this file. Inherited references to `AD (n-1)` or `AD (n − 1)` as a strict Protocol 1 target describe the legacy astronomical/civil rendering; the symmetric Rounded display of that positive coordinate is `AD n`. Prior expressly civil calculations remain readable in their stated rendering. The clarification and its examples are verified separately from the earlier full-file proof status.
+
+## Author clarification — Whole-span inverse anchors (20260925)
+
+For a whole-span inversion of an explicitly Rounded BC birth or event date, select the Nativity or Conquest anchor family required by the construction, then select its member from the source date's final digit:
+
+| Rounded BC date ends in | Nativity anchor | Conquest anchor |
+|---|---|---|
+| 6 | 6 BC | 1406 BC |
+| 1 | 1 BC | 1401 BC |
+
+Keep the source date unchanged. Subtract the selected anchor, invert that complete span while preserving its trailing-zero placeholders, and rebuild from the same anchor. Matching the final digit makes the span a multiple of ten, so this whole-span operation needs no post-inverse rounding.
+
+The selector applies in both regular and cumulative Rounded states. It does not re-anchor individual rows of a begetting or lifespan chain: those segment-by-segment operations retain their stated anchors and mod-5 normalization rules. Explicit Exodus constructions retain 1446 BC; this clarification introduces no 1441 BC anchor. Actual and phase-resolved dates are outside this rule. The Mirror coordinate and civil-count distinction above remains unchanged.
+
+File_52a §2.1 defines the operation; File_52b §1.1 supplies the six regular dates ending in 1 and both sets of results. This author-directed rule controls whole-span birth/event inversion; it does not settle the separate experimental inverse death-date procedure or increase the evidential status of proposed patterns.
 
 ## Related Repository Files
 - Part 1: https://490d.com/the-490d-unified-chronology-knowledge-graph-repository/
 - For Part 2a: `Files_31-33` about Pi, Primes and Berossus +50 are found in a separate document due to length constraints.
 - `File_02`: current Flood/SKL terminology and envelope-control exemplar where Flood/SKL states are active.
+- `File_08`: controls the literal/precise United Monarchy, David exact/rounded reign states, Temple foundation, and Kings chronology.
+- `File_18`: table source for the corrected literal/precise versus Rounded monarchy split.
+- `File_63`: downstream Final carrier synthesis using this file’s Rounded monarchy companion rail and `560`-year checks.
 - `File_12`: Calendrical Physics control for the Priestly 336-day Ledger, source-controlled 24-course roster, festival-week corollary, and Priestly-Enochian half-week projection where `1680 = 5 × 336` is cited.
 - Part 2b: https://490d.com/knowledge-repository-files-34-to-46/
 - Part 3: `Files_47` Forward — Machine Reference Document
@@ -34,6 +104,13 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 - `File_52e`: https://490d.com/file_52e-the-subordinate-lxx-inverse/
 - `File_53`: https://490d.com/file_53-the-book-of-jubilees-as-a-22-fold-creation-genealogy-witness/
 - `File_54`: Luke’s 70-Year Genealogical Lattice, the Rounded Scaffold, and the Book of Jubilees — dependent comparative synthesis file.
+
+### File_67 Rounded co-registration reciprocal note
+
+Final `File_67` recognizes that File_51a's cumulative Rounded Creation block uses the same `14011/14006 BC` boundary labels that File_22 uses under actual cumulative node-classes, and translates that pair to `701/696 BC` by `13310` only under declared cross-modal comparison. It also derives an Actual/Historical Rehoboam birth label `971 BC`, which remains distinct from File_51a's Rounded `971n BC` monarchy member.
+
+Machine Guard [FILE_51a FILE_67 ROUNDED CO-REGISTRATION ROUTING]:
+Shared `14011/14006 BC` labels do not collapse File_51a's cumulative Rounded Creation block with File_22's actual cumulative Day-1/Year-6 states. File_67's derived Actual/Historical `971 BC` Rehoboam birth label does not become or replace the Rounded `971n BC` monarchy member. No File_67 coordinate redefines the Rounded Scaffold.
 
 ## 0. File-function
 
@@ -50,6 +127,8 @@ The following states are active in `File_51a`. They are simultaneous, non-compet
 | State | Primary value or form | Node-class / function | Handling in `File_51a` |
 | --- | --- | --- | --- |
 | Rounded Scaffold base | 4106 BC | rounded Creation / Adam anchor | primary working scaffold state |
+| Rounded United-Monarchy companion | `1051n→1011n→971n→931n BC`; Rounded Temple `966n BC` | mod-5 royal comparison rail | Bounded comparison state. It does not replace literal/precise `1050t/n→1010t/n→970t/n→930t/n BC`. |
+| Rounded Aaron/Moses-to-Kings state | `1531n→971n=560`; `1526n→966n=560` | fourteen-Mosaic-unit comparison | Arithmetic facts under the Rounded rail; `966n` remains a shared label with the literal cardinal Temple state. |
 | Strict regular comparison base | 4112 BC | actual comparison base | no Shem +2; used for scaffold comparison |
 | Standard MT regular base | 4114 BC | Actual MT regular base | Shem +2 restored |
 | MT Year-6 anchor | 4116 BC | Year-6 anchor | distinct node-class; not a regular-baseline increment |
@@ -78,7 +157,7 @@ Modal-state rule: a date-label shared by more than one state is not automaticall
 |---|---|---|
 | §0 | File-function, working-state register, File map, and claim-status control | file-level modal states |
 | §1 | Overview, thesis, coordinate convention, File_50/File_54 relation, and inverse firewall | Rounded Scaffold; A-space; civil-span identity |
-| §§2–3 | Rounded begetting ages and MT scaffold chronology tables | mod-5 rounding; Scaffold → Actual MT; Shift = Rounded BC − Actual BC |
+| §§2–3 | Rounded begetting ages, MT scaffold tables, and Rounded United-Monarchy companion rail | mod-5 rounding; literal/Rounded firewall; Scaffold → Actual MT; Shift = Rounded BC − Actual BC |
 | §§4–4A | Major spans from 4106 BC and cycle-frequency diagnostics | Rounded Scaffold; +30 Apparent Age; +60 Terah; statistical result |
 | §§5–13 | Node studies from Peleg through the 2100 span | rounded nodes; local comparison states; typological reading |
 | §§14–16 | Mirror reference stub, hidden generations, and cumulative 12600 invariance | `File_51b` dependency; cumulative rounded layer; Protocol 1 display controls |
@@ -104,7 +183,7 @@ This file documents the structural observation that the Masoretic Text (MT) bege
 
 Central Observation: The Rounded Scaffold functions as an underlying chronological layer for the purposes of this file. The minor departures from multiples of 5 preserve additional numerical relationships — largely through the Key of 23 rounding system documented elsewhere in the repository. Whether the Rounded Scaffold is temporally prior (i.e., the “Actual” form later adjusted) or whether the Actual MT was designed from the start to embed mod-5 structure as one of several simultaneous layers remains an open question. The structural findings documented here hold under either interpretation.
 
-Coordinate Convention: Because all rounded values are multiples of 5, and the civil BC/AD calendar lacks a year 0 — injecting a permanent ±1 misalignment into mirror-target generation — this file uses astronomical year numbering (A-space) where mirror coordinates must be generated or displayed. In A-space: year 0 = 1 BC, year −1 = 2 BC, year +1 = AD 1. Half-year (Tishri/Nisan) offsets are represented as ±0.5. Civil BC/AD labels are retained in tables for readability; A-space equivalents are provided where cross-axis or mirror-coordinate arithmetic is being discussed. The cross-axis civil span operator remains `BC + AD − 1` unless an explicitly labeled A-space calculation is being performed.
+Coordinate Convention: Perform pure Rounded calculations in signed coordinates q on the mod-5 lattice: q(B BC) = -(B-1), and q(AD A) = A-1 when AD A is a symmetric Rounded display label. Reflection is q → -q; display |q|+1 with the era indicated by the sign. Thus -1405 and +1405 display as 1406 BC and AD 1406. The coordinate width is B+A-2, whereas the literal civil count between those printed labels is B+A-1. Earlier astronomical A-space rendering displays the positive coordinate +1405 as civil AD 1405; identify that legacy rendering explicitly when retaining its civil equations. Tishri/Nisan phase states require their own declared seasonal coordinates. See the author clarification above for the complete mapping and verified examples.
 
 Cross-reference note: The relationship between the mod-5 scaffold and the mod-30 architecture of prime quadruplets (`Files 50a–50e`) is documented separately. `File_51a` is self-contained for its primary mod-5 scaffold argument and does not depend on any prime-lattice hypothesis, though some statistical and cross-file correspondences are documented separately in the cited supplements and repository files. Repository-index note: `File_50e` is present as an appended continuation at the end of the `File_50d` repository page under the title “`File_50e`: The ±720 Bilateral Symmetry Proof — Polarity, Precession Centering, and the Forward Creation Structure (v1.0).” Therefore, references to `Files 50a–50e` are valid, but navigation notes should clarify that `File_50d` and `File_50e` share the same repository URL. `File_54` is now listed as a dependent comparative synthesis file: it draws on `File_51a`, but it does not govern `File_51a`’s arithmetic or modal-state structure.
 
@@ -242,6 +321,54 @@ This supplies the middle segment of a contiguous 360-year chain already partiall
 Conclusion: Joseph’s inclusion as the 7th adjusted patriarch is not merely an interpretive imposition. It is supported by the 1886 BC convergence and the 360-year chain, both of which depend on the rounded value of 90.
 
 Footnote (Firstborn Convention): Jacob’s firstborn, Reuben, is born at age 85 (77 + 7 + 1), a clean multiple of 5. This parallels the Terah bifurcation: as Terah begets at 70 or 130 (70 + 60), Abraham’s death (1991 BC) to Reuben’s birth (1921 BC) = 70, and Reuben (1921 BC) to Jacob’s rounded death (1861 BC) = 60. Further, the firstborn/Joseph pair (1921/1916 BC) each span 130 × 3 = 390 to rounded Levi/Moses births (1531/1526 BC). Levi’s own lifespan of 137 (born 1919 BC actual) intersects this grid. These connections are secondary to the main scaffold argument but structurally relevant if the rounding premise is accepted.
+
+### 2.6A Rounded United-Monarchy companion rail
+
+Active states:
+Rounded Scaffold monarchy; literal/precise monarchy by File_08/File_18 dependency; shared `966` label.
+
+The Rounded Scaffold royal rail is:
+
+```text
+1051n → 1011n → 971n → 931n BC.
+```
+
+Each body is forty years:
+
+```text
+1051−1011=40
+1011−971=40
+971−931=40.
+```
+
+This rail belongs to the Rounded chronology. The literal/precise monarchy is one displayed year later:
+
+```text
+1050t/n → 1010t/n → 970t/n → 930t/n BC.
+```
+
+The Rounded Aaron/Moses pair supplies two exact `560`-year correspondences:
+
+```text
+1531n→971n=560=14×40
+1526n→966n=560=14×40.
+```
+
+Thus:
+
+- Rounded Aaron reaches the Rounded David–Solomon transition at `971n BC`;
+- Rounded Moses reaches the Rounded Temple comparison at `966n BC`.
+
+`966n BC` is a shared year label. In literal chronology it is the cardinal `480`-year Temple foundation from `1446n BC`; in the Rounded Scaffold it is the `560`-year landing from `1526n BC`. The label is common, but state, origin, and operator differ.
+
+Machine Guard [FILE_51a ROUNDED / LITERAL MONARCHY NON-COLLAPSE]:
+The Rounded United Monarchy is `1051n→1011n→971n→931n BC`. The literal/precise United Monarchy is `1050t/n→1010t/n→970t/n→930t/n BC`. Do not label the Rounded rail Actual / Historical or retroject the literal phase rail into the mod-5 scaffold.
+
+Machine Guard [FILE_51a 966 SHARED-LABEL]:
+`966n BC` may be a literal cardinal Temple foundation and a Rounded `560`-year Moses landing. Shared label does not collapse state, node-class, or operator.
+
+Claim-status note:
+The Rounded coordinates and `560` equations are arithmetic facts under the declared mod-5 comparison state. Their integration with the `480/483/490` carrier is controlled downstream by File_63.
 
 ### 2.7 Progressive Truncation of the Genealogical Formula
 The shift in recording style at Joseph corresponds to a broader literary pattern. Genesis and Exodus employ three distinct genealogical formulae, each truncated at a major epochal boundary:
@@ -1013,6 +1140,14 @@ Adam’s death (3176) to Mahalalel’s death (2816) = 360 (1 prophetic year)
 Creation (4106) to Mahalalel’s death (2816) = 1290 (Daniel 12:11)
 This holds in both the Rounded Scaffold and the Actual MT (4114 to 2824 = 1290; 3184 to 2824 = 360). These are first-order patterns embedded in the bedrock architecture, invariant to the rounding operation.
 
+### 10.8 Explicit anchors for whole-span birth and event inversions
+
+The six dates in §10.1 retain their final digit 1 when passed to whole-span inverse calculations. Their Nativity anchor is 1 BC and their Conquest anchor is 1401 BC, the end member of the rounded Conquest block. Dates ending in 6 use 6 BC and 1406 BC. These are the same paired anchor families already displayed in §17.4; this clarification makes their selection explicit for whole-span inversion.
+
+For Shelah, the Nativity route is $2421-1=2420\rightarrow2420$, rebuilding 2421 BC. The Conquest route is $2421-1401=1020\rightarrow2010$, rebuilding 3411 BC. For Enosh, $3871-1=3870\rightarrow7830$ rebuilds 7831 BC, while $3871-1401=2470\rightarrow7420$ rebuilds 8821 BC. Each arrow preserves the trailing-zero placeholder; none requires rounding after inversion.
+
+This is a downstream inverse use of the existing Rounded birth dates, not a revision of the begetting ages or of the source dates. The same selection rule applies to explicitly Rounded cumulative birth/event dates. File_52a §2.1 controls the whole-span operator and File_52b §1.1 gives the complete six-patriarch table. Segmented chains and secondary death-date constructions retain their separately stated procedures.
+
 ## 11. The Lamech–Noah Exile Connection
 Claim-status note: §11 uses arithmetic facts and calendar translation as the primary basis. The exile and judgment readings are typological interpretations anchored to those arithmetic relations.
 
@@ -1757,7 +1892,7 @@ The same applies to the LXX → SP differential in transmitted rounded form:
 
 Thus, the transmitted SP rounded state need not be forced into the same gap-structure as the actual chronology. Its 5-year recession may instead reflect a different optimization: greater compatibility with the 215/430 grammar, and therefore with the repository’s 215-variant Egypt lens. In transmitted rounded form, therefore, the SP Creation block aligns positively both to the Conquest block (7 × 430) and to the Christ birth block (9 × 490).
 
-Note: If one instead aligns the SP locally to the MT/LXX pattern of Lamech dying five years before the Flood, the SP Creation offset resolves as 300 years above the MT and 1080 years below the LXX. That alternate alignment is noted here only as a secondary possibility, not adopted as the working SP state in this file. Accordingly, unless otherwise stated, SP in File 51 refers to the transmitted rounded state 4416/4411 BC; the 4406 alignment is an alternate local option only.
+The alternate local SP `4406` comparison is retained in Appendix A.5. The working transmitted rounded state remains `4416/4411 BC`; no Rounded Scaffold coordinate or SP rounding rule changes. The main LXX actual lifespan selection is controlled by File_18 and must not be inferred from a five-before-Flood overlay.
 
 ### 17.5 The Flood Onward: Trunk Stability with Modal Post-Flood States
 The Noah-to-Flood trunk remains structurally stable across the manuscript traditions, but the immediate post-Flood placement of Arphaxad must still be handled on a tradition-by-tradition basis. Accordingly, patterns from Noah forward are often substantially cross-traditional, yet they are not reducible to a single flat invariant without qualification. Wherever File 51 uses post-Flood nodes, the specific manuscript state remains controlling.
@@ -2082,6 +2217,10 @@ This base span is then shifted by the standard File 51 flex points, cycling thro
 
 Guard: the 365.25 row is a true half-year phase result and must retain the .5 internally. It is produced only by the exact 7.5-year spread and must not be truncated.
 
+### A.5 The alternate SP alignment and the LXX `777` comparison
+
+The earlier §17.4 comparison is retained only as a secondary appendix possibility: aligning SP locally to the MT five-before-Flood margin, and to the **appendix-only LXX `777`** counterpart, gives a Creation offset `300` above MT and `1080` below LXX. This does not replace the transmitted rounded SP `4416/4411 BC` state; `4406` remains the alternate local option. The LXX counterpart is not its main `753` lifespan, which places the actual regular Lamech death `29` years before the Flood. File_18 §4A and Appendix B.1 control that distinction. No rounded death-date series is recomputed in this bounded classification change.
+
 ## Transition to File 51b
 With the internal mod-5 scaffolding, the patriarchal +60 variance, and the biological +30 Apparent Age established, `File_51a` has completed its primary task. The next stage subjects these boundary states to the BC/AD Cross-Polarity Mirror and the deep-time translation engines (11111, 11110, and 11109). Because those operations require a separate Mirror-focused framework, the structural expansion belongs in `File_51b`: The Cross-Polarity Mirror and Deep-Time Translation Engines. `File_51b` should therefore be read before the inverse-number architecture of `File_52a`. Inverse-number reversal is a derived transformation defined in `File_52a`; it is not a Mirror protocol and is not imported into `File_51a` as a primary operator.
 
@@ -2113,10 +2252,14 @@ Machine Guard [FILE_51A / FILE_51B HANDOFF]:
 
 ## Revision and archive note
 
-This public-clean Markdown source removes only archival amendment history, pass logs, pressure-test repetition, pointer-refresh records, and obsolete replacement-workflow notes. The v1.1 public-clean control completion adds only the File_51b handoff guard and updates active control pointers to State Vocabulary Register v1.17 and Restart Capsule v11.15.
+This public-clean Markdown source retains the prior Final and focused-pressure-tested baseline while applying the bounded July 24 2026 Rounded United-Monarchy amendment.
 
-Detailed revision history is preserved in the `Repository_Change_Archive`.
+The amendment adds:
 
-No arithmetic, anchors, active modal-state logic, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, claim-status labels, theological claims, or dependency boundaries are altered. Added modal-state labels and Machine Guards are retrieval controls for already-present local logic.
+- the Rounded royal rail `1051n→1011n→971n→931n BC`;
+- the literal/Rounded firewall against `1050t/n→1010t/n→970t/n→930t/n BC`;
+- the `1531n→971n=560` and `1526n→966n=560` comparisons;
+- the shared-`966` Machine Guard;
+- bounded File_08, File_18, and File_63 routing.
 
-The prior Final status is preserved in the file header. The v2.3.1 file-map refresh and the File_12 Priestly 336-day Ledger cross-file update remain identified as focused pressure tested during trust-status equalization.
+No pre-existing Rounded Scaffold base calculation, statistical scan, Mirror protocol, inverse-number dependency, SKL comparison, SOR state, or cumulative argument is altered. Detailed history belongs in the `Repository_Change_Archive`. The bounded amendment is independently focused-verified; no new full pressure test is claimed.

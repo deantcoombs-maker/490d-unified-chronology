@@ -1,18 +1,20 @@
 File: File_19
 Title: The Hezekiah Prophetic Complex
-Status: Final; post-final literal Temple 430 coreference patch applied; pressure tested; Samaria Node cross-file update applied and focused pressure tested under current Register Agreement; File_34 Pillar-state citation-control update applied and focused pressure tested June 3 2026
-Pressure-test status: Current; focused pressure test complete for the Samaria Node cross-file update and public-clean cleanup; File_34 Pillar-state citation-control update focused pressure tested June 3 2026; post-final Temple 430 coreference pressure test retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final literal Temple 430 coreference patch applied; pressure tested; Samaria Node cross-file update applied and focused pressure tested under current Register Agreement; File_34 Pillar-state citation-control update applied and focused pressure tested June 3 2026; bounded Final File_66 residue / common-`2580` / Precession-Square reciprocal update applied August 4 2026; bounded File_66 reciprocal pointer applied August 8 2026
+Pressure-test status: Current; prior full and focused pressure-test results retained; focused verification complete August 4 2026 for the bounded Final File_66 reciprocal update; no new full pressure test is claimed.
+Reciprocal-routing verification status: Bounded Final File_66 residue / common-`2580` / Precession-Square update applied and focused machine-diff, exact-arithmetic, dependency, Machine-Guard, Markdown-structure, and publication-clean checks completed August 4 2026; no new full pressure test was performed for this bounded update.
+Register Agreement status: Checked against State_Vocabulary_Register v1.37 Part D §D.30 and Restart Capsule v11.36; the `184900/185000` residue, `100 + 15 + 100 = 215`, common-`2580`, and downstream-capstone guards are registered. File_19 retains control of the Hezekiah anchors and local residue/interface arithmetic; File_66 retains control of `185150`, `25921`, the A7/statistical field, and the larger theological synthesis. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed.
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Primary domain: Prophetic; Regular; Comparative; Calendar; Theological; Mirror
 Traditions: Isaiah / Kings; Levitical / Jubilee; Exodus / Conquest; Daniel / Ezekiel; NT / Christological
 Canonical source: Markdown
 Primary anchors: 701 BC; 686 BC; 1421 BC; 1406 BC; 1191 BC; 1446 BC; 1231 BC; 1876 BC; 1017/1016 BC; 967/966 BC; 801 BC; 735/734 BC; 670 BC; 588 BC; 586 BC; 539 BC; 537/536 BC; AD 1; AD 20; AD 30; AD 35; AD 60; AD 184315; AD 29515; 185701 BC; 269286 BC; 4116 BC; 1445 BC; ~725 BC; 726–721 BC; late 722 BC ±1; 2091 BC
-Related files: File_00; File_05; File_06; File_07; File_08; File_10; File_13; File_16; File_17; File_18; File_34; File_51a; File_54; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17
-Major operators: count-to-chronology; same-side BC subtraction; same-side AD subtraction; civil cross-axis span `BC + AD − 1`; precessional degree `10 × 72 = 720`; Great Year `25920`; `490 + 15 + 215 = 720`; Samaria Node / Immanuel `720` overlay; `1446 → 726 = 720`; `726 → 6 = 720`; `721 → 1 = 720`; `430 × 430`; `430 × 432`; `430 × 429`; Jubilee `49`; Danielic `490`; `7 × 490`; `15 × 49`; `3.5 × 430`; `3.5 × 360`; `1260`; `1290`; Key of 23; `115 = 23 × 5`; alternate precessional-day display `71⅔ = 215/3`; `390 + 40 = 430`; `14 + 1 + 14 = 29`; `2150 = 5 × 430 = 10 × 215`; Kings ledger `394.5`; Temple block `36 + 394.5 = 430.5`; schematic Temple-month bridge `1016 BC` second month → Tammuz/Av `586 BC`; literal post-exilic coreference `967 BC` second month → `537 BC` second month = `430`; `49/50` dual-ledger separation; Exodus-to-Fall double block `1446 BC → 586 BC = 860 = 2 × 430 = 4 × 215`
-Major modal states: Hezekiah 701/686 BC field; Dial of Ahaz precessional state; bidirectional prophetic span / sundial mirror; count-to-chronology state; deep-time 185000-year state; AD 29515 actual Pillar state; primary Exodus state; subordinate Ramesside Exodus state; primary Conquest state; subordinate Ramesside Conquest state; Jubilee / Sabbatical harmonic state; Creation Year-6 state; Immanuel conception/birth state; Immanuel 65/49 crossing state by File_17 dependency; Samaria Node / Immanuel 720 overlay state by File_00 dependency; time-manipulation witness state; Christological target state; Kings of Judah master-ledger state; Temple-month 430.5 bridge state; literal post-exilic 430 coreference state; 49/50 dual-ledger awareness state; Hezekiah 14 + 1 + 14 reign chiasm
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+File_66 dependency-controlled comparison values: 184900; 185150; 2580; 25921; 1296050
+Related files: File_00; File_05; File_06; File_07; File_08; File_10; File_13; File_16; File_17; File_18; File_34; File_51a; File_54; File_66; Restart Capsule v11.36; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.37
+Major operators: count-to-chronology; same-side BC subtraction; same-side AD subtraction; civil cross-axis span `BC + AD − 1`; precessional degree `10 × 72 = 720`; Great Year `25920`; `490 + 15 + 215 = 720`; Samaria Node / Immanuel `720` overlay; `1446 → 726 = 720`; `726 → 6 = 720`; `721 → 1 = 720`; `430 × 430`; `430 × 432`; `430 × 429`; `185000 = 430² + 100`; `185000 ≡ 100 (mod 430)`; `185000 ≡ 100 (mod 215)`; `100 + 15 + 100 = 215`; common precessional-day count `430² = 2580 × 71⅔` and `430 × 432 = 2580 × 72`; Jubilee `49`; Danielic `490`; `7 × 490`; `15 × 49`; `3.5 × 430`; `3.5 × 360`; `1260`; `1290`; Key of 23; `115 = 23 × 5`; alternate precessional-day display `71⅔ = 215/3`; File_66 Priestly-root comparison `161 × 25/23 = 175` by dependency; File_66 companion `185150 = 185000 + 150` and sevenfold `185150 × 7 = 50 × 25921` by dependency; `390 + 40 = 430`; `14 + 1 + 14 = 29`; `2150 = 5 × 430 = 10 × 215`; Kings ledger `394.5`; Temple block `36 + 394.5 = 430.5`; schematic Temple-month bridge `1016 BC` second month → Tammuz/Av `586 BC`; literal post-exilic coreference `967 BC` second month → `537 BC` second month = `430`; `49/50` dual-ledger separation; Exodus-to-Fall double block `1446 BC → 586 BC = 860 = 2 × 430 = 4 × 215`
+Major modal states: Hezekiah 701/686 BC field; Dial of Ahaz precessional state; bidirectional prophetic span / sundial mirror; count-to-chronology state; deep-time 185000-year state; `184900/185000` residue state; `100 + 15 + 100 = 215` closure state; common `2580` precessional-day interface state; Final File_66 `185150/25921` downstream capstone state; AD 29515 actual Pillar state; primary Exodus state; subordinate Ramesside Exodus state; primary Conquest state; subordinate Ramesside Conquest state; Jubilee / Sabbatical harmonic state; Creation Year-6 state; Immanuel conception/birth state; Immanuel 65/49 crossing state by File_17 dependency; Samaria Node / Immanuel 720 overlay state by File_00 dependency; time-manipulation witness state; Christological target state; Kings of Judah master-ledger state; Temple-month 430.5 bridge state; literal post-exilic 430 coreference state; 49/50 dual-ledger awareness state; Hezekiah 14 + 1 + 14 reign chiasm
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.36; State Vocabulary Register v1.37; Project Procedures v3.5; prior finalized source; Final File_66 with author-invoked Finalization August 4 2026; bounded Final File_66 reciprocal update; Repository_Change_Archive (non-controlling history)
+Current refresh note: The August 4 2026 bounded Final File_66 reciprocal update names the `100` residue already implicit in File_19’s two `430²` landings, states the direct `100 + 15 + 100 = 215` closure, and identifies the common `2580` precessional-day count carried by `430 × 430` and `430 × 432`. The larger `185150`, `25921`, A7 chronology, statistical, and sister-city arguments remain controlled by Final File_66 and are not imported as File_19 proof. Detailed history remains in Repository_Change_Archive.
 
 # File_19 — The Hezekiah Prophetic Complex
 
@@ -30,6 +32,7 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_16` | Controls `1876 BC` Nexus logic, Danielic locks, Famine / Exile windows, Mirror classification, and Bullseye-style convergence claim restraint. Recommended cross-file update: classify the local Hezekiah language as bidirectional prophetic span / sundial mirror. |
 | `File_17` | Controls Prophetic Time Span Anatomy, including `430`, `490`, `1260`, `1290`, precessional display states, Key-of-23 component grammar, the transferred Immanuel macro-chiasm, the monarchy ledger baseline, and the `537/536 BC` post-exilic return / foundation field where opened. |
 | `File_18` | Supplies raw chronological data where table-source verification is required. |
+| `File_66` | Final downstream synthesis of the Dial-of-Ahaz sign, the Actual/Historical versus Verbatim/Schematic Judah chronologies, and the File_19 residue / precessional interface. File_19 now integrates the locally implicit `185000 = 430² + 100`, `100 + 15 + 100 = 215`, and common `2580`-day arithmetic; File_66 remains controlling for `185150`, the A7 `49/50` chronology, the `25921` capstone, the modulus-`11` ledger, and the sister-city interpretation. |
 | `File_51a`; `File_54` | Supply state-register, File map, Machine Guard, Mirror classification, appendix-only, and claim-status precedent for later-file style. |
 
 Dependency note:
@@ -38,9 +41,27 @@ Dependency note:
 File_34 post-final Pillar-state citation-control note:
 `File_34 Final; post-final pressure tested` confirms the current dependency boundary for the Pillar / AD target state. In `File_19`, `AD 29515` remains the only active Pillar node, and the local arithmetic remains `184315 − 29515 = 154800 = 430 × 360`. This update does not reopen File_34's SKL / Berossus derivation, Appendix B phase-chain machinery, or civil cross-axis Pillar spans inside File_19.
 
+File_66 reciprocal residue / precessional note:
+Final `File_66` observes that File_19’s two `184900 = 430 × 430` landings are each exactly `100` short of the textual `185000`, and that those two endpoint residues enclose Hezekiah’s literal `15`-year extension:
+
+```markdown
+801 BC → 701 BC = 100
+701 BC → 686 BC = 15
+686 BC → 586 BC = 100
+100 + 15 + 100 = 215
+```
+
+File_19 now names that local mechanism and the common `2580` precessional-day count. Final File_66 controls the downstream `185150`, sevenfold `50 × 25921`, A7 chronology, statistical, and theological synthesis; those later states are cited here by dependency and are not imported as new File_19 anchors or proof burdens.
+
+
+File_66 reciprocal third-day / Mirror-closure note:
+Final `File_66` extends the already controlled Hezekiah interface by comparing `3 × 71⅔ = 215` with `3 × 72 = 216`, doubling the pair to `430/432`, and carrying the sign-field into Appendix G Mirror closure. File_19 retains control of `701/686 BC`, `185000`, `720`, and its local residue/interface arithmetic; File_66 controls the downstream generated and Mirror coordinates.
+
 ## 0. File-function
 
 `File_19` records the Hezekiah prophetic complex as an applied demonstration of the Count-to-Chronology Axiom.
+
+The bounded Final File_66 reciprocal update clarifies arithmetic already latent in the existing File_19 endpoint set: `185000 = 430² + 100`, the two `100` endpoint distances enclose Hezekiah’s `15`-year extension as `100 + 15 + 100 = 215`, and the `430 × 430` / `430 × 432` pair carries one common count of `2580` precessional days. The larger File_66 synthesis remains downstream.
 
 The file argues that the Hezekiah narrative gathers multiple numeric units into one prophetic time field:
 
@@ -70,6 +91,10 @@ The following states are active in this Final source. They are simultaneous, non
 | Dial of Ahaz precessional state | `10` degrees; `720`; `25920`; `72` | precessional demonstration | `10 × 72 = 720`; `25920 × 1/36 = 720`. |
 | Bidirectional prophetic span / sundial mirror | forward and backward `720`; forward and backward `185000` | local sundial physics / Mirror corroboration | Local language is sundial-mirror language, not foundational Deep-Time Mirror protocol. |
 | Count-to-chronology state | `185000`; `10`; `15`; `3` | narrative units lifted into prophetic time | Core local file state. |
+| `184900/185000` residue state | `184900 = 430² = 860 × 215`; `185000 = 184900 + 100` | local count-to-chronology residue | Names the previously implicit `100` remainder at both forward and backward `430²` landings. |
+| `100 + 15 + 100 = 215` closure state | `801/701/686/586 BC` | delayed-judgment chiasm | The two `100` endpoint residues enclose Hezekiah’s literal `15`-year extension and generate one full `215`. |
+| Common `2580` precessional-day interface | `430² = 2580 × 71⅔`; `430 × 432 = 2580 × 72` | File_17-controlled alternate/standard precessional comparison | Both products carry the same count of precessional days under different day-length states. |
+| Final File_66 downstream capstone state | `185150`; `25921`; `1296050` | dependency-controlled continuation | File_66 controls the `185150` companion, Priestly-rooted Precession Square, and sevenfold `50 × 25921` result. These are not File_19 anchors. |
 | AD Pillar state | `AD 29515`; `154800`; `430 × 360` | actual Pillar landing from `AD 184315` | `184315 − 29515 = 154800 = 430 × 360`. No BC-side Pillar coordinate is retained in the local argument. |
 | Adam cumulative deep-time row | `269286 BC`; `AD 184315`; `453600`; `1260 × 360` | cumulative / deep-time relation | Checks by civil cross-axis span: `269286 + 184315 − 1 = 453600`. |
 | Primary Exodus state | `1446 BC` | primary Exodus anchor | Controlled by `File_05`. |
@@ -121,6 +146,10 @@ When the Samaria Node cites the Dial of Ahaz `720`, treat the relation as File_0
 | `4116 BC` | Creation Year-6 / Adam | Creation Year-6 state | Creation-week wrapper `4121–4114 BC` |
 | `735/734 BC` | conception/birth slash-pair | Immanuel state | range, average, or single collapsed date |
 | `AD 29515` | actual Pillar node | AD Pillar state | any legacy BC-side coordinate convention |
+| `184900` | `430²` landing / alternate precessional product | `184900/185000` residue state | the textual count `185000`; the File_66 companion `185150` |
+| `185000` | textual count lifted into years | count-to-chronology state | `184900` square landing or `185150` downstream companion |
+| `185150` | Final File_66 downstream companion | dependency-controlled capstone state | a File_19 historical date, Pillar node, or replacement for `185000` |
+| `2580` | common count of precessional days | File_17/File_66 interface state | the `2580`-day Ezekiel display unless its active state is named |
 | `394.5` | post-Solomonic Judah ledger | Kings master-ledger state | rounded `430` schematic constant by itself |
 | `430.5` | Temple-to-destruction block | Kings master-ledger state | schematic `430` Temple-month bridge unless the month-aware approximation state is named |
 | `1016 BC` second month | schematic Temple construction beginning | Temple-month bridge state | historical `966 BC` unless Kings dual-ledger state is opened |
@@ -137,10 +166,10 @@ When the Samaria Node cites the Dial of Ahaz `720`, treat the relation as File_0
 | §0 | File-function, state controls, arithmetic-control summary, File map, terminology controls, Machine Guards, and claim-status controls | file-level modal states; dependency tracking |
 | §1 | Introduces numeric units as prophetic time | count-to-chronology state |
 | §2 | Records the `720`-year Dial of Ahaz framework | precessional degree; same-side spans; civil cross-axis spans; sundial mirror |
-| §3 | Records the `185000`-year forward and backward projection | count-to-chronology; `AD 29515`; `430 × 430`; `430 × 432`; `430 × 360` |
+| §3 | Records the `185000`-year forward and backward projection, the hidden `100` residue, and the common `2580` precessional-day count | count-to-chronology; `AD 29515`; `430 × 430`; `430 × 432`; `430 × 360`; File_17/File_66 interface |
 | §4 | Records Jubilee / Sabbatical language and the `490` / `3430` structures | Jubilee `49`; Danielic `490`; Creation Year-6 state |
 | §5 | Gives the local `720 = 490 + 15 + 215` logic engine | decomposition of Dial of Ahaz state |
-| §6 | Records delayed-judgment and third-day encoding | `100`; `115`; Key of 23; alternate precessional-day display `71⅔ = 215/3` |
+| §6 | Records delayed-judgment and third-day encoding, including the direct `100 + 15 + 100 = 215` closure | `100`; `115`; `15`; `215`; Key of 23; alternate precessional-day display `71⅔ = 215/3` |
 | §7 | Records the Immanuel conception/birth Jubilee timeline | `735/734 BC`; `15 × 49`; Christological dependency; File_17 macro-chiasm cross-reference |
 | §8 | Preserves biblical precedents for divine time manipulation | theological / typological witness state |
 | §9 | Records the `3.5 × 430` and `3.5 × 360` parallel | primary/subordinate Exodus states; `1260`; `1290` |
@@ -161,6 +190,7 @@ When the Samaria Node cites the Dial of Ahaz `720`, treat the relation as File_0
 | Early Christological cross-references | Consolidated to `File_13` as the active Christological controller. |
 | Decimal precessional-day display | Replaced by author-approved `71⅔ × 3 = 215`; exact state `215/3` retained. |
 | Kings accession-age notes | Removed from the local Kings ledger. The table lists reign lengths, not accession ages. |
+| File_66 `185150/25921` capstone | Retained as downstream dependency language. File_19 integrates only the local `100` residue, `215` closure, and common `2580`-day interface. |
 
 ### 0.5 Modal-state processing rules
 
@@ -177,8 +207,16 @@ When the Samaria Node cites the Dial of Ahaz `720`, treat the relation as File_0
 11. The Kings of Judah ledger in §10 lists reign lengths only. Accession-age data is excluded by author decision.
 12. The literal `430.5` Temple-to-destruction ledger and the schematic Temple-month `430` bridge are coordinated states. The Temple-month bridge runs from `1016 BC` second month toward Tammuz/Av `586 BC`, joining the schematic `430` and `860` structures within the `215`-year base scheme. It is not a new exact month/day conversion operator inside `File_19`.
 13. The literal post-exilic coreference `967 BC` second month → `537 BC` second month = `430` is a historical foundation-to-foundation parallel. It does not correct the schematic `1016 BC` bridge or the ordinary historical `966 BC` display. It shows that the actual Temple-foundation route and the idealized Kings route can satisfy Ezekiel’s `430` pattern in parallel, separated by `49/50` years according to the active adjacent-date state.
+14. `184900` and `185000` are adjacent but distinct values. `184900 = 430²`; `185000` is the textual count-to-chronology value. Their difference `100` is a local residue, not a correction of either value.
+15. The path `801 → 701 → 686 → 586 BC = 100 + 15 + 100 = 215` is a chiastic decomposition of one delayed-judgment field. It does not replace the separately valid `100/115/115/100` endpoint table.
+16. The equal count `2580` in `430² = 2580 × 71⅔` and `430 × 432 = 2580 × 72` coordinates alternate and standard precessional-day states. It does not identify `71⅔` with `72`, and it does not collapse this precessional count with unrelated `2580` day- or year-scale displays.
+17. Final File_66 controls `185150`, `25921`, and the sevenfold celestial capstone. File_19 may cite those results by dependency but must not promote them to local historical anchors, Pillar nodes, or independent proof of the Hezekiah complex.
 
 ### 0.6 Machine Guards for `File_19`
+
+Machine Guard [FILE_19 FILE_66 THIRD-DAY / MIRROR-CLOSURE DEPENDENCY]:
+Final File_66 may compare `3 × 71⅔ = 215` / `3 × 72 = 216`, double them to the inherited `430/432` pair, and extend the Hezekiah field through Appendix G Mirror closure. File_19 retains control of `701/686 BC`, `185000`, `720`, and local residue arithmetic; File_66's `656 BC`, `693.5 BC`, `1296`, and related Mirror coordinates do not become File_19 anchors or proof burdens.
+
 
 Machine Guard [FILE_19 HEZEKIAH FIELD]:
 `701 BC` and `686 BC` are the controlling Hezekiah field anchors. `701 BC` is the Assyrian siege / deliverance field. `686 BC` is Hezekiah’s extended death. The `15`-year bridge must not be erased by either the `720` state or the `185000` state.
@@ -210,6 +248,18 @@ The local Kings of Judah ledger lists reign lengths only. Do not import accessio
 Machine Guard [FILE_19 LITERAL POST-EXILIC 430 COREFERENCE]:
 `967 BC` second month → `537 BC` second month = `430` is a literal historical foundation-to-foundation coreference. It demonstrates a parallel to the schematic `1016 BC` second-month → Tammuz/Av `586 BC` bridge. Do not collapse `967 BC` into `1016 BC`; do not collapse `537 BC` into `586 BC`; do not use the literal post-exilic coreference to erase the Kings dual-ledger `+50` / adjacent `49` state.
 
+Machine Guard [FILE_19 184900 / 185000 RESIDUE]:
+`184900 = 430 × 430` is the square landing. `185000` is the textual count-to-chronology value. Their difference is `100`; do not collapse the two values, round one into the other, or treat the residue as an error.
+
+Machine Guard [FILE_19 100 + 15 + 100 CLOSURE]:
+The delayed-judgment path is `801 BC → 701 BC → 686 BC → 586 BC = 100 + 15 + 100 = 215`. This chiastic closure supplements the `100/115/115/100` endpoint table; it does not replace the `115` spans or alter the `701/686 BC` Hezekiah anchors.
+
+Machine Guard [FILE_19 COMMON 2580 PRECESSIONAL-DAY COUNT]:
+`430 × 430 = 2580 × 71⅔` and `430 × 432 = 2580 × 72` preserve one common count of `2580` precessional days under alternate and standard day-length states. Do not identify `71⅔` with `72`, and do not merge this precessional interface with an unrelated `2580` day-scale or chronological span.
+
+Machine Guard [FILE_19 FILE_66 DOWNSTREAM CAPSTONE]:
+Final File_66 controls `185150`, the Priestly-rooted `25921` Precession Square, and `185150 × 7 = 50 × 25921`. File_19 may cite those results as downstream corroboration only. They do not become File_19 Primary anchors, Pillar coordinates, or replacements for the textual `185000`.
+
 ### 0.7 Arithmetic-control summary
 
 | Arithmetic field | Result |
@@ -220,6 +270,10 @@ Machine Guard [FILE_19 LITERAL POST-EXILIC 430 COREFERENCE]:
 | Forward `185000` row | `686 + 184315 − 1 = 185000`. |
 | Backward `185000` row | `185701 − 701 = 185000`. |
 | `430 × 430` and `430 × 432` rows | `184900 = 430 × 430`; `185760 = 430 × 432`; `184470 = 430 × 429`. |
+| `184900/185000` residue | `185000 − 184900 = 100`; `184900 = 860 × 215`; therefore `185000 ≡ 100 (mod 430)` and `185000 ≡ 100 (mod 215)`. |
+| Delayed-judgment closure | `801 − 701 = 100`; `701 − 686 = 15`; `686 − 586 = 100`; `100 + 15 + 100 = 215`; `801 − 586 = 215`. |
+| Common `2580` precessional-day count | `430 × 430 = 184900 = 2580 × 71⅔ = 2580 × 215/3`; `430 × 432 = 185760 = 2580 × 72`; difference `860 = 2580 × 1/3 = 2 × 430`. |
+| Final File_66 downstream capstone | Dependency-controlled: `185150 = 185000 + 150`; `161 × 25/23 = 175`; `185150 × 7 = 50 × 25921 = 1296050`. File_66 controls the full derivation. |
 | Actual Pillar row | `184315 − 29515 = 154800`; `154800 = 430 × 360`. |
 | Adam cumulative row | `269286 + 184315 − 1 = 453600`; `453600 = 1260 × 360`. |
 | Jubilee harmonic | `1191 BC → 701 BC = 490`; `4116 BC → 686 BC = 3430 = 7 × 490 = 70 × 49`. |
@@ -368,7 +422,7 @@ The forward projection checks by civil cross-axis span: `686 + 184315 − 1 = 18
 Arithmetic note:
 The backward projection checks by same-side BC subtraction: `185701 − 701 = 185000`. The secondary rows check as `185701 + 60 − 1 = 185760 = 430 × 432`, `185701 − 801 = 184900 = 430 × 430`, and `185701 − 1231 = 184470 = 430 × 429`.
 
-### 3.4 The 430 × 430 and 430 × 432 pairing
+### 3.4 The `430 × 430` / `430 × 432` pairing, residue, and common `2580` count
 
 | Direction | `430 × 430` lands on | `430 × 432` lands on | Difference |
 |---|---:|---:|---:|
@@ -384,6 +438,50 @@ The difference between paired landings is displayed as follows:
 
 Arithmetic note:
 The paired differences check as `1446 − 586 = 860 = 430 × 2`, `801 + 60 − 1 = 860 = 430 × 2`, `801 − 586 = 215`, and `1446 + 60 − 1 = 1505 = 430 × 3.5 = 7 × 215`.
+
+Residue clarification:
+
+```markdown
+184900 = 430 × 430 = 860 × 215
+185000 = 184900 + 100
+```
+
+Therefore:
+
+```markdown
+185000 ≡ 100 (mod 430)
+185000 ≡ 100 (mod 215)
+```
+
+The same `100` appears in the endpoint geometry:
+
+```markdown
+801 BC → 701 BC = 100
+686 BC → 586 BC = 100
+```
+
+Precessional-day clarification by `File_17` dependency:
+
+```markdown
+184900 = 430 × 430
+       = 2580 × 71⅔
+       = 2580 × 215/3
+
+185760 = 430 × 432
+       = 2580 × 72
+```
+
+The two products therefore carry the same `2580` precessional days under the alternate and standard Great-Year day lengths. Their difference is exact:
+
+```markdown
+185760 − 184900
+= 860
+= 2580 × (72 − 71⅔)
+= 2580 × 1/3
+= 2 × 430.
+```
+
+File_17 remains the component controller for `71⅔/72`; Final File_66 controls the later `185150/25921` continuation.
 
 ### 3.5 Pillar and Adam connections
 
@@ -408,6 +506,9 @@ Author-decision note:
 | The `1231 BC` alternative | Dependency-controlled subordinate Ramesside state supported locally by the checked `430 × 429` row. |
 | The `430`-year Sojourn cycle | Dependency-controlled foundational unit from `File_05` / `File_17`; locally corroborated by repeated factorization. |
 | Bidirectional prophetic span / sundial mirror | Local bidirectional logic after the forward and backward arithmetic rows are stated. |
+| Hidden `100` residue and direct `215` closure | Arithmetic fact: `185000 = 430² + 100`; the paired endpoint residues and central extension give `100 + 15 + 100 = 215`. |
+| Common precessional-day count | Arithmetic fact by File_17 dependency: `430² = 2580 × 71⅔`; `430 × 432 = 2580 × 72`. |
+| File_66 continuation | Dependency-controlled: `185150`, the Priestly-rooted `25921` state, and the sevenfold celestial capstone remain downstream. |
 | The Cross as fulcrum | Structural inference from `3.5 × 430` to `AD 60` and `3.5 × 360` to `AD 30`; Christological proof weight remains `File_13` controlled. |
 
 Cross-reference: `File_00`, Variant Mechanism and Key of 23; `File_16`, Mirror classification; `File_17`, prophetic span anatomy.
@@ -423,12 +524,15 @@ Textual datum:
 
 | Isaiah’s prophecy | Leviticus 25, Jubilee law |
 |---|---|
-| “Eat what grows by itself” — `saphiah` | “You shall not sow… not reap the secondary growth” — Lev 25:5, 11 |
+| “Eat what grows by itself” — `סָפִיחַ` | “You shall not sow… not reap the self-grown produce” — `סְפִיחַ קְצִירְךָ`, Lev 25:5, 11 |
 | two years of rest | Sabbatical + Jubilee years |
 | third year: restoration | return of land to original families |
 | survival through siege | divine provision during rest |
 
-The explicit Jubilee terminology supports the `490`-year span as more than an isolated arithmetic alignment.
+The shared self-grown-produce vocabulary supplies a direct Sabbath-year resonance and supports the `490`-year span as more than an isolated arithmetic alignment. The wider Jubilee reading remains structural rather than an explicit label in Isaiah 37.
+
+Lexical-control note:
+Isaiah 37:30 uses `סָפִיחַ`, “self-grown produce,” and Leviticus 25:5 uses the same noun in `סְפִיחַ קְצִירְךָ`, “the self-grown produce of your harvest.” This is a direct lexical link to the land-Sabbath register. The passage does not explicitly label the Hezekiah sign as a formal Jubilee observance.
 
 ### 4.3 The 490-year span — 10 Jubilees
 
@@ -541,6 +645,21 @@ The pattern is chiastic:
 ```markdown
 100 — 115 — 115 — 100
 ```
+
+The four-node path also yields the previously unstated direct closure:
+
+```markdown
+801 BC ──100──▶ 701 BC ──15──▶ 686 BC ──100──▶ 586 BC
+```
+
+Therefore:
+
+```markdown
+100 + 15 + 100 = 215
+801 − 586 = 215.
+```
+
+The `100/115/115/100` endpoint table and the `100 + 15 + 100` path are two views of the same delayed-judgment field. The former emphasizes nested endpoint spans; the latter isolates Hezekiah’s literal `15` years between the two equal `100` arms.
 
 ### 6.3 Delayed judgment
 
@@ -738,6 +857,10 @@ The Dial of Ahaz encodes the local repository framework in miniature.
 | `10` degrees | `720` years | precessional time |
 | `720` decomposition | `490 + 15 + 215` | Jubilee + extension + variant |
 | `185000` slain | `185000` years | count-to-chronology |
+| `185000` residue | `430² + 100` | hidden endpoint remainder now stated explicitly |
+| Delayed-judgment closure | `100 + 15 + 100 = 215` | two equal endpoint arms enclosing Hezekiah’s extension |
+| Common precessional-day count | `2580` | `430²` and `430 × 432` under alternate/standard day lengths |
+| File_66 continuation | `185150`; `50 × 25921` | downstream Precession-Square capstone; not local proof |
 | shadow backward | bidirectional | sundial-mirror span logic |
 | `3` days to temple | `115 / 215` years | Key of 23; alternate precessional days |
 | Jubilee language | `10` Jubilees, `490` | textual support |
@@ -752,6 +875,9 @@ The Dial of Ahaz encodes the local repository framework in miniature.
 | Repository element | Supported by |
 |---|---|
 | `215`-year variant | `720` decomposition; `430 × 430` / `430 × 432` spacing |
+| Local `215` generation | `801 → 701 → 686 → 586 = 100 + 15 + 100` |
+| `185000` residue | `185000 − 430² = 100`; same remainder at both `430²` landings |
+| Precessional interface | common `2580` days under `71⅔/72`, with larger square completion routed to File_66 |
 | `1231 BC` subordinate Exodus state | `490` years to `701 BC`; `430 × 429` span; `3.5 × 360` to `AD 30` |
 | Key of 23 | `115 = 23 × 5`; transferred Immanuel macro-chiasm by `File_17` |
 | Bidirectional prophetic spans | `185000` forward and backward; `720` forward and backward |
@@ -889,6 +1015,7 @@ Cross-reference: `File_08`, Kings dual-ledger and `967/966 BC` adjacent Temple f
 | Imperfection meets perfection: the `65` shattering cycle and the `49` Jubilee cycle cross at `735/734 BC`. | Structural inference from the checked `195/196` crossing; theological reading preserved. |
 | Prophetic unity: Isaiah’s prophecies connect to Ezekiel’s `390 + 40` pattern. | Now supported locally through the Kings ledger, the schematic Temple block, and the literal post-exilic `967 BC → 537 BC = 430` coreference; broader component grammar remains `File_17` controlled. |
 | The shadow as grace: backward shadow becomes forward grace through `14 + 1 + 14`. | Typological reading / structural inference tied to the Dial of Ahaz and Hezekiah reign display. |
+| The hidden residue becomes visible: the textual `185000` stands `100` beyond `430²`, while `100 + 15 + 100 = 215` binds Hezekiah’s extension to Jerusalem’s delayed fall. | Arithmetic fact plus structural inference; the larger `185150/25921` capstone remains Final File_66 controlled. |
 | The Sevenfold Jubilee: `1191 BC → 701 BC = 490` magnifies into `4116 BC → 686 BC = 3430 = 70 × 49`. | Arithmetic fact plus Sabbatical-cycle theological note. |
 
 Argument-control result:
@@ -897,7 +1024,7 @@ The file’s main proof layer remains the checked arithmetic and the textual dat
 ## Audit Notes
 
 Audit note:
-No local author-decision or pressure-test blocker remains. Remaining items are cross-file updates that must be applied in their own files.
+No local author-decision or pressure-test blocker remains. The bounded Final File_66 reciprocal update is applied. File_66-specific vocabulary still requires later State Vocabulary Register / Restart Capsule registration, and any Repository Change Archive entry remains a separate control/publication task.
 
 Audit note:
 The detailed Immanuel macro-chiasm is no longer locally developed in `File_19`. It is cross-referenced to `File_17`, where the monarchy / Isaiah endpoint controls belong.

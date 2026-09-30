@@ -3,19 +3,19 @@ Title: The Flood and Sumerian Integration
 Entity: THE FLOOD / SUMERIAN INTEGRATION
 Classification: Cosmic Reset / Chronological Anchor
 UUID: EVENT_FLOOD_GEN6
-Status: Final; File_11 Flood-Gear cross-file update applied; File_18 cumulative-table citation-control update applied; File_34 post-final citation-control update applied and focused pressure tested under current Register Agreement
+Status: Final; File_11 Flood-Gear cross-file update applied; File_18 cumulative-table citation-control update applied; File_34 post-final citation-control update applied and focused pressure tested under current Register Agreement; bounded File_53 / File_62 BJ Fall–Flood reciprocal clarification applied (July 2026)
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; focused pressure test complete for the later File_34 citation-control update and public-clean refresh; earlier SKL textual-datum, Enochian 1260/1274 Pre-Creation, and prior File_34 citation-control patches remain retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Pressure-test status: Current; focused pressure test complete for the later File_34 citation-control update and public-clean refresh; earlier SKL textual-datum, Enochian 1260/1274 Pre-Creation, and prior File_34 citation-control patches remain retained. Focused verification complete for the bounded BJ internal Fall–Flood and File_53 / File_62 routing addition; no new full pressure test is claimed.
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded BJ internal Fall–Flood arithmetic, two dependency states, one Machine Guard, and reciprocal routing only; no pre-existing arithmetic, Primary anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary changed.
 Primary domain: Regular; Cumulative; Comparative; SKL; Calendar; Theological
 Traditions: MT; SP; LXX; BJ; SKL
 Canonical source: Markdown
 Primary anchors: 3899 BC; 3959 BC; 4114 BC; 4174 BC; 2243 BC; 2303 BC; 2458 BC; 2518 BC; 2892 BC; 2893 BC; 3023 BC; 3242 BC; 4836–4829 BC; 5296–5289 BC; 20886 BC; 27366 BC; 2906 BC; 2856 BC; 452886 BC; 453606 BC; 458646 BC; 459366 BC; 6 BC; 36 BC; AD 65–72; AD 70
-Related files: `File_00`; `File_11`; `File_18`; `File_22`; `File_34`; `File_51a`; `File_54`; Restart Capsule v11.15
-Major operators: `+60 Terah`; `+215 Sojourn`; `+275`; SP Toggle ON; SP Ideal / Exclusive; restored cumulative `+460` 2nd Cainan; `1656`; `130`; `25/23`; `300/299`; `1260 × 360`; `1274 × 360`; `1260 × 364`; `365 × 720`; `364 × 720`; civil cross-axis span `BC + AD − 1`; same-side BC subtraction; Shem ±2; Aaron/Moses `3` and `3.5`; SKL `+30`; SKL `+2`; SKL `+720`; SKL `6480`; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; BJ/Jubilees `343`
-Major modal states: MT Minimum-Regular Creation endpoint; MT Minimum-Regular +60 Creation endpoint; MT Standard-Normal Creation endpoint; MT Standard-Normal +60 Creation endpoint; MT Minimum-Regular; MT Minimum-Regular +60; MT Standard-Normal; MT Standard-Normal +60; SP Normal / Toggle ON; SP Ideal / Exclusive; LXX Regular-Minimum; LXX Long Count; cumulative MT Flood Week; restored cumulative 2nd Cainan Flood Week; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL +30 Apparent Mode; SKL +2 local rail; SKL +720 scale-state; File_34 SKL-to-Berossus `2370` corridor dependency state; File_34 `30 + 20 + 30` restoration corridor dependency state; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; Pre-Creation Short base rail; Pre-Creation Short backward +720 rail; Pre-Creation Long base rail; Pre-Creation Long forward −720 rail; Solar rail; Enochian rail; BJ / Jubilees antediluvian transfer state; EnvNorm; EnvSpread; 6 BC hinge; 36 BC rail
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; `File_00`; `File_11`; `File_18`; `File_34`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Related files: `File_00`; `File_11`; `File_18`; `File_22`; `File_34`; `File_51a`; `File_53`; `File_54`; `File_62`; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5
+Major operators: `+60 Terah`; `+215 Sojourn`; `+275`; SP Toggle ON; SP Ideal / Exclusive; restored cumulative `+460` 2nd Cainan; `1656`; `130`; `25/23`; `300/299`; `1260 × 360`; `1274 × 360`; `1260 × 364`; `365 × 720`; `364 × 720`; civil cross-axis span `BC + AD − 1`; same-side BC subtraction; Shem ±2; Aaron/Moses `3` and `3.5`; SKL `+30`; SKL `+2`; SKL `+720`; SKL `6480`; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; BJ/Jubilees external `343`; BJ internal `7 + 1300 = 1307` by File_53 dependency
+Major modal states: MT Minimum-Regular Creation endpoint; MT Minimum-Regular +60 Creation endpoint; MT Standard-Normal Creation endpoint; MT Standard-Normal +60 Creation endpoint; MT Minimum-Regular; MT Minimum-Regular +60; MT Standard-Normal; MT Standard-Normal +60; SP Normal / Toggle ON; SP Ideal / Exclusive; LXX Regular-Minimum; LXX Long Count; cumulative MT Flood Week; restored cumulative 2nd Cainan Flood Week; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL +30 Apparent Mode; SKL +2 local rail; SKL +720 scale-state; File_34 SKL-to-Berossus `2370` corridor dependency state; File_34 `30 + 20 + 30` restoration corridor dependency state; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; Pre-Creation Short base rail; Pre-Creation Short backward +720 rail; Pre-Creation Long base rail; Pre-Creation Long forward −720 rail; Solar rail; Enochian rail; BJ / Jubilees antediluvian transfer state; BJ internal Creation–Fall–Flood anniversary state; BJ explicit-hermeneutic dependency state; EnvNorm; EnvSpread; 6 BC hinge; 36 BC rail
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; `File_00`; `File_11`; `File_18`; `File_34`; `File_51a`; current `File_53`; `File_54`; Final post-final pressure-tested `File_62`; prior finalized source; Repository_Change_Archive (non-controlling history)
+Current refresh note: Bounded reciprocal routing aligns active controls to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. The BJ addition distinguishes the existing external SP–BJ `343` comparison from BJ's internal `7 + 1300 = 1307` Creation–Fall–Flood construction and adds only a concise File_53 / File_62 hermeneutical pointer. No pre-existing proof-bearing arithmetic, Primary anchor, SKL state, Flood state, or dependency boundary is changed. Detailed pass logs, focused verification, and replacement-workflow notes are preserved in Repository_Change_Archive.
 
 # The Flood and Sumerian Integration
 
@@ -29,11 +29,13 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_22` | Decimal Bridge and Aaron/Moses 3.5-year straddle |
 | `File_34` | Full SKL/Berossus derivation, current post-final section map, month/day textual variants, Precessional Envelope, Cosmic Pixel, Appendix B phase-chain handling, SKL-to-Berossus `2370` corridor, `30 + 20 + 30` restoration corridor, and deep-time synchronization. |
 | `File_51a` | Rounded Scaffold precedent, cumulative rounded states, pass structure, and Machine Guard style |
+| `File_53` | Controls BJ's internal Creation–Fall–Flood architecture and the explicit Jubilees birth-law hermeneutic. File_02 uses only the Flood-centered arithmetic and a concise methodological pointer. |
 | `File_54` | Later-file claim-status control, comparative synthesis style, and dependency-boundary discipline |
-| Restart Capsule v11.15 | Repository-wide chronology locks, operators, modal states, and civil-span convention |
+| `File_62` | Downstream application of the Jubilees hermeneutical warrant. File_02 does not import File_62's clutch, Joseph, Mosaic-phase, or Joshua arithmetic. |
+| Restart Capsule v11.30 | Repository-wide chronology locks, operators, modal states, civil-span convention, and current File_53 / File_62 routing |
 
 Dependency note:
-`File_02` may state the local Flood and SKL arithmetic needed for its argument, but full SKL/Berossus derivation remains controlled by `File_34`. After the `File_34` Post-final Pressure Test, `File_34` also controls the `2370` SKL-to-Berossus corridor, the `30 + 20 + 30` restoration corridor, phase-chain arithmetic, and paired slash-display logic wherever those states are referenced by SKL files.
+`File_02` may state the local Flood and SKL arithmetic needed for its argument, but full SKL/Berossus derivation remains controlled by `File_34`. After the `File_34` Post-final Pressure Test, `File_34` also controls the `2370` SKL-to-Berossus corridor, the `30 + 20 + 30` restoration corridor, phase-chain arithmetic, and paired slash-display logic wherever those states are referenced by SKL files. `File_53` controls BJ's internal Fall–Flood and explicit-hermeneutic argument; Final `File_62` controls its downstream year-scale application.
 
 ## 0. File-function
 
@@ -60,7 +62,7 @@ The Flood functions as a repository-wide chronological hinge. In regular chronol
 | §4 | Sumerian-Christological bridge | SKL Short / Long; `+30`; `+2`; `+720`; Pre-Creation rails; Solar / Enochian states |
 | §5 | Judgment Harmonic | cumulative Flood Week and AD judgment-week envelope; civil cross-axis `BC + AD − 1` |
 | §6 | Shem ±2 anomaly | regular-localized state; cumulative-propagated state; `EnvNorm`; `EnvSpread` |
-| §7 | BJ / Jubilees alignment | SP Normal / Toggle ON to BJ/Jubilees; same-side comparative offset |
+| §7 | BJ / Jubilees alignment | external SP–BJ `343`; internal BJ `7 + 1300 = 1307`; bounded hermeneutical routing |
 | §8 | Dependency and audit ledger | active dependency and audit notes |
 | Revision and archive note | Public-clean archive routing and preservation controls | publication cleanup |
 
@@ -122,6 +124,8 @@ The following states are simultaneous, non-competing states unless a local secti
 | Alulim / Adam +30 Base rail | 262116 BC | +30 Apparent Mode form of the Enochian rail | Pairs with 36 BC, not 6 BC, when preserving the same span |
 | Alulim / Adam +30 +720 rail | 262836 BC | +30 Apparent Mode form of the Solar rail | Pairs with 36 BC, not 6 BC, when preserving the same span |
 | BJ / Jubilees Flood | 2549 BC | antediluvian transfer comparison state | Compared with SP Normal / Toggle ON by 343 years |
+| BJ internal Creation–Fall–Flood anniversary state | `3856 → 3849 → 2549 BC` | internal BJ sacred-history construction | `7 + 1300 = 1307`; dependency-controlled by File_53 and distinct from the external SP–BJ `343`. |
+| BJ explicit-hermeneutic dependency state | `7+33=40`; `14+66=80` | ancient interpretive precedent | File_53 controls the explicit Jubilees chronology; File_62 controls downstream year-scale application. No File_61/File_62 dates enter File_02. |
 | Shem ±2, regular-localized | local Noah/Shem pivot | regular chronology anomaly state | Applies only to Noah and Shem |
 | Shem ±2, cumulative-propagated | chain-wide cumulative effect | cumulative chronology anomaly state | Propagates from Adam to Moses through cumulative addition |
 | EnvNorm | 7 years | normalized biblical idiom | Use for integer pattern matching and Creation-week display |
@@ -151,6 +155,7 @@ A shared date-label, number, or span does not create identity unless state, node
 | SKL +720 scale-state | Fractal / cosmic-scale expression of the local +2 pattern | Declare explicitly before using |
 | Key of 23 whole-year conversion | `25/23` and `300/299` conversions in this file | Residue Protocol is not active unless explicitly stated |
 | BJ/Jubilees comparative offset | `2892 − 2549 = 343` | Comparative offset, not correction to SP |
+| BJ internal Fall–Flood anniversary | `3856 − 3849 = 7`; `3849 − 2549 = 1300`; `3856 − 2549 = 1307` | Internal BJ construction; distinct from the external SP–BJ offset and controlled by File_53 |
 
 ### 0.6 Machine Guards
 
@@ -224,6 +229,10 @@ Do not collapse the two states. Do not treat 7.5 as a correction of 7. Both are 
 Machine Guard [CIVIL / MIRROR / INVERSE FIREWALL]:
 
 `File_02` uses same-side subtraction for same-side BC spans and the civil cross-axis operator `BC + AD − 1` for BC/AD spans. Mirror protocol, 10x Mirror scaling, and inverse-number reversal are not active operators in this file unless a later section explicitly opens those states.
+
+Machine Guard [FILE_02 BJ INTERNAL / EXTERNAL NON-COLLAPSE]:
+
+The external SP Normal / BJ Flood comparison `2892 − 2549 = 343`, BJ's internal Fall-to-Flood span `3849 − 2549 = 1300`, and BJ's internal Creation-to-Flood trunk `3856 − 2549 = 1307 = 7 + 1300` are distinct operations. The Jubilees `7+33=40` / `14+66=80` birth-law chronology may be cited only as explicit hermeneutical precedent by File_53 dependency. Do not import File_61/File_62 clutch dates, Joseph rails, proposed Mosaic phase coordinates, Joshua `216`, or the Noah lattice into File_02 as Flood data.
 
 ### 0.7 Public-clean status control
 
@@ -800,6 +809,8 @@ Axiom Definition: `File_00`, §3.4.9, Shem ±2, and §3.6.1, ±2 native to Noah/
 
 ## 7. BJ / Jubilees alignment
 
+### 7.1 External SP–BJ Flood offset
+
 Active state:
 SP Normal / Toggle ON compared with BJ / Jubilees antediluvian transfer state.
 
@@ -807,7 +818,7 @@ Operator:
 Same-side BC subtraction.
 
 Node-class note:
-The 343-year value is a comparative offset between two Flood states. It is not a correction to either Flood date.
+The `343`-year value is a comparative offset between two Flood states. It is not a correction to either Flood date.
 
 | State | Flood date | Node-class |
 |---|---:|---|
@@ -820,14 +831,29 @@ $$2892-2549=343.$$
 
 $$343=7\times49.$$
 
-Arithmetic note:
-The BJ / Jubilees offset checks as a same-side BC span. It does not use civil cross-axis arithmetic.
-
 Claim-status note:
-The `343 = 7 × 49` relation is shared-tradition evidence. It supports comparison between SP Normal / Toggle ON and BJ / Jubilees chronology, but it does not claim direct dependence between the traditions.
+The `343 = 7 × 49` relation is shared-tradition evidence. It supports comparison between SP Normal / Toggle ON and BJ / Jubilees chronology, but it does not claim direct dependence or alter either Flood state.
 
-Dependency note:
-The BJ / Jubilees comparison uses the SP Toggle ON antediluvian transfer state. The 343-year relation is not a correction to the SP Flood date. It is a same-side comparative offset from SP Normal Flood `2892 BC` to BJ / Jubilees Flood `2549 BC`.
+### 7.2 BJ internal Creation–Fall–Flood construction
+
+Active state:
+BJ internal Creation–Fall–Flood anniversary state by File_53 dependency.
+
+The BJ chronology places Creation, the Fall after seven Edenic years, and the Flood on the later judgment horizon:
+
+$$3856-3849=7.$$
+
+$$3849-2549=1300.$$
+
+$$3856-2549=1307=7+1300.$$
+
+File_53 controls the textual and calendrical argument that the Fall and Flood share the same anniversary pattern. File_02 retains only the Flood-centered arithmetic needed to explain why `2549 BC` is an internally structured BJ coordinate rather than merely a competing Flood date.
+
+### 7.3 Hermeneutical significance and routing
+
+Jubilees explicitly uses the male `7+33=40` and female `14+66=80` purification totals as primeval chronology. File_53 controls that ancient hermeneutical warrant; Final File_62 controls its downstream year-scale application. File_02 does not import the clutch, Joseph, Mosaic-phase, Joshua, or Noah-lattice arguments.
+
+The external `343`, internal `1300`, and internal `1307` therefore remain distinct: comparative offset, Fall-to-Flood judgment span, and Creation-to-Flood trunk.
 
 ## 8. Dependency and audit ledger
 
@@ -839,8 +865,10 @@ The BJ / Jubilees comparison uses the SP Toggle ON antediluvian transfer state. 
 | `File_22` | Decimal Bridge; Aaron/Moses 3.5-year straddle |
 | `File_34` | Full SKL/Berossus derivation; SKL month/day textual variants; cosmic-scale `+720` treatment |
 | `File_51a` | Rounded Scaffold precedent; cumulative rounded states; pass and Machine Guard style |
+| `File_53` | BJ internal Creation–Fall–Flood arithmetic and explicit birth-law hermeneutical warrant |
 | `File_54` | Later-file claim-status model and comparative dependency discipline |
-| Restart Capsule v11.15 | Repository-wide operators, modal states, civil-span convention, and cumulative / SKL locks |
+| `File_62` | Downstream year-scale use of the BJ hermeneutical warrant; no local File_02 proof imported |
+| Restart Capsule v11.30 | Repository-wide operators, modal states, civil-span convention, cumulative / SKL locks, and current BJ routing |
 
 ### 8.2 Active dependency and audit notes
 
@@ -856,6 +884,9 @@ The cumulative Flood Week ranges `4836–4829 BC` and `5296–5289 BC` check as 
 Audit note:
 The 1656-year fractal checks locally for all four MT regular-family positions. SP and LXX uses remain dependency-controlled endpoint relations unless the active Creation and Noah/Flood endpoint node-classes are opened explicitly.
 
+Audit note:
+The external `343` SP–BJ offset and the internal BJ `1300/1307` spans are separately classified and machine-guarded. The `7+33/14+66` material is a File_53 hermeneutical dependency only and does not add File_61/File_62 chronological states to File_02.
+
 Author-decision status:
 No author-decision issues remain open after Finalization. Remaining notes are dependency-control notes, not blockers to Final status.
 
@@ -867,4 +898,4 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+This bounded update adds only the BJ internal `7 + 1300 = 1307` arithmetic, two dependency states, one Machine Guard, and reciprocal pointers to Files 53 and 62. No pre-existing arithmetic, Primary anchor, SKL/Flood state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary is changed.

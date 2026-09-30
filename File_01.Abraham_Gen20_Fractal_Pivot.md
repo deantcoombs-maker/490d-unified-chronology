@@ -1,20 +1,24 @@
 File: File_01
 Title: Abraham — Patriarch Generation 20 and the Fractal Pivot
-Status: Final; post-final pressure test complete; 1876 Cainan macro-vector cross-file update applied; SOR register-extension / Benjamin label bounded update applied (July 2026)
+Status: Final; bounded September 13 2026 Terah-inclusive `−33` dependency pointer applied; post-final pressure test complete; 1876 Cainan macro-vector cross-file update applied; SOR register-extension / Benjamin label bounded update applied (July 2026); bounded File_66 reciprocal pointer applied August 8 2026
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Pressure-test status: Current; publication-clean verification complete; detailed pressure-test record archived rather than repeated in the public file body. Focused check complete for the SOR register-extension / Benjamin label bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded SOR register-extension and Benjamin birth-label addition (§0.1 row; §2 register row and notes) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded SOR register-extension and Benjamin birth-label addition (§0.1 row; §2 register row and notes) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed.
 Primary domain: Regular; Cumulative; Comparative; Theological; Prophetic
 Traditions: MT; SP; LXX; BJ; SOR
 Canonical source: Markdown
 Primary anchors: 1446 BC; 1876 BC; 2166 BC; 2091 BC; 1991 BC; 1951 BC; 1776 BC; 2435 BC; 2260 BC; 2438 BC; 2263 BC; 1981 BC; 1906 BC; 1806 BC; 1946 BC; 1846 BC; 1406 BC; 1231 BC; AD 60; 6 BC; AD 25/26; 3901–3894 BC; 3896 BC; 3894 BC; 3926 BC; 2238 BC; 1936 BC; 1656 BC; 2066 BC; 2006 BC
-Related files: `File_00`; `File_05`; `File_16`; `File_18`; `File_51a`; `File_51c`; `File_53`; `File_54`; `File_20`; Restart Capsule v11.17
+Related files: `File_00`; `File_05`; `File_16`; `File_18`; `File_60`; `File_51a`; `File_51c`; `File_53`; `File_54`; `File_20`; Restart Capsule v11.17; File_66
 Major operators: +60 Terah; SP-215 / Sojourn 215; same-side BC span; civil cross-axis span; Cainan macro-vector B6 by dependency; regular-Cainan `460` same-side symmetry by dependency; +3.5 Aaron/Moses offset; 720 × 360 scaling; 40 × 49 Jubilee harmonic; 6 × 360 prophetic scaling; +30 Ministry Shift; `160 = 4 × 40`
-Major modal states: MT Regular Abraham biography; MT Adjusted / SP-215 Abraham biography; SP Regular Abraham biography; LXX Regular death-tumbler witness; 1876 BC convergence year-label; Cainan macro-vector Abraham / 1876 dependency state; 1991/1776 BC death slash-pair; MT Cumulative Moses register; MT Cumulative Aaron register; BJ / Jubilees register; SOR / Seder Olam low-bound register; subordinate Ramesside Exodus state; Sarah harmonic state; cross-modal 390 harmonic; Messianic Week state; AD 25/26 ministry slash-pair / display-state; SOR MT-sub-variant classification by File_20 dependency; Benjamin 1906 birth-label state
+Major modal states: MT Regular Abraham biography; bounded Terah-inclusive `−33` dependency state; MT Adjusted / SP-215 Abraham biography; SP Regular Abraham biography; LXX Regular death-tumbler witness; 1876 BC convergence year-label; Cainan macro-vector Abraham / 1876 dependency state; 1991/1776 BC death slash-pair; MT Cumulative Moses register; MT Cumulative Aaron register; BJ / Jubilees register; SOR / Seder Olam low-bound register; subordinate Ramesside Exodus state; Sarah harmonic state; cross-modal 390 harmonic; Messianic Week state; AD 25/26 ministry slash-pair / display-state; SOR MT-sub-variant classification by File_20 dependency; Benjamin 1906 birth-label state
 Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; `File_00`; `File_16`; `File_18`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history)
 Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded SOR register-extension and Benjamin birth-label addition registered from the Regular-page publication discussion record.
 
 # Abraham — Patriarch Generation 20 and the Fractal Pivot
+
+
+File_66 reciprocal SP-215 note:
+Final `File_66` reuses File_01's inherited MT Adjusted / SP-215 Abraham biography `1951/1876/1776 BC` and derives `1851 BC = 2066 − 215` only as a downstream Isaac comparison member. File_01 remains controlling for the Abraham biography states; `1851 BC` is not added here as a Primary anchor, SP textual datum, or new Abraham biography row.
 
 ## 0. File-function
 
@@ -36,6 +40,7 @@ The following states are active in `File_01`. They are simultaneous, non-competi
 | LXX Regular death-tumbler witness | 1951 BC; 1876 BC; 1776 BC | LXX-associated Abraham death state | Final handling: `1776 BC` is retained as the LXX Regular member of the death-tumbler slash-pair. |
 | 1876 BC convergence year-label | 1876 BC | Entry / Call / convergence Super-Anchor | Dependency-controlled by `File_16`; locally functions as Node A. |
 | Cainan macro-vector Abraham / 1876 dependency state | 2091 BC; 1876 BC; 1661 BC; regular Cainan `2551–2091 BC` and `2336–1876 BC` by File_16 / File_18 dependency | Cainan macro-vector witness touching Abraham Call / Entry labels | `File_16` controls Category B / B6 classification; `File_18` supplies source values. In `File_01`, this state clarifies that the `1876 BC` Abraham Call / Entry label is a shared target, not a new Abraham biography row. |
+| Bounded Terah-inclusive `−33` dependency state | Terah `2203→1998 BC`; qualified composite `2263→2058 BC`; Abraham positional companion `2133→2058 BC` | structural scope / sibling-slot companion | `File_60` controls the detailed Terah lattice and `File_00` controls scope. These are qualified positional/composite states; they do not replace Abraham's ordinary biological birth `2166 BC`, Call `2091 BC`, or death `1991 BC`. |
 | 1991/1776 BC death slash-pair | 1991 BC; 1776 BC | Death-state slash-pair | `1991 BC` = MT Regular Abraham Death; `1776 BC` = MT Adjusted / SP Regular / LXX Regular Abraham Death. The slash-pair is not a range. |
 | MT Cumulative Moses register | 2435 BC; 2260 BC; 1406 BC | cumulative Abraham node; lifespan-close / successor node; Moses death endpoint | Pair arithmetic checks locally; `12600` remains dependency-controlled by `File_51a` and Restart Capsule v11.15. |
 | MT Cumulative Aaron register | 2438 BC; 2263 BC; +3.5 | cumulative priestly display labels; Aaron/Moses offset | Integer display labels retained; exact `+3.5` offset preserved as underlying modal operator. |
@@ -109,6 +114,10 @@ Arithmetic facts and textual/dependency data carry the base layer of the file. S
 
 ### 0.6 Machine Guards for `File_01`
 
+Machine Guard [FILE_01 FILE_66 SP-215 ISAAC NON-RETROJECTION]:
+Final File_66 may use File_01's inherited MT Adjusted / SP-215 Abraham biography `1951/1876/1776 BC` and may derive `1851 BC = 2066 − 215` as a File_66 Isaac comparison member. `1851 BC` is not a File_01 Primary anchor, not an added SP textual datum, and does not replace File_01's regular or adjusted Abraham biography states.
+
+
 Machine Guard [ABRAHAM 1876 YEAR-LABEL]:
 
 `1876 BC` is a shared year-label. It must not be treated as a single node merely because several systems land on it. In `File_01`, it functions locally as Node A, the Nexus, with Entry / Call language. By dependency, `File_16` expands the year-label into multiple node-classes. These are related convergence witnesses, not one collapsed event.
@@ -128,6 +137,10 @@ The MT Cumulative Moses and MT Cumulative Aaron rows are cumulative registers, n
 Machine Guard [ABRAHAM AARON +3.5]:
 
 The Aaron/Moses priestly offset remains exact at `+3.5`. The printed `2438 BC` and `2263 BC` labels are integer display labels and must not be used to reduce the exact offset to `+3` or `+4`.
+
+Machine Guard [ABRAHAM TERAH `−33` POSITIONAL NON-REPLACEMENT]:
+
+The repository's operative localized `−33` scope now begins at Terah, but `File_01` does not replace Abraham's ordinary biography. Terah `2203→1998 BC`, composite Terah `2263→2058 BC`, and Abraham positional `2133→2058 BC` are dependency-controlled structural companions from `File_60` / `File_00`. The net composite `+27` is not a fourth sibling state or a new Abraham birth.
 
 Machine Guard [ABRAHAM RAMESSES NON-REPLACEMENT]:
 

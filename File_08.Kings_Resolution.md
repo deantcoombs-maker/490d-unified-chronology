@@ -4,20 +4,27 @@ Legacy source title: ENTITY_THE_KINGS.md
 Entity: THE KINGS
 Classification: The Resolution
 UUID: ERA_KINGS_JUDAH
-Status: Final; post-final pressure tested; File_13 cross-file update applied; File_14 adjacent-date cross-file update applied; File_19 Hezekiah / Temple 430 cross-file update applied; File_31 AD 30n / AD 33n Passion-date clarification applied; Samaria Node cross-file update applied
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; focused pressure test complete for the File_13, File_14, File_19, and Samaria Node bounded cross-file updates and public-clean cleanup.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested baseline retained; author-directed precise/Rounded United-Monarchy chronology correction applied July 24 2026; bounded File_64 reciprocal Judges-derived `1016 BC` pointer applied July 26 2026; bounded July 27 2026 Northern-Kingdom `+33`, paired-`930`, and double-`400` reciprocal amendment applied and focused verified; prior File_13, File_14, File_19, File_31, and Samaria Node updates retained; bounded Final File_65 reciprocal pointer applied August 3 2026; bounded File_66 reciprocal pointer applied August 8 2026; bounded File_67 reciprocal pointer applied August 10 2026; bounded File_68 famine-year interval correction applied August 12 2026; bounded Final File_68 reciprocal pointer applied August 13 2026
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; File_65 reciprocal replacement prepared in the August 3 2026 release package.
+Pressure-test status: Current; prior focused pressure tests retained; July 24 2026 precise/Rounded United-Monarchy correction received bounded arithmetic, state-firewall, table, and Markdown verification only; focused reciprocal-routing verification complete July 26 2026 for the original File_64 pointer; focused bounded verification complete July 27 2026 for the Northern `+33`, paired-`930`, double-`400`, dependency, Machine-Guard, table, heading, fence, and publication-clean amendment; no new full pressure test is claimed. Bounded File_65 pointer received focused diff, guard, dependency, and Markdown checks only; no new full pressure test and no File_65 pressure-tested status claimed.; focused reciprocal-routing verification complete August 10 2026 for the bounded File_67 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 13 2026 for the bounded File_68 pointer; no new full pressure test claimed
+Focused correction verification status: Complete July 24 2026 — included in the File_63 Finalization package-level `176/176` verification PASS; no new full pressure test claimed
+Focused Northern-amendment verification status: Complete July 27 2026 — `47/47` targeted arithmetic, phase, state-firewall, dependency, protected-section, Machine-Guard, Markdown-table, heading, fence, and publication-clean checks PASS; `21/21` Markdown tables structurally valid; `18/18` Machine Guards present and unique; `52/52` code-fence markers balanced; §§2–4 remain byte-identical to the prior source; no proof-bearing correction required
+Reciprocal-routing verification status: Original bounded File_64 pointer applied and focused checked July 26 2026; expanded July 27 File_64 reciprocal amendment applied and focused machine-diff, arithmetic, phase, dependency, state-firewall, Machine-Guard, Markdown-structure, and publication-clean checks completed; no new full pressure test was performed for either bounded update. Final File_65 pointer applied August 3 2026 and focused machine-diff checked; no new full pressure test; bounded Final File_68 pointer applied and focused machine-diff, dependency, guard, and Markdown checks completed August 13 2026; no new full pressure test
+Register Agreement status: Existing File_08 states and Machine Guards retain their prior control basis. The exact File_65 reciprocal guard is registered at State Vocabulary Register v1.36 Part D §D.29 and routed through Restart Capsule v11.35. The bounded File_65 pointer imports no File_65 coordinate as a File_08 Primary anchor and changes no source duration, historical chronology, Judah `+50` ledger, precise or Rounded royal rail, operator, Mirror protocol, claim-status label, theological claim, or dependency boundary. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed.; File_67 reciprocal guard registered at State_Vocabulary_Register v1.39 §D.31 and routed through Restart Capsule v11.38; no pre-existing proof-bearing state or Primary anchor changed; File_68 reciprocal guard registered at State Vocabulary Register v1.40 Part D §D.32 and routed through Restart Capsule v11.39; no pre-existing proof-bearing state or Primary anchor changed
 Primary domain: Regular; Prophetic; Calendar; Theological
 Traditions: MT; biblical Kings / Samuel; Ezekiel; Daniel; Jeremiah; Josephus / Second Temple destruction tradition
 Canonical source: Markdown
-Primary anchors: 1876 BC; 1446 BC; 1016 BC; 967/966 BC; 726–721 BC; late 722 BC ±1; 587/586 BC; 537/536 BC; 1191 BC; 701 BC; 686 BC; 1846 BC; AD 70; AD 29515
-Related files: File_00; File_05; File_06; File_07; File_13; File_14; File_16; File_17; File_18; File_19; File_54; Restart Capsule v11.15
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1` if opened; Triple `430`; Ezekiel `390 + 40`; Kings dual-ledger `+50`; `967 − 587 = 380`; `966 − 586 = 380`; `1191 → 701 = 490`; `36 + 394.5 = 430.5`; `967 BC` second month → `537 BC` second month = `430`; `1846 → 586 = 1260`; lunar-to-360-day rounded calendar gearbox; Av 10 Lunar Day `128` → Prophetic Day `130`; Av 9 Lunar Day `127` → Prophetic Day `129`; Daniel `1290`; Samaria Node schematic ledger; Israel literal-reign schematic ledger; `966 → 726 = 240`; `1446 → 966 → 726 = 480 + 240`; Davidic `30 + 2 + 5 + 33`; Hebron `7` / `7.5`
-Major modal states: Actual / Historical Kings ledger; Verbatim / Schematic Kings ledger; `967/966 BC` Temple foundation adjacent-state; Samaria Node / Israel literal-reign schematic ledger state; Temple-borrowed Israel ledger state; `587/586 BC` adjacent Fall of Jerusalem date-state; subordinate Ramesside Conquest-to-Hezekiah state; File_19 applied Hezekiah expansion state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; repository-wide lunar-to-360 calendar rule; Jeremiah Protocol calendar-state; Josephus Mirror; exact Hebron state; rounded Hebron state; David / Adam / Christ typological comparison; Final File_13 Christological dependency state; Final File_14 adjacent-date dependency state
+Primary anchors: 1876 BC; 1446 BC; precise royal phase fields 1050t/n BC; 1010t/n BC; 970t/n BC; 930t/n BC; Rounded royal comparison 1051n/1011n/971n/931n BC; 1016 BC; 967/966 BC; 726–721 BC; late 722 BC ±1; 587/586 BC; 537/536 BC; 1191 BC; 701 BC; 686 BC; 1846 BC; AD 70; AD 29515
+Derived comparison coordinates: approximately 963t/n BC; 1003 BC by rounded whole-year comparison; 999/992/979 BC
+Dependency-controlled comparison coordinates: 1929/1922/1909 BC; 1896/1889/1876 BC; 1400n–1399n BC; 1366 BC
+Related files: File_00; File_04; File_05; File_06; File_07; File_13; File_14; File_16; File_17; File_18; File_19; File_51a; File_54; File_63; File_64; Restart Capsule v11.33; State Vocabulary Register v1.34; File_65; File_66; File_67; File_68
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1` if opened; precise Nisan/Tishri royal phase rails; Rounded mod-5 royal rail by File_51a dependency; exact David diagonal `1010n→970t=40.5`; Triple `430`; Ezekiel `390 + 40`; Kings dual-ledger `+50`; Israel literal-reign back-projection from `722t/721n BC`; lesser Northern `+33`; paired `7 + 13` three-node construction rail; uniform same-side `930` translation; alternative single-`33` routes; land-rest / Joshua double-`400`; `967 − 587 = 380`; `966 − 586 = 380`; `1191 → 701 = 490`; `36 + 394.5 = 430.5`; `967 BC` second month → `537 BC` second month = `430`; `1846 → 586 = 1260`; lunar-to-360-day rounded calendar gearbox; Av 10 Lunar Day `128` → Prophetic Day `130`; Av 9 Lunar Day `127` → Prophetic Day `129`; Daniel `1290`; Samaria Node schematic ledger; Israel literal-reign schematic ledger; `966 → 726 = 240`; `1446 → 966 → 726 = 480 + 240`; Davidic `30 + 2 + 5 + 33`; Hebron `7` / `7.5`
+Major modal states: precise United-Monarchy phase rail; Rounded United-Monarchy mod-5 rail; precise Solomon phase joint / proposed co-rule interpretation; Actual / Historical Temple ledger; Verbatim / Schematic Kings ledger; File_64 Judges-derived `1016 BC` corroboration state; Kings of Israel lesser `+33` state; Northern lesser-variant `999/992/979 BC` construction state; Jacob–construction paired-`930` comparison state; crossed Jacob–Temple double-`430` state; Bethel–Adam sleep / wife typology state; land-rest / Joshua double-`400` Temple state; `967/966 BC` Temple foundation adjacent-state; Samaria Node / Israel literal-reign schematic ledger state; Temple-borrowed Israel ledger state; `587/586 BC` adjacent Fall of Jerusalem date-state; subordinate Ramesside Conquest-to-Hezekiah state; File_19 applied Hezekiah expansion state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; repository-wide lunar-to-360 calendar rule; Jeremiah Protocol calendar-state; Josephus Mirror; exact Hebron state; rounded Hebron state; David / Adam / Christ typological comparison; Final File_13 Christological dependency state; Final File_14 adjacent-date dependency state
 Major claim-status labels: textual datum; source-retained chronology datum; arithmetic fact; structural inference; dependency-controlled; Mirror corroboration; typological reading; theological note; reception-history note; audit note
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; listed file dependencies; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.33; State Vocabulary Register v1.34; Project Procedures v3.5; prior finalized source; author-directed precise/Rounded United-Monarchy correction of July 24 2026; corrected File_18 table source; File_51a Rounded Scaffold controller; Final File_63 downstream synthesis; Final post-final pressure-tested File_64 including the July 27 `1876/1016 BC` amendment; bounded File_64 reciprocal updates of July 26–27 2026; author-directed Northern `+33`, paired-`930`, and double-`400` discussion; listed file dependencies; Repository_Change_Archive (non-controlling history); Final File_65 and its August 3 2026 reciprocal-control package; State Vocabulary Register v1.36; Restart Capsule v11.35; Repository Change Archive v1.45 (non-controlling history).; Final post-final pressure-tested File_67; State Vocabulary Register v1.39; Restart Capsule v11.38; Final File_68 after the August 13 2026 Finalization refresh; State Vocabulary Register v1.40; Restart Capsule v11.39
+Current refresh note: The July 24 2026 bounded correction distinguishes the precise `1050t/n→1010t/n→970t/n→930t/n BC` rail from the File_51a Rounded `1051n→1011n→971n→931n BC` rail. The July 26 pointer retains File_64's independent `1016 BC` Judges corroboration. The July 27 bounded amendment additionally registers the historically anchored lesser Northern `+33` comparison, its `963/1003/999 BC` coordinates, the `999/992/979 BC` construction rail, paired Jacob–construction `930` spans, crossed alternative `860` routes, and double-`400` companions. These are comparison states only: they do not replace the actual `930 BC` division, the existing `966→726 BC` Samaria `+36` route, the Judah `+50`, the historical `967/966 BC` Temple, or either United-Monarchy rail. The August 3 2026 bounded File_65 pointer adds only the exact reciprocal dependency and non-collapse guard; no Primary anchor, source duration, historical chronology, operator, or existing proof spine changed.
+
+File_68 residual-audit note: The Genesis 45:6 comparison now uses interval-safe terminology. Jacob’s Entry at `1876 BC` is the Famine-Year-2 close / Year-3 head after two completed famine years. No Kings arithmetic, reign state, or typological conclusion changes; no new full pressure test is claimed.
 
 # File_08 — The Kings: The Resolution
 
@@ -25,7 +32,8 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 
 | File | Function for `File_08` |
 |---|---|
-| `File_00` | Repository foundation, Triple Witness methodology, Mirror / civil / inverse firewalling, calendar-gearbox controls, global modal-state discipline, and Samaria Node schematic envelope / Israel literal-reign schematic ledger controls. |
+| `File_00` | Repository foundation, Triple Witness methodology, Mirror / civil / inverse firewalling, calendar-gearbox controls, global modal-state discipline, Samaria Node schematic envelope / Israel literal-reign schematic ledger controls, and the year-level `241.5` Northern reign-sum state. |
+| `File_04` | Controls Jacob's standard `1929/1909/1859 BC` chronology and localized LXX `−33` rail `1896/1876/1826 BC`. File_08 uses only the bounded `1929/1922/1909` and `1896/1889/1876` comparison rails derived in File_64; File_04 remains the Jacob chronology controller. |
 | `File_05` | Primary `1446 BC` Exodus anchor and subordinate `1231 BC` Ramesside Exodus state. |
 | `File_06` | Subordinate Ramesside Conquest state, especially `1191 BC`, and Joshua / Judgment-path controls. |
 | `File_07` | Creation-week microstructure, Adamic apparent-age field, `7` / `7.5` state discipline, and David-as-New-Adam dependency field. |
@@ -33,13 +41,24 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_14` | Final pressure-tested control for `587/586 BC` adjacent Fall of Jerusalem wording and `967/966 BC` adjacent Temple foundation wording where Triple-1656 / 480th-year boundary reckoning is explicitly active. |
 | `File_16` | `1876 BC` Nexus, Triple `430`, `+50` Jubilee Offset, `1846 BC`, `1260`, `1290`, and Samaria / Jerusalem twin-city judgment vector controls where the File_00 Samaria Node is opened. |
 | `File_17` | Prophetic span-component anatomy for `390`, `40`, `430`, `720`, `1150`, `1260`, and `1290`, including the Samaria Node half-cycle control by File_00 dependency. |
-| `File_18` | Kings of Judah Baseline, especially the Verbatim / Actual reign-sum verification in §2E. |
+| `File_18` | Corrected Kings table source: precise `1050t/n→1010t/n→970t/n→930t/n BC`, Rounded `1051n→1011n→971n→931n BC`, and Verbatim / Schematic and Actual / Historical Temple-ledger verification. |
 | `File_19` | Applied Hezekiah prophetic complex. Expands the `1191 BC → 701 BC = 490` Hezekiah Jubilee / Sabbatical harmonic, records the local Kings ledger `36 + 394.5 = 430.5`, and preserves the literal `967 BC` second-month → `537 BC` second-month `430` foundation-to-foundation coreference without replacing the schematic `1016 BC` → `586 BC` route. |
+| `File_51a` | Controls the Rounded Scaffold royal rail and the `1531n→971n=560` / `1526n→966n=560` comparison locks. |
 | `File_54` | Later-file claim-status, Mirror classification, and typological restraint exemplar. |
-| Restart Capsule v11.15 | Repository-wide anchor and operator control, especially the Kings of Judah dual-ledger `+50`. |
+| `File_63` | Downstream carrier synthesis using the corrected precise / Rounded royal distinction. File_08 remains the Kings controller. |
+| `File_64` | Final post-final pressure-tested Judges duration-ledger synthesis. It independently derives `1016 BC`, then opens the bounded Kings-of-Israel lesser `+33`, `963/1003/999 BC`, the `999/992/979 BC` construction sequence, paired Jacob–construction `930` rails, crossed `860` routes, and double-`400` companions. File_08 adopts only the Kings-domain comparison states and retains control of the historical `966 BC` Temple, Judah `+50`, royal chronology, and Northern-state firewalls. |
+| Restart Capsule v11.30; State Vocabulary Register v1.31 | Repository-wide anchor, modal-state, and operator control; corrected Kings vocabulary remains pending formal registration. |
+| `File_65` | Final comparative companion controlling the A7-primary / A6-audit reverse Judah ledger, the Ahaziah–Athaliah succession seam, the fixed post-Athaliah `292`, exact `299 → 300` completion, and the File_65-local schematic `886n BC` node. File_08 remains the Kings source-duration and dual-ledger controller. |
+| `File_68` | Downstream Final synthesis using File_08's `1016/966 BC` Temple pair, Judah `+50`, `430/480` carriers, and `606/586/536 BC` closing field inside the generation-resolved Sanctuary/Kings matrix. File_08 remains the Kings chronology controller. |
+
+File_65 reciprocal reverse-Judah note:
+Final `File_65` applies the File_08 Kings duration data to a bounded evidence-accounting ledger. It treats Athaliah's seventh-year boundary as the primary schematic state, preserves her six completed years as an audit state, isolates the post-Athaliah `292`, and derives `292 + 7 = 292 + 6 + 1 = 299`, completed through `300/299` to a File_65-local `886n BC` head. This reciprocal pointer does not alter File_08's historical `967/966 BC` Temple, Kings `+50`, precise/Rounded monarchy rails, or source durations.
 
 Dependency note:
-`File_08` cites `File_18`, §2E, for the detailed Kings of Judah arithmetic baseline. This file preserves the dependency and does not locally reconstruct that reign-sum table.
+`File_08` cites corrected `File_18`, §2.5, for the detailed Kings table. The precise Nisan/Tishri rail and the Rounded mod-5 rail are now both displayed locally because their non-collapse is foundational to the Kings state. The broader reign-sum table remains File_18-controlled.
+
+Rounded-rail dependency note:
+`File_51a` controls `1051n→1011n→971n→931n BC` as a mod-5 comparison rail. `File_08` controls the literal / precise royal phase rail. A shared forty-year reign length does not make the coordinates one chronology.
 
 Dependency note:
 The Hezekiah Jubilee / Sabbatical harmonic uses the subordinate Ramesside Conquest state `1191 BC` and the Hezekiah field anchor `701 BC`. `File_08` preserves the state. The same-side span is verified in §0.7.
@@ -49,6 +68,27 @@ Dependency note:
 
 Dependency note:
 `File_19 Final; post-final pressure tested` supplies the applied Hezekiah prophetic complex and Temple `430` expansion. `File_08` remains the Kings-era parent control for the `1191 BC → 701 BC = 490` Hezekiah Jubilee / Sabbatical harmonic, while `File_19` develops the Hezekiah-specific bidirectional `720`, `185000`, `AD 29515`, Temple `430.5`, and literal post-exilic `430` coreference states.
+
+File_64 reciprocal Judges / Kings note:
+Final post-final pressure-tested `File_64` independently derives the schematic `1016 BC` coordinate from the bounded Judges duration corpus. Its July 27 amendment then tests the parallel Northern monarchy against the historical `722t/721n BC` fall of Samaria. File_08 now adopts the bounded Kings-domain conclusions: approximately `963t/n BC` as the lesser reign-ledger head, `1003 BC` as the rounded whole-year David-overlap comparison, and `999/992/979 BC` as the lesser Northern Temple–palace construction rail. Jacob chronology, Bethel typology, and land/Joshua comparison coordinates remain dependency-controlled by Files 04 and 63. This amendment does not import Judges durations as Kings reign sums, does not revise the Judah `+50`, and does not alter the historical `967/966 BC` Temple or either United-Monarchy rail.
+
+
+File_66 reciprocal twin-Judah note:
+Final `File_66` combines File_08's Kings chronology with File_65's A7/A6 ledger and File_19's Hezekiah field into twin Actual/Historical and Verbatim/Schematic Judah rails. File_08 remains controlling for the precise/Rounded United-Monarchy rails, the historical `967/966 BC` Temple state, the schematic `1016 BC` pivot, and the Judah `+50` ledger.
+
+### File_67 boundary-kings / fourfold-480 reciprocal note
+
+Final, post-final pressure-tested `File_67` derives Rehoboam's `1021 BC` and Zedekiah's `618 BC` Verbatim/Schematic birth labels from the Kings/Chronicles accession ages and File_08-controlled royal heads. It also compares the historical `1446→966=480` and schematic `1496→1016=480` rails with the Ramesside/Hezekiah `1231→751=480` and `1191→711=480` rails. File_08 remains controlling for the precise, Rounded, Actual/Historical, and Verbatim/Schematic monarchy states, the `1016/966 BC` Temple pair, the Judah `+50`, and the source reign notices.
+
+Machine Guard [FILE_08 FILE_67 BOUNDARY-KINGS / FOURFOLD-480 ROUTING]:
+Final File_67 may derive Rehoboam `1021 BC` and Zedekiah `618 BC` as Verbatim/Schematic birth labels and may compare four declared `480` rails. It does not redefine File_08's historical or schematic monarchy chronology, source reign notices, `1016/966 BC` Temple pair, Judah `+50`, precise royal phases, or Rounded comparison rail; no File_67 generated coordinate becomes a File_08 Primary anchor.
+
+### File_68 Sanctuary/Kings reciprocal note
+
+Final `File_68` places File_08's controlled `1016/966 BC` Temple pair and `606/586/536 BC` closing field inside a downstream finite Sanctuary/Kings matrix. It derives no new Kings reign notice and does not move the historical Temple foundation. The File_68 mixed central triples and generated full-resolution coordinates remain File_68-local.
+
+Machine Guard [FILE_08 FILE_68 SANCTUARY-KINGS ROUTING]:
+Final File_68 may use the File_08 `1016/966 BC` Temple pair, Judah `+50`, `430/480` carriers, and `606/586/536 BC` closure inside its downstream `20|50` and `1290→1260→1150` synthesis. It does not redefine File_08's Actual/Historical or Verbatim/Schematic chronology, source reign notices, Judah `+50`, historical `967/966 BC` Temple foundation, or Primary anchors; no File_68 generated coordinate becomes a File_08 anchor.
 
 ## 0. File-function
 
@@ -62,6 +102,7 @@ The file gathers four related structures:
 | Restored harmonics | Records the Hezekiah Jubilee / Sabbatical harmonic and the Sin-Bearer fractal. |
 | Jeremiah Protocol | Records Av 10, Av 9, Day `130`, Day `129`, Daniel `1290`, and the Josephus / AD 70 calendar mirror. |
 | David as New Adam | Preserves David’s `30 + 2 + 5 + 33` biographical pattern and the Adam / David / Christ typological chain. |
+| Northern lesser `+33` completion | Tests the Israel reign ledger from the historical Fall-of-Samaria phase field, distinguishes it from the existing `+36` Samaria route, and registers the paired `930` and double-`400` corroborations. |
 
 This file does not replace `File_16`, `File_17`, or `File_18`. It functions as the Kings / Davidic resolution file that indexes those controls inside the monarchy field.
 
@@ -81,11 +122,22 @@ The following states are active in `File_08`. They are simultaneous, non-competi
 | State | Primary values / forms | Node-class / function | Handling in `File_08` |
 |---|---:|---|---|
 | File identity state | `File_08`; THE KINGS; The Resolution | Kings-era entity file | Preserved. |
+| Precise United-Monarchy phase rail | Nisan `1050→1010→970→930 BC`; Tishri `1050→1010→970→930 BC` | literal / phase-resolved Saul–David–Solomon chronology | Primary royal chronology. Every same-phase reign is `40`; David’s exact cross-phase diagonal is `1010n→970t=40.5`. |
+| Rounded United-Monarchy mod-5 rail | `1051n→1011n→971n→931n BC` | Rounded Scaffold royal comparison | File_51a-controlled comparison state. Do not call this the literal / actual royal chronology. |
+| Solomon phase-joint state | `970n→970t BC` | precise half-year boundary; proposed co-rule / sole-rule interpretation | The phase field is precise. The exact six-month co-rule interpretation remains proposed because the source does not state the duration. |
 | Triple `430` state | 1876 BC; 1446 BC; 1016 BC; 586 BC | prophetic schematic ledger | First `430` is the Sojourn span; later `430` spans depend on the schematic `1016 BC` pivot. |
 | Samaria Node / Israel literal-reign schematic ledger state | `967/966 BC`; `726–721 BC`; clean display `966 BC → 726 BC = 240`; year-level Israel reign-sum `241.5` before sub-year residue | conceptual Kings / Samaria ledger by File_00 dependency | `966 BC` remains the historical Temple foundation anchor in File_08. When File_00 opens the Samaria Node, the same label may function as the borrowed schematic head of the Israel literal-reign ledger, without correcting actual Northern chronology. |
+| Kings of Israel lesser `+33` state | historical terminus `722t/721n BC`; phase heads `963n/963t BC`; whole-year shorthand approximately `963 BC`; actual beginning `930 BC` | actual-fall-anchored Northern comparison ledger | `963n→722t=241.5` and `963t→721n=241.5`; `963−930=33`. This state is lesser than the Judah `+50` and distinct from the existing borrowed-Temple `966→726=240` / `+36` route. |
+| Rounded David-overlap comparison state | `1003 BC`; `963 BC`; schematic royal `40` | whole-year comparison | `1003−963=40`. The `1003 BC` label overlaps the rounded historical display of David's accession over all Israel after seven years at Hebron; it does not replace the precise `7.5`-year chronology. |
+| Northern lesser-variant construction state | `999→992→979 BC = 7+13`; historical-rounded `966→959→946 BC = 7+13` | Temple / completion / palace comparison rails | The uniform `+33` translates all three construction coordinates. `999 BC` is not a historical Temple foundation. |
+| Jacob–construction paired-`930` comparison state | standard Jacob `1929/1922/1909 BC` versus Northern `999/992/979 BC`; localized LXX `1896/1889/1876 BC` versus historical-rounded `966/959/946 BC` | dependency-controlled same-side comparison | Each corresponding span is `930`. Jacob chronology remains File_04-controlled; construction chronology remains Kings-domain comparison. |
+| Crossed Jacob–Temple double-`430` state | `1859→999=860`; `1826→966=860`; control `1826→999=827` | alternative single-`33` routes | Apply either Jacob `−33` or Northern Temple `+33`, not both. |
+| Bethel–Adam sleep / wife typology state | Adam lifespan `930`; Jacob's Bethel sleep; `1922 BC` wife / household field seven years later | typological reading | The `930` spans are arithmetic facts. The Adam–Jacob association is interpretive and does not generate dates or prove direct dependence. |
+| Land-rest / Joshua double-`400` Temple state | `1399→999=400`; `1366→966=400` | dependency-controlled sanctuary corroboration | `1399 BC` is land rest; `1366 BC` is Joshua's death. Do not claim that every member of Joshua's generation died in `1366 BC`. |
 | Kings dual-ledger state | 966 BC; 1016 BC; `+50` | historical Temple ledger versus schematic Temple ledger | Preserve both ledger states. Do not let `1016 BC` overwrite `966 BC`. |
 | Actual / Historical Kings ledger | 966 BC | historical Temple foundation anchor | Historical ledger state. Distinct from schematic `1016 BC`. |
 | Verbatim / Schematic Kings ledger | 1016 BC | Triple-`430` schematic Temple pivot | Schematic ledger state generated by the `+50` offset. Distinct from historical `966 BC`. |
+| File_64 Judges-derived `1016 BC` corroboration state | `430/450/490`; opening / joint / closure of the final `40 + 20` | downstream applied list-chronology witness | File_64 independently lands on the existing schematic `1016 BC` coordinate. It corroborates but does not generate or redefine the File_08 Kings dual ledger. |
 | Temple foundation adjacent-state | `967/966 BC` | 480th-year / ordinary historical ledger adjacency | `966 BC` remains the normal File_08 historical Temple foundation anchor. `967 BC` is available where a 480th-year / boundary-state reading is explicitly active. Do not use `967 BC` to correct `966 BC`. |
 | Fall of Jerusalem adjacent-date state | `587/586 BC` | adjacent Fall of Jerusalem date-state pair | `586 BC` remains the primary File_08 Fall of Jerusalem / schematic endpoint state. `587 BC` is also an allowed Fall of Jerusalem date and may function locally as the exact Triple-1656 terminus where `File_14` opens that state. Do not word `587 BC` as merely schematic or short of Jerusalem's fall. |
 | Ezekiel `390/40` state | `390 + 40 = 430` | Ezekiel burden split | Preserved as prophetic span-component state; full anatomy controlled by `File_17`. |
@@ -129,13 +181,38 @@ The actual historical function of `966 BC` in `File_08` is unchanged: it remains
 Machine Guard [FILE_08 SAMARIA NODE / TEMPLE NODE FIREWALL]:
 When `966 BC` is used as the schematic head of the Israel literal-reign ledger, the active state is File_00 Samaria Node dependency. Do not use that state to correct Jeroboam's actual accession, the actual beginning of the Northern Kingdom, the actual late-`722 BC` Fall of Samaria, or File_08's historical Temple foundation anchor.
 
+### 0.1B Northern lesser-`+33` reciprocal state
+
+Active state: historical-fall-anchored Israel reign ledger.
+
+The July 27 File_64 amendment distinguishes two Northern schematic routes:
+
+```text
+borrowed-Temple Samaria route: 966 → 726 = 240; excess above 930 = 36
+actual-fall-anchored reign route: approximately 963 → 722t/721n; excess above 930 = 33.
+```
+
+The second route is now registered locally because it belongs to the Kings domain. Its `963/1003/999 BC` coordinates and `999/992/979 BC` construction rail remain comparison states, not historical corrections.
+
 ## 0.2 Node-class and display-state register
 
 | Date / value / label | Node-class | Active state | Do not collapse with |
 |---|---|---|---|
 | 1876 BC | Sojourn / Super-Anchor origin | Triple `430`; `File_16` dependency | any other `1876 BC` node-class unless state and operator agree |
 | 1446 BC | primary Exodus anchor | Triple `430`; primary Exodus state | subordinate `1231 BC` Exodus lens |
-| 1016 BC | schematic Temple / Kings pivot | Verbatim / Schematic Kings ledger | historical `966 BC` Temple foundation |
+| 1016 BC | schematic Temple / Kings pivot | Verbatim / Schematic Kings ledger; File_64 downstream corroboration | historical `966 BC` Temple foundation |
+| `1050t/n BC` | Saul accession phase field | precise United-Monarchy rail | Rounded `1051n BC` |
+| `1010t/n BC` | David accession phase field | precise United-Monarchy rail | Rounded `1011n BC` |
+| `970t/n BC` | David–Solomon transition phase field | precise United-Monarchy rail | Rounded `971n BC`; unsuffixed `971/970` legacy mixed label |
+| `930t/n BC` | Solomon / united-monarchy terminal phase field | precise United-Monarchy rail | Rounded `931n BC` |
+| approximately `963t/n BC` | lesser Northern reign-ledger head | historical-fall-anchored Kings-of-Israel comparison | actual `930 BC` division; borrowed-Temple `966 BC` Samaria head |
+| `1003 BC` | rounded David-death / Solomon-accession comparison | lesser Northern rail extended by schematic `40` | precise David chronology; historical rounded David accession over all Israel sharing the label |
+| `999/992/979 BC` | lesser Northern Temple / completion / palace sequence | derived `+33` construction rail | historical-rounded `966/959/946 BC`; historical Temple foundation |
+| `1929/1922/1909 BC` | standard Jacob Bethel / marriage / return rail | File_04 / File_64 dependency | Kings chronology; Primary File_08 anchors |
+| `1896/1889/1876 BC` | localized-LXX Jacob Bethel / marriage / return rail | File_04 / File_64 dependency | standard Jacob rail; Kings chronology |
+| `1400n–1399n BC` | land-rest field | File_63 dependency | Joshua death `1366 BC`; Temple comparison states |
+| `1366 BC` | Joshua death | File_63 dependency | claim that all of Joshua's generation died in that year |
+| `1051n/1011n/971n/931n BC` | Rounded royal rail | File_51a mod-5 state | precise Nisan/Tishri royal phase fields |
 | 966 BC | historical Temple foundation anchor | Actual / Historical Kings ledger | schematic `1016 BC` pivot |
 | 967 BC | adjacent Temple foundation boundary-state | 480th-year / boundary-state reading by File_14 dependency | normal historical `966 BC` Temple foundation anchor |
 | 537 BC | post-exilic foundation-laying boundary-state | literal post-exilic 430 coreference by `File_19` dependency | `536 BC` restoration display; `539 BC` fall of Babylon; `586 BC` Fall of Jerusalem |
@@ -173,7 +250,7 @@ When `966 BC` is used as the schematic head of the Israel literal-reign ledger, 
 |---|---|---|
 | Related Repository Files | Identifies controlling dependencies | dependency tracking |
 | §0 | Defines file function, state register, node-class register, File map, terminology controls, modal-state rules, Machine Guards, arithmetic controls, claim-status controls, and argument controls | file-level modal states; claim-status control; final / pressure-tested source status |
-| §1 | Records the Kings logic engine | Triple `430`; Ezekiel `390 + 40`; Kings dual-ledger `+50` |
+| §1 | Records the Kings logic engine | precise / Rounded royal rails; Triple `430`; Ezekiel `390 + 40`; Kings dual-ledger `+50`; Northern lesser `+33`; paired `930` and double-`400` corroboration |
 | §2 | Records the restored harmonics | `1191 → 701 = 490`; `1846 → 586 = 1260` |
 | §3 | Records the Jeremiah Protocol | lunar-to-360-day rounded calendar gearbox; Av 10 / Day `130`; Av 9 / Day `129`; Josephus Mirror |
 | §4 | Records David as New Adam | `30 + 2 + 5 + 33`; exact / rounded Hebron state; typological comparison |
@@ -191,8 +268,12 @@ When `966 BC` is used as the schematic head of the Israel literal-reign ledger, 
 | `The “Triple 430” Harmonic` | Normalized as Triple `430` harmonic. |
 | `The Ezekiel 390/40 Split` | Normalized as Ezekiel `390/40` split. |
 | `The +50 Year Offset` | Normalized as Kings dual-ledger `+50` offset. |
+| Northern `+33` | Lesser actual-fall-anchored Israel reign-ledger comparison; not the Judah `+50` and not the existing Samaria `+36` route. |
+| paired `930` rails | Coordinate-wise same-side spans between Jacob's `7 + 13` rails and the Temple–palace `7 + 13` rails; arithmetic fact with typological restraint. |
+| former `1011→971/970→931 BC` Actual row | Reclassified as the File_51a Rounded mod-5 rail `1051n→1011n→971n→931n BC`; the precise phase rail is `1050t/n→1010t/n→970t/n→930t/n BC`. |
+| `970n→970t BC` | Precise phase joint; exact co-rule interpretation remains proposed. |
 | `Verbatim sum exceeds history` | Framed as Verbatim / Schematic ledger exceeding Actual / Historical ledger by `50` years. |
-| `FILE_18, Section 2E` | Normalized as `File_18`, §2E. |
+| `FILE_18, Section 2E` | Normalized as `File_18`, §2.5. |
 | `THE RESTORED HARMONICS` | Normalized as a numbered major section. |
 | prior unsupported Hezekiah `530` relation | Removed from executable source status by author clarification. |
 | Hezekiah replacement relation | Normalized as Hezekiah Jubilee / Sabbatical harmonic: `1191 BC → 701 BC = 490`. |
@@ -210,34 +291,73 @@ Machine Guard [FILE_08 967/966 AND 587/586 ADJACENCY]:
 ## 0.5 Modal-state processing rules
 
 1. `1016 BC` and `966 BC` are dual-ledger states. `1016 BC` is schematic; `966 BC` is historical. Do not collapse them.
-2. The Triple `430` harmonic uses a mixed literal / schematic ledger. The first `430` is literal Sojourn; the later two `430` spans use the schematic `1016 BC` pivot.
-3. The Ezekiel `390 + 40 = 430` state is a prophetic span-component state. Do not treat it as a Kings reign-sum unless `File_18` supplies that table.
-4. The Hezekiah Jubilee / Sabbatical harmonic uses `1191 BC`, the subordinate Ramesside Conquest state. It does not replace the primary `1406 BC` Conquest anchor in the repository.
-5. The Hezekiah relation is a Jubilee / Sabbatical state. Its same-side BC span and `70 × 7` factorization check as arithmetic facts; its broader interpretive framing remains dependency-controlled.
-6. The Sin-Bearer fractal uses the Affliction-start state at `1846 BC`. It does not replace the Sojourn-start / Super-Anchor state at `1876 BC`.
-7. Lunar dates and day-count labels map to the 360-day rounded calendar unless otherwise specified. This rule is repository-wide and is active in the Jeremiah Protocol.
-8. Av 10 is Lunar Day `128` and maps through the calendar gearbox to Prophetic Day `130`.
-9. Av 9 is Lunar Day `127` and maps through the calendar gearbox to Prophetic Day `129`.
-10. Av 10 / Day `130` is a Prophetic Day calendar-state claim. It is not a same-side BC span and not a civil cross-axis span.
-11. Av 9 / Day `129` is the adjacent “eve” calendar-state. It aligns with Daniel `1290` in the source argument, but Day `129` and Daniel `1290` are different node-classes unless a scaling or alignment operator is explicitly opened.
-12. AD 70 / Av 10 is local Josephus Mirror / calendar corroboration. It is not File_00 foundational Mirror protocol and not Protocol 1 or Protocol 2 Mirror unless a later dependency opens that protocol.
-13. No civil cross-axis span is computed merely by naming `AD 70`. If a BC/AD span is later computed, use `BC + AD − 1`.
-14. David’s exact Hebron state is `7.5` years. David’s rounded Hebron state is `7` years. Both are valid display / modal states.
-15. The Davidic `2 + 5 + 33 = 40` pattern belongs to the rounded Hebron decomposition. It should not be mechanically forced onto the exact `7.5` state.
-16. Ish-bosheth’s `2` years is a shadow-king / parallel-kingdom state. It is not David’s full Judah reign.
-17. David’s `33` years over unified Israel and Christ’s traditional `33` years of life are different node-classes. They may be compared typologically, but they are not identical chronological states.
-18. Adam, David, and Christ are compared typologically. Typological similarity does not create arithmetic identity unless the active operator is stated.
-19. No inverse-number operator, Residue Protocol, Key-of-23 conversion, Protocol 1 Mirror, or Protocol 2 Mirror is active in the main body of `File_08` unless a later pass explicitly opens it.
+2. The precise royal phase rails are `1050n→1010n→970n→930n BC` and `1050t→1010t→970t→930t BC`. The Rounded mod-5 rail is `1051n→1011n→971n→931n BC`. Do not label the Rounded rail Actual / Historical.
+3. `970n→970t BC` is a precise phase joint. Its interpretation as an exact six-month co-rule / sole-rule transition remains proposed.
+4. The Triple `430` harmonic uses a mixed literal / schematic ledger. The first `430` is literal Sojourn; the later two `430` spans use the schematic `1016 BC` pivot.
+5. The Ezekiel `390 + 40 = 430` state is a prophetic span-component state. Do not treat it as a Kings reign-sum unless `File_18` supplies that table.
+6. The Hezekiah Jubilee / Sabbatical harmonic uses `1191 BC`, the subordinate Ramesside Conquest state. It does not replace the primary `1406 BC` Conquest anchor in the repository.
+7. The Hezekiah relation is a Jubilee / Sabbatical state. Its same-side BC span and `70 × 7` factorization check as arithmetic facts; its broader interpretive framing remains dependency-controlled.
+8. The Sin-Bearer fractal uses the Affliction-start state at `1846 BC`. It does not replace the Sojourn-start / Super-Anchor state at `1876 BC`.
+9. Lunar dates and day-count labels map to the 360-day rounded calendar unless otherwise specified. This rule is repository-wide and is active in the Jeremiah Protocol.
+10. Av 10 is Lunar Day `128` and maps through the calendar gearbox to Prophetic Day `130`.
+11. Av 9 is Lunar Day `127` and maps through the calendar gearbox to Prophetic Day `129`.
+12. Av 10 / Day `130` is a Prophetic Day calendar-state claim. It is not a same-side BC span and not a civil cross-axis span.
+13. Av 9 / Day `129` is the adjacent “eve” calendar-state. It aligns with Daniel `1290` in the source argument, but Day `129` and Daniel `1290` are different node-classes unless a scaling or alignment operator is explicitly opened.
+14. AD 70 / Av 10 is local Josephus Mirror / calendar corroboration. It is not File_00 foundational Mirror protocol and not Protocol 1 or Protocol 2 Mirror unless a later dependency opens that protocol.
+15. No civil cross-axis span is computed merely by naming `AD 70`. If a BC/AD span is later computed, use `BC + AD − 1`.
+16. David’s exact Hebron state is `7.5` years. David’s rounded Hebron state is `7` years. Both are valid display / modal states.
+17. The Davidic `2 + 5 + 33 = 40` pattern belongs to the rounded Hebron decomposition. It should not be mechanically forced onto the exact `7.5` state.
+18. Ish-bosheth’s `2` years is a shadow-king / parallel-kingdom state. It is not David’s full Judah reign.
+19. David’s `33` years over unified Israel and Christ’s traditional `33` years of life are different node-classes. They may be compared typologically, but they are not identical chronological states.
+20. Adam, David, and Christ are compared typologically. Typological similarity does not create arithmetic identity unless the active operator is stated.
+21. No inverse-number operator, Residue Protocol, Key-of-23 conversion, Protocol 1 Mirror, or Protocol 2 Mirror is active in the main body of `File_08` unless a later pass explicitly opens it.
+22. The lesser Northern `+33` route is anchored to the historical `722t/721n BC` Fall-of-Samaria field. It does not replace the actual `930 BC` divided-kingdom beginning.
+23. The lesser Northern `+33` route and the existing borrowed-Temple `+36` Samaria route are simultaneous comparison states with different heads, termini, and operators. Do not merge them.
+24. The Jacob `−33` and Northern construction `+33` are alternative single-variant routes. Do not apply both to create an active `827`-year double-adjusted span.
+25. The paired `930` spans are arithmetic facts. Adamic interpretation of Jacob's Bethel sleep and wife field is typological and does not generate chronology or prove direct literary dependence.
+26. `1399→999=400` and `1366→966=400` are bounded sanctuary comparisons. The second uses Joshua's death coordinate and does not assert that every member of his generation died in `1366 BC`.
 
 ## 0.6 Machine Guards for `File_08`
+
+Machine Guard [FILE_08 FILE_66 TWIN-JUDAH / A7 NON-RETROJECTION]:
+Final File_66 may combine File_08's Kings chronology with File_65's A7/A6 ledger and File_19's Hezekiah field into twin Actual/Historical and Verbatim/Schematic Judah rails. File_66 does not redefine File_08's precise/Rounded monarchy rails, historical `967/966 BC` Temple, schematic `1016 BC`, Judah `+50`, or historical reign-notice data.
+
 
 Machine Guard [FILE_08 KINGS DUAL-LEDGER]:
 
 `966 BC` is the Actual / Historical Temple foundation anchor. `1016 BC` is the Verbatim / Schematic Triple-`430` pivot. The `+50` offset links the ledgers but does not collapse them.
 
+Machine Guard [FILE_08 PRECISE / ROUNDED UNITED MONARCHY]:
+
+The precise royal phase rails are `1050n→1010n→970n→930n BC` and `1050t→1010t→970t→930t BC`. The File_51a Rounded rail is `1051n→1011n→971n→931n BC`. The former mixed `1011→971/970→931 BC` row must not be restored as the Actual / Historical chronology. `966 BC` may be both the cardinal historical Temple landing and a mod-5-compatible Rounded coordinate without collapsing those states.
+
+Machine Guard [FILE_08 SOLOMON PHASE JOINT]:
+
+`970n→970t BC` is a precise half-year phase joint. The biblical narrative supports accession before David’s death but does not state an exact six-month co-regency. Preserve the precise coordinates while classifying the co-rule / sole-rule explanation as proposed reconstruction.
+
 Machine Guard [FILE_08 TRIPLE 430]:
 
 The Triple `430` expression `1876 BC → 1446 BC → 1016 BC → 586 BC` uses a mixed literal / schematic ledger. The first `430` is the literal Sojourn span. The second and third `430` spans use the schematic `1016 BC` pivot generated through the Kings dual-ledger `+50`.
+
+Machine Guard [FILE_08 FILE_64 JUDGES / KINGS NON-COLLAPSE]:
+
+File_64's Judges-derived `430/450/490` convergence may corroborate the schematic `1016 BC` Temple pivot. Its July 27 Kings-domain comparisons may be imported only under their named lesser-variant states. Do not import Judges durations as Kings reign-sum inputs; do not use them to derive or revise the Judah `+50`; and do not move the historical `967/966 BC` Temple foundation or either United-Monarchy rail.
+
+Machine Guard [FILE_08 NORTHERN +33 / SAMARIA +36 NON-COLLAPSE]:
+
+The actual-fall-anchored lesser Northern state is approximately `963t/n BC`, `33` years above actual `930 BC`. The borrowed-Temple Samaria route is `966→726=240`, `36` years above `930 BC`. Preserve both; neither corrects the other or the historical monarchy.
+
+Machine Guard [FILE_08 SINGLE-33 ALTERNATIVE ROUTES]:
+
+The active double-`430` comparisons are `1859→999=860` and `1826→966=860`. They apply either the Northern construction `+33` or Jacob's localized `−33`, not both. The double-adjusted `1826→999=827` is a control non-route.
+
+Machine Guard [FILE_08 PAIRED-930 / TYPOLOGY NON-DRIVER]:
+
+The six coordinate-wise `930` spans between the Jacob and construction rails are arithmetic facts. Adamic sleep / wife interpretation is typological only and must not generate dates, promote derived coordinates to historical anchors, or prove direct literary dependence.
+
+Machine Guard [FILE_08 JOSHUA DEATH / GENERATION RESTRAINT]:
+
+`1366 BC` is Joshua's death coordinate. The comparison `1366→966=400` does not assert that every member of Joshua's generation died in `1366 BC`.
 
 Machine Guard [FILE_08 HEZEKIAH JUBILEE / SABBATICAL]:
 
@@ -267,16 +387,25 @@ Machine Guard [FILE_08 TYPOLOGY / ARITHMETIC BURDEN]:
 
 The David / Adam / Christ comparison is preserved as typological and theological reading. It may explain why the numbers matter, but it must not replace arithmetic verification, textual data, or dependency control.
 
+Machine Guard [FILE_08 FILE_65 REVERSE-JUDAH NON-RETROJECTION]:
+Final File_65 may identify Athaliah's seventh-year boundary as the primary schematic Judah-ledger state, preserve the six-completed-year state as an audit companion, derive the fixed post-Athaliah `292`, generate `292 + 7 = 292 + 6 + 1 = 299`, complete the ledger by `300/299`, and name `886n BC` as a File_65-local schematic head. File_08 remains controlling for the Kings duration data, the historical `967/966 BC` Temple foundation, the principal Judah `+50`, and the existing historical / schematic monarchy states. Do not insert `886n BC` into File_08's Primary anchors, treat it as an accession date, rewrite Athaliah as seven completed years, or import File_65's Luke, Ezekiel, exile, or appendix arguments into the Kings proof.
+
 ## 0.7 Arithmetic-control summary
 
 Arithmetic-control scope:
-This control records visible same-side BC spans, factorization claims, exact half-year states, the calendar-gearbox day-counts active in the Jeremiah Protocol, and undefined operator dependencies. It does not reconstruct the missing `File_18`, §2E Kings of Judah reign-sum table and does not alter the argument layer.
+This control records visible same-side BC spans, factorization claims, exact half-year states, the calendar-gearbox day-counts active in the Jeremiah Protocol, and undefined operator dependencies. It does not reconstruct the `File_18`, §2.5 Kings chronology table and does not alter the argument layer.
 
 | Arithmetic type | Rule / result in `File_08` |
 |---|---|
 | Same-side BC spans | Subtract the lower BC value from the higher BC value. The Triple `430`, Hezekiah `490`, and Sin-Bearer `1260` spans check under this rule. |
 | Civil cross-axis spans | No civil cross-axis span is computed in the executable source. If AD 70 is later used in a duration calculation, use `BC + AD − 1`. |
-| Kings dual-ledger | `1446 − 480 = 966`; `1446 − 430 = 1016`; `1016 − 966 = 50`. The offset checks. Full reign-sum verification remains controlled by `File_18`, §2E. |
+| Precise / Rounded royal rails | Precise same-phase: `1050−1010=1010−970=970−930=40`; exact David diagonal `1010n→970t=40.5`. Rounded: `1051−1011=1011−971=971−931=40`. The rails remain distinct. |
+| Kings dual-ledger | `1446 − 480 = 966`; `1446 − 430 = 1016`; `1016 − 966 = 50`. The offset checks. Full reign-sum verification remains controlled by `File_18`, §2.5. |
+| Northern lesser `+33` phase audit | `963n→722t=241.5`; `963t→721n=241.5`; whole-year shorthand `963−930=33`. The phase convention is dependency-controlled by File_64 / File_09. |
+| Northern royal and construction translation | `1003−963=40`; `999−966=992−959=979−946=33`; `999−992=7`; `992−979=13`; `999−979=20`. |
+| Paired Jacob–construction `930` rails | `1929−999=1922−992=1909−979=930`; `1896−966=1889−959=1876−946=930`. |
+| Crossed alternative `33` routes | `1859−999=860`; `1826−966=860`; actual-to-actual `1859−966=893=860+33`; double-adjusted control `1826−999=827`. |
+| Double-`400` sanctuary companions | `1399−999=400`; `1366−966=400`. |
 | Triple `430` | `1876 − 1446 = 430`; `1446 − 1016 = 430`; `1016 − 586 = 430`; `430 + 430 + 430 = 1290`; `1876 − 586 = 1290`. |
 | Ezekiel split | `390 + 40 = 430`. |
 | Hezekiah Jubilee / Sabbatical harmonic | `1191 − 701 = 490`; `70 × 7 = 490`. |
@@ -290,7 +419,7 @@ This control records visible same-side BC spans, factorization claims, exact hal
 | Residue Protocol / Key-of-23 / inverse-number arithmetic | Not active in `File_08`. |
 
 Arithmetic-control result:
-All locally executable arithmetic statements in the `File_08` main body check under their stated operators after replacing the unsupported Hezekiah `530` relation with the author-clarified `1191 BC → 701 BC = 490`. Remaining issues are dependency matters, not arithmetic blockers.
+All locally executable arithmetic statements in the `File_08` main body check under their stated operators after replacing the unsupported Hezekiah `530` relation with the author-clarified `1191 BC → 701 BC = 490` and after adding the focused-verified Northern `+33`, paired-`930`, crossed-`860`, and double-`400` comparison rows. Remaining issues are dependency and control-registration matters, not arithmetic blockers.
 
 Arithmetic note:
 The adjacent-date pair preserves the same 380-year Temple-to-Fall span when the boundary state is active: `967 − 587 = 380`. This is a dependency-controlled comparison and does not replace `966 − 586 = 380`.
@@ -300,9 +429,9 @@ The adjacent-date pair preserves the same 380-year Temple-to-Fall span when the 
 | Label | Function in `File_08` |
 |---|---|
 | Textual datum | Direct biblical or extra-biblical datum, such as David's age, David's reign lengths, Ish-bosheth's two-year reign, Ezekiel's burden split, Danielic span language, or the Josephus / AD 70 Av 10 claim where preserved as source datum. |
-| Source-retained chronology datum | Chronological value preserved from the source file or a controlling dependency, especially `1876 BC`, `1446 BC`, `1016 BC`, `966 BC`, `586 BC`, `1191 BC`, `701 BC`, `1846 BC`, and AD 70. |
+| Source-retained chronology datum | Chronological value preserved from the source file or a controlling dependency, especially `1876 BC`, `1446 BC`, `1016 BC`, `966 BC`, `930 BC`, `722t/721n BC`, `586 BC`, `1191 BC`, `701 BC`, `1846 BC`, and AD 70. |
 | Arithmetic fact | Direct calculation from stated anchors, spans, factors, or calendar-count operators, such as `1191 − 701 = 490`, `1846 − 586 = 1260`, and `4 × 30 + 10 = 130`. |
-| Structural inference | Pattern inferred from repeated state-controlled alignments, such as the Triple `430`, the Hezekiah Jubilee / Sabbatical harmonic, the Jeremiah Day `129` / Daniel `1290` alignment, or the Davidic `2 + 5 + 33` rounded pattern. |
+| Structural inference | Pattern inferred from repeated state-controlled alignments, such as the Triple `430`, the Hezekiah Jubilee / Sabbatical harmonic, the Northern `+33` consistency check, the paired Jacob–construction `930` rails, the Jeremiah Day `129` / Daniel `1290` alignment, or the Davidic `2 + 5 + 33` rounded pattern. |
 | Dependency-controlled | Claim retained locally because `File_13`, `File_16`, `File_17`, `File_18`, or another file supplies the fuller derivation, table, or theological / Christological framework. |
 | Mirror corroboration | Local Mirror or calendar corroboration that stress-tests an already defined structure, especially the Josephus / AD 70 Av 10 relation. |
 | Typological reading | Theological-literary correspondence, especially David as New Adam and the Adam / David / Christ comparison. |
@@ -321,8 +450,8 @@ Arithmetic facts and textual / chronology data carry the base layer of `File_08`
 | Argument layer | Function in `File_08` | Argument control |
 |---|---|---|
 | Chronology data | Exodus, Temple, Exile, subordinate Ramesside Conquest, Hezekiah, Jeremiah / Av 10, AD 70, Davidic age and reign data. | Preserve as textual datum, source-retained chronology datum, or dependency-controlled datum according to source status. |
-| Arithmetic base | Triple `430`, Kings `+50`, Ezekiel `390 + 40`, Hezekiah `490`, Sin-Bearer `1260`, calendar gearbox, and Davidic rounded / exact reign arithmetic. | Arithmetic facts may carry the main chronological claim under their stated operators. |
-| Modal-state control | Prevents collapse of `966 BC` / `1016 BC`, `1191 BC` / primary `1406 BC`, Av 9 / Av 10, Day `129` / Daniel `1290`, and David's exact / rounded Hebron states. | Governs every section where a shared number or date-label appears. |
+| Arithmetic base | Triple `430`, Kings `+50`, Northern `+33`, paired `930`, crossed `860`, double `400`, Ezekiel `390 + 40`, Hezekiah `490`, Sin-Bearer `1260`, calendar gearbox, and Davidic rounded / exact reign arithmetic. | Arithmetic facts may carry the main chronological claim under their stated operators. |
+| Modal-state control | Prevents collapse of `966 BC` / `1016 BC`, Northern `+33` / Samaria `+36`, actual `930 BC` / comparison `963 BC`, single-`33` / double-adjusted routes, `1191 BC` / primary `1406 BC`, Av 9 / Av 10, Day `129` / Daniel `1290`, and David's exact / rounded Hebron states. | Governs every section where a shared number or date-label appears. |
 | Structural inference | Interprets repeated checked alignments as Kings resolution structures, restored harmonics, or Davidic microstructure. | Supportive when state-controlled; not a substitute for arithmetic or dependency proof. |
 | Calendar / Mirror corroboration | Uses Av 10 / AD 70 and the Av 9 eve-state as local calendar corroboration. | Corroborative in this non-Mirror file; not File_00 foundational Mirror protocol. |
 | Typological / theological layer | Reads David as New Adam and compares Adam, David, and Christ. | Preserved as typological reading or theological note. It explains meaning but does not carry the arithmetic burden. |
@@ -330,12 +459,58 @@ Arithmetic facts and textual / chronology data carry the base layer of `File_08`
 | Dependency-controlled proof | Keeps Kings reign-sum verification, Christological Matrix, Josephus source-control, and broader Hezekiah framing tied to controlling files. | Retained with dependency labels; not locally inferred. |
 
 Argument-control result:
-The principal local claims in `File_08` are state-controlled arithmetic and chronology claims: the Kings dual-ledger, Triple `430`, Hezekiah `490`, Sin-Bearer `1260`, Jeremiah calendar gearbox, and Davidic exact / rounded reign structures. The theological claim that David functions typologically as New Adam is preserved as typological reading. Josephus / AD 70 is preserved as Mirror corroboration / calendar corroboration. The Christ comparison remains reception-history and `File_13` dependency-controlled.
+The principal local claims in `File_08` are state-controlled arithmetic and chronology claims: the Kings dual-ledger, Triple `430`, Northern lesser `+33`, paired `930` construction rails, crossed `860` routes, double `400` sanctuary companions, Hezekiah `490`, Sin-Bearer `1260`, Jeremiah calendar gearbox, and Davidic exact / rounded reign structures. The theological claim that David functions typologically as New Adam is preserved as typological reading. Josephus / AD 70 is preserved as Mirror corroboration / calendar corroboration. The Christ comparison remains reception-history and `File_13` dependency-controlled.
 
 ## 1. Logic Engine: Kings dual-ledger and Triple `430`
 
 Active state:
 Kings dual-ledger and Triple `430`.
+
+### 1.0A Precise and Rounded United-Monarchy rails
+
+The author-directed correction distinguishes the literal / precise royal phase field from the Rounded Scaffold.
+
+Precise same-phase rails:
+
+```text
+Nisan:  1050n → 1010n → 970n → 930n BC
+Tishri: 1050t → 1010t → 970t → 930t BC.
+```
+
+Each same-phase reign is `40` years. David’s exact textual duration is the cross-phase diagonal:
+
+```text
+1010n → 970t=40.5=7.5+33.
+```
+
+Rounded mod-5 rail:
+
+```text
+1051n → 1011n → 971n → 931n BC.
+```
+
+Each Rounded reign is `40` years, and David’s Rounded state supplies:
+
+```text
+1011n → 971n=40=7+33.
+```
+
+| King | Precise phase field | Rounded mod-5 field |
+|---|---:|---:|
+| Saul | `1050t/n→1010t/n` | `1051n→1011n` |
+| David | `1010t/n→970t/n`; exact diagonal `1010n→970t` | `1011n→971n` |
+| Solomon | `970t/n→930t/n` | `971n→931n` |
+
+The Temple foundation remains:
+
+```text
+1446−966=480.
+```
+
+`966 BC` is therefore the cardinal historical Temple landing. Its mod-5 form also participates in the Rounded comparison, including the File_51a locks `1531n→971n=560` and `1526n→966n=560`. Shared labels do not erase node-class or modal-state distinctions.
+
+Claim-status note:
+The precise / Rounded classification is author-directed chronology control. The equal spans are arithmetic facts. The exact six-month co-rule interpretation of `970n→970t BC` remains proposed.
 
 ### 1.1 Triple `430` harmonic
 
@@ -357,6 +532,9 @@ The first `430` and the two later `430` spans do not have the same node-class. T
 
 Claim-status note:
 The span checks are arithmetic facts. The first `430` is a literal Sojourn state by textual / chronology dependency. The second and third `430` spans are schematic ledger states. The total `1290` reading is a structural inference controlled by the Danielic and Triple-`430` fields in `File_16` and `File_17`.
+
+Downstream corroboration note:
+Final `File_64` reaches the same schematic `1016 BC` coordinate independently from Judges. Its direct Jephthah route supplies `1446 BC → 1016 BC = 430`, while its explicit `450` and Joshua-extended `490` ledgers place `1016 BC` at the internal joint and opening of the final Philistine–Samson `40 + 20` module. File_08 remains the controlling source for the Kings dual ledger, the `1016/966 BC` state distinction, and the `+50` operator.
 
 ### 1.2 Ezekiel `390/40` split
 
@@ -395,10 +573,113 @@ The source states that the Verbatim sum exceeds history by `50` years.
 | Offset | 50 years | link between ledgers | `1016 − 966 = 50` | ledger-link state |
 
 Dependency note:
-The detailed arithmetic verification belongs to `File_18`, §2E, Kings of Judah Baseline. This file preserves the `+50` dual-ledger claim and does not locally reconstruct the reign-sum table.
+The detailed arithmetic verification belongs to `File_18`, §2.5, United Monarchy and Kings of Judah. This file preserves the `+50` dual-ledger claim and does not locally reconstruct the reign-sum table.
 
 Claim-status note:
-The visible `966 BC`, `1016 BC`, and `50` calculations are arithmetic facts under the stated ledgers. The claim that the Verbatim / Schematic Kings ledger exceeds the Actual / Historical ledger by `50` years is dependency-controlled by `File_18`, §2E and the Kings dual-ledger controls in `File_16`.
+The visible `966 BC`, `1016 BC`, and `50` calculations are arithmetic facts under the stated ledgers. The claim that the Verbatim / Schematic Kings ledger exceeds the Actual / Historical ledger by `50` years is dependency-controlled by `File_18`, §2.5 and the Kings dual-ledger controls in `File_16`.
+
+### 1.4 Kings of Israel lesser `+33` completion
+
+Active state:
+historical-fall-anchored Northern reign ledger.
+
+The Judah and Israel ledgers use parallel mechanisms but different excesses. Judah's principal sanctuary ledger stands `50` years above the historical Temple state. Israel's lesser comparison is back-projected from the historical Fall-of-Samaria phase field:
+
+```text
+963n BC → 722t BC = 241.5
+963t BC → 721n BC = 241.5.
+```
+
+The whole-year comparison head is therefore approximately `963 BC`, giving:
+
+```text
+963 − 930 = 33.
+```
+
+This must remain distinct from the existing borrowed-Temple Samaria route:
+
+```text
+966 → 726 = 240
+966 − 930 = 36.
+```
+
+Extending the lesser Northern rail backward through the schematic royal `40` gives:
+
+```text
+1003 − 963 = 40.
+```
+
+The rounded whole-year `1003 BC` comparison overlaps the rounded historical display at which David begins to reign over all Israel after seven years in Hebron. The precise `7.5`-year Hebron chronology remains controlling and is not replaced.
+
+Applied to the historical Temple foundation, the same lesser `+33` translates the complete rounded construction sequence:
+
+```text
+966 BC ──7── 959 BC ──13── 946 BC
+  +33          +33           +33
+999 BC ──7── 992 BC ──13── 979 BC.
+```
+
+Thus:
+
+```text
+999 − 992 = 7
+992 − 979 = 13
+999 − 979 = 20.
+```
+
+The same `7 + 13` grammar appears in the dependency-controlled Jacob rails:
+
+```text
+standard:      1929 → 1922 → 1909 BC
+localized LXX: 1896 → 1889 → 1876 BC.
+```
+
+The coordinate-wise comparisons are:
+
+```text
+1929 − 999 = 930
+1922 − 992 = 930
+1909 − 979 = 930
+
+1896 − 966 = 930
+1889 − 959 = 930
+1876 − 946 = 930.
+```
+
+| Jacob rail | Construction rail | Coordinate-wise span | State |
+|---|---|---:|---|
+| `1929/1922/1909 BC` | `999/992/979 BC` | `930/930/930` | standard Jacob / Northern lesser `+33` |
+| `1896/1889/1876 BC` | `966/959/946 BC` | `930/930/930` | localized LXX `−33` / historical-rounded construction |
+
+The value `930` is Adam's lifespan. Genesis 2 places Adam in a deep sleep before the woman is built from his side; Genesis 28 places Jacob asleep at Bethel, which he calls `בֵּית אֱלֹהִים` ("house of God"), and Genesis 29 places him in the wife / household field seven years later. The arithmetic is exact; the Adam–Jacob reading remains typological and does not generate the chronology.
+
+Two equal sanctuary comparisons accompany the construction heads:
+
+```text
+1399 − 999 = 400
+1366 − 966 = 400.
+```
+
+The first joins the Northern `999 BC` comparison to the `1399 BC` land-rest state. The second joins the historical `966 BC` Temple foundation to Joshua's death at `1366 BC`; it does not assert that every member of Joshua's generation died in that year.
+
+The two alternative single-`33` routes preserve the double-`430` measure:
+
+```text
+1859 − 999 = 860
+1826 − 966 = 860.
+```
+
+The control calculations are:
+
+```text
+1859 − 966 = 893 = 860 + 33
+1826 − 999 = 827.
+```
+
+Therefore the Jacob `−33` and Northern construction `+33` are alternative routes, not cumulative operations.
+
+Claim-status note:
+The reign-sum, construction, `930`, `860`, and `400` equations are arithmetic facts under their stated comparison states. The Adam–Jacob association is typological. The Northern `+33` remains a lesser completion witness and does not replace the Judah `+50`, actual `930 BC` division, existing Samaria `+36` route, historical Temple, or royal chronology.
 
 ## 2. Restored harmonics
 
@@ -551,7 +832,7 @@ Ish-bosheth’s `2`-year parallel kingdom is read as encoding the `±2` flex pre
 | Parallel | Source field | Modal handling |
 |---|---|---|
 | Shem’s birth ambiguity | Genesis 11:10 | `±2` comparison state |
-| Year 2 of famine entry | Genesis 45:6 | famine-window / entry state |
+| Two completed famine years / Year-3-head Entry | Genesis 45:6 | famine-window / entry state; `1876 BC` is Year-2 close, not the Year-2 head |
 | The `±2` at Creation | Day 13 reckoning | Creation-week microstructure state |
 
 The subsequent `5`-year consolidation period is read as mirroring Days 1–5 of Creation, the foundation work before Man’s appearance on Day 6.
@@ -562,8 +843,11 @@ Ish-bosheth’s `2` years is a parallel shadow-king value. It should not be conv
 Arithmetic boundary note:
 If Ish-bosheth’s `2` years were mechanically subtracted from the exact `7.5`-year Hebron state, the remainder would be `5.5`. `File_08` does not use that exact-overlap calculation. It preserves `2 + 5` as the rounded Hebron decomposition.
 
+State-control note:
+Genesis 45:6 says that two famine years had elapsed. Under the controlled interval state, Famine Year 1 is `1878–1877 BC`, Year 2 is `1877–1876 BC`, and Jacob’s Entry at `1876 BC` is the Year-2 close / Year-3 head.
+
 Claim-status note:
-Ish-bosheth's `2` years is textual datum. Its use as the `2` component of David's rounded Hebron decomposition is structural inference. The `±2` comparisons to Shem, famine entry, and Creation microstructure remain dependency-supported typological / structural parallels.
+Ish-bosheth's `2` years is textual datum. Its use as the `2` component of David's rounded Hebron decomposition is structural inference. The `±2` comparisons to Shem, the two-completed-years famine marker, and Creation microstructure remain dependency-supported typological / structural parallels.
 
 ### 4.3 Textual ambiguity: `7` versus `7.5` years
 
@@ -656,7 +940,8 @@ The theological paragraphs in §4.5 are typological reading and theological note
 
 | Cross-reference | Function |
 |---|---|
-| `File_00` | Methodology, Triple Witness validation, calendar-gearbox controls, Mirror / civil / inverse firewalling, and repository-wide operator discipline. |
+| `File_00` | Methodology, Triple Witness validation, calendar-gearbox controls, Mirror / civil / inverse firewalling, repository-wide operator discipline, and the year-level Israel reign-sum / Samaria state. |
+| `File_04` | Jacob standard and localized LXX `−33` chronology controlling the comparison rails used in §1.4. |
 | `File_05` | Primary `1446 BC` Exodus state and subordinate `1231 BC` Ramesside Exodus state. |
 | `File_06` | Subordinate Ramesside Conquest state, especially `1191 BC`, and Joshua / Judgment-path controls. |
 | `File_07` | Adamic parallel and Creation-week microstructure. |
@@ -664,13 +949,19 @@ The theological paragraphs in §4.5 are typological reading and theological note
 | `File_14` | Final pressure-tested control for `967/966 BC` and `587/586 BC` adjacent Temple / Jerusalem date-state wording where boundary reckoning is active. |
 | `File_16` | `1876 BC` Nexus, Triple `430`, Kings dual-ledger, `1260`, and `1290` controls. |
 | `File_17` | Ezekiel `390/40`, Danielic `1260` / `1290`, and prophetic span-component anatomy. |
-| `File_18` | Kings of Judah Baseline, §2E, arithmetic verification of the Verbatim / Actual ledger. |
+| `File_18` | Corrected §2.5 table source for the precise phase rail, Rounded mod-5 rail, and Verbatim / Schematic and Actual / Historical Temple ledgers. |
+| `File_51a` | Rounded Scaffold controller for `1051n→1011n→971n→931n BC` and the paired `560`-year locks. |
 | `File_54` | Claim-status, typological restraint, and non-Mirror-file Mirror classification exemplar. |
+| `File_63` | Downstream synthesis; does not replace File_08’s Kings controls. |
+| `File_64` | Downstream Judges duration-ledger corroboration of `1016 BC` and immediate source of the focused-verified lesser Northern `+33`, `963/1003/999 BC`, paired-`930`, crossed-`860`, and double-`400` comparison synthesis. File_08 adopts only the Kings-domain states. |
 
 ## 6. Dependency and audit notes
 
 Dependency note:
-The Kings of Judah arithmetic verification depends on `File_18`, §2E. Do not infer the reign-sum table locally. Preserve the `+50` dual-ledger claim and mark the detailed table proof as dependency-controlled until `File_18` is supplied or opened.
+The broader Kings of Judah arithmetic verification depends on corrected `File_18`, §2.5. The precise / Rounded royal distinction is now local to File_08 because it controls the monarchy state; the downstream reign-sum table remains File_18-controlled.
+
+Dependency note:
+Final post-final pressure-tested `File_64` supplies the downstream Judges-side derivation of `1016 BC` and the July 27 comparison synthesis. File_08 imports the Kings-domain results only: the lesser Northern `+33`, `963/1003/999 BC`, the `999/992/979 BC` construction rail, the paired `930`, crossed `860`, and double `400` comparisons. Judges duration arithmetic, Jacob chronology, land-rest/Joshua source dates, and typological interpretation remain controlled by File_64 and its named dependencies.
 
 Dependency note:
 `File_13 Final` now supplies the controlling Christological framework for the Christ side of the Adam / David / Christ typological comparison. Do not re-prove `File_13` locally. Preserve the Christ comparison as typological / reception-history material and cite `File_13 Final` for the AD 33n preferred Passion state, AD 30n possible Passion state, AD 33t completion member, AD 34 purification display state, and Second-Adam / Jan-1 covenant state.
@@ -688,14 +979,42 @@ Dependency note:
 The Av 9 / Daniel `1290` relation is preserved as source alignment. The decimal relation `129 × 10 = 1290` checks, but `File_08` does not open a full 10x scaling proof. Do not promote the relation beyond structural alignment unless a controlling dependency supplies the operator.
 
 Audit note:
-No blocking audit issue remains in this Final source. The unsupported Hezekiah `530` relation remains removed by author clarification; the replacement `490` relation checks and is controlled as structural / Sabbatical inference. The Davidic exact / rounded states remain separate. The Christological `30 + 3.5` and traditional `33` comparison is preserved as reception-history / typological material under `File_13 Final` dependency control; File_13 now supplies the Christ-side state vocabulary but File_08 does not re-prove it locally.
+No blocking audit issue remains in this Final source. The July 27 Northern `+33` amendment is bounded, arithmetically verified, and state-firewalled from the actual `930 BC` division, the Samaria `+36` route, the Judah `+50`, and the historical Temple. The prior mixed `1011→971/970→931 BC` Actual row has been corrected: `1011n→971n→931n BC` belongs to the Rounded mod-5 rail, while `1010t/n→970t/n→930t/n BC` belongs to the precise phase rail. The unsupported Hezekiah `530` relation remains removed by author clarification; the replacement `490` relation checks and is controlled as structural / Sabbatical inference. The Davidic exact / rounded states remain separate. The Christological `30 + 3.5` and traditional `33` comparison is preserved as reception-history / typological material under `File_13 Final` dependency control; File_13 now supplies the Christ-side state vocabulary but File_08 does not re-prove it locally.
 
 ## Revision and archive note
 
-This public-clean Markdown source removes only archival amendment history, pass logs, pressure-test repetition, pointer-refresh records, and obsolete replacement-workflow notes.
+This public-clean Markdown source retains the prior Final and pressure-tested baseline while applying the bounded July 24 2026 royal chronology correction, the bounded July 26 2026 File_64 reciprocal pointer, and the bounded July 27 2026 Northern `+33` / paired-`930` reciprocal amendment.
 
-Detailed revision history is preserved in the `Repository_Change_Archive`.
+The July 24 correction:
 
-Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+- distinguishes the precise Nisan/Tishri `1050→1010→970→930 BC` rails from the Rounded `1051→1011→971→931 BC` rail;
+- reclassifies the former `1011→971/970→931 BC` mixed row as Rounded rather than Actual / Historical;
+- preserves `966 BC` as the cardinal Temple foundation and mod-5-compatible coordinate;
+- leaves the Triple `430`, Kings `+50`, Hezekiah, Jeremiah, Davidic typology, and all unrelated File_08 controls unchanged.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+The July 26 reciprocal update:
+
+- adds Final File_64 to the dependency map and cross-reference table;
+- registers its Judges-derived `430/450/490` convergence as downstream corroboration of the existing schematic `1016 BC` pivot;
+- adds the File_64 Judges / Kings non-collapse Machine Guard;
+- imports no Judges duration as a Kings reign-sum input.
+
+The July 27 reciprocal amendment:
+
+- registers the actual-fall-anchored lesser Northern `+33` while preserving the borrowed-Temple Samaria `+36` route;
+- adds the derived `963/1003/999 BC` coordinates and `999/992/979 BC` construction sequence;
+- adds the paired Jacob–construction `930`, crossed alternative `860`, and double-`400` comparisons;
+- adds four non-collapse Machine Guards and focused verification language;
+- changes no Primary anchor, historical monarchy date, Judah `+50`, prophetic proof, or dependency boundary.
+
+Detailed history belongs in the `Repository_Change_Archive`. A new full pressure test was not performed for these bounded updates.
+
+The July 24 correction changes the royal chronology classification, associated anchors, state labels, and arithmetic display. The July 26 pointer changes dependency routing and non-collapse control. The July 27 amendment adds bounded comparison arithmetic and state vocabulary only. No unrelated arithmetic, operator, Mirror protocol, or theological claim is changed.
+
+## August 3 2026 File_65 reciprocal-control update
+
+- Added Final File_65 as a bounded reciprocal dependency.
+- Added the exact non-collapse Machine Guard registered at State Vocabulary Register v1.36 §D.29.
+- Routed current control pointers through Restart Capsule v11.35 and Repository Change Archive v1.45.
+- Changed no pre-existing arithmetic, Primary anchor, source duration, operator, historical chronology, or dependency boundary.
+- Focused replacement checks performed; no new full pressure test.

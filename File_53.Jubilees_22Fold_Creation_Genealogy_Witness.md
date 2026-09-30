@@ -1,19 +1,20 @@
 File: File_53
 Title: The Book of Jubilees as a 22-Fold Creation-Genealogy Witness
 Subtitle: Cainan's Expunction, the 7/13 Calendar Grammar, the Flood-to-Rest Chiasm, and Providential Synchronization
-Status: Final; post-final pressure tested June 18 2026; marked Final by author June 18 2026; unified-Enoch / SP-compression bounded update applied (July 2026)
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; post-final pressure test of June 18 2026 retained. Focused check complete for the unified-Enoch / SP-compression bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded unified-Enoch / SP-compression addition (§14A) only, including the author-ruled relocation of the Regular-page Enoch display block; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested June 18 2026; marked Final by author June 18 2026; unified-Enoch / SP-compression bounded update applied (July 2026); File_62 explicit birth-law hermeneutic / BJ reconstruction reciprocal pointer applied (July 2026); bounded Final File_69 reciprocal pointer applied August 17 2026; bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
+Pressure-test status: Current; publication-clean verification complete; post-final pressure test of June 18 2026 retained. Focused checks complete for the unified-Enoch / SP-compression bounded update and the File_62 reciprocal-routing addition; no new full pressure test is claimed for the pointer-only update; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test was performed for this pointer-only update; bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded File_62 reciprocal-routing addition and the prior unified-Enoch / SP-compression addition retained; no pre-existing arithmetic, Primary anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary changed; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
 Primary domain: Comparative; Calendar; Theological; Cumulative; Mirror; Providential Synchronization
 Traditions: BJ / Jubilees; MT; SP; LXX; Enochian / Watcher tradition by comparison; NT / Christological typology by comparison
 Canonical source: Markdown
 Primary anchors: 3856 BC; 3849 BC; 3799 BC; 2549 BC; 2492 BC; 2482 BC; 2425 BC; 2199 BC; 1981 BC; 1906 BC; 1844 BC; 1806 BC; 1444 BC; 1406 BC; 1399 BC; 3886 BC; AD 1405; AD 3885; AD 3855; 3893 BC; 3823–3529 BC; 3528 BC; 4087–3793 BC; 3108 BC; 2758 BC; 2608 BC; 107016
-Related files: `File_00`; `File_13`; `File_16`; `File_17`; `File_18`; `File_20`; `File_22`; `File_43`; `File_51a`; `File_51c`; `File_52d`; `File_54`; `File_12`; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; 490d Repository Style Guide v2.5
-Major operators: same-side BC subtraction; civil cross-axis span `BC + AD − 1`; Protocol 1 / A-space Mirror where opened; BJ 49-register; BJ macro-50 register; `22`; `7 + 1 + 4 + 3 + 3 + 4 = 22`; `13`; `7/13`; `49`; `50`; `2450 = 50 × 49 = 5 × 490`; `57`; `2400`; `1150/1250`; `25/23`; `70/69`; `360`; `364`; `430`; `460`; `1290`; `2300`; `22/23/24 × 460`; `+30 Apparent Age`; `−57 Cainan-expunged compression`; `70 + 294 + 1 = 365`; `294 = 6 × 49`; `294 × 364 = 107016 = 293 × 365.2423`; `784 = 16 × 49 = 28 × 28`
-Major modal states: BJ / Jubilees witness state; BJ 22-fold Creation-genealogy state; Cainan retained state; Cainan expunged state; 13th solar-position state; Kainan 57-year compression state; secondary compressed ledger; BJ Fall-to-rest trunk; BJ Creation-to-Conquest trunk; BJ Creation-week dual-state protocol; BJ Adam-Day +30 overlay; SP cumulative state; MT cumulative state; LXX cumulative state; restored 2nd Cainan state; Key-of-23 Priestly expansion state; Prophetic expansion state; Mirror corroboration state; providential / over-intended synchronization state; unified Enoch accounting state; SP Enoch 364-day compression state; relocated Enoch display block
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; `File_00`; `File_20`; `File_51a`; `File_54`; prior `File_53` Final and post-final pressure-tested source; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded unified-Enoch / SP-compression addition (§14A) registered from the Regular-page publication discussion record.
+Related files: `File_00`; `File_12`; `File_13`; `File_16`; `File_17`; `File_18`; `File_20`; `File_22`; `File_43`; `File_51a`; `File_51c`; `File_52d`; `File_54`; `File_61`; `File_62`; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; 490d Repository Style Guide v2.5; File_69
+Major operators: same-side BC subtraction; civil cross-axis span `BC + AD − 1`; Protocol 1 / A-space Mirror where opened; BJ 49-register; BJ macro-50 register; `22`; `7 + 1 + 4 + 3 + 3 + 4 = 22`; `13`; `7/13`; explicit birth-law chronology `7 + 33 = 40` and `14 + 66 = 80`; `2 × (7 + 33) = 14 + 66 = 80`; reconstructed BJ spine `100 + 60 + 130`; `49`; `50`; `2450 = 50 × 49 = 5 × 490`; `57`; `2400`; `1150/1250`; `25/23`; `70/69`; `360`; `364`; `430`; `460`; `1290`; `2300`; `22/23/24 × 460`; `+30 Apparent Age`; `−57 Cainan-expunged compression`; `70 + 294 + 1 = 365`; `294 = 6 × 49`; `294 × 364 = 107016 = 293 × 365.2423`; `784 = 16 × 49 = 28 × 28`
+Major modal states: BJ / Jubilees witness state; BJ 22-fold Creation-genealogy state; BJ Leviticus-12 explicit-hermeneutic state; BJ reconstructed-spine / surface-ledger divergence state; File_62 male/female year-scale comparison state; Cainan retained state; Cainan expunged state; 13th solar-position state; Kainan 57-year compression state; secondary compressed ledger; BJ Fall-to-rest trunk; BJ Creation-to-Conquest trunk; BJ Creation-week dual-state protocol; BJ Adam-Day +30 overlay; SP cumulative state; MT cumulative state; LXX cumulative state; restored 2nd Cainan state; Key-of-23 Priestly expansion state; Prophetic expansion state; Mirror corroboration state; providential / over-intended synchronization state; unified Enoch accounting state; SP Enoch 364-day compression state; relocated Enoch display block
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; `File_00`; `File_20`; `File_51a`; `File_54`; corrected Final `File_61`; Final post-final pressure-tested `File_62`; prior `File_53` Final and post-final pressure-tested source; Repository_Change_Archive (non-controlling history); Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package; Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Bounded reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. The File_62 addition supplies explicit ancient hermeneutical warrant and a controlled BJ reconstruction protocol only; it does not alter File_53's pre-existing arithmetic, Primary anchors, 22-fold proof, Cainan ledgers, Fall-to-rest trunk, Mirror controls, or dependency boundaries. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_53 — The Book of Jubilees as a 22-Fold Creation-Genealogy Witness
 
@@ -33,12 +34,29 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_51c` | Controls BJ as macro-rounded witness through the 49/50 dual register and supplies the immediate companion context. |
 | `File_52d` | Controls BJ inverse / subordinate Mirror context where opened by the Restart Capsule and File_54. |
 | `File_54` | Controls later-file BJ / Luke / Mirror classification, File_53 dependency framing, and reception-history restraint. |
+| `File_61` | Controls the cumulative `H7/T14` half/full-clutch rails and the derived male `7+33=40` / female `14+66=80` year structures. File_53 supplies ancient BJ hermeneutical warrant only; it does not control File_61's coordinates or clutch arithmetic. |
+| `File_62` | Downstream comparative synthesis using Jubilees 3 as the explicit ancient warrant for chronological use of the male `7+33` and female `14+66` birth-law forms. File_62 also contains the detailed BJ reconstructed-spine / surface-ledger comparison; File_53 controls the general BJ interpretive method and explicit-text hierarchy. |
+
+File_69 BJ/Enoch-head reciprocal note:
+Final File_69 identifies `3856 BC` as Matthew's no-rail Enoch head while File_53 retains it as BJ Creation within the `7/13` and Cainan-expunction framework. Shared label does not create event identity.
+
+Machine Guard [FILE_20 FILE_53 FILE_69 BJ-ENOCH-HEAD ROUTING]:
+Final File_69 may identify `3856 BC` as Matthew's ordinary no-rail Enoch head while Files 20 and 53 retain `3856 BC` as BJ Creation. The shared label is a cross-tradition overlap, not one event or proof that Matthew or Luke copied Jubilees. Files 20 and 53 retain BJ chronology, Cainan-expunction, `7/13`, and claim-status controls; no File_69 generated coordinate becomes a BJ Primary anchor.
+
+File_69 Jeconiah–Cainan reciprocal note:
+Final File_69 now compares Jeconiah's forwarded `70+840=910` row with first Kenan and compares Jeconiah's `41↔42` slot operation with second Cainan's `26↔27` retention/expunction. This is a bounded analogy, not an identity of persons, texts, curses, or chronologies.
+
+Machine Guard [FILE_18 FILE_25 FILE_29 FILE_53 FILE_69 JECONIAH–CAINAN ROUTING]:
+Final File_69 may compare Jeconiah's six-year-forwarded row with first Kenan's `70+840=910` anatomy and may compare Jeconiah's `41↔42` overlap with second Cainan's `26↔27` retention/expunction as analogous one-position count-clutches. File_18 retains the raw table and Adam-to-Moses count states; File_25 retains Decimal Invariance and the `910` reference field; File_29 retains the `7/13` theological grammar; File_53 retains Cainan-expunction and BJ claim-status control. Analogy does not create identity, and native LXX Cainan receives no additional `+130`.
 
 ## 0. File-function
 
 `File_53` is a companion to `File_51c`, but not a continuation of the Rounded Scaffold argument. `File_51c` established the Book of Jubilees as a macro-rounded witness through the 49/50 dual register. `File_53` isolates the internal symbolic architecture of Jubilees itself: the 22 works of creation, the 22 generations from Adam to Jacob, Cainan's theological expunction, the 7/13 calendar grammar, the Flood-to-rest chiasm, and the larger providential synchronizations that connect BJ to the cumulative MT / SP / LXX fields.
 
 The controlling premise is that Jubilees is not technically inspired in the canonical Hebrew-scriptural sense, yet may preserve genuine chronological and symbolic insight. `File_53` therefore does not attempt to reconstruct a general Second Temple scribal numerology or prove what the author consciously knew. Its narrower aim is to test whether BJ's chronology, especially its treatment of Cainan, Creation, Flood, and Conquest, coheres with the larger OT chronological field under the assumption that divine providence may govern patterns beyond the author's conscious design. In this sense, the author may speak more than he knew under divine sovereignty.
+
+File_62 reciprocal-routing note:
+Jubilees 3 is textually explicit that Adam's and Eve's timed entry into Eden grounds the male and female purification periods later stated in Leviticus 12. File_53 therefore supplies an ancient hermeneutical warrant for File_62's comparison of the derived year structures `7+33=40` and `14+66=80`. File_61 and File_62 remain the controllers of those chronological coordinates and clutch operators. File_53 also records the bounded BJ method used by File_62: lock the stated biographical spine first, then preserve and analyze the surface jubilee-ledger divergences as evidence of the author's numerical priorities rather than silently harmonizing them.
 
 Publication-cleanup note:
 This public-clean source preserves the Final and post-final pressure-tested status in the header. Detailed pass logs, finalization notes, pressure-test records, Revision Log material, and completed update records are archived rather than repeated in the public body.
@@ -61,6 +79,9 @@ The following states are active in `File_53`. They are simultaneous, non-competi
 |---|---:|---|---|
 | BJ / Jubilees witness state | Book of Jubilees | comparative chronological witness | Not canonical Hebrew inspiration; preserves possible chronological and symbolic insight. |
 | BJ 22-fold Creation-genealogy state | `22 works` / `22 heads` | internal symbolic architecture | Primary BJ structure. |
+| BJ Leviticus-12 explicit-hermeneutic state | `7+33=40`; `14+66=80` | explicit ancient chronology / legal-day correspondence | Jubilees 3 grounds the male and female purification totals in Adam's and Eve's entry into Eden. This supplies hermeneutical warrant, not File_61/File_62 arithmetic. |
+| BJ reconstructed-spine / surface-ledger divergence state | `1981→1881→1821→1691 BC`; `100+60+130` | controlled comparative reconstruction | Lock BJ's Abraham anchor and stated MT-compatible ages first; preserve conflicting surface jubilee dates separately and analyze why the author preferred them. |
+| File_62 male/female year-scale comparison state | `1526→1519→1486`; `1526→1512→1446` | downstream File_61/File_62 application | File_53 supplies explicit-hermeneutic precedent only. The coordinates remain outside File_53's Primary anchors and proof burden. |
 | Cainan retained state | Kainan present in Jubilees 8 | historical / narrative ledger | Explains survival of Watcher astral lore after the Flood. |
 | Cainan expunged state | Cainan omitted from sacred 22-count | theological / covenantal ledger | Preserves the 22-fold creation / genealogy symmetry. |
 | 13th solar-position state | Cainan / Shelah / Sun | calendrical-theological position | Cainan corrupts the luminary position; Shelah receives the purified position. |
@@ -86,8 +107,9 @@ The following states are active in `File_53`. They are simultaneous, non-competi
 | §0 | File-function, hierarchy, working states, terminology, and Machine Guards | file-level modal-state controls |
 | §§1–3 | 22 works, 22 heads, Cainan expunction, and 13th solar position | BJ 22-fold state; Cainan retained / Cainan expunged ledgers |
 | §§3A.1–3A.10 | Kainan 57-year gap, compressed ledger, 2400 field, Mirror tests, and classification | Cainan-expunged compressed-ledger state; same-side BC subtraction; Mirror corroboration where opened |
-| §§4–6 | 7/13 calendar grammar, Adam / Eve Day 13, Day-2 / Year-8 / anti-Day-2 Flood | BJ 364-day calendar state; 7/13 grammar; structural inference |
-| §§7–13 | Fall-to-rest trunk, Flood hinge, century-day chiasm, Abrahamic land-token frame | BJ Fall-to-rest trunk; same-side BC subtraction; theological note |
+| §§4–5A | 7/13 calendar grammar, Adam / Eve Day 13, and the explicit `7+33/14+66` birth-law chronology | BJ 364-day calendar state; BJ Leviticus-12 explicit-hermeneutic state |
+| §6 | Day-2 / Year-8 / anti-Day-2 Flood | BJ Fall / Flood typological comparison state |
+| §§7–13A | Fall-to-rest trunk, Flood hinge, century-day chiasm, Abrahamic land-token frame, and BJ reconstruction protocol | BJ Fall-to-rest trunk; reconstructed-spine / surface-ledger divergence state |
 | §§14–24 | Repository-level synchronizations with Jared, Abram, Levi, and MT/SP/LXX cumulative fields | Key of 23; restored 2nd Cainan; MT/SP/LXX cumulative states |
 | §§25–31 | Mirror stress-test and Christological typology | Mirror corroboration; cross-axis span `BC + AD − 1`; typological reading |
 | §32 | Final synthesis and claim hierarchy | argument-control summary |
@@ -123,6 +145,12 @@ Where a BC/AD cross-axis span is measured as a civil span, use `BC + AD − 1`. 
 
 Machine Guard [FILE_53 49/50 NON-COLLAPSE]:
 BJ literal jubilees remain 49 years. Macro-50 structure may be opened where the file explicitly invokes `2450 = 50 × 49` or `2500 = 50 × 50`, but the macro-50 register does not erase the literal 49-register.
+
+Machine Guard [FILE_53 BIRTH-LAW WITNESS NON-RETROJECTION]:
+Jubilees 3 explicitly grounds `7+33=40` and `14+66=80` in Adam's and Eve's entry chronology and may serve as ancient hermeneutical warrant. Do not import File_61/File_62 coordinates, `H7/T14` operators, Joseph rails, Mosaic phase proposals, Joshua `216`, or the Noah lattice into File_53 as BJ dates or local proof.
+
+Machine Guard [FILE_53 BJ RECONSTRUCTION / SURFACE-LEDGER SPLIT]:
+The reconstructed BJ spine `1981→1881→1821→1691 BC = 100+60+130` is a controlled comparative state built from BJ's Abraham anchor and stated MT-compatible ages. It must remain distinct from BJ's printed jubilee-ledger dates. Preserve the divergences as evidence of numerical priorities; do not silently overwrite either state or treat the reconstruction as the transmitted BJ chronology.
 
 ---
 
@@ -698,6 +726,38 @@ Humanity is completed across the Sabbath boundary:
 
 This reinforces the 7/13 calendar grammar. Eve's formation on Day 13 is not merely seven days after Adam. It joins Adam's Day 6 to Sabbath Day 7, completing the human pair through a 13-position structure.
 
+## 5A. Jubilees 3 and the explicit male / female birth-law chronology
+
+Active state: BJ Leviticus-12 explicit-hermeneutic state; File_62 male/female year-scale comparison state by dependency.
+
+Claim-status: textual datum for the BJ chronology and Levitical totals; ancient hermeneutical warrant for the year-scale comparison; structural inference for the File_62 application.
+
+Jubilees 3 explicitly explains the childbirth-purification law through Adam's and Eve's timed entry into Eden. The male form is one week followed by thirty-three days; the female form is two weeks followed by sixty-six days:
+
+| Birth-law form | Initial period | Remaining period | Total |
+|---|---:|---:|---:|
+| Male | `7` | `33` | `40` |
+| Female | `14` | `66` | `80` |
+
+Thus:
+
+`7 + 33 = 40`
+
+`14 + 66 = 80`
+
+`2 × (7 + 33) = 14 + 66 = 80`
+
+BJ does not merely notice an analogy. It makes primeval chronology the foundation of the legal day-count and treats the result as heavenly-tablet order. This demonstrates that applying the same sacred-number grammar across legal days, Creation chronology, years, sabbatical cycles, and jubilees belongs to an attested ancient Jewish hermeneutic.
+
+Final Files 61–62 apply that explicit precedent to derived year structures:
+
+| Downstream state | Coordinates | Partition | Controller |
+|---|---|---:|---|
+| Male / half clutch | `1526→1519→1486 BC` | `7+33=40` | File_61 / File_62 |
+| Female / full clutch | `1526→1512→1446 BC` | `14+66=80` | File_61 / File_62 |
+
+File_53 supplies the explicit BJ hermeneutical warrant. It does not rederive the cumulative clutch, promote the downstream coordinates into BJ chronology, or prove that the MT scribes consciously engineered the particular File_61/File_62 construction.
+
 ## 6. Day 2, the 8th work, Year 8, and the Flood as anti-Day-2
 
 Active state: BJ Creation-work state; BJ Fall / Flood typological comparison state.
@@ -905,6 +965,37 @@ BJ's resolution is coherent:
 `Abraham's death / burial → Conquest = 400`
 
 The ambiguity of Genesis 15 creates a bounded interpretive field. Scribal traditions may debate the start and endpoint, but the resulting systems can be complementary rather than contradictory.
+
+## 13A. BJ reconstruction protocol: spine first, divergence second
+
+Active state: BJ reconstructed-spine / surface-ledger divergence state.
+
+Claim-status: comparative method; arithmetic fact within the declared reconstructed state; historical-critical inference concerning BJ's editorial priorities.
+
+The usefulness of BJ's inconsistencies depends on controlling the order of analysis. First lock the stated biographical spine; only then compare the conflicting surface jubilee ledger. For the Abraham–Isaac–Jacob sector, the controlled reconstruction is:
+
+| Event | Reconstructed BJ date | Stated interval |
+|---|---:|---:|
+| Abraham born | `1981 BC` | BJ Abraham anchor |
+| Isaac born | `1881 BC` | Abraham age `100` |
+| Jacob born | `1821 BC` | Isaac age `60` |
+| Jacob enters Egypt | `1691 BC` | Jacob age `130` |
+
+The spine is therefore:
+
+`1981→1881→1821→1691 BC = 100+60+130`
+
+This is not a replacement for BJ's transmitted surface chronology. It is a separate reconstruction based on BJ's Abraham anchor and the MT-compatible ages BJ itself states. BJ's surface event dates must then be preserved and examined individually. When a surface date conflicts with the spine, the divergence may reveal which heptadic, jubilee, sanctuary, land, or covenantal alignment the author valued enough to privilege over biographical consistency.
+
+Examples such as Bethel's privileged relation to Conquest and land-rest, or Levi's and Judah's calendrically marked positions, are therefore informative precisely because the arithmetic pressure is visible. The controlled procedure is:
+
+1. lock the inherited biographical spine;
+2. retain the surface BJ date as a separate state;
+3. identify the contradiction rather than smoothing it away;
+4. determine which numerical-theological structure the surface date serves;
+5. compare that explicit BJ design with quieter MT structures without making BJ the controller of MT chronology.
+
+Final File_62 uses this method in its BJ appendix. File_53 controls the general interpretive rule; File_20 remains the principal BJ chronology and fourth-witness controller.
 
 ---
 

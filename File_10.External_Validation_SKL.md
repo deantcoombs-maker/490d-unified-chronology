@@ -4,20 +4,21 @@ Legacy source title: EXTERNAL_VALIDATION.md
 Entity: THE WITNESSES
 Classification: External Validation / Deep Time
 UUID: SYS_VALIDATION
-Status: Final; post-final pressure tested; File_19 Pillar-state cross-file update applied and focused pressure tested under current Register Agreement; 1876 Cainan macro-vector cross-file update applied; File_34 post-final citation-control update applied and focused pressure tested under current Register Agreement
-Pressure-test status: Current; focused pressure test complete for the File_19 Pillar-state and File_34 post-final citation-control updates and public-clean cleanup; prior post-final pressure-tested status and Rudd LXX source-control patch retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested; File_19 Pillar-state cross-file update applied and focused pressure tested under current Register Agreement; 1876 Cainan macro-vector cross-file update applied; File_34 post-final citation-control update applied and focused pressure tested under current Register Agreement; bounded File_64 reciprocal Temple / Palace corroboration pointer applied July 26 2026; bounded Final File_66 Precession-Square reciprocal pointer applied August 4 2026
+Pressure-test status: Current; prior post-final and focused pressure-tested results retained; focused reciprocal-routing verification complete August 4 2026 for the bounded File_66 Precession-Square pointer and arithmetic examples; no new full pressure test is claimed and no File_66 post-final pressure-tested status is claimed.
+Reciprocal-routing verification status: Bounded File_64 and Final File_66 pointers applied and focused machine-diff, arithmetic, dependency, Machine-Guard, Markdown-structure, and publication-clean checks completed through August 4 2026; no new full pressure test was performed for either pointer-only update.
+Register Agreement status: Checked against State_Vocabulary_Register v1.37 Part D §D.30 and Restart Capsule v11.36; the bounded Final File_66 dependency pointer and File_10 non-collapse guard are registered. File_66 remains controlling for `185150`, the A7 Judah chronology, statistical result, and sister-city synthesis; no File_10 Primary anchor, external witness, endpoint-generation operator, or Precession-Square definition is changed.
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Primary domain: Comparative; Statistical; Calendar; Theological
 Traditions: MT; SP; LXX; BJ / Jubilees; SKL; Berossus
 Canonical source: Markdown
 Primary anchors: 2908/2906 BC; 2938/2936 BC; 2858/2856 BC; 2888/2886 BC; 568/566 BC; 538/536 BC; 518/516 BC; 488/486 BC; 539t/538n BC; 537t/536n BC; 536 BC; 486 BC; 1496/1456 BC; 1446/1406 BC; 1016/996 BC; 966/946 BC; 586 BC; 25920; 25921; 259200; 259210; 2886 BC; 2876 BC; 453600; 21600; 1080; 300; 1380; 1440; 1260; 1876 BC; 6480
 Dependency-controlled anchors: 34566 BC; 33846 BC; 28086 BC; 27366 BC; 21606 BC; 20886 BC; 30486 BC; AD 29515
-Related files: File_00; File_02; File_16; File_17; File_19; File_34; File_35; File_51a; File_54; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1` if opened; Cainan macro-vector B6 by dependency; `2300`; `2520`; `2730`; audit-controlled `2307` companion; SKL +30 Apparent Mode; SKL +2 local rail; SKL +720 scale-state; Berossus +50 pivot; File_34 Precessional Envelope; File_34 Sanctuary Fractal; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; Nisan / Tishri phase-chain arithmetic by dependency; File_35 Half-Step context-only state; `(7 × 23)^2 × 10`; `161 × 161`; `25920 × 10`; `25921 × 10`; Jubilee `49`; `529 × 49`; `30 × 49`; `10 × 2160`; `3 × 360`; `3 × 100`; `3 × 460`; `3 MSS × 4 variants × 2 Cainan`; `4 × 360`; `3.5 × 360`; `1500 × 336`; `586 BC + 1290`
-Major modal states: Smith LXX reconstruction witness; providential multi-tradition system state; Cainan macro-vector B6 state; audit-controlled `2307` / solar companion state; shared mathematical grammar state; theological non-literal chronology state; Rudd LXX source-control witness; BJ / Jubilees repository-context state; SKL/Sumerian external synchronization field; Sumerian A / SKL Short; Sumerian B / SKL Long; Berossus literal historical field; Berossus computational anchor field; 50-year pivot state; File_34 Precessional Envelope context state; File_34 Sanctuary Fractal context state; File_34 post-final SKL / Berossus dependency state; File_34 SKL-to-Berossus `2370` corridor state; File_34 `30 + 20 + 30` restoration corridor state; paired slash-display arithmetic state; Nisan / Tishri phase-chain state; File_35 context-only Half-Step state; Precession Square state; base precessional register state; 10x precessional scale-state; Sumerian Mirror corroboration state; Mirror providential synchronization state; manuscript-gap comparison state; 24-variant grid state; Elastic Gap Protocol state; 1876 BC convergence year-label; Bullseye Protocol qualitative convergence state; File_34 dependency state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Related files: File_00; File_02; File_16; File_17; File_19; File_34; File_35; File_51a; File_54; File_64; File_66; Restart Capsule v11.36; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.37
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1` if opened; Cainan macro-vector B6 by dependency; `2300`; `2520`; `2730`; audit-controlled `2307` companion; SKL +30 Apparent Mode; SKL +2 local rail; SKL +720 scale-state; Berossus +50 pivot; File_34 Precessional Envelope; File_34 Sanctuary Fractal; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; Nisan / Tishri phase-chain arithmetic by dependency; File_35 Half-Step context-only state; `(7 × 23)^2 × 10`; `161 × 161`; `25920 × 10`; `25921 × 10`; Jubilee `49`; `529 × 49`; downstream File_66 Priestly root `161 × 25/23 = 175`; downstream File_66 capstone `185150 × 7 = 50 × 25921`; downstream two-axis display `25921 × (25/23)^2 = 175²`; `30 × 49`; `10 × 2160`; `3 × 360`; `3 × 100`; `3 × 460`; `3 MSS × 4 variants × 2 Cainan`; `4 × 360`; `3.5 × 360`; `1500 × 336`; `586 BC + 1290`
+Major modal states: Smith LXX reconstruction witness; providential multi-tradition system state; Cainan macro-vector B6 state; audit-controlled `2307` / solar companion state; shared mathematical grammar state; theological non-literal chronology state; Rudd LXX source-control witness; BJ / Jubilees repository-context state; SKL/Sumerian external synchronization field; Sumerian A / SKL Short; Sumerian B / SKL Long; Berossus literal historical field; Berossus computational anchor field; 50-year pivot state; File_34 Precessional Envelope context state; File_34 Sanctuary Fractal context state; File_34 post-final SKL / Berossus dependency state; File_34 SKL-to-Berossus `2370` corridor state; File_34 `30 + 20 + 30` restoration corridor state; paired slash-display arithmetic state; Nisan / Tishri phase-chain state; File_35 context-only Half-Step state; File_64 Judges-derived Temple / Palace corroboration state; Precession Square state; base precessional register state; 10x precessional scale-state; File_66 Hezekiah Precession-Square application state; Sumerian Mirror corroboration state; Mirror providential synchronization state; manuscript-gap comparison state; 24-variant grid state; Elastic Gap Protocol state; 1876 BC convergence year-label; Bullseye Protocol qualitative convergence state; File_34 dependency state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.36; State Vocabulary Register v1.37; Project Procedures v3.5; prior finalized source; Final File_64 as downstream internal biblical corroboration; Final File_66 as downstream Hezekiah Precession-Square application; bounded reciprocal-routing updates through August 4 2026; Repository_Change_Archive (non-controlling history)
+Current refresh note: The August 4 2026 bounded File_66 pointer records a downstream application of File_10’s existing `25921 = 161² = (7 × 23)² = 23² × 49` square/Jubilee state. File_66 combines that controller value with File_17’s `25/23` operator and its own independently derived `185150` companion to obtain `161 × 25/23 = 175`, `185150 × 7 = 50 × 25921`, and the secondary display `25921 × (25/23)² = 175²`. This pointer does not add a new external witness, move the `2876/2886 BC` Precession-Square/SKL coordinates, redefine `25921`, or import File_66’s Judah chronology, statistical result, or theological synthesis into File_10. Detailed history remains in Repository_Change_Archive.
 
 # File_10 — External Validation
 
@@ -30,14 +31,19 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_16` | Controls the `1876 BC` Nexus, Bullseye Protocol inventory, `13+` convergence label, event-node versus pattern-vector distinction, Cainan macro-vector B6 classification, famine-window handling, and qualitative / dependency-controlled probability language. |
 | `File_17` | Controls prophetic span-component terminology, especially `1260`, `1274`, `1290`, `1380`, `2300`, `2520`, and precessional display states where opened. |
 | `File_19` | Applied Hezekiah Prophetic Complex dependency for the `AD 29515` actual Pillar state derived from `AD 184315 − AD 29515 = 154800 = 430 × 360`; keeps legacy BC-side Pillar mirror displays outside local proof weight. |
+| `File_66` | Downstream Final Hezekiah application of File_10’s Precession Square. It uses `25921 = 161² = (7 × 23)²`, File_17’s `25/23`, and its independently derived `185150` companion to display `185150 × 7 = 50 × 25921` and `25921 × (25/23)² = 175²`. File_10 remains the square-state controller and imports none of File_66’s Judah-ledger or statistical proof. |
 | `File_34` | Final post-final pressure-tested control for the full Berossus-SKL derivation, `486 BC` computational anchor, `536 BC` historical anchor, `488/486 BC` rail, 50-year Idealistic Shift, `6480` Precessional Quarter, `720` Cosmic Pixel, Precessional Envelope, Sanctuary Fractal, SKL-to-Berossus `2370` corridor, `30 + 20 + 30` restoration corridor, Appendix B phase-chain handling, and extended SKL/Berossus variant machinery. `File_10` indexes this material but does not import the full derivation as local proof. |
 | `File_35` | Context-only dependency for Secondary Solar Synchronization, P17/P34, and Half-Step machinery. It is not active in `File_10` unless Prime-grid / Near-Solar / Half-Step logic is explicitly opened. Retained as context-only dependency; its current final status does not make Half-Step logic active in `File_10`. |
 | `File_51a` | Procedural and Rounded Scaffold precedent for state-register and pass-structure handling. |
 | `File_54` | Later-file exemplar for claim-status restraint, Mirror classification, shared-tradition evidence, and non-inflated comparative synthesis. |
-| Restart Capsule v11.15 | Repository-wide anchor, operator, modal-state, and SKL/Berossus dependency control. |
+| `File_64` | Final post-final pressure-tested internal biblical corroboration of the schematic `1016/996 BC` Temple / Palace pair. Its direct `430`, explicit `450`, and Joshua-extended `490` routes converge on `1016 BC`; the explicit `450` route continues through the final Samson `20` to `996 BC`. File_10 imports only this pair-level corroboration, not the Judges duration ledger as an external witness or as a local derivation of the Kings `+50`. |
+| Restart Capsule v11.36 | Current repository-wide anchor, operator, modal-state, and dependency control; File_66-specific states remain Final-local pending registration. |
 
 Dependency note:
 `File_34` remains the dependency controller for SKL / Berossus derivation. `File_35` is retained as context-only dependency material. This Final source uses them only to clarify modal states, node-classes, dependency boundaries, visible arithmetic checks, argument-control boundaries, and cross-reference mapping. It does not import the full File_34 derivation or any File_35 material as local proof, does not pressure test either dependency file, and does not execute their full derivations inside `File_10`.
+
+File_64 reciprocal Temple / Palace corroboration note:
+Final post-final pressure-tested `File_64` independently regenerates the schematic `1016/996 BC` pair from the bounded Judges duration corpus. Its direct `430`, explicit `450`, and Joshua-extended `490` routes place `1016 BC` at the closure, internal joint, and opening of the final Philistine–Samson `40 + 20` module; the explicit `450` route then carries Samson's final `20` from `1016 BC` to `996 BC`. This is downstream internal biblical corroboration of an already active File_10 / File_08 pair. It is not another external tradition, does not alter the Berossus / SKL bridge, does not derive the Kings `+50`, and does not replace the historical `966/946 BC` Temple / Palace pair.
 
 ## 0. File-function
 
@@ -45,7 +51,7 @@ Dependency note:
 
 It gathers external and comparative validation streams from Smith and Rudd as LXX chronology source-control witnesses, BJ / Jubilees as broader repository context where explicitly opened, SKL/Sumerian chronology, Berossus, precessional arithmetic, manuscript-gap architecture, and the `1876 BC` convergence inventory.
 
-This file does not replace `File_02`, `File_16`, `File_17`, `File_34`, or `File_35`. It indexes their witness value and identifies how each external or comparative stream supports the larger chronology without collapsing traditions, node-classes, or operators.
+This file does not replace `File_02`, `File_16`, `File_17`, `File_34`, `File_35`, or `File_64`. It indexes their witness value and identifies how each external or comparative stream supports the larger chronology without collapsing traditions, node-classes, or operators. `File_64` enters here only as internal biblical corroboration of a Temple / Palace pair already present in File_10; it is not reclassified as an external witness.
 
 Publication-cleanup note:
 This public-clean source preserves the Final and post-final pressure-tested file status, including the later File_19 and File_34 dependency-caution labels. Detailed pass logs, pressure-test records, and bounded cross-file update ledgers are archived rather than repeated in the public body.
@@ -79,7 +85,9 @@ The following states are active in `File_10`. They are simultaneous, non-competi
 | File_19 AD 29515 actual Pillar state | AD 184315; AD 29515; `154800 = 430 × 360`; AD 29465 by separate Jubilee-shift dependency | applied Hezekiah / Pillar vocabulary | `File_19` identifies `AD 29515` as the actual Pillar state in the Hezekiah complex. `AD 29465` remains a distinct Jubilee-shift node by dependency and must not bleed into the File_19 actual Pillar state. Legacy BC-side Pillar mirror displays do not carry local proof weight in `File_10`. |
 | File_35 context-only Half-Step state | P17; P34; `34.5`; `35`; `68/69`; `70/69`; 1686 BC; 536 BC | Secondary Solar / Prime-grid subsystem | Not active in `File_10` unless Prime-grid / Near-Solar / Half-Step logic is explicitly opened. |
 | Biblical +50 Kings ledger field | 1496/1456 BC; 1446/1406 BC; 1016/996 BC; 966/946 BC; 586 BC | schematic / historical ledger relation | Preserved as author-supplied bridge logic. Detailed Kings dual-ledger controls remain cross-file dependent. |
+| File_64 Judges-derived Temple / Palace corroboration state | `430/450/490`; `1016/996 BC`; `20 = 7 + 13` | downstream internal applied list-chronology witness | Final File_64 independently regenerates the existing schematic pair: all three routes converge on `1016 BC`, while the explicit `450` route carries the final Samson `20` to `996 BC`. This corroborates but does not derive the File_10 / File_08 `+50` or alter the historical pair. |
 | Precession Square state | `(7 × 23)^2 × 10 = 259210`; `25920`; `25921`; `259200`; `259210`; `2886 BC`; `2876 BC`; `1406 BC` | precessional / Jubilee / 10x scale-state | Preserved as source arithmetic and author clarification. Visible arithmetic verification is recorded in the arithmetic-control summary; endpoint-generation remains dependency-controlled. |
+| File_66 Hezekiah Precession-Square application state | `161 × 25/23 = 175`; `185150 × 7 = 50 × 25921`; `25921 × (25/23)^2 = 175²` | downstream exact-rational application | File_66 controls the `185150` derivation and Hezekiah/Judah interpretation; File_10 controls `25921`; File_17 controls `25/23`. |
 | Base precessional register state | `25920`; `25921`; `529 × 49`; final sabbatical year | precession / Jubilee display | Preserve as display-state relation. Do not collapse `25920` and `25921`. |
 | 10x precessional scale-state | `259200`; `259210` | 10x scale of base precessional register | Preserve as scale-state. Do not treat the 10x scale as ordinary same-side chronology unless a local section states the target and operator. |
 | Sumerian Mirror corroboration state | 453600; 21600; `10 × 2160` | deep-time Mirror / external synchronization field | Classified as Mirror corroboration and Mirror providential synchronization. It is not local Mirror coordinate-completion unless a later section opens a target-generation operator. |
@@ -131,6 +139,8 @@ The following states are active in `File_10`. They are simultaneous, non-competi
 | 1440 | Expanded Gap / Mosaic Bridge by dependency | Elastic Gap Protocol / File_34 context | 1380 manuscript gap; 1260 half-week |
 | 1260 | Danielic half-week / `3.5 × 360` | Elastic Gap Protocol state | Priestly proof claim; 1380 manuscript total gap |
 | 1500 Priestly years | 336-day-year display label | Priestly-year label state | separate operator unless a local calendar-state argument is opened |
+| 1016/996 BC | schematic Temple / Palace foundation-completion pair | Biblical +50 Kings ledger; File_64 downstream corroboration | historical `966/946 BC`; external-witness status; local derivation from Judges durations |
+| 966/946 BC | historical / rounded Temple–Palace construction pair | biblical historical / rounded ledger | schematic `1016/996 BC`; File_64 duration-ledger coordinates |
 | 1876 BC | shared convergence year-label | File_16 Bullseye Protocol | single event; Entry only; Call only; famine window only |
 | 1878–1871 BC | famine-window envelope by dependency | File_16 Famine window | single date; `1876 BC` alone |
 | Cainan macro-vector B6 | macro-prophetic pattern-vector dependency | File_16 / File_18 focused-pressure-tested update | Category A event node; local probability denominator; replacement for `+130` / `+460` Cainan distinction |
@@ -160,7 +170,9 @@ The following states are active in `File_10`. They are simultaneous, non-competi
 20. The Bullseye Protocol remains qualitative convergence, structural inference, and providential synchronization unless a formal probability model is supplied.
 21. The Cainan macro-vector is a File_16 Category B / B6 dependency state sourced from File_18 table values. It may be indexed here but must not be used to revise the local qualitative probability language or to add Category A witnesses.
 22. The `2307` and solar companion lines remain audit-controlled unless a later dependency opens the required operator explicitly.
+23. Final File_66’s `185150 × 7 = 50 × 25921` and `25921 × (25/23)^2 = 175²` are downstream applications. They do not redefine the Precession Square, add an endpoint-generation operator, or make `185150` a File_10 anchor.
 23. The providential multi-tradition system state preserves the author’s theological claim that MT, SP, LXX, BJ / Jubilees, SKL, and Berossus participate in a shared mathematical grammar. This state does not make every alignment demonstrably scribal or literal. Where human awareness is uncertain, classify the claim as shared-tradition evidence, structural inference, or providential synchronization rather than probable authorial design.
+24. `File_64` is an internal biblical applied list-chronology witness, not another external manuscript or extra-biblical tradition. Its Judges-derived `1016/996 BC` result may corroborate the active Temple / Palace pair, but its duration rows must not be imported as File_10 external evidence, Berossus / SKL arithmetic, a Kings reign-sum, or a derivation of the `+50` operator.
 ### 0.2 File map
 
 | Section | Function | Active state / operator |
@@ -168,8 +180,8 @@ The following states are active in `File_10`. They are simultaneous, non-competi
 | Related Repository Files | Identifies controlling dependencies | dependency tracking; File_34 post-final / File_35 context control |
 | §0 | Defines file function, working states, node-class register, modal-state rules, File map, terminology controls, Machine Guards, arithmetic-control summary, argument-control summary, and finalization control | file-level witness-control state; modal-state discipline; arithmetic-control discipline; claim-status control; Final source status |
 | §1 | Records external source-control witnesses | Smith as important LXX Genesis reconstruction witness; Rudd as secondary LXX / Septuagint source-control witness; authorial providential multi-tradition distinction; BJ / Jubilees repository-context boundary |
-| §2 | Records the Cosmic Bridge | SKL Short / Long; Berossus computational anchor; 50-year pivot; File_34 dependency states |
-| §3 | Records the Precession Square | `(7 × 23)^2 × 10`; `25920`; `25921`; `259200`; `259210`; Jubilee `49`; 10x scale-state |
+| §2 | Records the Cosmic Bridge and the bounded File_64 reciprocal corroboration of the Temple / Palace pair | SKL Short / Long; Berossus computational anchor; 50-year pivot; File_34 dependency states; File_64 internal corroboration |
+| §3 | Records the Precession Square and the bounded File_66 downstream application | `(7 × 23)^2 × 10`; `25920`; `25921`; `259200`; `259210`; Jubilee `49`; `185150 × 7 = 50 × 25921` by dependency |
 | §4 | Records the Sumerian Mirror | `453600`; `21600`; `10 × 2160`; Mirror corroboration / Mirror providential synchronization |
 | §5 | Records the Tri-Manuscript Harmonic | MT / SP / LXX gaps; 24-variant grid; Elastic Gap Protocol; Priestly-year label |
 | §6 | Records the Statistical Singularity | `1876 BC`; `586 BC + 1290`; Bullseye Protocol; `13+` inventory; qualitative convergence state |
@@ -218,6 +230,9 @@ The legacy source reference to `File_34`, “Section 7.B,” must not be silentl
 Machine Guard [FILE_10 FILE_35 CONTEXT-ONLY]:
 `File_35` Half-Step / P17 / P34 material is context-only in `File_10`. Do not import the `34.5 → 35` Half-Step operator, P17/P34 subsystem, `68/69` Near-Solar gear, or Prime-grid machinery unless `File_10` explicitly opens that state.
 
+Machine Guard [FILE_10 FILE_64 INTERNAL-CORROBORATION / EXTERNAL-WITNESS NON-COLLAPSE]:
+Final `File_64` may corroborate the schematic `1016/996 BC` Temple / Palace pair through its Judges-derived `430/450/490` convergence. Do not count File_64 as another external manuscript or extra-biblical witness; do not import its oppression, rest, rule, judgeship, Joshua-overlay, or Philistine–Samson durations as File_10 external evidence, Berossus / SKL arithmetic, or a Kings reign-sum; do not use it to derive or revise the `+50` operator; and do not move the historical `966/946 BC` pair.
+
 Machine Guard [FILE_10 PRECESSION / CIVIL / MIRROR FIREWALL]:
 The Precession Square, same-side BC span arithmetic, civil cross-axis span `BC + AD − 1`, Mirror protocol, 10x scale-state, inverse-number reversal, and SKL/Berossus scale-state machinery are distinct operators. Do not substitute one operator for another by resemblance.
 
@@ -229,6 +244,9 @@ The Bullseye Protocol and Statistical Singularity language are retained as quali
 
 Machine Guard [FILE_10 SLASH-PAIR / RAIL SAFETY]:
 Slash-pairs and rails such as `2908/2906 BC`, `2938/2936 BC`, `2858/2856 BC`, `2888/2886 BC`, `539t/538n BC`, `538/536 BC`, `488/486 BC`, `1496/1456 BC`, `1446/1406 BC`, `1016/996 BC`, and `966/946 BC` are ordered modal displays. They are not averages, not ranges unless marked as ranges, and not loose alternatives.
+
+Machine Guard [FILE_10 FILE_66 PRECESSION-SQUARE APPLICATION]:
+Final File_66 may apply File_10’s `25921 = 161² = (7 × 23)² = 23² × 49` state through `161 × 25/23 = 175`, `185150 × 7 = 50 × 25921`, and `25921 × (25/23)² = 175²`. File_10 remains the square-state controller. Do not import `185150`, the A7 Judah `50`, the modulus-`11` result, or the sister-city interpretation as File_10 Primary anchors or external witnesses.
 
 ### 0.5 Machine-ingestion check
 
@@ -261,8 +279,10 @@ The visible local arithmetic in `File_10` checks under the stated operators wher
 | SKL local rails | `2908 − 2906 = 2`; `2936 − 2906 = 30`; `2938 − 2936 = 2`; corresponding SKL Long rail checks also hold. | Arithmetic fact inside the local rail display; full rail derivation remains `File_02` / `File_34` controlled. |
 | 50-year pivot displays | Component-wise `538 → 488`, `536 → 486`, `2908 → 2858`, `2906 → 2856`, `1446 → 1496`, `1406 → 1456`, `966 → 1016`, and `946 → 996` all preserve 50-year separation. | Arithmetic fact; historical and schematic states remain distinct. |
 | Temple / Palace bridge table | `1446 − 966 = 480`; `966 − 486 = 480`; `1406 − 946 = 460`; `946 − 486 = 460`; extended rows to `536 BC` also check. | Arithmetic fact under same-side BC subtraction. |
+| File_64 Judges-side pair corroboration | `1446 − 1016 = 430`; `1446 − 996 = 450`; `1016 − 996 = 20`; `966 − 946 = 20`; `1016 − 966 = 50`; `996 − 946 = 50`. | Arithmetic facts. File_64 controls the Judges ledger that generates the schematic pair; File_10 retains pair-level corroboration only. |
 | File_34 context checks | `6530 = 6480 + 50`; `6480 = 90 × 72`; `12960 = 180 × 72`; `13680 = 12960 + 720`; `28086 − 486 = 27600`; `27600 × 25/23 = 30000`. | Visible arithmetic checks; full derivation remains `File_34` controlled. |
 | Precession Square | `7 × 23 = 161`; `161 × 161 = 25921`; `25921 × 10 = 259210`; `529 × 49 = 25921`; `25920 × 10 = 259200`; `259200 + 10 = 259210`; `2876 − 1406 = 1470 = 30 × 49`. | Products and spans check. Landing labels remain operator-dependent. |
+| File_66 downstream application | `161 × 25/23 = 175`; `185150 × 7 = 1296050 = 50 × 25921`; `25921 × (25/23)^2 = 175² = 30625`. | Exact arithmetic facts; these verify the pointer only. File_66 controls `185150` and the chronology. |
 | Sumerian Mirror | `10 × 2160 = 21600`; dependency-compatible factorization `1260 × 360 = 453600` checks if the File_02 / File_34 SKL Pre-Creation rail is opened. | Local `21600` arithmetic checks; `453600` derivation remains dependency-controlled. |
 | Tri-Manuscript Harmonic | `3 × 360 = 1080`; `3 × 100 = 300`; `3 × 460 = 1380`; `1080 + 300 = 1380`. | Arithmetic fact inside the manuscript-gap comparison state. |
 | 24-variant grid | `3 × 4 × 2 = 24`. | Arithmetic fact; four variants remain dependency-controlled. |
@@ -285,10 +305,11 @@ Argument-control rule:
 | 1 | Source-control witness | Smith’s LXX Genesis 5 and 11 reconstruction; Rudd’s LXX / Septuagint chronology source-control page; File_34 / File_35 dependency context. |
 | 2 | Arithmetic fact | Locally checked spans, products, ratios, and displays. |
 | 3 | Structural inference | Repeated state-controlled alignments among MT, SP, LXX, SKL, Berossus, precession, and the `1876 BC` checksum. |
-| 4 | Shared-tradition evidence | External or comparative witnesses that arrive at compatible chronology without adopting the author’s interpretation. |
-| 5 | Theological / providential interpretation | The author’s claim that MT, SP, LXX, BJ / Jubilees, SKL, and Berossus participate in a providentially designed mathematical grammar. |
-| 6 | Mirror corroboration / providential synchronization | Sumerian Mirror and deep-time coherence that corroborate or overpattern the local structure without carrying the primary proof burden. |
-| 7 | Dependency-controlled proof | File_16 for the convergence inventory; File_34 for SKL/Berossus derivation; File_35 for inactive Half-Step context. |
+| 4 | Internal biblical corroboration | File_64's independently generated Judges-side `1016/996 BC` pair, retained without reclassifying it as an external witness or local derivation of the Kings `+50`. |
+| 5 | Shared-tradition evidence | External or comparative witnesses that arrive at compatible chronology without adopting the author’s interpretation. |
+| 6 | Theological / providential interpretation | The author’s claim that MT, SP, LXX, BJ / Jubilees, SKL, and Berossus participate in a providentially designed mathematical grammar. |
+| 7 | Mirror corroboration / providential synchronization | Sumerian Mirror and deep-time coherence that corroborate or overpattern the local structure without carrying the primary proof burden. |
+| 8 | Dependency-controlled proof | File_16 for the convergence inventory; File_34 for SKL/Berossus derivation; File_35 for inactive Half-Step context; File_64 for the internal Judges duration-ledger derivation. |
 
 Argument-control result:
 Smith is retained as an important source-critical LXX chronology witness. The controlled claim is that Smith independently reconstructs LXX Genesis 5 and 11 in a way that reaches compatible LXX Creation and Flood chronology. The interpretation of those chronologies, the Precession Square, Sumerian Mirror, Bullseye Protocol, SKL/Berossus integration, and larger repository architecture remains the author’s own.
@@ -432,6 +453,26 @@ All visible same-side spans in this table check under ordinary BC subtraction:
 ```
 
 The table remains a bridge-display state rather than a replacement for the historical Exodus, Conquest, Temple, Palace, or restoration anchors.
+
+### 2.3A File_64 Judges-side corroboration of `1016/996 BC`
+
+Active state:
+File_64 Judges-derived Temple / Palace corroboration state; internal biblical witness.
+
+Final post-final pressure-tested `File_64` reaches the schematic `1016 BC` coordinate independently from the bounded Judges duration corpus. Its direct Jephthah `430`, explicit `450`, and Joshua-extended `490` routes place `1016 BC` at the closure, internal joint, and opening of the final Philistine–Samson `40 + 20` module. The explicit `450` route then continues through Samson's final `20` years to `996 BC`, independently reproducing the schematic Temple / Palace pair already active in File_10.
+
+```markdown
+1446 − 1016 = 430
+1446 − 996 = 450
+1016 − 996 = 20
+
+966 − 946 = 20
+1016 − 966 = 50
+996 − 946 = 50
+```
+
+Argument-control note:
+This is pair-level internal biblical corroboration. It does not make File_64 another external witness, does not import the Judges duration ledger as a local File_10 proof, does not generate the Berossus / SKL 50-year pivot, and does not derive or revise the Kings `+50`. File_08 remains the Kings controller; File_64 controls the Judges-side derivation; File_10 records the compatibility of the two schematic / historical pairs.
 
 ### 2.4 `File_34` cross-reference: `6480`, the Precessional Envelope, and the Sanctuary Fractal
 
@@ -578,6 +619,55 @@ The Precession Square arithmetic is direct arithmetic where products are stated.
 
 Dependency note:
 The Precession Square, SKL Long `+30 Apparent Mode`, and Conquest relation are preserved as author-supplied structure. Their displayed arithmetic checks; their endpoint-generation logic remains dependency-controlled pending citation-control review.
+
+### 3.1 File_66 downstream Hezekiah application
+
+Final `File_66` applies the File_10 Precession Square without redefining it.
+
+The square root is:
+
+```markdown
+161 = 7 × 23.
+```
+
+Under the Priestly Key controlled by `File_17`:
+
+```markdown
+161 × 25/23 = 175.
+```
+
+The square remains:
+
+```markdown
+25921 = 161² = 23² × 49.
+```
+
+File_66 independently derives:
+
+```markdown
+185150 = 23² × 350.
+```
+
+Its sevenfold completion is therefore:
+
+```markdown
+185150 × 7
+= 23² × 350 × 7
+= 23² × 49 × 50
+= 25921 × 50
+= 1296050.
+```
+
+A secondary two-axis operator display is:
+
+```markdown
+25921 × (25/23)²
+= 175²
+= 30625.
+```
+
+Claim-status boundary:
+The displayed arithmetic is exact. File_66 controls the `185150` derivation, the A7 `50`, and the Hezekiah/Judah interpretation. File_10 controls the Precession-Square state only. This pointer does not make File_66 another external witness and does not alter File_10’s `2876/2886 BC` endpoint controls.
 
 ## 4. The Sumerian Mirror
 
@@ -795,6 +885,9 @@ Dependency note:
 `File_35` is context-only in `File_10`. Its Half-Step, P17/P34, Prime-grid, and Near-Solar synchronization operators remain inactive unless a local section explicitly opens that state.
 
 Dependency note:
+Final post-final pressure-tested `File_64` controls the Judges-side `430/450/490` derivation and the opening–joint–closure placement of `1016 BC`. File_10 imports only the independent regeneration of the schematic `1016/996 BC` Temple / Palace pair. File_08 remains the Kings dual-ledger controller, and the File_10 Berossus / SKL bridge remains unchanged.
+
+Dependency note:
 The Precession Square relation to `2876 BC`, `2886 BC`, the SKL Long `+30 Apparent Mode`, and the `1406 BC` Conquest relation is preserved from author clarification. The displayed arithmetic checks, but endpoint-generation operator status remains dependency-controlled.
 
 Dependency note:
@@ -820,12 +913,15 @@ Smith is now source-controlled and retained as an important LXX Genesis reconstr
 Audit note:
 Sumerian Mirror classification is resolved as Mirror corroboration / Mirror providential synchronization. If a future revision wants the Sumerian Mirror to carry coordinate-completion burden, it must supply the target-generation operator and endpoint identity.
 
+Audit note [FILE_10 FILE_66 RECIPROCAL POINTER]:
+The bounded File_66 reciprocal pointer is fulfilled. File_10 now records the downstream `161 → 175`, `185150 × 7 = 50 × 25921`, and two-axis `175²` applications while retaining complete control of the `25921` square state and importing none of File_66’s chronology or statistical proof.
+
 ## Revision and archive note
 
-This public-clean Markdown source removes only archival amendment history, pass logs, pressure-test repetition, pointer-refresh records, and obsolete replacement-workflow notes.
+This public-clean Markdown source retains the prior Final and pressure-tested baseline while applying the bounded July 26 2026 File_64 reciprocal pointer and the bounded August 4 2026 File_66 Precession-Square pointer. The File_64 update adds internal Temple / Palace corroboration; the File_66 update adds one downstream Precession-Square application state, one non-collapse Machine Guard, one arithmetic-control row, one reciprocal section, and dependency routing. Neither update alters the pre-existing external-witness, SKL / Berossus, Precession Square, Sumerian Mirror, manuscript-gap, or Bullseye proof fields.
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No pre-existing arithmetic, Primary anchor, external-witness classification, SKL / Berossus state, Kings `+50` operator, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary is changed. The bounded File_66 update adds one downstream application state, one Machine Guard, one arithmetic-control row, one reciprocal section, and dependency routing.
 
-Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+Final pressure-test status is preserved in the file header. The July 26 2026 File_64 pointer and August 4 2026 File_66 pointer received focused reciprocal-routing verification only; detailed verification records are archived rather than repeated in the public file body.

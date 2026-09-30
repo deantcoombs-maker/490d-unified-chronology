@@ -3,21 +3,38 @@ Title: The Exodus as Target and Fulcrum Anchor
 Entity: The Exodus
 Classification: The Target / The Fulcrum
 UUID: EVENT_EXODUS_MOSES
-Status: Final; post-final pressure tested; Year-6 micro-patch applied; 1876 Cainan macro-vector cross-file update applied
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; prior post-final pressure-tested status retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested; Year-6 micro-patch applied; 1876 Cainan macro-vector cross-file update applied; bounded File_66 reciprocal pointer applied August 8 2026; bounded Final File_69 reciprocal pointer applied August 17 2026; bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
+Pressure-test status: Current; publication-clean verification complete; prior post-final pressure-tested status retained; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test was performed for this pointer-only update; bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
 Primary domain: Regular; Cumulative; Prophetic; Comparative; Calendar; Theological; Mirror
 Traditions: MT; SP; LXX
 Canonical source: Markdown
 Primary anchors: 1446 BC; 1231 BC; 1878 BC; 1876 BC; 586 BC; 14466 BC; 14465 BC; AD 586; AD 27; AD 30; AD 60
-Related files: `File_00`; `File_02`; `File_04`; `File_16`; `File_17`; `File_18`; Restart Capsule v11.15; 490d Repository Style Guide v2.5
+Related files: `File_00`; `File_02`; `File_04`; `File_16`; `File_17`; `File_18`; Restart Capsule v11.15; 490d Repository Style Guide v2.5; File_66; File_69
 Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; Sojourn 215; Exodus 215; `430`; `432`; `645`; `1260`; `1290`; Cainan macro-vector B6 by dependency; `2520`; `25/23`; `10x` scaling; Mirror projection
 Major modal states: primary `1446 BC` Exodus state; subordinate `1231 BC` Ramesside Exodus state; MT `430` Egypt state; SP/LXX `215 + 215` Sojourn-division state; LXX `33 + 397` family-unit state; shared `1876 BC` year-label; Famine-window `1878/1876 BC` paired target field; Cainan / Famine envelope-to-envelope dependency state; standard precessional-day state `72`; alternate precessional-day state `71⅔ years = 215/3`; cumulative Creation-week / Year-6 full-year pair `14466–14465 BC`; cumulative `10x` civil-span verification endpoint `14465 BC`; AD-side Mirror-system Exile target `AD 586`; AD 27 ministry target; AD 30 Christ-death target; AD 60 Pauline target
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; listed file dependencies; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; listed file dependencies; Repository_Change_Archive (non-controlling history); Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package; Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_05 — The Exodus as Target and Fulcrum Anchor
+
+
+File_66 reciprocal Ramesside-origin note:
+Final `File_66` Appendix F may test `1231 BC` as a candidate latent historical Exodus horizon while retaining `1446 BC` as canonical-chronographic priority. This is a downstream historical-chronographic hypothesis only. File_05's controlling hierarchy is unchanged: `1446 BC` remains the primary Exodus anchor and `1231 BC` remains the subordinate Ramesside state unless File_05 itself is substantively reopened.
+
+File_69 Mosaic-branch reciprocal note:
+Final File_69 uses File_05's primary `1446 BC` Exodus hierarchy only as a controlling downstream interface. Its `2386/2456 BC` Mosaic closes remain generated schematic states and do not replace the primary Exodus anchor.
+
+Machine Guard [FILE_05 FILE_06 FILE_69 MOSAIC-CONQUEST ROUTING]:
+Final File_69 may use the schematic primary branch `2876→2386 BC=490` and the comparison `2386→1406 BC=980=14×70`, with companion `2960→2456→1448 BC`, to expose a Matthean Levi-branch Mosaic weave. File_05 retains `1446 BC` as the primary Exodus anchor and File_06 retains `1406 BC` as the historical Moses-death / Conquest transition. `2386/2456 BC` remain generated schematic Mosaic closes and are not historical Moses or Conquest anchors.
+
+File_69 Mosaic-center reciprocal note:
+Final File_69 now routes its Matthean slot–rail theorem through the controlled Mosaic center matrix: `1406 BC` historical Moses-death / Conquest, `1446 BC` primary Exodus, `1448 BC` strict `72`-carrier companion, and `1486 BC` Moses age `40`. The parent anchor and generational-unit hierarchies remain unchanged.
+
+Machine Guard [FILE_05 FILE_06 FILE_14 FILE_15 FILE_69 MOSAIC-CENTER ROUTING]:
+Final File_69 may register the center matrix `1406/1446/1448/1486 BC` and the paired slot–rail exchanges `110−70=40` and `110−72=38`. File_05 retains `1446 BC` as the primary Exodus anchor; File_06 retains `1406 BC` as the historical Moses-death / Conquest transition; File_14 retains `1486 BC` as Moses age `40` and the biological-fractal controls; File_15 retains the authorized `100/70/40` generational units. `1448 BC` remains a strict schematic companion center and does not replace any historical anchor.
 
 ## 0. File-function
 
@@ -69,6 +86,10 @@ The following states are active in `File_05`. They are simultaneous, non-competi
 | §6 | Lists cross-file dependencies | dependency tracking |
 
 ### 0.3 Machine Guards for `File_05`
+
+Machine Guard [FILE_05 FILE_66 RAMESSIDE-ORIGIN HYPOTHESIS]:
+Final File_66 Appendix F may test `1231 BC` as a candidate latent historical Exodus horizon while retaining `1446 BC` as canonical-chronographic priority. This downstream hypothesis does not alter File_05's controlling hierarchy: `1446 BC` remains the primary Exodus anchor and `1231 BC` the subordinate Ramesside state unless File_05 itself is substantively reopened.
+
 
 Machine Guard [FILE_05 PRIMARY / SUBORDINATE EXODUS]:
 

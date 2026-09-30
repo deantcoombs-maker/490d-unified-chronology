@@ -1,0 +1,34 @@
+<h2 class="sr-only">Two-panel chart comparing actual Thiele accession dates for the kings of Judah against the verbatim schematic chronology, with a lower panel showing the divergence closing from 50 years to zero.</h2>
+<div style="display:flex;flex-wrap:wrap;gap:18px;margin:0 0 10px;font-size:12px;color:var(--text-secondary);">
+<span style="display:flex;align-items:center;gap:5px;"><span style="width:14px;height:2px;background:#2a78d6;"></span>Actual (Thiele)</span>
+<span style="display:flex;align-items:center;gap:5px;"><span style="width:14px;height:0;border-top:2px dashed #eb6834;"></span>Verbatim / schematic</span>
+<span style="display:flex;align-items:center;gap:5px;"><span style="width:10px;height:10px;border-radius:2px;background:#eb6834;opacity:.15;"></span>Offset</span>
+</div>
+<div style="position:relative;width:100%;height:330px;">
+<canvas id="c1" role="img" aria-label="Line chart: verbatim chronology runs 50 years earlier than Thiele dates at Solomon and Rehoboam, converging to zero by Zedekiah.">Verbatim chronology begins 50 years above actual dates and converges at the fall of Jerusalem.</canvas>
+</div>
+<div style="margin:14px 0 4px;font-size:12px;color:var(--text-secondary);">Offset in years (verbatim minus actual)</div>
+<div style="position:relative;width:100%;height:150px;">
+<canvas id="c2" role="img" aria-label="Bar chart: the offset holds at 50 years for four reigns, erodes to 42 by Amaziah, drops sharply to 17 at Uzziah, then flattens to zero.">Offset holds at 50, drops 25 years at Uzziah, then flattens to zero.</canvas>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const L=['Solomon','Rehoboam','Abijah','Asa','Jehoshaphat','Jehoram','Ahaziah','Athaliah','Jehoash','Amaziah','Uzziah','Jotham','Ahaz','Hezekiah','Manasseh','Amon','Josiah','Jehoahaz','Jehoiakim','Jehoiachin','Zedekiah','Fall of Jerusalem'];
+const A=[970,930,913,910,870,848,841,841,835,796,792,750,732,715,697,642,640,609,609,598,597,586];
+const V=[1020,980,963,960,919,894,886,885,878,838,809,757,741,725,696,641,639,608,608,597,597,586];
+const G=V.map((v,i)=>v-A[i]);
+const mut=getComputedStyle(document.documentElement).getPropertyValue('--text-muted')||'#898781';
+const grid=matchMedia('(prefers-color-scheme: dark)').matches?'#2c2c2a':'#e1e0d9';
+new Chart(document.getElementById('c1'),{data:{labels:L,datasets:[
+{type:'line',label:'Verbatim',data:V,borderColor:'#eb6834',backgroundColor:'rgba(235,104,52,.12)',borderWidth:2,borderDash:[6,4],pointRadius:3,pointBackgroundColor:'#eb6834',fill:'+1',tension:0},
+{type:'line',label:'Actual',data:A,borderColor:'#2a78d6',borderWidth:2,pointRadius:3,pointBackgroundColor:'#2a78d6',fill:false,tension:0}]},
+options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
+plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.dataset.label+': '+c.parsed.y+' BC'}}},
+scales:{y:{title:{display:true,text:'BC',color:mut,font:{size:11}},ticks:{color:mut,font:{size:11},callback:v=>v},grid:{color:grid}},
+x:{ticks:{color:mut,font:{size:11},autoSkip:false,maxRotation:75,minRotation:75},grid:{display:false}}}}});
+new Chart(document.getElementById('c2'),{type:'bar',data:{labels:L,datasets:[{label:'Offset',data:G,backgroundColor:G.map(g=>g>=40?'#eb6834':g>=15?'#eda100':g>0?'#1baf7a':'#898781'),borderRadius:3,barThickness:14}]},
+options:{responsive:true,maintainAspectRatio:false,
+plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>(c.parsed.y>0?'+':'')+c.parsed.y+' yrs'}}},
+scales:{y:{suggestedMin:-5,suggestedMax:55,ticks:{color:mut,font:{size:11},stepSize:25},grid:{color:grid}},
+x:{ticks:{display:false},grid:{display:false}}}}});
+</script>

@@ -1,18 +1,19 @@
 File: File_54
 Title: Luke’s 70-Year Genealogical Lattice, the Rounded Scaffold, and the Book of Jubilees
-Status: Final
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; prior controlled sequence through Finalization and Pressure Test retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; File_59 Luke four-point center / bilateral half-week pointer applied and focused checked July 16 2026; File_62 BJ explicit-hermeneutic / claim-status reciprocal pointer applied July 2026; bounded Final File_69 reciprocal pointer applied August 17 2026; bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
+Pressure-test status: Current; publication-clean verification complete; prior controlled sequence through Finalization and Pressure Test retained; focused checks complete for the bounded File_59 `36 BC / 6 BC / AD 5 / AD 35` and bilateral half-week pointer and the File_62 reciprocal-routing addition; no publication blocker; no new full pressure test is claimed for the pointer-only update; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test was performed for this pointer-only update; bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded File_59 and File_62 reciprocal-routing pointers only; no pre-existing arithmetic, Primary anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary changed; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
 Primary domain: Comparative; Rounded; Regular; Cumulative; Calendar; Theological; Mirror
 Traditions: MT; LXX; BJ
 Canonical source: Markdown
 Primary anchors: 5326 BC; 5256 BC; 4906 BC; 4836 BC; 4106 BC; 4136 BC; 5486 BC; 3856 BC; 3396 BC; 1406 BC; 6 BC; AD 65; AD 35
-Related files: `File_43`; `File_51a`; `File_51c`; `File_52a`; `File_52d`; `File_53`; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17
-Major operators: 70-year generational carrier; Key of 23; 25/23; 70/69; Protocol 1 Mirror; +30 Apparent Age; +60 Terah; restored 2nd Cainan; inverse-number reversal
-Major modal states: Luke 6 BC hinge; Luke 36 BC rail; Rounded Scaffold; +30 Apparent Age; LXX rounded state; cumulative MT; regular restored 2nd Cainan; cumulative restored 2nd Cainan; BJ macro-50 register; BJ 49-register; BJ endpoint +30; BJ Friday-specific Adam +30; Protocol 1 Mirror; appendix-only inverse state; AD 65 terminal; AD 35 contraction; AD 33 Passion refinement
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; `File_00`; `File_51a`; `File_54` pressure-test report; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Related files: `File_43`; `File_51a`; `File_51c`; `File_52a`; `File_52d`; `File_53`; `File_59`; `File_61`; `File_62`; Restart Capsule v11.30; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31; File_69
+Major operators: 70-year generational carrier; Key of 23; 25/23; 70/69; Protocol 1 Mirror; +30 Apparent Age; +60 Terah; restored 2nd Cainan; inverse-number reversal; BJ explicit birth-law chronology `7 + 33 = 40` / `14 + 66 = 80` by File_53 dependency; reconstructed BJ spine `100 + 60 + 130` by File_53 / File_62 dependency
+Major modal states: Luke 6 BC hinge; Luke 36 BC rail; Rounded Scaffold; +30 Apparent Age; LXX rounded state; cumulative MT; regular restored 2nd Cainan; cumulative restored 2nd Cainan; BJ macro-50 register; BJ 49-register; BJ endpoint +30; BJ Friday-specific Adam +30; BJ explicit birth-law hermeneutic state by File_53 dependency; BJ reconstructed-spine / surface-ledger divergence method state by File_53 / File_62 dependency; File_62 male/female year-scale comparison state; Protocol 1 Mirror; appendix-only inverse state; AD 65 terminal; AD 35 contraction; AD 33 Passion refinement; File_59 Luke four-point center / bilateral half-week comparison state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; `File_00`; `File_51a`; current `File_53`; corrected Final `File_61`; Final post-final pressure-tested `File_62`; `File_54` pressure-test report; Repository_Change_Archive (non-controlling history); July 16 2026 bounded File_59 Luke-center / bilateral-half-week reciprocal pointer; July 2026 bounded File_62 BJ-hermeneutic / claim-status reciprocal pointer; Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package; Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Bounded reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. The File_62 addition supplies only BJ explicit-hermeneutical and claim-status routing through current File_53; it imports no File_61/File_62 coordinate as File_54 proof and changes no pre-existing arithmetic, Primary anchor, Luke rail, BJ macro-register, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status hierarchy, theological claim, or dependency boundary. Detailed pass logs, pressure-test records, pointer-refresh history, and replacement-workflow notes remain in Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # Luke’s 70-Year Genealogical Lattice, the Rounded Scaffold, and the Book of Jubilees
 
@@ -30,15 +31,37 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 - `File_52b`: Technical Tables for Inverse-Number Architecture
 - `File_52c`: The Inverse of the Inverse
 - `File_52e`: The Subordinate LXX Inverse
-- `File_53`: The Book of Jubilees as a 22-Fold Creation-Genealogy Witness
-- Restart Capsule v11.15: repository-wide anchors, operators, modal states, and civil-span convention.
-- State Vocabulary Register v1.17: current per-file modal-state vocabulary, convention entries, and Machine Guards.
-- 490d Repository Style Guide v2.5; Project Procedures v3.2: canonical Markdown, claim-status control, public-clean source discipline, and workflow controls.
+- `File_53`: The Book of Jubilees as a 22-Fold Creation-Genealogy Witness; controller of the explicit Jubilees 3 birth-law hermeneutic and the spine-first / divergence-second BJ reconstruction method.
+- `File_59`: downstream Numbers census / Revelation matrix using File_54’s Luke `36 BC` rail, `6 BC` hinge, and `AD 35` secondary terminal in an appendix-only civil Cross-Mirror comparison.
+- `File_61`: controller of the cumulative `H7/T14` half/full-clutch rails and the derived male `7+33=40` / female `14+66=80` chronological structures.
+- `File_62`: downstream half-clutch synthesis using current File_53 as the explicit BJ hermeneutical warrant; File_54 supplies comparative claim-status restraint only.
+- Restart Capsule v11.30: repository-wide anchors, operators, modal states, and civil-span convention.
+- State Vocabulary Register v1.31: current per-file modal-state vocabulary, convention entries, and Machine Guards.
+- 490d Repository Style Guide v2.5; Project Procedures v3.5: canonical Markdown, claim-status control, public-clean source discipline, and workflow controls.
+
+
+File_59 Luke-center / bilateral-half-week note:
+`File_59` uses the File_43 / File_54 `36 BC` rail, the `6 BC` hinge, and the secondary `AD 35` terminal in the composite bracket `36 BC → 6 BC → AD 5 → AD 35 = 30 + 10 + 30 = 70`. It then places equal `458640 = 1260 × 364` arms outside that center as appendix-only providential Mirror corroboration. File_54 remains the controller of the Luke rail and AD 35 comparison state; the construction does not replace the `6 BC → AD 25` bridge or File_13 Passion-date controls.
+
+File_62 BJ-hermeneutic / claim-status note:
+Current `File_53` establishes that Jubilees 3 explicitly converts the male `7+33=40` and female `14+66=80` purification periods into Adam–Eve chronology and records the BJ method of locking the stated biographical spine before analyzing conflicting surface jubilee dates. Final `File_62` applies that ancient hermeneutical warrant to its derived year-scale half/full-clutch structures. `File_54` supplies comparative and shared-tradition claim-status restraint only: it does not import File_61/File_62 coordinates as local proof and does not infer Luke’s direct dependence on Jubilees.
+
+File_69 Luke/Matthew reciprocal note:
+Final File_69 is the detailed downstream extension of File_54's comparative Luke lattice and BJ interface. It imports no generated File_69 coordinate as File_54 proof or Primary anchor.
+
+Machine Guard [FILE_43 FILE_54 FILE_69 GENEALOGICAL-BRIDGE ROUTING]:
+Final File_69 may register the Jeconiah exile-overlap `42`-slot state, the `21+42=63` composite, and the Enoch-centered Luke/Matthew tables by dependency. File_43 retains control of LukeSpan, LukeIntervals, MattSpan_BirthHinge, MattSpan_Carrier, the `6 BC` hinge, the `36 BC` rail, and its `2806/2876 BC` node-class distinction. File_54 retains control of the Rounded Scaffold / BJ comparison. File_69 does not replace either proof spine or promote its generated coordinates into those files' Primary anchors.
+
+File_69 Matthean-microcosm reciprocal note:
+Final File_69 now treats Matthew's undoubled `14|13|14=41` as the local textual microcosm containing both `14+13` and `13+14`, while Jeconiah completes the declared `14|14|14=42`. The reduced `62` and leading `63` composites, and the paired `2806/2876` and `2888/2960 BC` Abraham-head states, remain downstream File_69 applications only.
+
+Machine Guard [FILE_43 FILE_54 FILE_69 MATTHEAN-MICROCOSM ROUTING]:
+Final File_69 may register Matthew's undoubled `14|13|14=41`, Jeconiah-completed `14|14|14=42`, the reduced `62=21+41` composite, the leading `63=21+42` full-outer composite, and the `2806/2876 BC` primary and `2888/2960 BC` companion Abraham-head distinctions. File_43 retains control of LukeSpan, LukeIntervals, MattSpan_BirthHinge, MattSpan_Carrier, the `6 BC` hinge, the `36 BC` rail, and the original `2806/2876 BC` node-class distinction. File_54 retains control of the Rounded Scaffold / BJ comparison. No File_69 generated coordinate becomes a parent-file Primary anchor.
 
 ## 0. File-function
 `File_54` tests Luke’s 70-year genealogical lattice as a comparative bridge between the Rounded Scaffold, Actual MT/LXX Creation states, cumulative MT, and the Book of Jubilees.
 
-The file does not replace `File_43`, `File_51a`, `File_51c`, `File_52a`, `File_52d`, or `File_53`. It depends on them.
+The file does not replace `File_43`, `File_51a`, `File_51c`, `File_52a`, `File_52d`, `File_53`, `File_61`, or `File_62`. It depends on the first six for its own proof and cites Files 61–62 only for bounded downstream comparison.
 
 `File_43` defines the Luke/Matthew 70-year genealogical bridge, including LukeSpan, LukeIntervals, the 6 BC hinge, the 36 BC rail, and the rule that the 36 BC rail must not be conflated with the 6 BC to AD 25 A-space bridge.
 
@@ -50,7 +73,9 @@ The file does not replace `File_43`, `File_51a`, `File_51c`, `File_52a`, `File_5
 
 `File_52d` applies inverse-number logic specifically to the 2450-year BJ trunk and identifies BJ Jared at 3396 BC as the center of a double 3430 = 7 × 490 structure reaching to AD 35.
 
-`File_53` supplies the stricter BJ interpretive hierarchy, Cainan expunction, Watcher-lore field, 22-fold Creation-genealogy structure, and authorial/providential claim controls.
+`File_53` supplies the stricter BJ interpretive hierarchy, Cainan expunction, Watcher-lore field, 22-fold Creation-genealogy structure, the explicit Jubilees 3 male/female birth-law hermeneutic, the reconstructed-spine / surface-ledger divergence method, and authorial/providential claim controls.
+
+`File_61` and `File_62` control the derived half/full-clutch chronology, male `7+33=40` and female `14+66=80` year applications, and their detailed Joseph/Moses/Joshua consequences. `File_54` does not execute those arguments; it supplies the comparative precedent for treating explicit BJ numerics as shared-tradition evidence without converting that evidence into proof of direct literary dependence.
 
 The Style Guide governs this file’s source format, requiring Markdown-first structure, modal-state clarity, theological restraint, claim-status control, and careful separation between arithmetic fact and interpretive claim.
 
@@ -63,7 +88,7 @@ The Style Guide governs this file’s source format, requiring Markdown-first st
 | §1 | Methodological controls and guards | Luke rails; MT/LXX rounded states; civil span `BC + AD − 1`; Mirror / inverse firewall |
 | §§2–3 | Luke Creation nodes within MT/LXX rounded and +30 layers | `230 + 1150`; `+30 Apparent Age` |
 | §§4–7 | Jared/Enoch, Key-of-23, and cumulative MT alignment | Luke 6 BC hinge; Luke 36 BC rail; `25/23`; `70/69`; cumulative MT |
-| §§8–10 | Luke/BJ/Conquest synthesis | BJ 49-register; BJ macro-50 register; 49/70/490 |
+| §§8–10 | Luke/BJ/Conquest synthesis, including bounded File_62 hermeneutical routing | BJ 49-register; BJ macro-50 register; explicit birth-law warrant; 49/70/490 |
 | §§11–12 | Mirror coordinate-completion and restored 2nd Cainan | Protocol 1 Mirror; regular restored 2nd Cainan `+130` |
 | §13 | Synthesis and conclusion | arithmetic facts; structural inference; claim-status ladder |
 | Appendices A–F | Arithmetic ledger, rail guard, Mirror/inverse details, and source map | appendix-only; Mirror coordinate-completion; inverse dependency control |
@@ -72,6 +97,8 @@ The Style Guide governs this file’s source format, requiring Markdown-first st
 Luke’s 70-year genealogical lattice is structurally compatible with the Rounded Scaffold, Actual MT/LXX Creation states, cumulative MT, and the Book of Jubilees. Its principal nodes — 5326 BC, 5256 BC, 4906 BC, 4836 BC, and their +30 rail partners — repeatedly land on the same 230, 1150, 1260, 1290, 1400, 1440, 1470, 2450, 3430, and 3920 registers that govern the Rounded Scaffold and BJ’s 49/50 macro-structure.
 
 The file does not claim that Luke demonstrably copied the Book of Jubilees. The controlled claim is that Luke appears to participate in a Jubilees-like heptadic chronological grammar. That claim is classified as plausibly authorial and shared-tradition evidence.
+
+Current File_53 and Final File_62 strengthen the historical plausibility of that controlled claim: Jubilees 3 explicitly applies the `7+33=40` and `14+66=80` legal periods to primordial chronology, showing that legal-number-to-chronology interpretation was an attested ancient practice. This does not alter File_54’s arithmetic or prove Luke’s direct dependence on BJ.
 
 ### 0.3 Claim-status note
 This file uses the following claim-status categories:
@@ -559,6 +586,36 @@ $$3856\text{ BC}\rightarrow1406\text{ BC}=2450.$$
 
 $$2450=50\times49=5\times490.$$
 
+### 8.1A BJ’s explicit birth-law hermeneutic and File_62 routing
+Active sources: current `File_53`; Final `File_62`.
+Active state: BJ explicit-text warrant kept distinct from downstream File_61/File_62 chronology.
+
+Jubilees 3 explicitly makes Adam’s and Eve’s timed entry into Eden the primordial basis of the male and female purification periods:
+
+```text
+Male:   7 + 33 = 40
+Female: 14 + 66 = 80
+
+2 × (7 + 33) = 14 + 66 = 80
+```
+
+This is a BJ textual datum and demonstrates that applying legal day-counts to sacred chronology was an attested ancient hermeneutical practice. Final File_62 uses that warrant comparatively for its derived male and female year structures; the coordinates and clutch operators remain controlled by Files 61–62 and do not become File_54 arithmetic.
+
+Current File_53 also records the controlled BJ reconstruction method used by File_62:
+
+```text
+1981 → 1881 → 1821 → 1691 BC
+       100    60     130
+```
+
+The stated biographical spine is locked first; contradictory surface jubilee dates are then retained and analyzed as evidence of the author’s explicit heptadic, sanctuary, land, or covenantal priorities rather than silently harmonized. This method governs comparative interpretation only and does not replace File_54’s BJ `3856 BC` macro-register or Luke arithmetic.
+
+Claim-status note:
+The Jubilees 3 relation is textual datum. Its use as ancient warrant for File_62 is shared-tradition evidence. The claim that Luke participates in a similar numerical environment remains plausibly authorial / shared-tradition evidence; direct literary dependence remains not claimed.
+
+Machine Guard [FILE_62 BJ WARRANT NON-RETROJECTION]:
+Do not import File_61/File_62 clutch coordinates into File_54’s arithmetic or Primary anchors. Do not treat the reconstructed BJ spine and the surface jubilee ledger as one chronology. Do not infer Luke’s direct dependence on Jubilees from the explicit BJ birth-law hermeneutic. File_53 controls the BJ textual and reconstruction method; Files 61–62 control the downstream chronology; File_54 controls only the comparative claim-status boundary.
+
 ### 8.2 Transition from Flood judgment to Conquest ban
 Active state: BJ and Luke compared through the Nephilim/ban horizon.
 
@@ -923,6 +980,7 @@ Synthesis-state note: this main synthesis table lists primary same-side or sourc
 | Enoch boundary | 4836 regenerates 4906 and 5256 by Key-of-23 conversions |
 | Cumulative Flood | 4836 aligns with Luke’s Jared/Enoch boundary |
 | BJ Creation | 5256 to 3856 = 1400 |
+| BJ explicit birth-law warrant | Jubilees 3 explicitly maps `7+33=40` and `14+66=80` into primordial chronology; File_62 uses this as shared-tradition warrant, not File_54 arithmetic |
 | BJ Creation chiasm | 5326 → 3856 → 1406 → AD 65 = 30 + 50 + 30 jubilees |
 | BJ Jared | 4836/4866 to 3396 = 1440/1470 |
 | BJ Jared to AD 35 | 3396 BC to AD 35 = 3430 = 7 × 490 |
@@ -948,6 +1006,7 @@ As an arithmetic fact, BJ’s 50-jubilee trunk sits inside Luke’s 77-generatio
 | The 36 BC rail repeatedly resolves to controlled cycle values | Structural inference; high internal control |
 | Luke’s Jared/Enoch boundary aligns with cumulative Flood | Structural inference; high internal control |
 | Luke and BJ converge at Conquest through 49/70/490 | Structural inference; high internal control |
+| Jubilees 3 explicitly converts `7+33=40` / `14+66=80` into sacred chronology | Textual datum; ancient shared-tradition warrant for the legitimacy of the hermeneutic |
 | Luke participates in a Jubilees-like chronological grammar | Plausibly authorial; shared-tradition evidence |
 | Luke directly depends on BJ | Not claimed |
 | Mirror material proves authorial intent | Not claimed; Mirror coordinate-completion or Mirror corroboration does not prove authorial intent |
@@ -1138,9 +1197,10 @@ The Mirror completes or corroborates the same thematic field but does not prove 
 | BJ 3856; 2450 trunk; BJ Jared 3396; 49/50 register | `File_51c` |
 | Inverse-number architecture; Rounded inverse axiom | `File_52a` |
 | BJ inverse trunk; BJ Jared; double 3430; AD 35 | `File_52d` |
-| Cainan expunction; Watcher-lore; claim hierarchy; 22-fold Creation-genealogy | `File_53` |
-| 2nd Cainan +130/+460; civil-span identity; fixed anchors | Restart Capsule v11.15 |
-| Markdown-source discipline; File map; claim-status; Mirror policy | 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17 |
+| Cainan expunction; Watcher-lore; claim hierarchy; 22-fold Creation-genealogy; explicit birth-law hermeneutic; BJ reconstruction method | `File_53` |
+| Half/full clutch year applications and detailed BJ comparison | `File_61`; `File_62` |
+| 2nd Cainan +130/+460; civil-span identity; fixed anchors; current File_61/File_62 routing | Restart Capsule v11.30 |
+| Markdown-source discipline; File map; claim-status; Mirror policy | 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31 |
 
 ## Appendix E. Inverse-note: Luke, BJ, and the 5836 BC landing
 Active state: appendix-only inverse-number corroboration using the 6 BC hinge and the base-10 inverse-number operator.
@@ -1263,3 +1323,5 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
 
 Final pressure-test status is preserved in the file header. Detailed pass ledgers and revision-log records are archived rather than repeated in the public file body.
+
+Bounded File_62 reciprocal routing adds only dependency, explicit-BJ-warrant, reconstruction-method, and claim-status notes. It changes no pre-existing File_54 arithmetic, Primary anchor, Luke/BJ node, Mirror result, inverse result, or local proof burden; no new full pressure test is claimed for this pointer-only update.

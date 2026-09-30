@@ -3,21 +3,24 @@ Title: Cumulative MT Harmonics
 Entity: Cumulative Harmonic Scalars
 Classification: Architectural Definition / Harmonic Logic
 UUID: HARMONIC_SCALAR_MT
-Status: Final; post-final pressure tested; page-derived cumulative-states bounded update applied (§9A)
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; post-final pressure-tested status retained; focused check complete for the §9A page-derived cumulative-states bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded page-derived cumulative-states addition (§9A; header registers; §0.2B ledger row; Recommended Cross-File Updates additions) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Verification-complete bounded amendment working copy — September 6 2026; inherited Final source preserved; Sothic additions centrally registered at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29; new material not separately author-Finalized or full-file pressure tested.
+Inherited Final status: Final; post-final pressure-tested baseline retained; prior bounded cumulative, File_61/File_62, File_67, and File_69 updates retained; coordinated Final File_09/File_69 bilateral-endpoint reciprocal note applied and focused verified August 20 2026.
+Amendment trust scope: New sections, state rows, and guards are amendment-local pending separate author Finalization; central registration is complete at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29. All inherited Finalization, pressure-test, and publication assertions below refer to the frozen pre-amendment source unless expressly dated September 6 2026. No new full-file pressure test or live deployment is claimed.
+Publication-cleanup status: Public-clean Final Markdown; bounded reciprocal replacement included in the coordinated Final File_09/File_69 source/control package. Repository Change Archive, Publication Manifest, indexes, landing pages, deployment, and external archival recapture remain separate subsequent work.
+Pressure-test status: Current; prior post-final and focused verification baselines retained. The August 20 2026 reciprocal update received focused machine-diff, exact-rational arithmetic, endpoint/state-firewall, dependency, Machine-Guard, Markdown-structure, and publication-clean checks only; no new full pressure test is claimed.
+Reciprocal-routing verification status: Prior corrected File_61/File_62 and File_69 pointers remain retained. The August 20 2026 coordinated package adds File_09 bilateral endpoint anatomy beneath the existing scalar theorem without changing any File_22 equation, anchor, calendar state, or coordinate realization.
+Register Agreement status: Inherited File_22 controls remain as previously registered; the September 6 Sothic amendment adds three centrally registered guards and the matched-Cainan/Pillar states at State Vocabulary Register v1.52 §D.42 / Restart Capsule v11.51 §10.29. File_22 retains control of the `12558 → 12600/12740` scalar theorem; File_09 retains bilateral endpoint and phase control. No Primary anchor or inherited proof spine changes.
 Source-history status: [AXIOMATIC]
 Primary domain: Cumulative; Regular; Comparative; Prophetic; Calendar; Theological; Mirror
 Traditions: MT; SP by Sojourn / variant reference; LXX by cumulative and Cainan states; BJ / Jubilees by Cainan lifespan reference; SKL by deep-time comparison; NT / Christological comparison
 Canonical source: Markdown
 Primary anchors: 14006 BC; 14004 BC; 14011 BC; 14012t–14005t BC; 14011n–14004n BC; 5437t–5430t BC; 5436n–5429n BC; 5431 BC; 5436 BC; 4836 BC; 3496/3495t BC; 2435 BC; 1937t BC; 1936/1933 BC; 1796 BC; 1447t BC; 1446 BC; 1446.5 BC; 1406 BC; 1876 BC; 2091 BC; 2521 BC; 4114 BC; 4116 BC; 4146 BC; 4176 BC; 4346 BC; 4858–4851 BC; 4398–4391 BC; 2551 BC; 9919–9912 BC; 14466 BC; 14896 BC; 15096 BC; AD 1406; AD 14010; AD 14011; AD 14470; AD 30; 14036 BC; 14041–14034 BC; 3926 BC; 3924 BC; 3931 BC; 3956 BC; 3961 BC; 1411 BC; 12635; 1441 BC; 12595; 1296 BC; 1301–1294 BC; 13200; 14496 BC; 14490; AD 1285; AD 25; 6 BC; 2580
-Related files: File_00; File_01; File_02; File_04; File_05; File_06; File_09; File_11; File_12; File_13; File_14; File_16; File_17; File_18; File_20; File_21; File_30 by dependency; File_51a; File_54; File_44; File_45; File_46; File_56; Restart Capsule v11.17; 490d Repository Style Guide v2.5; Project Procedures v3.3
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; endpoint-label / completed-boundary distinction; Rounded Scaffold non-retrojection; `175`; `180`; `147`; `130`; `70`; `49`; `430`; `215`; `9890`; `989`; `25/23`; `70/69`; `300/299`; `12600`; `12740`; `13650`; `10920`; `10980`; `2940`; `490`; `460`; `2300`; `5060`; `5520`; `6900`; `7800`; `0.5`; `3`; `3.5`; `7`; `7.5`; `10x` scale-state; `10080 = 30 × 336 = 28 × 360`; `12635 = 12600 + 35`; `12740 = 35 × 364`; intercalary identity `140 = 35 × 4`; `13200 = 110 × 120`; `14490 = 23 × 630 = 63 × 230`; exact-ratio increment instances by File_44 §6A.3 dependency
+Related files: File_00; File_01; File_02; File_04; File_05; File_06; File_09; File_11; File_12; File_13; File_14; File_16; File_17; File_18; File_20; File_21; File_30 by dependency; File_44; File_45; File_46; File_51a; File_54; File_56; File_60; File_61; File_62; Restart Capsule v11.42; State Vocabulary Register v1.43; 490d Repository Style Guide v2.5; Project Procedures v3.5; File_67; File_69
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; endpoint-label / completed-boundary distinction; Rounded Scaffold non-retrojection; `175`; `180`; `147`; `130`; `70`; `49`; `430`; `215`; `9890`; `989`; `25/23`; `70/69`; `300/299`; `12600`; `12740`; `13650`; `10920`; `10980`; `2940`; `490`; `460`; `2300`; `5060`; `5520`; `6900`; `7800`; `0.5`; `3`; `3.5`; `7`; `7.5`; `10x` scale-state; `10080 = 30 × 336 = 28 × 360`; `12635 = 12600 + 35`; `12740 = 35 × 364`; intercalary identity `140 = 35 × 4`; `13200 = 110 × 120`; `14490 = 23 × 630 = 63 × 230`; exact-ratio increment instances by File_44 §6A.3 dependency; downstream full clutch `T14(C) = C − 14`; half-clutch midpoint `H7(C) = C − 7`; fixed-offset Joseph inheritance; fixed-endpoint span contraction `230 → 216` by corrected File_61 / Final File_62 dependency only
 Major claim-status labels: source-retained status label; textual datum; arithmetic fact; structural inference; typological reading; theological note; providential synchronization; Mirror corroboration; dependency-controlled; exploratory note; audit note
-Major modal states: file identity state; source-history status state; Patriarchal Quartet scalar state; cumulative MT trunk state; Rounded Scaffold non-retrojection state; Creation endpoint / lower-bound state; Year-6 / Adam-state comparison; cumulative Shem birth-week state; Abrahamic / Shem partition state; Peleg Mirror / Conquest Mirror state; Jacobean Sojourn Epoch state; Levitical Aaron/Moses `3.5`-phase display; Minor Note / `130` descent state; `9890/989` Decimal Bridge state; `1876 BC` shared year-label; Sojourn-cycle expansion family state; Key-of-23 ratio-family state; regular restored 2nd Cainan `+130`; cumulative restored 2nd Cainan `+460`; forwarded 7-year span register; Watcher `460` ladder state; birth-transfer composite `6900` state; Aaron/Moses ordinary three-year branch; Aaron/Moses `L = 3.5` phase-resolved branch; Nisan/Tishri phase-state; Solar/Lunar Straddle state; Enochian / Prophetic / Priestly expansion states; Residue Protocol state; SKL comparison state; dependency-controlled `File_30` ministry state; cumulative apparent-span state; five-arm `10080` lattice state; Revelation-11 ×10 template state; inferred secondary-node class; Joshua register-conversion state; center-jewel state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; `File_00`; `File_51a`; `File_54`; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded §9A addition registered from the Cumulative-page publication discussion record.
+Major modal states: file identity state; source-history status state; Patriarchal Quartet scalar state; cumulative MT trunk state; Rounded Scaffold non-retrojection state; Creation endpoint / lower-bound state; Year-6 / Adam-state comparison; cumulative Shem birth-week state; Abrahamic / Shem partition state; Peleg Mirror / Conquest Mirror state; Jacobean Sojourn Epoch state; Levitical Aaron/Moses `3.5`-phase display; Minor Note / `130` descent state; `9890/989` Decimal Bridge state; `1876 BC` shared year-label; Sojourn-cycle expansion family state; Key-of-23 ratio-family state; regular restored 2nd Cainan `+130`; cumulative restored 2nd Cainan `+460`; forwarded 7-year span register; Watcher `460` ladder state; birth-transfer composite `6900` state; Aaron/Moses ordinary three-year branch; Aaron/Moses `L = 3.5` phase-resolved branch; Nisan/Tishri phase-state; Solar/Lunar Straddle state; Enochian / Prophetic / Priestly expansion states; Residue Protocol state; SKL comparison state; dependency-controlled `File_30` ministry state; cumulative apparent-span state; five-arm `10080` lattice state; Revelation-11 ×10 template state; inferred secondary-node class; Joshua register-conversion state; center-jewel state; File_60 cumulative Levitical confirmation dependency state; corrected File_61 / Final File_62 downstream half-/full-clutch routing state; File_62 inherited-Joseph, male/female birth-law, dual-`490`, and fixed-Joshua `216` comparison states by dependency
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.42; State Vocabulary Register v1.43; Project Procedures v3.5; `File_00`; `File_51a`; `File_54`; prior finalized source; File_60 Final as downstream synthesis; corrected Final File_61 as downstream cumulative–regular integration; Final post-final pressure-tested File_62 as detailed half-clutch companion; bounded reciprocal cumulative-controller routing update; author-directed bounded §9A.3 arithmetic-head correction July 26 2026; Repository_Change_Archive (non-controlling history); Final post-final pressure-tested File_67; State Vocabulary Register v1.39; Restart Capsule v11.38; Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package.
+Current refresh note: The July 26 2026 bounded §9A.3 correction changes the first register head in the Joshua conversion display from `14036 BC` to the already controlled cumulative Year-6 head `14006 BC`, so `14006 → 1406 = 12600 = 35 × 360`; the companion Enochian register remains `14036 → 1296 = 12740 = 35 × 364`. This correction changes no other File_22 arithmetic, anchor, modal-state logic, node-class, operator, sign convention, slash-pair, range, envelope, Mirror protocol, Machine Guard, claim-status label, theological claim, or dependency boundary. Bounded §9A addition and the File_60, corrected File_61, and Final File_62 reciprocal pointers remain retained. Detailed history is routed to Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_22 — Cumulative MT Harmonics
 
@@ -31,7 +34,7 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_04` | Jacob as Jubilee standard, `147 = 3 × 49`, LXX `33 + 397`, Jacob / Levi / Entry controls, and Aaron/Moses `L = 3.5` context. |
 | `File_05` | Exodus anchor `1446 BC`, Sojourn 215 versus Exodus 215 firewalling, `430`, `2520`, `2550`, and Exodus-to-Christ expansion controls. |
 | `File_06` | Conquest `1406 BC`, Aaron/Moses three-year and `3.5` branch controls, EnvNorm / EnvSpread, `0.5 → 5.0`, and `12600` cumulative-lock controls. |
-| `File_09` | Cumulative architecture, cumulative MT, phase-resolved Mirror handling, cumulative Cainan dependencies, and Arphaxad-Jacob-Levi arc. |
+| `File_09` | Controls the bilateral cumulative endpoint anatomy beneath the `12558 → 12600/12740` theorem, while File_22 retains the scalar theorem and its whole-Week and endpoint-resolved coordinate realizations. |
 | `File_11` | Three-Gear Protocol, Filling Protocol, Watcher harmonic state, Kenan / Cainan cumulative dependencies, and Residue Protocol distinction. |
 | `File_12` | Calendrical physics, Solar/Lunar Straddle, Tishri / Nisan language, Priestly 336-day Ledger, Enochian / Prophetic half-week controls, and `300/299` context. |
 | `File_13` | Christological Matrix, AD 30 / AD 33 / AD 34 display-state distinctions, and `2521 BC` / Christological target dependencies where opened. |
@@ -44,12 +47,47 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_30` | Referenced source dependency for ministry-window propagation of the `3.5` fractal; retained as dependency-controlled until supplied or opened. |
 | `File_51a` | Structural model for file headers, File maps, Rounded Scaffold controls, cumulative / rounded distinction, Rounded Scaffold non-retrojection, and state-safe retrieval. |
 | `File_54` | Later-file exemplar for claim-status restraint, Mirror classification, appendix-only control, and comparative synthesis style. |
+| `File_60` | Uses File_22’s cumulative Abraham, `989/1075`, Aaron/Moses phase branches, and Levi–Amram / Kohath–Moses `273/270` spans as independent confirmation of the regular Levitical Covenant Spine. File_22 remains controlling for the cumulative arithmetic. |
+| `File_61` | Uses File_22’s unchanged Abraham–Moses/Aaron trunk, ordinary `3`-year and exact `3.5`-year phase architecture, and Joshua `1296 BC` register while defining `T14(C)=C−14`, `H7(C)=C−7`, inherited Joseph `±110` translations, the male/female birth-law interface, and the fixed-endpoint `230→216` Joshua contraction. File_22 remains controlling for all source cumulative coordinates and phase branches. |
+| `File_62` | Detailed companion controlling the half-clutch proof, Joseph’s translated double portion, Moses’ phase carrier, dual-`490` closure, BJ comparative warrant, Noah lattice, and Joshua `216` analysis. It consumes File_22 source coordinates through corrected File_61 but does not alter or replace File_22’s cumulative arithmetic. |
+| File_70 Supplement A | Coordinated working §13 controls the Sothic SKL field; File_12 working §5A defines H/G. No Supplement equation is imported as a new File_22 source datum. |
 
 Dependency note:
 This Final source preserves `File_30` as a dependency-controlled reference. It does not infer or reconstruct the ministry-window argument.
 
 Dependency note:
 LXX chronology is materially active in this file. Henry B. Smith Jr.’s reconstruction of the LXX Genesis 5 and 11 chronology is therefore an important external source-reconstruction witness for the LXX layer. Smith is not the source of this file’s harmonic interpretation, Cumulative MT scalar architecture, Mirror logic, providential synthesis, SKL / Berossus integration, Residue Protocol, or theological reading.
+
+### File_67 cumulative Creation / Hezekiah hub-pair reciprocal note
+
+Final `File_67` co-registers File_22's actual cumulative `14011/14006 BC` Day-1/Year-6 labels with the `701/696 BC` Actual/Verbatim Hezekiah hub pair through the exact uniform translation `T_{13310}(14011,14006)=(701,696)`. File_22 remains controlling for the actual cumulative chronology, node-classes, and Year-6/Adam terminology; File_51a separately controls the Rounded block sharing the labels.
+
+Machine Guard [FILE_22 FILE_67 CUMULATIVE HUB-PAIR ROUTING]:
+Final File_67 may use `T_{13310}(14011,14006)=(701,696)` as a cross-modal comparison. This does not convert `701/696 BC` into cumulative Creation nodes, collapse File_22 actual cumulative states with File_51a Rounded states, replace File_22's Day-1/Year-6 node-classes, or promote any File_67 coordinate to File_22 Primary anchors.
+
+File_69 Super-Creation reciprocal note:
+Final File_69 independently regenerates `4346 BC` as its figurative God head and cites File_22's generated Super-Creation state as corroboration. The standard MT Creation anchor remains unchanged.
+
+Machine Guard [FILE_22 FILE_69 `4346` SUPER-CREATION ROUTING]:
+Final File_69 independently derives `4346 BC` as the figurative God head of its `63`-generation composite and may cite File_22's generated Super-Creation state as corroboration. File_22 retains control of cumulative MT harmonics and the generated `4346 BC` target. The shared label does not make `4346 BC` the standard MT Creation anchor or promote any other File_69 coordinate into File_22's Primary-anchor inventory.
+
+### Final File_09 bilateral-endpoint reciprocal note
+
+Final File_09 now supplies the endpoint anatomy beneath the already controlled common root:
+
+```markdown
+14004 → 1446 BC = 12558
+14006 → 1406 BC = 12600
+14036 → 1296 BC = 12740
+
+12600 − 12558 = 42 = 2 + 40
+12740 − 12558 = 182 = 2 + 30 + 40 + 110
+```
+
+This is a reciprocal proof-burden clarification, not a correction of File_22. File_22 retains the scalar theorem and both its whole-Week and endpoint-resolved executions.
+
+Machine Guard [FILE_22 FILE_09 `12558/12600/12740` ROUTING]:
+Final File_09 may expose bilateral endpoint anatomy and the decompositions `42=2+40` and `182=2+30+40+110`. File_22 retains control of the exact-rational `12558×300/299=12600` and `12558×70/69=12740` theorem and its existing coordinate states. Shared scalars do not collapse endpoints, calendars, node classes, or proof burdens; `12558` is not a rounded form of File_69's distinct `12500` envelope.
 
 ## 0. File-function
 
@@ -101,6 +139,8 @@ The following states are active in `File_22`. They are simultaneous, non-competi
 | BJ / Jubilees Cainan witness state | Cainan lifespan `460` | comparative Cainan lifespan witness | Used only where the file opens BJ / Jubilees or lifespan witness logic. Do not use as regular begetting-age insertion. |
 | SKL comparison state | `28086 BC`; `300/299`; deep-time comparison | SKL / deep-time comparison | Dependency-controlled by `File_21` and `File_34` where full SKL derivation is required. |
 | `File_30` ministry dependency state | AD 29–33 ministry-window propagation by reference | dependency-controlled forward reference | Author decision: `File_22` may define the Aaron/Moses `3 / 3.5` phase architecture and cite it as the geometric prototype by dependency, but propagation into the AD 29–33 ministry window belongs to `File_30`, Section D. `File_22` does not reconstruct that argument. |
+| Sothic matched-Cainan bridge, amendment-local | `10220=9890+460−130`; `7×1460` | actual corresponding Creation heads, Year 6, closes | New §5A; preserve Cainan and phase classes. |
+| 365-day Pillar companions, amendment-local | `33580`; `33614.5`; `33600`; `4151t/4146n/4136n BC` | actual/generated/Rounded comparison | New §9B; H and G distinct; actual residual `4.5` remains. |
 
 ## 0.2 Modal-state controls and Machine Guards
 
@@ -222,6 +262,8 @@ argument-control layer retains the file's source claims but clarifies their role
 | §8 | `12558` harmonic root and Key-of-23 expansions | `12558`; `12740`; `12600`; `13650`; `10920`; `10980` |
 | §9 | Unified `490` harmonic and Cainan duality note | `4346`; `2940`; `6 × 490`; `26 × 490`; `25 × 430`; `130/460` |
 | Closing controls | Audit notes, unresolved issues, recommended cross-file updates, and revision/archive note | public-clean source tracking |
+| §5A | Matched-Cainan `10220` Creation bridge and half-step divided week | September 6 bounded Sothic application |
+| §9B | Pillar `33580`; H residual `4.5`; exact-K G Rounded `4136` co-registration | September 6 bounded actual/Rounded comparison |
 
 ## 0.4 Terminology and formatting note
 
@@ -697,6 +739,101 @@ $$2521 \text{ BC} \rightarrow 1 \text{ BC} = 2520 \text{ years} = 1260 + 1260$$
 To Ministry / Death, `AD 30`:
 
 $$2521 \text{ BC} \rightarrow \text{AD } 30 = 2550 \text{ years} = 1290 + 1260$$
+
+## 5A. The Cainan-matched seven-Sothic Creation bridge
+
+**Amendment state:** Bounded September 6 2026 working addition; exact arithmetic and phase execution verified. File_12 §5A in the coordinated amendment distinguishes ordinary Sothic completion from `H=2923/2921`. Neither revises the actual `9890` bridge in §5.
+
+### 5A.1 Source-controlled construction
+
+Restored Cainan contributes `460` to cumulative chronology but `130` to regular chronology. On corresponding Cainan-bearing Creation nodes:
+
+\[
+\boxed{9890+(460-130)=10220=7\times1460.}
+\]
+
+| Cumulative Cainan-ON Nisan source | Regular Cainan-ON Nisan source | Difference |
+|---|---|---:|
+| Creation head `14471 BC` | Creation head `4251 BC` | 10220 |
+| Year-6 Adam `14466 BC` | Year-6 Adam `4246 BC` | 10220 |
+| Week close `14464 BC` | Week close `4244 BC` | 10220 |
+
+File_18 and File_09 control the cumulative envelope; the regular wrapper uses the same `+130` state on its Creation head, Year 6, and week close. The comparison is actual chronology, not the Rounded `9900` bridge and not the mixed cumulative-Cainan/regular-Apparent `10320` state in §7.2.
+
+### 5A.2 Ordinary seven-cycle completion
+
+\[
+7\times1460=10220\xrightarrow{1461/1460}10227=7\times1461.
+\]
+
+Holding each corresponding cumulative source fixed gives:
+
+| Source | Raw target | Completed target |
+|---|---|---|
+| `14471n BC` | `4251n BC` | `4244n BC` |
+| `14466n BC` | `4246n BC` | `4239n BC` |
+| `14464n BC` | `4244n BC` | `4237n BC` |
+
+The regular target envelope translates from `4251→4244` to `4244→4237`, the following week in the File_69/File_70 Creation/Fall interpretation. This is a corresponding-source family of anchored span completions, not one global dilation of the whole multi-source week.
+
+### 5A.3 Half-step bisection
+
+\[
+7\times1460.5=10223.5,
+\qquad7\times1461.5=10230.5.
+\]
+
+File_09's January-centered phase model gives:
+
+\[
+14471n\text{ BC}\xrightarrow{10223.5}4248t\text{ BC},
+\]
+
+\[
+4251n\xrightarrow{3.5}4248t\xrightarrow{3.5}4244n,
+\]
+
+and after completion:
+
+\[
+14471n\xrightarrow{10230.5}4241t,
+\qquad4244n\xrightarrow{3.5}4241t\xrightarrow{3.5}4237n.
+\]
+
+The cumulative midpoint is `14468t BC`, halfway between `14471n` and `14464n`. It gives the complementary paths:
+
+\[
+14468t\longrightarrow4244n=10223.5,
+\qquad14468t\longrightarrow4237n=10230.5.
+\]
+
+The mechanism is simply `7×0.5=3.5`. The half-year change in the cycle count creates the divided seven without altering the source chronology.
+
+### 5A.4 Ten-cycle terminal and five-year companion
+
+The ordinary route has:
+
+\[
+14466+135-1=14600=10\times1460,
+\]
+
+\[
+4246+135-1=4380=3\times1460.
+\]
+
+Thus `14466 BC→4246 BC→AD 135` partitions as seven plus three Sothic raw cycles. The half-step head has:
+
+\[
+14471+135-1=14605=10\times1460.5.
+\]
+
+The five-year head/Year-6 difference follows from `10×0.5=5`. AD 135 retains its dependency-controlled schematic era/Christ-double-generation node class; the equality is not an independent historical dating argument. Completing both ten-cycle spans produces AD 145 as a generated companion only, with no historical identification assigned here.
+
+Machine Guard [CUMULATIVE SOTHIC MATCHED CAINAN]:
+The `10220` bridge uses corresponding actual cumulative and regular Creation nodes with Cainan active as `+460` and `+130` respectively. Keep head, Year 6, and week-close classes paired. Do not substitute the Rounded `9900` bridge, actual Apparent Adam `4146`, or a different Gear close such as `4242` into the matched `14471/14466/14464` versus `4251/4246/4244` field.
+
+Machine Guard [SOTHIC ENVELOPE COMPLETION]:
+The seven-cycle completion translates the corresponding target envelope by seven years through a family of individually anchored span maps. It is not a single global dilation of the seven-year width. Half-year endpoints use File_09's declared phase coordinates; no added phase or inclusive year may be supplied silently to force a target.
 
 ## 6. The Watchers and the Witnesses — Fractal Structures
 
@@ -1461,6 +1598,35 @@ Cross-reference vector:
 | `File_00`, §2.B | Adam’s Age / the `+30` Variant |
 | `File_14` | Scaling Law / Biological Fractals |
 
+### 8.9 Final File_09 endpoint anatomy — reciprocal proof-burden note
+
+Active state:
+File_22 scalar theorem with Final File_09 endpoint-resolved bilateral geometry.
+
+The common root remains:
+
+```markdown
+12558 = 26×483 = 42×299 = 69×182.
+```
+
+File_22's exact expansions remain:
+
+```markdown
+12558×300/299 = 12600
+12558×70/69 = 12740.
+```
+
+Final File_09 independently supplies the endpoint execution:
+
+| State | Endpoint realization | Difference from `12558` |
+|---|---:|---:|
+| Root | `14004→1446 BC = 12558` | — |
+| Prophetic / `360` register | `14006→1406 BC = 12600` | `42 = 2+40` |
+| Enochian / `364` register | `14036→1296 BC = 12740` | `182 = 2+30+40+110` |
+
+Argument-control conclusion:
+The scalar identities and endpoint identities are mutually corroborative but remain different proof objects. The new File_09 geometry does not erase File_22's whole-Week translation state, move the Exodus, Conquest, or Joshua endpoints, or revise the `360/364` calendar distinction.
+
 ## 9. The Unified `490` Harmonic — 6 Days versus 26 Generations
 
 Claim-status note:
@@ -1663,10 +1829,10 @@ Dual factoring: inverse order joints at `14006 BC` (`35` first); forward order j
 ### 9A.3 The Joshua register-conversion state
 
 ```markdown
-14036 → 1406 = 12600 = 35 × 360;   14036 → 1296 = 12740 = 35 × 364;   12740 − 12600 = 140 = 35 × 4
+14006 → 1406 = 12600 = 35 × 360;   14036 → 1296 = 12740 = 35 × 364;   12740 − 12600 = 140 = 35 × 4
 ```
 
-Joshua's `110` laid from Moses' death reaches `1296 BC` (week unit `1301–1294 BC`), `1290` years from `6 BC`. The two totals are the same thirty-five years-of-years in the Book of Enoch's two equated registers, their difference the intercalary days themselves — the register equation exhibited, not asserted (`File_12` calendar states). With the 2nd Cainan (`+460`): `14496 → 1296 = 13200 = 110 × 120`, Joshua by Moses; framed `8600 + 600 + 4000` with joints at Shem (`5896 BC`) and the Flood (`5296 BC`) — the backbone field-harmonic, registered at `File_44` §6A.2 with the `230`-rail (`63 × 230`; `23 × 230` to `6 BC`). Two product-locks close on the one node: the SP's `110 × 110` (`File_56`; `File_11`) and the MT-with-Cainan's `110 × 120`. Claim-status: arithmetic fact throughout; structural inference (the register-conversion and product readings).
+Joshua's `110` laid from Moses' death reaches `1296 BC` (week unit `1301–1294 BC`), `1290` years from `6 BC`. The Prophetic and Enochian totals use distinct heads: cumulative Year 6 `14006 BC` for `12600 = 35 × 360`, and the apparent member `14036 BC` for `12740 = 35 × 364`. They express the same thirty-five years-of-years in the Book of Enoch's two equated registers, with their difference equal to the intercalary days themselves — the register equation exhibited, not asserted (`File_12` calendar states). With the 2nd Cainan (`+460`): `14496 → 1296 = 13200 = 110 × 120`, Joshua by Moses; framed `8600 + 600 + 4000` with joints at Shem (`5896 BC`) and the Flood (`5296 BC`) — the backbone field-harmonic, registered at `File_44` §6A.2 with the `230`-rail (`63 × 230`; `23 × 230` to `6 BC`). Two product-locks close on the one node: the SP's `110 × 110` (`File_56`; `File_11`) and the MT-with-Cainan's `110 × 120`. Claim-status: arithmetic fact throughout; structural inference (the register-conversion and product readings).
 
 ### 9A.4 The center-jewel state
 
@@ -1675,6 +1841,132 @@ Joshua's `110` laid from Moses' death reaches `1296 BC` (week unit `1301–1294 
 ### 9A.5 The Exodus-fork throw (display line)
 
 The Exodus pair throws `4 × 360` and `3.5 × 360` to the two Christ anchors: `1446 → 6 BC = 1440`; `1231 → AD 30 = 1260` (`File_05` subordinate Ramesside state; display only here).
+
+## 9B. The 365-day Pillar companions: actual and Rounded node classes
+
+**Amendment state:** Bounded September 6 2026 working addition. File_12 §5A controls the distinction between `H=2923/2921` and `G=1680/1679`; the inherited Pillar and source-node classes remain unchanged.
+
+The SKL/Pillar square and the actual Year-6 comparison are:
+
+\[
+2936+29465-1=32400=180^2,
+\]
+
+\[
+4116+29465-1=33580=23\times1460.
+\]
+
+The Priestly expansion gives:
+
+\[
+33580\frac{25}{23}=36500,
+\qquad36500-33580=2920.
+\]
+
+### 9B.1 Half-step displacement and the unresolved actual landing
+
+\[
+23\times1460.5=33591.5,
+\qquad33591.5H=33614.5,
+\]
+
+\[
+33614.5-33580=11.5+23=34.5.
+\]
+
+At fixed `AD 29465n`, the phase-resolved heads are `4128t BC` before completion and `4151t BC` afterward. Actual Apparent Adam `4146n BC` instead gives `4146+29465−1=33610`. The discrepancy remains:
+
+\[
+33614.5-33610=4.5.
+\]
+
+The decomposition `34.5=30+4.5` is a valid comparison, not a completed actual-Apparent-Adam landing. Supplement A's distinct `4.5` machinery is not imported automatically.
+
+### 9B.2 The exact common-`K` extension
+
+The same source seed is `33580=20×1679`. Therefore:
+
+\[
+33580G=33580\frac{1680}{1679}=33600.
+\]
+
+With the same Pillar fixed, the generated head is `4136n BC`, the independently controlled **Rounded** Apparent-Adam coordinate in File_51a:
+
+\[
+4136+29465-1=33600.
+\]
+
+This is an explicitly opened cross-modal co-registration, not a change to actual Apparent Adam at `4146` or a retroactive definition of the Rounded Scaffold.
+
+The output year counts preserve the common schematic day-volume:
+
+\[
+36500\times336=33600\times365=12264000.
+\]
+
+Machine Guard [SOTHIC PILLAR NODE CLASSES]:
+At fixed `AD 29465n`, the `H` output span `33614.5` begins at `4151t BC` and remains `4.5` years from actual Apparent Adam `4146n BC`. The distinct `G` output `33600` begins at Rounded Apparent Adam `4136n BC`. Do not equate these heads, borrow an undeclared `4.5` adjustment, or treat a generated co-registration as a new Primary anchor.
+
+## File_60 reciprocal-routing update
+
+`File_60` cites File_22 as the cumulative controller for the `2438.5/2435 BC` Abraham branches, the `989 × 25/23 = 1075` expansion, the `2521 BC` ladder, the `1936/1933 BC` Levi branches, and the repeated `273/270` Levitical spans. File_60’s argument that these results independently confirm the regular `161/299/460` grammar is downstream structural synthesis. It does not change File_22’s cumulative coordinates, operators, or proof burden.
+
+Verification note: this bounded pointer update was machine-diff checked against the prior File_22 source. No arithmetic, table, state, Machine Guard, or proof-bearing section changed; no new pressure test was performed.
+
+## Corrected File_61 / Final File_62 reciprocal-routing update
+
+Corrected Final File_61 uses File_22's unchanged Abraham–Moses/Aaron cumulative trunk, exact phase architecture, and Joshua register while defining the local full clutch and its exact midpoint:
+
+```text
+T14(C) = C − 14
+H7(C)  = C − 7
+H7(C)  = [C + T14(C)] ÷ 2
+```
+
+Joseph remains collateral to the genealogical trunk. His two `110`-year portions are fixed-offset constructions from File_22's Levi and Kohath boundaries, so they inherit both translations mechanically:
+
+```text
+Forward from Levi — Moses/Nisan:
+source 1933 → 1823
+H7     1926 → 1816
+T14    1919 → 1809
+
+Forward from Levi — Aaron/Tishri exact:
+source 1936.5 → 1826.5
+H7     1929.5 → 1819.5
+T14    1922.5 → 1812.5
+
+Backward from Kohath — Moses/Nisan:
+source 1906 → 1796
+H7     1899 → 1789
+T14    1892 → 1782
+
+Backward from Kohath — Aaron/Tishri exact:
+source 1909.5 → 1799.5
+H7     1902.5 → 1792.5
+T14    1895.5 → 1785.5
+```
+
+Every portion remains exactly `110`. These are downstream File_61/File_62 coordinates, not new File_22 cumulative rows.
+
+File_22 remains the controller of Joshua's source register:
+
+```text
+1406 → 1296 = 110
+1526 → 1296 = 230 = 10 × 23
+```
+
+Files 61–62 then compare the fully clutched starting coordinate with that fixed endpoint:
+
+```text
+1512 → 1296 = 216
+230 − 14 = 216
+216 = 6³ = 3 × 72 = 8 × 27
+```
+
+The clutch changes only the derived starting coordinate; it does not move Moses, the Exodus, the Conquest/Moses terminal, Aaron's phase state, or Joshua's `1296 BC` cumulative endpoint. Final File_62 controls the detailed half-clutch, male `7+33`, female `14+66`, Joseph, Mosaic phase, dual-`490`, BJ, Noah-lattice, and Joshua-`216` arguments. File_22 supplies their cumulative source coordinates and phase vocabulary but does not adopt those downstream applications as local proof.
+
+Verification note: this bounded corrected File_61 / Final File_62 pointer was focused machine-diff checked against the prior File_22 source. No File_22 arithmetic-control row, proof-bearing table, Machine Guard, cumulative coordinate, phase branch, or Joshua source register changed; no new full pressure test was performed.
 
 ## Unresolved Issues
 
@@ -1711,3 +2003,10 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+
+
+## September 6 2026 bounded Sothic amendment record
+
+Prepared under the author's explicit consolidation/update instruction and delegated implementation choice. Intake, additive structure/state preparation, arithmetic/argument review, and bounded verification were performed within the current response. The complete earlier Final parent is preserved, and all pre-existing proof equations, node classes, and guard bodies remain unchanged. The new additions are verification-complete bounded working text, centrally registered but not separately author-Finalized or full-file pressure tested. Active controls are Capsule v11.51 / Register v1.52 / Style Guide v2.5 / Procedures v3.5.
+
+Open scope and adoption: explicit Finalization; registration of the new local states/guards; remote SKL source-chain test; the absent fixed-field `4383`; the actual-Apparent-Adam `4.5` residual. Source/control review proposals and complete diffs are supplied in the consolidation package. No publication manifest, archive replacement, deployment, or external preservation capture is claimed.

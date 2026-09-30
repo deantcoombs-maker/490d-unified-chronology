@@ -1,9 +1,9 @@
 File: File_34
 Title: The Unified Chronology — Integrating Berossus, Sumer, and the Bible
-Status: Final; post-final pressure tested; File_36 downstream dependency-status update applied; File_55 hybrid Alulim / Berossus source-control clarification applied; bounded verification complete June 21 2026; public-clean trust-status equalization current; full File_34 pressure-test sample complete June 28 2026
+Status: Final; post-final pressure-tested baseline retained; File_36, File_55, trust-status, June 28 sample, and File_67 updates retained; bounded nested `±2 / ±720` Three-Gear control correction applied August 25 2026 and focused verified
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; full File_34 pressure-test sample complete June 28 2026; focused verification complete for the File_36 downstream dependency-status update, File_55 hybrid Alulim / Berossus source-control clarification, and public-clean cleanup; prior post-final pressure test and June 21 2026 bounded verification retained. The June 28 2026 sample corrected only downstream dependency-status wording for File_50c / File_50d_50e; no arithmetic, anchors, modal states, node-classes, sign conventions, operators, theological claims, or dependency boundaries changed.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; June 28 2026 sample pressure test confirms Register Agreement current after downstream dependency-status wording cleanup; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Pressure-test status: Current; prior post-final, June 21 bounded, June 28 sampled, and File_67 focused checks retained. The August 25 2026 nested Three-Gear correction received focused machine-diff, state, guard, dependency, arithmetic-identity, table, fence, and publication-clean verification only; no new full pressure test is claimed
+Register Agreement status: Checked against State_Vocabulary_Register v1.47 Part D §D.38 and Restart Capsule v11.46. The former one-sided `+2 / +720` firewall is superseded by the full nested Three-Gear control while all File_34 SKL/Berossus source states, corridor arithmetic, Precessional Envelope, and Primary anchors remain unchanged
 Source-history status: [LOCKED]; Version 5.0
 UUID: AXIOM_FLOOD_VARIANCE_6480
 Legacy classification: External Synchronization / Cosmic Scale Integration
@@ -12,12 +12,12 @@ Primary domain: Comparative; SKL; Berossus; Prophetic; Calendar; Theological; De
 Traditions: MT; SP; LXX; SKL; Berossus; Hebrew Bible
 Canonical source: Markdown
 Primary anchors: 539/536 BC; 539t/538n BC; 537t/536n BC; 536 BC; 486 BC; 488/486 BC; 568/566 BC; 538/536 BC; 518/516 BC; 568 BC; 566 BC; 538 BC; 518 BC; 516 BC; 488 BC; 2938/2936 BC; 2908/2906 BC; 2888/2886 BC; 2858/2856 BC; 34566 BC; 33846 BC; 28086 BC; 27366 BC; 21606 BC; 20886 BC; 2906 BC; 2856 BC; 2936 BC; 2886 BC; 2888 BC; 1496 BC; 1446 BC; 586 BC; 16586 BC; 30486 BC; AD 29395; AD 29465; AD 29515; 466566 BC; 275766 BC
-Related files: File_00; File_02; File_05; File_08; File_10; File_12; File_16; File_17; File_18; File_21; File_23; File_24; File_26; File_27; File_36 by downstream Prime-Polarity / Target-Mirror application dependency; File_50c by dependency; File_50d_50e by dependency; File_51a; File_54; File_55 by downstream thirds-primer dependency; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; forward-time BC projection by subtraction; `2370` SKL-to-Berossus corridor displacement; `30 + 20 + 30` rail pattern; `+50` Kings / Jubilee offset; `+30 Apparent Mode`; `+2 local rail`; `+720 scale-state`; `360:1` SKL scalar; SKL eight-kings antediluvian span `241200`; hybrid overlay `34566 + 241200 = 275766`; precessional day `72`; precessional quarter `6480`; precessional half-year `12960`; Great Year `25920`; Sanctuary cycle `2300`; Key of 23 `25/23`; Jubilee `49`; Priestly `336`; Mosaic bridge `1440`; prophetic half-week `1260`; `10.5 × 25920 = 272160`; File_55 thirds-primer cross-reference `275766 → 184326 → 1446`; `181440 = 7 × 25920`
-Major modal states: File identity state; source-history locked state; current post-final pressure-tested state; Pass 4 argument-classified state; Pass 5 finalization-control state; arithmetic-control state; argument-control state; claim-status calibrated state; author-clarified SKL-to-Berossus `2370` corridor state; return / Temple `30 + 20 + 30` corridor state; fall-of-Babylon historical field; biblical restoration-anchor state; Berossus computational-anchor state; Berossus two-year rail state; Berossus Flood derivation state; Kings / Jubilee `+50` state; `+30 Apparent Mode`; `+2 local rail`; `+720 scale-state`; Sumerian A / SKL Short physical base; Sumerian A / SKL Short `+30` rail; Sumerian B / SKL Long physical base; Sumerian B / SKL Long `+30` rail; SKL appended fractional-datum state; SKL whole-year state; Precessional Envelope state; Three-tier Flood Matrix state; Ideal pathway state; Metonic pathway state; Cosmic Pixel state; authorial forward-time `+` display state; Exodus Lock state; Sanctuary Fractal state; Key-of-23 expansion state; expansion-difference / non-Residue state; Pillar / AD target state; Virtual Origin state; Mosaic Bridge state; Danielic `2300` state; Priestly harmonic state; Nisan / Tishri anchor-chain state; SKL-to-Berossus `2370`-year rail-pattern state; Return / Temple hub-pair state; `30 + 20 + 30` hub pattern; Appendix B scalar-echo state; Alulim verification state; hybrid Berossus / SKL Alulim Creation-overlay state; File_55 hybrid thirding cross-reference state; providential multi-tradition system state; File_36 downstream application state; dependency-controlled File_50c / File_50d_50e downstream state; source-image unavailable state; non-active Files_31–33 source-residue state; no-formal-Mirror local state
+Related files: File_00; File_02; File_05; File_08; File_10; File_11; File_12; File_16; File_17; File_18; File_21; File_23; File_24; File_26; File_27; File_36 by downstream Prime-Polarity / Target-Mirror application dependency; File_50c by dependency; File_50d_50e by dependency; File_51a; File_54; File_55 by downstream thirds-primer dependency; Restart Capsule v11.46; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.47; File_67
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; forward-time BC projection by subtraction; `2370` SKL-to-Berossus corridor displacement; `30 + 20 + 30` rail pattern; `+50` Kings / Jubilee offset; absolute Three-Gear `+0/+2/+4`; Shem-centered local `−2/0/+2`; SKL dilation `−720/0/+720`; nested local subrails within macro members; `+30 Apparent Mode`; bounded adjacent-macro `690/720/750`; `360:1` SKL scalar; SKL eight-kings antediluvian span `241200`; hybrid overlay `34566 + 241200 = 275766`; precessional day `72`; precessional quarter `6480`; precessional half-year `12960`; Great Year `25920`; Sanctuary cycle `2300`; Key of 23 `25/23`; Jubilee `49`; Priestly `336`; Mosaic bridge `1440`; prophetic half-week `1260`; `10.5 × 25920 = 272160`; File_55 thirds-primer cross-reference `275766 → 184326 → 1446`; `181440 = 7 × 25920`
+Major modal states: File identity state; source-history locked state; current post-final pressure-tested state; Pass 4 argument-classified state; Pass 5 finalization-control state; arithmetic-control state; argument-control state; claim-status calibrated state; author-clarified SKL-to-Berossus `2370` corridor state; return / Temple `30 + 20 + 30` corridor state; fall-of-Babylon historical field; biblical restoration-anchor state; Berossus computational-anchor state; Berossus local centered `±2` Three-Gear rail; selected two-year member state; SKL centered `±720` Three-Gear dilation; nested local-on-macro subrail state; Berossus Flood derivation state; Kings / Jubilee `+50` state; `+30 Apparent Mode`; Sumerian A / SKL Short physical base; Sumerian A / SKL Short `+30` rail; Sumerian B / SKL Long physical base; Sumerian B / SKL Long `+30` rail; SKL appended fractional-datum state; SKL whole-year state; Precessional Envelope state; Three-tier Flood Matrix state; Ideal pathway state; Metonic pathway state; Cosmic Pixel state; authorial forward-time `+` display state; Exodus Lock state; Sanctuary Fractal state; Key-of-23 expansion state; expansion-difference / non-Residue state; Pillar / AD target state; Virtual Origin state; Mosaic Bridge state; Danielic `2300` state; Priestly harmonic state; Nisan / Tishri anchor-chain state; SKL-to-Berossus `2370`-year rail-pattern state; Return / Temple hub-pair state; `30 + 20 + 30` hub pattern; Appendix B scalar-echo state; Alulim verification state; hybrid Berossus / SKL Alulim Creation-overlay state; File_55 hybrid thirding cross-reference state; providential multi-tradition system state; File_36 downstream application state; dependency-controlled File_50c / File_50d_50e downstream state; source-image unavailable state; non-active Files_31–33 source-residue state; no-formal-Mirror local state
 Major claim-status labels: textual datum; source-retained chronology datum; author-clarified chronology datum; source-title / local theorem language; arithmetic fact; arithmetic-audit note; structural inference; shared-tradition evidence; probable authorial design; typological reading; theological note; providential synchronization; dependency-controlled; audit note
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source and listed dependencies; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.46; State Vocabulary Register v1.47 Part D §D.38; Project Procedures v3.5; prior finalized source and listed dependencies; File_11; File_18; File_21; File_50c; retained File_67 pointer; August 25 2026 bounded nested Three-Gear correction; Repository_Change_Archive (non-controlling prior history)
+Current refresh note: The August 25 2026 bounded correction recognizes the `720` Cosmic Pixel as the exact `360:1` dilation of the complete Shem-centered local `−2/0/+2` wheel. Existing `+2` and `+720` coordinates remain valid selected members, each macro member may carry a declared local subrail, `+30` remains orthogonal, and Mirror inversion may reverse Gear-facing order without renaming source states. No File_34 chronology, source total, SKL/Berossus anchor, corridor, phase chain, or proof equation changes.
 
 # File_34 — The Unified Chronology: Integrating Berossus, Sumer, and the Bible
 
@@ -26,7 +26,7 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | File | Function for `File_34` |
 |---|---|
 | `File_00` | Foundational biblical chronology base, Axiom Engine, source-map discipline, same-side versus cross-axis arithmetic, structural variators, and SKL / Berossus dependency discipline. |
-| `File_02` | Current Flood / SKL terminology, especially Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, `+2 local rail`, and `+720 scale-state`. |
+| `File_02` | Current Flood / SKL terminology, especially Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, and inherited selected `+2` / `+720` labels; Register v1.47 §D.38 supplies the superseding full nested Three-Gear control. |
 | `File_05` | Primary `1446 BC` Exodus anchor and non-replacement controls for schematic or subordinate Exodus displays. |
 | `File_08` | Kings dual-ledger `+50`, historical / schematic Temple and Fall of Jerusalem fields, and the Kings of Judah offset by dependency through `File_18`. |
 | `File_10` | External-validation style, providential multi-tradition system language, Berossus computational-anchor state, and File_34 dependency mapping. |
@@ -56,6 +56,13 @@ Primary source-control link supplied in the revision prompt:
 https://paultanner.org/English%20Docs/Creation/21_Smith,%20H_Case%20for%20Gk%20Septuagint%20Data%20in%20Gen%205%20and%2011.pdf
 ```
 
+### File_67 SKL/Berossus appendix reciprocal note
+
+Final `File_67` uses File_34's native SKL Short/Long terminal anchors `2906/2856 BC`, their `+30` rails `2936/2886 BC`, the historical/computational `536/486 BC` firewall, the official Berossus Flood `34566 BC`, and the established `1496/1446` and `1016/966` pairs in an appendix-only deep-time closure. File_34 remains controlling for the full SKL/Berossus derivation.
+
+Machine Guard [FILE_34 FILE_67 SKL / BEROSSUS APPENDIX ROUTING]:
+Final File_67's SKL/Berossus material is appendix-only corroboration. `34616 BC` is a generated 536-based companion, not a second Berossus Flood; `536 BC` remains historical restoration and `486 BC` computational; `2906/2856` remain the native SKL anchors and `2936/2886` their `+30` rails. File_34 retains the derivation and proof burden.
+
 ## 0. File-function
 
 `File_34` records the proposed external synchronization between Berossus, the Sumerian King List, and the Hebrew biblical chronology.
@@ -79,6 +86,9 @@ The source is now marked Final and post-final pressure tested for local reposito
 Argument-control rule:
 Arithmetic facts and source-retained chronology data carry the base layer. Structural inferences explain how the checked spans interlock. Shared-tradition evidence may support a common mathematical grammar without proving direct dependence. Theological notes and providential synchronizations explain why the interlock matters, but they do not replace arithmetic, state, source-control, or dependency control.
 
+Nested Three-Gear correction note:
+This bounded correction changes the modal-state description of the Shem/Cosmic-Pixel field, not the derivation. It makes the complete local and macro wheels explicit and retains all previously admitted coordinates as selected members.
+
 Pass 4 argument-control result:
 Source theorem language is preserved as source-retained argument language, but its evidential force is classified locally. Phrases such as `proves`, `not an error`, `deliberate`, `structurally mandated`, `Golden Key`, and `same cosmic clock` do not by themselves carry proof burden; they are supported only to the degree that the local arithmetic, state register, and dependencies support them.
 
@@ -99,12 +109,13 @@ The following states are active in `File_34`. They are simultaneous, non-competi
 | Fall-of-Babylon historical field | `539/536 BC` source shorthand; `539t/538n BC` by dependency; October `539 BC`, Tishri | historical fall / Persian conquest / Tishri field | Split from the restoration anchor and from the Berossus computational anchor. The source shorthand is retained but no longer carries one undifferentiated node-class. |
 | Biblical restoration-anchor state | `536 BC` | historical return / restoration anchor | Preserved as biblical historical anchor. It is the clean base for the `+50` shift to `486 BC`; Pass 3 verifies `536 − 486 = 50`. |
 | Berossus computational-anchor state | `486 BC`; `486n BC` where Nisan is opened | figurative / computational backward-projection base | Core Berossus projection anchor. It does not replace `536 BC` as a historical restoration anchor or `539t BC` as the fall-of-Babylon phase label. |
-| Berossus two-year rail state | `486n/488n BC`; `536n/538n BC` by the `+50` chain | local `±2` / Shem-derived rail in Appendix B | Preserved as a display-state chain. Do not treat it as ordinary uncertainty or as a second independent historical anchor. |
+| Berossus local centered `±2` Three-Gear rail | centered coordinate field `D−2 / D / D+2`; selected `486n/488n BC` and `536n/538n BC` members by the `+50` chain | ordinary-year Shem-derived Gear wheel in Appendix B | Preserve the full wheel. Existing paired rows expose selected members only; they are not uncertainty ranges or independent historical anchors. |
 | Berossus Flood derivation state | `34080`; `34566 BC`; lower paired tier `33846 BC` | backward-projection field | Preserved. Pass 3 verifies the visible `486 + 34080 = 34566` backward projection. |
 | Kings / Jubilee `+50` state | `536 BC → 486 BC`; `6530 = 6480 + 50`; Kings of Judah offset; Jubilee reset | sacred offset / restoration-to-computational pivot | Core state connecting biblical Kings / Jubilee logic to SKL Long / Short difference. |
-| `+30 Apparent Mode` state | Adam apparent age `30`; SKL rails `2936 BC` and `2886 BC`; Appendix B `486/516 BC` and `536/566 BC` pairs | local rail / apparent-age / leap-month display | Apply only where the local section explicitly opens this rail. It is not a general tolerance. |
-| `+2 local rail` state | `486n/488n BC`; File_02 / File_21 SKL local rails by dependency | two-year local shift | Related to Shem's anomaly. Do not collapse with the `+720` scale-state. |
-| `+720 scale-state` | `720 = 2 × 360`; internal upper/lower tier gap; Alulim pixel check | cosmic-scale Shem anomaly / Cosmic Pixel | Declare explicitly when active. It is not the local `+2` rail and not a floating adjustment. |
+| `+30 Apparent Mode` state | Adam apparent age `30`; SKL rails `2936 BC` and `2886 BC`; Appendix B `486/516 BC` and `536/566 BC` pairs; selected adjacent-macro `690/720/750` field | orthogonal apparent-age / leap-month rail | Apply after macro and local Gear selection. Under the bounded one-endpoint comparison, `720−30=690`, `720`, and `720+30=750`, with `690×25/23=750`; do not generalize to arbitrary endpoint combinations. |
+| Absolute / centered local Three-Gear state | File_11 absolute `+0/+2/+4`; Shem-centered `−2/0/+2`; coordinate field `D−2/D/D+2` | local ordinary-year Gear topology | Existing `+2` rows are selected-member displays. Declare the active member and BC direction. |
+| SKL centered `±720` Three-Gear dilation | `720 = 2 × 360`; coordinate field `D−720/D/D+720`; internal upper/lower tier gap; Alulim pixel check | cosmic-scale Gear topology / Cosmic Pixel | Exact `360:1` dilation of the local wheel. It is homologous with, but not interchangeable with, the ordinary-year field. |
+| Nested local-on-macro subrail state | each admitted macro coordinate `M` may carry `M−2/M/M+2` | small teeth inside the cosmic wheel | Open only where exact phase, Mirror, or rail closure requires it. It does not multiply textual states or evidence. |
 | Sumerian A / SKL Short physical base | `17980`; `2906 BC`; `20886 BC`; tier pair `21606/20886 BC` | SKL Short whole-year base and tier-lower field | Current terminology for source `Standard (Short)`. Keep whole-year arithmetic distinct from the appended fractional datum. |
 | Sumerian A / SKL Short `+30` rail | `2936 BC`; `20916 BC` by File_21 / File_02 dependency | `+30 Apparent Mode` rail | Dependency-controlled rail. Do not collapse with `2906 BC` physical base. |
 | Sumerian B / SKL Long physical base | `24510`; `2856 BC`; `27366 BC`; tier pair `28086/27366 BC` | SKL Long whole-year base and SKL Upper / Exodus Lock field | Current terminology for source `Variant (Long)`. It is not a correction of SKL Short. |
@@ -173,7 +184,7 @@ The following states are active in `File_34`. They are simultaneous, non-competi
 | `30486 BC` | Virtual Origin / backward Pillar counterpart | AD-side Jachin Pillar `AD 29515` |
 | `AD 29395`; `AD 29465`; `AD 29515` | Pillar-adjacent boundary nodes | one generic Pillar date; same-side BC anchors |
 | `275766 BC` | hybrid Alulim / Berossus-aligned Creation node: `34566 + 241200` | native SKL Creation `262086 / 268566 BC`; Berossus Alorus / Adam `466566 BC`; SKL terminal `2886 BC`; `272160` scalar |
-| `720` | Cosmic Pixel / scaled Shem anomaly | local `+2` rail; ordinary `720` days unless state declares it |
+| `720` | Cosmic Pixel / macro Gear tooth | ordinary local `±2` wheel; ordinary `720` days unless state declares it |
 | `3 months and 3.5 days` | SKL appended fractional datum | whole-year SKL totals `17980` / `24510` |
 | `272160` | Appendix B scalar-echo / Babylonian signature display | SKL whole-year duration; ordinary elapsed chronology unless state declares it |
 
@@ -187,7 +198,7 @@ The following states are active in `File_34`. They are simultaneous, non-competi
 | Authorial forward-time `+` display | Source statements such as `27366 BC + 25920 = 1446 BC` | Preserve as direction-of-time shorthand; Pass 3 computes same-side BC movement by subtraction. |
 | `+50` Kings / Jubilee offset | `536 BC → 486 BC`; `6530 = 6480 + 50` | Verified where visible; active sacred-offset state retained. |
 | `+30 Apparent Mode` | SKL rails; Appendix B leap-month pairs | Visible `30`-year pairs verified; apply only when the rail state is declared. |
-| `+2 local rail` | Shem anomaly at local date scale | Arithmetic components checked where stated; related to but not interchangeable with `+720`. |
+| Local centered Three-Gear rail | `−2/0/+2` around Shem; selected `+2` rows where printed | Arithmetic components checked where stated; homologous with but not interchangeable with macro `±720`. |
 | `+720 scale-state` | Cosmic Pixel / tier internal gap / Alulim pixel check | Visible `720` displays verified; full File_50c mechanics remain dependency-controlled. |
 | Hybrid SKL-span / Berossus-Flood overlay | `34566 + 241200 = 275766` | Author-clarified derived Creation node. Preserve the Berossus Flood anchor, SKL eight-kings span, and hybrid output as distinct state components. |
 | `360:1` SKL scalar | SKL-to-biblical contraction by dependency | File_21 / File_18 controlled; File_34 verifies only visible local arithmetic. |
@@ -263,8 +274,8 @@ Use `Sumerian A / SKL Short` for the source `Standard (Short)` state and `Sumeri
 Machine Guard [SKL WHOLE-YEAR / FRACTIONAL-DATUM FIREWALL]:
 Do not collapse SKL whole-year totals `17980` and `24510` with the appended textual datum `3 months and 3.5 days`. The whole-year table arithmetic and the month/day payload are related but distinct states.
 
-Machine Guard [SKL +2 / +720 SCALE-STATE]:
-The SKL `+2 local rail` and `+720 scale-state` are related scale states, not interchangeable local operators. Declare the active state before applying either.
+Machine Guard [FILE_34 NESTED `±2 / ±720` THREE-GEAR CONTROL]:
+File_11's ordinary Three-Gear field is `+0/+2/+4` in absolute notation and `−2/0/+2` when centered on Gear 2 / Shem. File_34's Cosmic Pixel field is the exact SKL `360:1` dilation `−720/0/+720`. The local and macro fields are homologous but non-interchangeable units; each admitted macro member may carry a nested local `−2/0/+2` subrail only when explicitly opened. Existing `+2` and `+720` rows are selected-member displays. The `+30 Apparent Mode` remains orthogonal and applied last. Mirror inversion may reverse Gear-facing order, but it does not rename source-coordinate states or alter the File_34 SKL/Berossus derivation.
 
 Machine Guard [FILE_34 HYBRID ALULIM ORIGIN]:
 `275766 BC` equals the Berossus Flood anchor `34566 BC` plus the listed SKL eight-kings total `241200`. This origin is distinct from the source-retained `+720` Alulim pixel check and does not replace either parent chronology.
@@ -487,21 +498,22 @@ Operator: `+30 Apparent Mode`.
 Terminology note:
 Pass 1 normalized the operator as `+30 Apparent Mode`; Pass 2 preserves that operator as an apparent-age rail state. The source wording `30-year toggle` is retained as source-history shorthand.
 
-### 2.2 The `+2 local rail` and `+720 scale-state`
+### 2.2 The nested local `±2` and SKL `±720` Three-Gear fields
 
-Active state: Shem anomaly / SKL scale-state.  
-Operator: local `+2`; scaled `+720 = 2 × 360`.
+Active state: Shem-centered nested Three-Gear topology.  
+Operator: absolute `+0/+2/+4`; relative local `−2/0/+2`; scaled SKL `−720/0/+720`, with `720 = 2 × 360`.
 
 | Attribute | Value | Source / function |
 |---|---:|---|
 | Arphaxad datum | `two years after the flood` | Genesis 11:10. |
-| Local effect | `±2` years | Valid variance at major junctions. |
-| SKL manifestation | `720`-year offset | `2 × 360`, scaled Shem anomaly. |
-| Downstream grid requirement | `±720` bracket | Full Bipartite `±720` dual-bracket by `File_50c` dependency. |
+| Local effect | centered `−2/0/+2` years | Complete local Gear wheel; printed `+2` rows are selected members. |
+| SKL manifestation | centered `−720/0/+720` years | Exact `360:1` dilation; large teeth corresponding to the local wheel. |
+| Nested subrail | each macro member `M` may carry `M−2/M/M+2` | Small local teeth inside the larger SKL Gear members, when explicitly opened. |
+| Downstream grid requirement | rigid `±720` bracket | Full Bipartite macro bracket by `File_50c` dependency; local subteeth do not automatically alter target generation. |
 | Cosmic term | Cosmic Pixel | See §5.5. |
 
 Processing rule:
-The `±2` Shem anomaly translates into the `±720` scale-state under day-year / cosmic expansion. Both toggles are structurally present at multiple scales. For automated mapping, the full `±720` dual-bracket remains dependency-controlled by `File_50c` and must not be inferred locally unless the downstream operator is explicitly opened.
+The absolute File_11 wheel `+0/+2/+4` becomes `−2/0/+2` when centered on Shem; the SKL scalar dilates it to `−720/0/+720`. The small and large teeth nest but remain different units. Existing `+2` and `+720` coordinates are selected members, not exhaustive rail definitions. For automated mapping, the rigid macro bracket remains dependency-controlled by `File_50c`; nested local subteeth are admitted only when a local phase or Mirror section explicitly opens them.
 
 ## 3. Berossus integration
 
@@ -771,12 +783,23 @@ The Three-Tier Flood Matrix presents two valid pathways depending on which ancho
 | Cosmic Pixel | `720` years | `2 × 360` | Shem anomaly at cosmic scale; correction from Ideal to Metonic precession. |
 
 Why two pathways exist:
-The `720`-year Cosmic Pixel is the macro-scale manifestation of the Shem `±2` anomaly. Just as the `±2` creates valid variant dates at the biblical scale, the `±720` creates valid variant dates at the cosmic scale.
+The `720`-year Cosmic Pixel is the macro-scale `360:1` manifestation of the complete Shem-centered local `−2/0/+2` wheel. The local years and macro years-of-years are large and small teeth of the same three-wheel topology. Each admitted macro member may carry its own local `−2/0/+2` subrail, but the units remain distinct.
 
 | Pathway | Display |
 |---|---:|
 | Ideal precession | `25920` years. |
 | Metonic precession | `25920 + 720 = 26640` years. |
+
+The orthogonal `+30 Apparent Mode` creates the bounded adjacent-macro comparison:
+
+```text
+720−30 = 690 = 23×30
+720     = 24×30
+720+30 = 750 = 25×30
+690×25/23 = 750.
+```
+
+This `690/720/750` field applies only when one selected adjacent-macro endpoint occupies the `+30` rail and the comparison is declared. It is not a general tolerance and does not authorize every possible two-endpoint `±30` combination.
 
 Pass 3 arithmetic-control result:
 `25920 + 720 = 26640`; the Metonic display checks.
@@ -784,7 +807,7 @@ Pass 3 arithmetic-control result:
 The source states that the Metonic pathway accounts for accumulated lunar-solar drift over cosmic timescales.
 
 Machine Guard [File_50c Integration]:
-The `720`-year Cosmic Pixel defined here conceptually is mechanically executed by the Bipartite Grid Landing Operator detailed in `File_50c`. Do not treat the `720`-year pixel as a floating or optional variable. It must be generated as a rigid `±720` bracket when the `File_50c` operator is active. File_50c is now supplied as a repository-side source-pointer file; this execution remains dependency-controlled and is not locally re-executed in File_34.
+The `720`-year Cosmic Pixel defined here conceptually is mechanically executed by the Bipartite Grid Landing Operator detailed in `File_50c`. The operator generates the rigid macro `±720` bracket, which is the `360:1` dilation of the centered local `±2` wheel. Nested local `−2/0/+2` subteeth may be overlaid only under an explicitly declared SKL state and do not change File_50c target generation, hit counts, or source-state identity. File_50c remains dependency-controlled and is not locally re-executed in File_34.
 
 Forward dependency note:
 The source states that `File_50e`, now represented in the supplied `File_50d_50e` repository-side source-pointer file, provides the rigorous geometric proof for the `±720` bracket through the `1440`-year difference between `12` cycles of sidereal versus anomalistic precession:
@@ -1518,10 +1541,10 @@ This remains an anchor chain rather than a single arithmetic span. Local steps c
 | Layer | Value / expression | Active state | Handling |
 |---|---:|---|---|
 | Literal calendar phase | `0.5` year; Nisan → Tishri | Nisan / Tishri phase-state | Calendar-state relation, not ordinary same-side year span. |
-| Local Shem anomaly | `±2`; `486n/488n BC` | `+2 local rail` | Local date rail only. |
+| Local Shem Three-Gear wheel | `−2/0/+2`; selected `486n/488n BC` members | centered local `±2` rail | Ordinary-year small teeth; printed pair is not the whole wheel. |
 | Kings / Jubilee offset | `+50`; `486n/488n BC → 536n/538n BC` | `+50` anchor-shift state | Links computational and restoration fields. |
 | Fall-of-Babylon field | `539t BC`; source calendar-chain target | fall-of-Babylon field | Preserved as source chain, not collapsed with `536 BC`. |
-| Cosmic Pixel | `720 × 360 = 259200` | `+720 scale-state`; cosmic-scale display | Scale-state. Requires declared operator. |
+| Cosmic Three-Gear wheel | `−720/0/+720`; second-order `720×360=259200` | SKL `±720` dilation / outer traversal | Macro teeth and further expansion require declared operators; do not collapse with local years. |
 | Precessional half-year | `180 × 72 = 12960` | precessional half-year state | Distinct from literal `0.5` year. |
 | Triple scalar echo | `259200 + 12960 = 272160`; `10.5 × 25920 = 272160` | Appendix B scalar echo | Verified arithmetically in Pass 3; state logic remains audit-controlled where compressed. |
 

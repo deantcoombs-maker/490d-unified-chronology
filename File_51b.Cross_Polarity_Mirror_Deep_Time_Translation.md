@@ -15,7 +15,77 @@ Major claim-status labels: source-retained source language; textual datum; arith
 Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; File_00 foundation / archive-routing precedent; File_12; File_13; File_14 by dependency; File_20 by dependency; File_51a Public Clean v1.1; File_52a Final post-final pressure tested; File_52b Final post-final pressure tested; File_54 Public Clean v1.0; State Vocabulary Register v1.17 File_51b Convention Entry; Restart Capsule v11.15 File_51b convention-entry update; prior File_51b Final post-final pressure-tested source; Repository_Change_Archive (non-controlling history).
 Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Bounded Adam-field Mirror lock addition (§7A) registered from the Regular / Cumulative page publication discussion record. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
 
+Rounded-coordinate clarification: Author-directed September 25 2026; signed mod-5 calculations and symmetric BC/AD display labels are distinguished from literal civil counts; amendment examples and bounded diffs verified; no new full-file pressure test or central-register update claimed.
+Rounded whole-span anchor clarification: Author-directed September 25 2026; 6/1406 BC for Rounded birth/event sources ending in 6 and 1/1401 BC for those ending in 1; segmented chains retain their stated rules; bounded amendment verification only, with no new full-file pressure test or central-register update claimed.
+
 # File_51b — The Cross-Polarity Mirror and Deep-Time Translation Engines
+
+## Author clarification — Rounded coordinates and civil spans (20260925)
+
+Author clarification: Dean, September 25 2026. Scope: the pure Rounded coordinate and display convention in Files 51a, 51b, 52a, and 52b. The choice to use a civil count as an input to a particular mixed inverse/expansion construction remains explicit and provisional.
+
+The Rounded calculation takes place on signed multiples of five. Write its coordinate as $q$:
+
+$$q(B\text{ BC})=-(B-1),\qquad q(\text{AD }A)=A-1.$$
+
+Reflection sends $q$ to $-q$. Display a nonzero coordinate with the numeral $|q|+1$ and the era indicated by its sign. Thus $-1405$ displays as **1406 BC**, and $+1405$ displays as **AD 1406**. Pure Rounded date labels end in **1 or 6** on both sides; their coordinates end in **0 or 5**. Zero denotes the algebraic Mirror origin and does not introduce a civil year zero. These labels do not acquire Tishri/Nisan phases merely from their final digits.
+
+For opposite-side displayed labels, distinguish two quantities:
+
+$$W_R=q(\text{AD }A)-q(B\text{ BC})=B+A-2,$$
+$$C=B+A-1=W_R+1.$$
+
+$W_R$ is the Rounded coordinate width. $C$ is the ordinary civil elapsed-year count between those same printed BC/AD numerals. The label mapping is therefore a Rounded display convention, not a single ordinary astronomical-year coordinate map. Use the appropriate count explicitly; do not transfer the extra year into a coordinate calculation silently.
+
+| Rounded coordinates | Symmetric displayed labels | Coordinate width $W_R$ | Literal civil count $C$ |
+|---|---|---:|---:|
+| $-1405\rightarrow+1405$ | 1406 BC → AD 1406 | 2810 | 2811 |
+| $-14010\rightarrow+14005$ | 14011 BC → AD 14006 | 28015 | 28016 |
+| $-8605\rightarrow+1445$ | 8606 BC → AD 1446 | 10050 | 10051 |
+| $-41005\rightarrow+14010$ | 41006 BC → AD 14011 | 55015 | 55016 |
+
+The last row begins at **41006 BC**, not 14006 BC. Accordingly, Dean's example is:
+
+$$14010-(-41005)=55015,\qquad41006+14011-1=55016.$$
+
+The selected civil-count conversion chains are:
+
+$$10051=19\times529\xrightarrow{25/23}10925\xrightarrow{25/23}11875,$$
+$$55016=104\times529\xrightarrow{25/23}59800\xrightarrow{25/23}65000,$$
+$$59800=200\times299\xrightarrow{300/299}60000.$$
+
+These are exact conversions of $C$, not of the neighboring coordinate widths 10050 and 55015. Their arithmetic alone does not establish the proposed inverse system as a third geometric axis.
+
+When a converted duration is subsequently applied on the Rounded grid, calculate with $q$ and restore the date label afterward. In Dean's separately stated launch from **14006 BC**:
+
+$$-14005+59800=+45795\quad\longrightarrow\quad\boxed{\text{AD }45796}.$$
+
+Here the coordinate width is **59800**; the literal civil count between the displayed labels 14006 BC and AD 45796 is **59801**. The starting anchor is declared separately from the original 41006 BC → AD 14011 span that generated the converted duration.
+
+**Existing-file reading rule.** Earlier Protocol 1 passages often render a positive coordinate $q$ as civil **AD $q$**; the symmetric Rounded display renders it **AD $(q+1)$**. Thus the legacy expression “1406 BC → AD 1405” and the symmetric display “1406 BC ↔ AD 1406” can refer to the same abstract coordinate pair $-1405,+1405$ under different renderings. An explicitly civil equation retains its stated civil labels and count. When redrawing a pure Rounded diagram, render its coordinates using the symmetric rule. Do not globally shift actual dates, phase-resolved dates, or no-placeholder inverse results.
+
+This author-directed clarification controls the pure Rounded display convention in this file. Inherited references to `AD (n-1)` or `AD (n − 1)` as a strict Protocol 1 target describe the legacy astronomical/civil rendering; the symmetric Rounded display of that positive coordinate is `AD n`. Prior expressly civil calculations remain readable in their stated rendering. The clarification and its examples are verified separately from the earlier full-file proof status.
+
+## Author clarification — Whole-span inverse anchors (20260925)
+
+For a whole-span inversion of an explicitly Rounded BC birth or event date, select the Nativity or Conquest anchor family required by the construction, then select its member from the source date's final digit:
+
+| Rounded BC date ends in | Nativity anchor | Conquest anchor |
+|---|---|---|
+| 6 | 6 BC | 1406 BC |
+| 1 | 1 BC | 1401 BC |
+
+Keep the source date unchanged. Subtract the selected anchor, invert that complete span while preserving its trailing-zero placeholders, and rebuild from the same anchor. Matching the final digit makes the span a multiple of ten, so this whole-span operation needs no post-inverse rounding.
+
+The selector applies in both regular and cumulative Rounded states. It does not re-anchor individual rows of a begetting or lifespan chain: those segment-by-segment operations retain their stated anchors and mod-5 normalization rules. Explicit Exodus constructions retain 1446 BC; this clarification introduces no 1441 BC anchor. Actual and phase-resolved dates are outside this rule. The Mirror coordinate and civil-count distinction above remains unchanged.
+
+File_52a §2.1 defines the operation; File_52b §1.1 supplies the six regular dates ending in 1 and both sets of results. This author-directed rule controls whole-span birth/event inversion; it does not settle the separate experimental inverse death-date procedure or increase the evidential status of proposed patterns.
+
+### Inverse anchors and the Rounded Mirror
+
+The 1/1401 BC choice selects the origin for a whole-span inverse calculation; it does not move the Mirror origin from $q=0$. File_52a §2.1 controls that inverse operation and File_52b §1.1 supplies its birth-date table.
+
+For Enosh, $3871-1401=2470\rightarrow7420$ rebuilds 8821 BC. In the Rounded display this is $q=-8820$, reflected to $q=+8820$ or AD 8821. The two halves are each $8820=49\times180$, giving the coordinate width $17640=49\times360$. The literal civil count between 8821 BC and AD 8821 is 17641. The inverse anchor rule changes neither that distinction nor the reflection operator.
 
 ## Related Repository Files
 
@@ -126,7 +196,7 @@ Machine Guard [FILE_51B / FILE_51A HANDOFF]:
 `File_51a` controls Rounded Scaffold mechanics. `File_51b` controls formal Cross-Polarity Mirror mechanics and deep-time translation-engine logic. Do not retroject File_51b Mirror argument burden into File_51a as its primary scaffold argument.
 
 Machine Guard [FILE_51B / FILE_52A HANDOFF]:
-`File_51b` may bridge toward inverse-number architecture, but `File_52a` controls inverse-number architecture and `File_52b` controls the technical supplement. Do not make File_51b the inverse-number control file.
+`File_51b` may bridge toward inverse-number architecture, but `File_52a` controls inverse-number architecture and `File_52b` controls the technical supplement. Do not make File_51b the inverse-number control file. Whole-span inverse anchors follow the 6/1406 or 1/1401 BC source-ending rule in File_52a §2.1; this does not change the Mirror origin or its counting conventions.
 
 Machine Guard [PROTOCOL 1 / PROTOCOL 2 NON-COLLAPSE]:
 Protocol 1 is pure rounded A-space integer Mirror. Protocol 2 is Tishri/Nisan midpoint-pivot Mirror. They are not interchangeable, and Protocol 2 is not a blanket `+1` correction to Protocol 1.
@@ -135,7 +205,7 @@ Machine Guard [CIVIL CROSS-AXIS SPAN]:
 After the AD target-state is generated, every executable civil cross-axis span uses `BC + AD − 1`. Do not introduce a second span operator.
 
 Machine Guard [AD 1406 / AD 1401 DISPLAY]:
-Where `AD 1406` or `AD 1401` appears by File_51a §§16.7–16.8 precedent, it is a rounded Conquest-week block display label. Strict Protocol 1 targets remain `1406 BC → AD 1405` and `1401 BC → AD 1400`.
+Use `AD 1406` and `AD 1401` as symmetric Rounded display labels for coordinates `+1405` and `+1400`. The earlier strict astronomical/civil renderings `1406 BC → AD 1405` and `1401 BC → AD 1400` remain identified as legacy renderings when their civil equations are retained. This display clarification does not assign a Tishri/Nisan phase or alter an explicitly actual AD target.
 
 Machine Guard [11111 / 11110 / 11100 / 11109 NON-COLLAPSE]:
 `11111`, `11110`, `11100`, and `11109` are distinct translation-engine states. Do not average, harmonize, or silently substitute one for another.
@@ -179,7 +249,7 @@ Methodological note: The Mirror is treated as an active state only where the loc
 ### 1.1 Coordinate Systems and the A-Space Mirror
 All scaffold dates, expressed in A-space (§1.14a of the Restart Capsule), have values divisible by 5. For example, 4106 BC = A(−4105), and −4105 mod 5 = 0.
 
-The A-space mirror: The mirror of any date across the origin (A = 0 = 1 BC) is obtained by negating its A-space value. For $n$ BC, A = $1 – n$, and the mirror is A = $n – 1$, which renders in civil terms as AD $(n – 1)$. This is the correct geometric reflection — not AD $n$.
+The A-space mirror: The mirror of any date across the origin (A = 0 = 1 BC) is obtained by negating its A-space value. For $n$ BC, A = $1 – n$, and the mirror is A = $n – 1$, which renders in civil terms as AD $(n – 1)$. This is the legacy astronomical/civil rendering of the reflected coordinate. Under the symmetric Rounded display clarified September 25 2026, the same positive coordinate is labeled AD $n$. Specify which rendering is active; the coordinate width and the civil count between the symmetric labels differ by one year.
 
 Examples:
 
@@ -187,7 +257,7 @@ Mirror of 4106 BC: A = −4105, mirror = +4105 = AD 4105
 Mirror of 1406 BC: A = −1405, mirror = +1405 = AD 1405
 Since A-space values of rounded dates are divisible by 5, their mirrors are also divisible by 5, and the total self-mirror span $2|a|$ is divisible by 10.
 
-Span formula (universal): All cross-axis spans — whether actual, rounded, or mixed — use the single standard formula:
+Civil span formula: Every literal civil BC-to-AD elapsed-year count uses the following formula. A separately labeled Rounded coordinate width is computed directly from q and is not a competing civil-span formula:
 
 Span = BC + AD − 1
 
@@ -201,7 +271,7 @@ Half-year offsets: Nisan (spring) and Tishri (fall) anchors correspond to intege
 
 Two mirror protocols exist. They are not interchangeable.
 
-Protocol 1 — Pure Rounded (A-space integer mirror): When both sides of a mirror span are pure rounded dates (all values divisible by 5), the mirror of n BC is computed in A-space: A = 1 − n; mirror = n − 1; civil label = AD (n − 1). Span = BC + AD − 1. All results are divisible by 10.
+Protocol 1 — Pure Rounded integer mirror: Compute q = 1 − n for n BC and reflect to -q = n − 1. The symmetric Rounded display is AD n; the earlier astronomical/civil rendering is AD (n − 1). Use signed coordinate subtraction for the Rounded width, and BC + AD − 1 only for a literal civil count with its stated AD numeral. Pure Rounded coordinate widths are divisible by 5; self-mirror widths are divisible by 10. See the author clarification above for the 28015/28016 and 55015/55016 distinctions.
 
 Protocol 2 — Tishri/Nisan phase mirror (midpoint-pivot): When either side of a mirror span carries a Tishri/Nisan dual anchor (including all Actual MT dates and mixed Actual/Rounded configurations), the mirror operates on the year-boundary midpoint. Each anchor is resolved to its Dec. 31/Jan. 1 midpoint between the Tishri and Nisan expressions, and the mirror pivots at the Dec. 31, 1 BC / Jan. 1, AD 1 civil datum. In common Tishri/Nisan cases this often renders one civil year higher than the pure A-space self-mirror, but the operative result is determined by the midpoint-pivot procedure itself, not by a blanket +1 rule.
 

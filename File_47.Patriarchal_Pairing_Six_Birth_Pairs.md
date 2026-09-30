@@ -2,10 +2,10 @@ File: File_47
 Title: Patriarchal Pairing System — Six Birth-Pairs from Noah to Jacob
 Entity: PATRIARCHAL PAIRING SYSTEM
 Classification: Structural System / Machine Reference
-Status: Final; marked Final by author direction June 10 2026; Passes 0–2 complete
+Status: Final; bounded September 13 2026 Shem role-state / cross-state-overlap clarification applied; marked Final by author direction June 10 2026; Passes 0–2 complete
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Pressure-test status: Current; publication-clean verification complete after author-Final marking and Passes 0–2 completion; no argument-bearing content changed in trust-status equalization.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Register Agreement status: Historical File_47 registration checked against State_Vocabulary_Register v1.17; September 13 Shem role-state / cross-state-overlap clarification registered at current State Vocabulary Register v1.55 §D.44 and Restart Capsule v11.54 §10.31; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
 Primary domain: Regular; Comparative; Cumulative; Theological
 Traditions: MT; SP; LXX
 Canonical source: Markdown
@@ -33,10 +33,10 @@ The following states are active in `File_47`. They are simultaneous, non-competi
 
 | State | Primary date(s) / value(s) | Node-class / function | Handling in `File_47` |
 |---|---|---|---|
-| `+215` position with ±2 | Noah 3058/3056 BC; Shem 2558/2556 BC; Flood 2458/2456 BC | Flood-epoch position state | Governing position for all MT tables; matches the `File_16` §4.3.3 `+215` position. |
+| `+215` position with ±2 | Noah 3058/3056 BC; Shem 2558/2556 BC; Flood 2458/2456 BC | Flood-epoch position state | Governing position for all MT tables; `2558` is Shem's Gear-2 triad/biological birth reference, while `2556` is the elected/covenant-line Gear-1 station, not a second biological birth. |
 | MT S0 / S2 | 3056 BC / 3058 BC at Noah | Shem ±2 regular-localized state, lower / upper members | Local mode flags; bound by the §0.3 mapping table. |
 | S2 co-shift reading | Noah→Shem bracket 500; Column B 730 | S2 computational sub-state | Noah and Shem shift together by +2. |
-| S2 502-bracket reading | Noah→Shem bracket 502; Column B 732 | S2 computational sub-state | Shem-only shift reading; used by §13.4 and §13.7. |
+| S2 502-bracket reading | Noah→elected-lineage Shem station bracket 502; Column B 732 | intentional cross-state computational sub-state | Uses Noah upper `3058` against Shem elected-lineage station `2556`; the `2` is an explicit state overlap, not extra historical time. |
 | SP S0 / S1 | Noah 3706 BC / 3707 BC | SP inclusive +1 Noah/Shem toggle, local | Local to `File_47`; not asserted identical to the Register's SP Normal / Toggle ON state. |
 | T0 / T60 | — / +60 on Shem→Nahor segment | `+60 Terah` OFF / ON | All tables in this file run T0. |
 | J0 / J215 | — / +215 Sojourn position | `+215 Sojourn` OFF / ON | All tables in this file run J215. |
@@ -78,7 +78,7 @@ The following states are active in `File_47`. They are simultaneous, non-competi
 
 | Flag | Tradition scope | Repository operator / state | Effect |
 |---|---|---|---|
-| S0 | MT | Shem ±2 regular-localized state — lower member | Baseline; Noah 500 at Shem's birth; Noah 3056 BC |
+| S0 | MT | Shem ±2 regular-localized state — lower/elected-lineage member | Baseline positional state; Noah 3056 BC; Shem `2556` is the elected-lineage station, not a second biological birth |
 | S2 | MT | Shem ±2 regular-localized state — upper member (+2) | +2 pivot at Noah/Shem; Noah 3058 BC |
 | S0 | SP | SP inclusive Noah/Shem toggle OFF (local) | Baseline; Noah 3706 BC |
 | S1 | SP | SP inclusive Noah/Shem toggle ON (+1) (local) | +1 at Noah/Shem; Noah 3707 BC |
@@ -92,6 +92,8 @@ The flags S0/S2, S0/S1, T0/T60, and J0/J215 are `File_47`-local shorthand bound 
 
 Machine Guard [FILE_47 POSITION STATE]:
 All `File_47` MT tables operate in the `+215` position with ±2: Noah 3058/3056 BC; Shem 2558/2556 BC; Flood 2458/2456 BC (see `File_16` §4.3.3). The MT Minimum-Regular tables of `File_02` (Noah 2843/2841 BC) occupy a different matrix position. The two positions do not contradict; they are distinct position states of the same chain.
+
+Author clarification — Shem role-state distinction (September 2026): `2558 BC` is Shem's Gear-2 triad/biological birth reference. `2556 BC` is the elected/covenant-line Gear-1 station by which Shem may occupy the elder/firstborn structural role; it is **not** another biological birth. Accordingly, the S2 cross-state construction intentionally combines Column A `2558→2456=102` with Column B bracket `3058→2556=502`, giving `322+732=1054` against literal `3058→2006=1052`. The extra `2` is exactly the `2558→2556` state overlap and is not added historical time. The co-shift `322/730` reading remains a separate valid sub-state; neither corrects the other.
 
 Dependency note (author clarification, June 10 2026; Register Agreement Sweep refresh):
 The SP toggle refers, in the author's terms, to the SP's inclusive reckoning of Noah in his "600th year" (the ordinal parsing of Gen 7:11 / 8:13 described in §1.4). `File_47`'s SP S1 is the pairing-file expression of that mechanism: a +1 at the Noah/Shem pivot. The current Register records File_47 SP S1 as a local label that shares mechanism-description territory with the SP Normal / Toggle ON family but is not merged with it. Formal identification still requires a dedicated cross-file check.
@@ -145,6 +147,8 @@ Resolution: MT/LXX permit mixed semantics (completed-years for age; ordinal for 
 
 Modal-state note:
 The mixed-semantics fork is the same state-producing ambiguity registered repository-wide as the Shem ±2 anomaly (`File_02` §6). It is a state-producing ambiguity, not a scribal error to be removed.
+
+Terah analogy pointer (bounded): the later author-approved Terah `+60 / 0 / −33` sibling-slot field is structurally analogous in that Abram, like Shem, is the elected middle son who may occupy qualified sibling positions without acquiring multiple biological births. `File_60` and `File_00` control that Terah extension; `File_47` does not rederive it or propagate `−33` into Noah/Shem.
 
 ## 2. The Six Birth-Pairs Structure
 
@@ -299,7 +303,7 @@ Active state: MT; Shem ±2 lower member (S0); `+60 Terah` OFF (T0); `+215 Sojour
 | Person | Birth (BC) | Death (BC) | Birth mod10 | Death mod10 | Pair-ID | Within-pair gap | Between-pair gap |
 |---|---:|---:|---:|---:|---|---:|---:|
 | Noah | 3056 | 2106 | 6 | 6 | P0 | — | 500 (Noah→Shem) |
-| Shem | 2556 | 1956 | 6 | 6 | P1 | 100 | — |
+| Shem — elected-lineage station | 2556 | 1956 | 6 | 6 | P1 | 100 | — |
 | Arphaxad | 2456 | 2018 | 6 | 8 | P1 | — | 35 |
 | Salah | 2421 | 1988 | 1 | 8 | P2 | 30 | — |
 | Eber | 2391 | 1927 | 1 | 7 | P2 | — | 34 |
@@ -371,7 +375,7 @@ The S2 state carries two computational sub-states, both retained.
 | Sub-state | Noah→Shem bracket | Column B total | Where used |
 |---|---:|---:|---|
 | S2 co-shift reading | 500 | 730 | §5.2 table above; Noah and Shem shift together by +2, so the bracket is unchanged |
-| S2 502-bracket reading | 502 | 732 | §13.4 summary row; §13.7 toggle description |
+| S2 502-bracket reading | 502 | 732 | intentional cross-state row: Noah `3058` → elected-lineage Shem station `2556`; §13.4 / §13.7 |
 
 Neither sub-state corrects the other. The within-pair gap P1 is 102 in both sub-states (vs 100 in S0).
 
@@ -810,7 +814,7 @@ Total: 500 + 600 + 600 + 600 = 2300 = 23 × 100
 MT single span:
 
 ```markdown
-Shem birth (2556) → Conquest (1406) = 1150 = ½ × 2300
+Shem elected-lineage station (2556) → Conquest (1406) = 1150 = ½ × 2300
 ```
 
 Arithmetic note:

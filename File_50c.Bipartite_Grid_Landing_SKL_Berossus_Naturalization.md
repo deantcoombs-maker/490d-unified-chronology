@@ -1,20 +1,20 @@
 File: File_50c
 Title: The Bipartite Grid Landing and SKL/Berossus Naturalization
-Status: Final; post-final pressure tested June 18 2026; no publication blocker
+Status: Final; post-final pressure-tested baseline retained; bounded nested `±2 / ±720` Three-Gear control correction applied August 25 2026 and focused verified; no publication blocker
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; full pressure test complete during post-equalization sampled QA; post-final pressure test of June 18 2026 retained; no publication blocker.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Pressure-test status: Current; prior full and post-final pressure-test baselines retained. The August 25 2026 nested Three-Gear correction received focused machine-diff, guard, dependency, arithmetic-invariance, scan-inventory, Markdown-table, heading, and fence verification only; no new full pressure test is claimed; no publication blocker.
+Register Agreement status: Checked against State_Vocabulary_Register v1.47 Part D §D.38 and Restart Capsule v11.46. The former one-sided `+2 / +720` firewall is superseded by the complete nested Three-Gear control. File_50c retains the deterministic rigid `±720` bracket as its executable operator; no scan input, target matrix, hit count, arithmetic, Primary anchor, or prime-polarity boundary changes.
 Source-history status: `Verified and Locked (Zero-History / Machine-Optimized)`; source version `v3.0`
 Primary domain: Prime; SKL; Berossus; Comparative; Statistical; Theological; Deep Time
 Traditions: Prime-grid; SKL; Berossus; MT / biblical patriarchal comparison; NT / Christological comparison
 Canonical source: Markdown
 Repository: 490d Unified Chronology Knowledge Graph
 Primary anchors: P2 / `6 BC`; P1 / `AD 1`; `720`; `6480`; P23 / `31686 BC`; Jachin / `AD 29515`; `61200`; SKL Pre-Creation `452886/459366 BC`; SKL Flood `20886/27366 BC`; SKL end-anchor family `3606/2886/2166 BC`; Berossus Flood `34566/33846 BC`; Berossus endpoint families `16586/16566 BC` and `10056/10086 BC`; biblical restoration anchor `536 BC`; Berossus computational anchor `486 BC`
-Related files: File_00; File_21; File_32; File_33; File_34; File_41 by State Vocabulary Register dependency; File_49; File_50a; File_50b; File_50d_50e; File_51a; File_54; Restart Capsule v11.15; State Vocabulary Register v1.17; 490d Repository Style Guide v2.5; Project Procedures v3.2
-Major operators: `P_nat = P − 11`; `V_90 = round(P_nat / 90) × 90`; File_50a Civil clutch `Civil = V_90 + 6`; P1 bypass; `G = −V_90`; `M = round(G / 720) × 720`; `R = G − M`; bipartite `±720` target bracket; exact-strike signed tri-position; equivalent integer civil-bracket execution; `Civil BC = |Target| + 6`; same-side BC subtraction; civil cross-axis span `BC + AD − 1`; `+6480` SKL Short / Long shift
-Major modal states: File_50a naturalized-grid state; P2 naturalization-zero / Grid Origin state; P1 no-naturalization bypass / Civil Datum state; bipartite negative-catch state; bipartite positive-catch state; exact-strike signed tri-position state; `+720 scale-state`; Sumerian A / SKL Short; Sumerian B / SKL Long; Berossus computational-anchor state; biblical restoration-anchor state; source-parenthetical admission state; coordinate-family target-identity state; target-hit multiplicity state; statistical scan state; P23 Naturalized Grid meta-anchor state; Jachin Projective Boundary / Temple-Time Pillar state; Concave Mirror / structural meta-anchor state; textual-name / computed-coordinate firewall
-Revision basis: author-supplied `File_50c` source, version 3.0; File_50c Final and post-final pressure-tested source; 490d Repository Style Guide v2.5; Project Procedures v3.2; Restart Capsule v11.15; State Vocabulary Register v1.17; File_00 Final; File_34 Final, post-final pressure tested; File_50a Final, author-confirmed; File_50b repository summary; File_51a Final; File_54 Final; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Related files: File_00; File_11; File_18; File_21; File_32; File_33; File_34; File_41 by State Vocabulary Register dependency; File_49; File_50a; File_50b; File_50d_50e; File_51a; File_54; Restart Capsule v11.46; State Vocabulary Register v1.47; 490d Repository Style Guide v2.5; Project Procedures v3.5
+Major operators: `P_nat = P − 11`; `V_90 = round(P_nat / 90) × 90`; File_50a Civil clutch `Civil = V_90 + 6`; P1 bypass; `G = −V_90`; `M = round(G / 720) × 720`; `R = G − M`; bipartite `±720` target bracket; exact-strike signed tri-position; equivalent integer civil-bracket execution; `Civil BC = |Target| + 6`; File_11 absolute Three-Gear `+0/+2/+4`; Shem-centered local `−2/0/+2`; SKL `360:1` dilation `−720/0/+720`; optional declared local subrail `M−2/M/M+2` within an admitted macro member; orthogonal `+30 Apparent Mode`; bounded adjacent-macro `690/720/750`; same-side BC subtraction; civil cross-axis span `BC + AD − 1`; `+6480` SKL Short / Long shift
+Major modal states: File_50a naturalized-grid state; P2 naturalization-zero / Grid Origin state; P1 no-naturalization bypass / Civil Datum state; bipartite negative-catch state; bipartite positive-catch state; exact-strike signed tri-position state; rigid `±720` executable-bracket state; complete local `−2/0/+2` Three-Gear state by dependency; SKL `−720/0/+720` dilation state; nested local-on-macro comparison state; `+30` orthogonal-rail state; Sumerian A / SKL Short; Sumerian B / SKL Long; Berossus computational-anchor state; biblical restoration-anchor state; source-parenthetical admission state; coordinate-family target-identity state; target-hit multiplicity state; statistical scan state; P23 Naturalized Grid meta-anchor state; Jachin Projective Boundary / Temple-Time Pillar state; Concave Mirror / structural meta-anchor state; textual-name / computed-coordinate firewall
+Revision basis: author-supplied `File_50c` source, version 3.0; prior Final and post-final pressure-tested File_50c; 490d Repository Style Guide v2.5; Project Procedures v3.5; Restart Capsule v11.46; State Vocabulary Register v1.47 Part D §D.38; Files 11, 18, 21, and 34; File_50a Final; File_50b repository summary; File_51a; File_54; August 25 2026 bounded nested Three-Gear control correction; Repository_Change_Archive (non-controlling prior history).
+Current refresh note: The August 25 2026 correction changes only the ontology and guard language surrounding the rigid `±720` bracket. The bracket remains the sole executable File_50c gear operator. A nested local `−2/0/+2` subrail may be overlaid only when explicitly declared and does not create an additional File_50c target, list hit, coordinate-family identity, or statistical witness. All source-v3.0 scan totals and target matrices remain unchanged.
 
 # File_50c — The Bipartite Grid Landing and SKL/Berossus Naturalization
 
@@ -25,14 +25,14 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_00` | Controls foundational state, node-class, operator, civil cross-axis, Machine Guard, and dependency discipline. |
 | `File_21` | Controls the SKL Unified Protocol application layer and the Jachin Projective Boundary / Temple-Time Pillar state. It does not replace `File_34` or the File_50-series `±720` mechanics. |
 | `File_32`; `File_33` | Control the Prime–Civil / polarity namespace. Their positive- and negative-polarity coordinates must remain distinct from File_50a Naturalized Grid coordinates used here. |
-| `File_34` | Controls the full SKL / Berossus derivation, source-state vocabulary, `536 BC` / `486 BC` firewall, and `+2 local rail` / `+720 scale-state` firewall. |
+| `File_34` | Controls the full SKL / Berossus derivation, source-state vocabulary, `536 BC` / `486 BC` firewall, and the superseding nested `±2 / ±720` Three-Gear control. |
 | `File_41` by Register dependency | Controls the Jachin `AD 29515` Pillar state and its argument-classification boundary. |
 | `File_49` | Supplies the Prime Quadruplet Cycle Alignment test-protocol context. It does not replace the operator defined here. |
-| `File_50a` | Controls the P1–P100 Naturalized Master Table, naturalization, Base-90 grid, Civil clutch, Diff / three-state gear selector, P2 naturalization-zero state, and P1 bypass. State Vocabulary Register v1.17 §D.16 now supplies the compact retrieval vocabulary and Machine Guards for this input layer. |
+| `File_50a` | Controls the P1–P100 Naturalized Master Table, naturalization, Base-90 grid, Civil clutch, Diff / three-state gear selector, P2 naturalization-zero state, and P1 bypass. State Vocabulary Register §D.16 supplies the compact retrieval vocabulary and Machine Guards for this input layer. |
 | `File_50b` | Sibling interpretive synthesis. It routes Mod720 strike and deep-time mechanics to this file. |
 | `File_50d_50e` | Downstream dual-anchor and bilateral-symmetry summary / source-pointer layer. It does not control the present operator. |
-| Restart Capsule v11.15 | Controls the Bipartite Grid Landing equations, exact-strike formula, P23 / Jachin meta-anchor relation, SKL / Berossus interface, and nearest-720 half-step tie clarification. |
-| State Vocabulary Register v1.17 | Controls the File_50a compact convention entry at §D.16 and the File_50c Convention Entry at §D.10, plus Prime–Civil namespace, SKL Short / Long terminology, `+2` / `+720` separation, File_34 anchor firewalls, and Jachin node-class. |
+| Restart Capsule v11.46 | Controls the Bipartite Grid Landing equations, exact-strike formula, P23 / Jachin meta-anchor relation, SKL / Berossus interface, nearest-720 half-step tie clarification, and the nested Three-Gear correction. |
+| State Vocabulary Register v1.47 | Controls the File_50a compact entry at §D.16, the File_50c entry at §D.10, and the superseding nested `±2 / ±720` Three-Gear control at §D.38. |
 | `File_51a`; `File_54` | Procedural and later-file exemplars for state-safe Markdown, table framing, and dependency restraint. |
 
 ## 0. File-function
@@ -47,6 +47,9 @@ The file has four local functions:
 4. distinguish textual SKL / Berossus names from repository-computed civil coordinates and from the P23 / Jachin structural meta-anchor field.
 
 `File_50c` does not re-prove the full SKL / Berossus derivation. That dependency remains controlled by `File_34`. It also does not replace the File_32 / File_33 positive- and negative-polarity coordinate systems.
+
+Nested Three-Gear correction note:
+The local `−2/0/+2` wheel and the cosmic `−720/0/+720` wheel are homologous under the `360:1` scalar, but they remain different units. File_50c executes the macro bracket only; any local subrail is a declared comparison overlay.
 
 Publication-cleanup note:
 This public-clean source preserves the Final and post-final pressure-tested status in the header. Detailed pass ledgers, pressure-test records, exact-token sweeps, and cross-file recommendation history are archived rather than repeated in the public file body. The verified mathematical body, target matrices, hit ledger, Audit notes, Dependency notes, and dependency boundaries remain unchanged.
@@ -81,7 +84,10 @@ The statistical scan is proof-bearing only for the stated set-intersection resul
 | Bipartite negative-catch state | `R ∈ [−360,0)` | Signed target pair `{M, M − 720}` before civil conversion. |
 | Bipartite positive-catch state | `R ∈ (0,+360]` | Signed target pair `{M, M + 720}` before civil conversion. |
 | Exact-strike signed tri-position state | `R = 0` | Signed target positions `{M, M − 720, M + 720}` before absolute-value conversion. |
-| `+720 scale-state` / rigid `±720` bracket | Cosmic SKL / Berossus bracket | Distinct from the local SKL `+2` rail. |
+| Rigid `±720` executable bracket | Cosmic SKL / Berossus bracket produced by the File_50c operator | Macro realization of the centered Three-Gear topology; the operator generates no local `±2` subteeth. |
+| Local centered `±2` Three-Gear state by dependency | `−2/0/+2`, equivalent to absolute `+0/+2/+4` | Ordinary-year fine-tooth wheel | Homologous to the macro wheel but not an executable File_50c bracket unit. |
+| Nested local-on-macro comparison state | For admitted macro member `M`, optional `M−2/M/M+2` | Explicit overlay only | Does not add targets, hits, coordinate families, or source rows. |
+| `+30 Apparent Mode` orthogonal state | Selected adjacent-macro spans `690/720/750`; `690×25/23=750` | Applied-last comparison rail | Not part of the Bipartite bracket operator and not a tolerance. |
 | Sumerian A / SKL Short | Whole-year `17980` state; physical beginning `20886 BC` by dependency | Current term for source `SKL-1` / `List 1 — Standard`. |
 | Sumerian B / SKL Long | Whole-year `24510` state; physical beginning `27366 BC` by dependency | Current term for source `SKL-2` / `List 2 — +6480 Variant`. |
 | Berossus List A | Berossus target matrix | Textual names and source-retained list identity; coordinates remain computed states. |
@@ -108,8 +114,8 @@ Machine Guard [FILE_50C PRIME-POLARITY NAMESPACE]:
 Machine Guard [FILE_50C P23 NATURALIZED GRID]:
 P23 `31686 BC` is the File_50a Naturalized Grid civil landing. Do not collapse it with P23 positive-polarity `31716/31746 BC`, negative-polarity AD `31705/31735`, raw prime-space cross-polarity, or secondary Coordinate Mirror displays.
 
-Machine Guard [FILE_50C +2 / +720 FIREWALL]:
-The SKL `+2 local rail` is a two-year local coordinate shift. The `+720 scale-state` is the cosmic `720 = 2 × 360` interval used by the Bipartite bracket. They are related scale states but are not interchangeable operators.
+Machine Guard [FILE_50C NESTED `±2 / ±720` THREE-GEAR CONTROL]:
+The ordinary Three-Gear field is `+0/+2/+4` in absolute notation and `−2/0/+2` when centered on Gear 2 / Shem. Under the SKL `360:1` scalar, the centered macro field is `−720/0/+720`. The units are distinct but homologous: a declared macro member may carry a nested local `M−2/M/M+2` subrail. File_50c itself executes only the rigid macro bracket generated from `M`; a nested local subrail, `+30 Apparent Mode`, or the `690/720/750` comparison may not create another target, hit, coordinate-family identity, or scan witness. Existing `+2` and `+720` labels remain valid selected-member displays.
 
 Machine Guard [FILE_50C GENERATED BRACKET / LIST HIT]:
 The Bipartite operator generates a two-position signed bracket, or an exact-strike signed tri-position. `Single` and `Dual` describe one or two admitted civil-coordinate intersections, not generation multiplicity. The scan admits primary and source-parenthetical coordinates in ancient-list rows, excludes the contextual `536 BC` / `486 BC` anchor rows and §5 meta-anchors, and compresses hits by coordinate-family row identity. Coordinate-identical duplicate rows do not create additional targets.
@@ -677,6 +683,6 @@ This public-clean Markdown source removes only archival amendment history, pass 
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No arithmetic, source anchor, target matrix, scan total, prime-grid input, coordinate-family identity, or dependency proof burden is changed. The only substantive update is the superseding nested Three-Gear state/guard clarification.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.

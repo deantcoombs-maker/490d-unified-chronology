@@ -1,24 +1,28 @@
-# 490d Unified Chronology Restart Capsule v11.19 — External-Archive State Update
-File: Restart_Capsule_v11.19
-Title: 490d Unified Chronology Restart Capsule v11.19 — External-Archive State Update
-Status: Revised control file; v11.19 external-archive state update of July 8 2026 (author-directed one-line pointer update recording the July 7–8 2026 external archival campaign per Project Procedures v3.4 §20: Tier-1 archive.org item deposit with ARK; Tier-1b Zenodo DOI 10.5281/zenodo.21250574; Tier-2 Wayback capture of all 70 canonical URLs; Tier-3 archive.today spine snapshots; CC BY-ND 4.0 with posthumous CC BY 4.0 release convention; External-archive state line added; Style basis Procedures pointer advanced to v3.4; closing self-containment paragraph Procedures pointer corrected from the stale v3.2 to v3.4; no arithmetic, anchor, modal-state, node-class, operator, Machine Guard, claim-status, or dependency content altered); v11.18 page-publication pass update of July 6 2026 (author-directed bounded control-file update from the Regular / Cumulative chronology-page publication discussion record: Regular and Cumulative WordPress pages rewritten in full and republished in place under the stable-URL policy; sixteen bounded file amendments delivered — Files 01, 03, 07, 13, 14, 16, 17, 18, 20, 22, 44, 46, 51a, 51b, 53, 56 — with companion pointers refreshed; State Vocabulary Register pointer advanced to v1.19; Appendix AA row added routing the page-publication convention set to Register Part D §D.18; selected §D.18 modal states appended to the header Major modal states line; no Primary anchors inventory change because the page-derived labels are file-governed states or derived display labels under Register §D.3 and the §D.18.2 controlling files; two File_18 Lamech guard supersessions and the File_20 SOR reclassification supersession recorded per the non-silent-repair rule; Repository_Change_Archive July 2026 insert-block issued; no pre-existing arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered; added guards are retrieval / non-collapse controls; diff-audited July 6 2026); v11.17 publication-link state update of July 3 2026 (author-directed one-line pointer update recording the stable-URL migration; Publication-link state line replaced; Style basis Procedures pointer advanced to v3.3; no arithmetic, anchor, modal-state, node-class, operator, Machine Guard, claim-status, or dependency content altered); v11.16 File_56 integration update of July 2 2026 (author-directed bounded cross-file update from the Creation-decade discussion record): State Vocabulary Register pointer advanced to v1.18; File_56 Final added to Repository scope and Direct integration files, confirmed at author-invoked Finalization July 2 2026; Appendix AA row added routing File_56 Creation Decade Protocol / SP Enochian Day-4 phase-anchor vocabulary to Register Part D §D.17; selected File_56 modal states appended to the header Major modal states line; no Primary anchors inventory change because the File_56 decade-boundary values (13406 BC; 13866 BC; 14001 BC; 14891 BC; 13401 BC; 1401 BC) and the Mirror display labels (AD 1406t; AD 1407n) are derived display labels or Tier-2/local coordinates under Register §D.3; author-directed cross-file amendments to File_07 §1, File_18 §6C.1, and the File_12 bibliography vector recorded as routed amendments pending pressure test; no pre-existing arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered; added guards are retrieval / non-collapse controls; diff-audited July 2 2026; v11.15 File_50a compact convention-entry update of June 27 2026 (author-directed bounded control-file follow-up): State Vocabulary Register pointer advanced to v1.17; File_50a added to Direct integration files by exact label; Appendix AA row added routing File_50a Naturalized Master Table / Base-90 grid vocabulary to Register Part D §D.16; §7.1a added as a route note for File_50a naturalization, Base-90 grid, Civil clutch, Diff / three-state gear selector, P2 origin, and P1 bypass; no Primary anchors inventory change because File_50a civil labels are display / comparison coordinates or chronology outputs governed elsewhere; no arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered; added guards are retrieval / non-collapse controls; diff-audited June 27 2026; v11.14 File_51b convention-entry update of June 27 2026 (author-directed bounded cross-file audit): State Vocabulary Register pointer advanced to v1.15; §1.14a refreshed with File_51b Final status and File_52a / File_52b inverse-boundary routing; Appendix AA row added routing File_51b to Register Part D §D.14; no Primary anchors inventory change because File_51b translation-engine values are local state labels / translation constants governed by Register §D.14 and the Final file; no arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered; added guards are retrieval / non-collapse controls; diff-audited June 27 2026; v11.13 File_51a / File_55 public-clean control-registration update of June 27 2026 (author-directed bounded control-file update): State Vocabulary Register pointer advanced to v1.14; §1.14a and Appendix B preserve the File_51a / File_51b handoff boundary and rounded Conquest-week block-display convention; §1.20.7, §10.6, Appendix A.6, and Appendix AA refreshed for File_55 June 22 standard SKL Creation rail-contraction and adjacent-state robustness registration; no Primary anchors inventory change because the added labels are derived File_55 Tier-2/local marker states or display labels under Register §D.3; no arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered; added guards are retrieval / non-collapse controls; diff-audited June 27 2026; v11.12 File_52a / File_52b post-final registration update of June 26 2026 (author-directed bounded cross-file update): State Vocabulary Register pointer advanced to v1.13; Appendix AA row added routing File_52a / File_52b inverse-number architecture and technical supplement to Register Part D §D.12; no Primary anchors inventory change because the inverse-number anchors and operators were already capsule-governed and no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 26 2026; v11.11 File_34 / File_55 hybrid Alulim / Berossus-aligned Creation-overlay update of June 21 2026 (author-directed bounded cross-file update): File_34 provenance for the existing `275766 BC` Alulim / Berossus-aligned node clarified as `34566 + 241200 = 275766`; File_55 external-anchor summary expanded for the ordered `±720 / mod2160` rail, the Creation–Flood–terminal sample, the hybrid `275766 → 184326 → 1446 BC` row, the seven-standard-precessional-year landing, and the Ubara-Tutu exception; §1.20.7, §10.6, and Appendix A.6 refreshed; State Vocabulary Register pointer advanced to v1.12; no Primary anchors inventory change because `275766 BC` remains a File_34-controlled hybrid comparative node and `184326 BC` remains a File_55-derived Tier-2 marker under Register §D.3; no native SKL Creation, Berossus `432000 / 466566 BC`, arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 21 2026; v11.10 File_55 integration update of June 20 2026 (author-directed bounded cross-file update): File_55 Final added to Repository scope and Direct integration files; live File_51–54 scope labels advanced to File_51–55; File_55 Moses-node thirds-primer operator and methodological boundary added as §1.20.7; File_55 summary added as §10.6; File_55 constants added as Appendix A.6; Appendix B dependency-map row and Appendix AA Register pointer row added; File_55 modal states appended to the header Major modal states line; no Primary anchors inventory change because the new File_55 date-labels are derived third markers / Tier-2 local anchoring nodes under Register §D.3; Register pointer refreshed to v1.11; no pre-existing arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 20 2026; v11.9 File_50c integration update of June 18 2026 (author-directed bounded cross-file update): File_50c Final added to the direct integration files by exact file label in addition to the existing File_50-series scope; Appendix AA pointer-map row added routing File_50c to State_Vocabulary_Register Part D §D.10; no Primary anchors inventory change, because File_50c introduces no new repository-scope primary anchor and its primary values are File_50a-, File_34-, File_21-, or existing Capsule-controlled; File_50c modal states appended to the header Major modal states line; Register pointer refreshed to v1.10 in the active Style basis line and closing paragraph; §7.2 Computational guard clarified for `V_90 = 720q + 360` half-step ties, preserving exact integer arithmetic, the existing formulas, and deterministic unordered civil brackets while requiring a documented convention for ordered signed-`M` labels; no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 18 2026; v11.8 File_48 integration update of June 12 2026 (author-directed bounded control-file update): File_48 Final added to the direct integration files; Appendix AA pointer-map row added routing File_48 to State_Vocabulary_Register Part D §D.8; no Primary anchors inventory change (File_48 introduces no repository-scope anchor; cumulative-sum, wobble, and span values are File_32-controlled or derived, per the selective-inventory precedent); File_48 modal states added to the header Major modal states line; Formation Wobble NOT added as a File_48 state (carried by File_32; File_48 usage is convergence with §31.138); Register pointer refreshed to v1.8 in the active Style basis line and closing paragraph; no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 12 2026; v11.7 File_40 integration update of June 11 2026 (author-directed bounded control-file update): File_40 Final added to the direct integration files; Appendix AA pointer-map row added routing File_40 to State_Vocabulary_Register Part D §D.6; `44100`, `39960`, `43470`, `63010`, `54010`, `288010`, and `44196 BC` added to the header Primary anchors inventory (`44196 BC` as a Tier-2 derived value per Register §D.3); File_40 modal states added to the header Major modal states line; Register pointer refreshed to v1.6 and Project Procedures pointer refreshed to v3.2 in the active Style basis line and closing paragraph; no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 11 2026; v11.6 File_39 integration update of June 11 2026 (author-directed bounded control-file update): File_39 Final added to the direct integration files; Appendix AA pointer-map row added routing File_39 to State_Vocabulary_Register Part D §D.5; `82984537`, `89483827`, `82984326`, `184326`, `40326`, and `40326 BC` added to the header Primary anchors inventory; `1446 BC` (already inventoried) gains File_39 §7.3 as a converging witness — no inventory change; File_39 modal states added to the header Major modal states line; Register pointer refreshed to v1.5; no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 11 2026; v11.5 File_38 integration update of June 11 2026 (author-directed bounded control-file update): File_38 Final added to the direct integration files; Appendix AA pointer-map row added routing File_38 to State_Vocabulary_Register Part D §D.4; `1661 BC` added to the header Primary anchors inventory — inventory completion only, since `1661 BC` was already capsule-governed in the body as the Baseline Entry / minimum state (215-year Egypt span) with its non-substitution guard; Register pointer refreshed to v1.4; no arithmetic, anchor value, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 11 2026; v11.4 Register-absorption closure update of June 10 2026 (author-directed): with State_Vocabulary_Register v1.3 carrying the former capsule-held Samaria addenda (§31.125a–§31.125i; §32T items 11–19 and Machine Guard) and the former Appendix AB residuals (§32I.1; §32J.1; §32M.1; §32N.3; §32O.1), Appendix T is converted to a pointer and Appendix AB is retired; retired wording preserved verbatim in the Repository_Change_Archive; no arithmetic, anchor, modal state, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, Machine Guard content, claim-status label, theological claim, or dependency boundary altered; diff-audited June 10 2026; v11.3 was diff-audited and pressure tested June 10 2026; full patch history: Repository_Change_Archive
+# 490d Unified Chronology Restart Capsule v11.54 — September 13 Pre-Pro Canonical Refresh
+File: Restart_Capsule_v11.54
+Title: 490d Unified Chronology Restart Capsule v11.54 — September 13 Pre-Pro Canonical Refresh
+Status: Revised control file; September 13 2026 v11.54 adds compact §10.31 / Register v1.55 §D.44 for the bounded Terah-inclusive `−33` scope and same-day son-slot refinement, including withdrawal of `2133 BC = Nahor`, qualified `2106 BC` Nahor candidacy, Payne provenance clarification, Shem `2558/2556` role-state, cumulative-week ontology, Aaron-before-Moses phase guard, and File_18 LXX Peleg/Reu/Serug correction. September 8 v11.53 §10.30 / Register v1.54 §D.43 Lamech controls remain unchanged. The preferred-original LXX judgment and MT-derived appendix-only `777` hierarchy are explicit. The v11.52 numerical settlement, non-operative `188`, inherited Sothic trust scopes, Primary anchors, and other chronology controls remain unchanged; v11.52 is retained as the prior edition.
 Primary domain: Methodological; Regular; Cumulative; Rounded; Mirror; Prime; Comparative; Calendar; Theological
 Traditions: MT; SP; LXX; BJ; SKL; Berossus
 Canonical source: Markdown
-Primary anchors: 2243 BC; 2303 BC; 2456 BC; 2458 BC; 2460 BC; 2518 BC; 2892 BC; 2893 BC; 3023 BC; 3242 BC; 726–721 BC; 726/725 BC; 725–722 BC ±1; 723/722 BC; 722/721 BC; late 722 BC ±1; 1087/1086 BC; 1086 BC; 906/905 BC; 906–876 BC; 905/904 BC; 876–846 BC; 875–848 BC; 846 BC; 930 BC; 980 BC; 606/605 BC; 539/538 BC; 516 BC; 446 BC; 445 BC; AD 445; AD 722; AD 725; 30100; 30240; 420; 640; 980; 4106 BC; 4136 BC; 5486 BC; 5516 BC; 5326 BC; 5256 BC; 5286 BC; 4906 BC; 4936 BC; 4836 BC; 4836–4829 BC; 4866 BC; 5296–5289 BC; 5356 BC; 3856 BC; 3396 BC; 14006 BC; 1406 BC; 1446 BC; 1399 BC; 20886 BC; 27366 BC; 2906 BC; 2856 BC; 452886 BC; 453606 BC; 458646 BC; 459366 BC; 11721 BC; 11719 BC; 11717 BC; 10814 BC; AD 10347; 4414 BC; 2758 BC; 13398 BC; 4198 BC; 262086 BC; 262806 BC; 4181 BC; 4176n BC; 3901n BC; 3900n BC; 3906 BC; 5556 BC; 5555 BC; 5554 BC; 5279 BC; 2242 BC; 1876 BC; 1661 BC; 587 BC; 586 BC; 967 BC; 966 BC; 270; 275; 276; 280; 6 BC; AD 65; AD 65–72; AD 35; AD 1405; AD 29515; AD 535; AD 115; AD 29395; 1986 BC; 2106 BC; 3656 BC; 946 BC; 701 BC; 686 BC; 801 BC; 967 BC; 537 BC; AD 60; 720; 185000; 154800; 168; 336; 364; 1260; 1274; 4200 BC; 4199 BC; 2549 BC; 2548 BC; 3150 BC; 3149 BC ± 1; 3148 BC; 2543 BC; 1 BC; AD 30; AD 33; 1191 BC; 1231 BC; 3641 BC; 1981 BC; 1906 BC; 1806 BC; AD 1446; 486 BC; 568/566 BC; 538/536 BC; 518/516 BC; 488/486 BC; 2938/2936 BC; 2908/2906 BC; 2888/2886 BC; 2858/2856 BC; 34566 BC; 33846 BC; 28086 BC; 21606 BC; 30486 BC; 82984537; 89483827; 82984326; 184326; 40326; 40326 BC; 44100; 39960; 43470; 63010; 54010; 288010; 44196 BC
-Repository scope: Full 490d Unified Chronology repository as represented through the current AI Repository structure: Part 1; Part 2a; Part 2b; Part 3; File_49; File_50-series; File_51-series; File_52-series; File_53; File_54; File_55; File_56; and Restart Capsule v10.2 inheritance
-Direct integration files: Restart Capsule v10.2; File_00; File_02; File_08; File_11; File_12; File_13; File_14; File_15; File_16; File_17; File_18; File_19; File_20; File_21; File_22; File_25; File_31; File_32; File_33; File_34; File_35; File_36; File_37; File_38; File_39; File_40; File_41; File_42; File_43; File_44; File_45; File_46; File_47; File_48; File_50a; File_50c; File_50-series; File_51a; File_51b; File_51c; File_52a; File_52b; File_52c; File_52d; File_52e; File_53; File_54; File_55; File_56
+Primary anchors: 2243 BC; 2303 BC; 2456 BC; 2458 BC; 2460 BC; 2518 BC; 2892 BC; 2893 BC; 3023 BC; 3242 BC; 726–721 BC; 726/725 BC; 725–722 BC ±1; 723/722 BC; 722/721 BC; late 722 BC ±1; 1087/1086 BC; 1086 BC; 906/905 BC; 906–876 BC; 905/904 BC; 876–846 BC; 875–848 BC; 846 BC; 930 BC; 980 BC; 606/605 BC; 539/538 BC; 516 BC; 446 BC; 445 BC; AD 445; AD 722; AD 725; 30100; 30240; 420; 640; 980; 4106 BC; 4136 BC; 5486 BC; 5516 BC; 5326 BC; 5256 BC; 5286 BC; 4906 BC; 4936 BC; 4836 BC; 4836–4829 BC; 4866 BC; 5296–5289 BC; 5356 BC; 3856 BC; 3396 BC; 14006 BC; 1406 BC; 1446 BC; 1399 BC; 20886 BC; 27366 BC; 2906 BC; 2856 BC; 452886 BC; 453606 BC; 458646 BC; 459366 BC; 11721 BC; 11719 BC; 11717 BC; 10814 BC; AD 10347; 4414 BC; 2758 BC; 13398 BC; 4198 BC; 262086 BC; 262806 BC; 4181 BC; 4176n BC; 3901n BC; 3900n BC; 3906 BC; 5556 BC; 5555 BC; 5554 BC; 5279 BC; 2242 BC; 1876 BC; 1661 BC; 587 BC; 586 BC; 967 BC; 966 BC; 270; 275; 276; 280; 6 BC; AD 65; AD 65–72; AD 35; AD 1405; AD 29515; AD 535; AD 115; AD 29395; 1986 BC; 2106 BC; 3656 BC; 946 BC; 701 BC; 686 BC; 801 BC; 967 BC; 537 BC; AD 60; 720; 185000; 154800; 168; 336; 364; 1260; 1274; 4200 BC; 4199 BC; 2549 BC; 2548 BC; 3150 BC; 3149 BC ± 1; 3148 BC; 2543 BC; 1 BC; AD 30; AD 33; 1191 BC; 1231 BC; 3641 BC; 1981 BC; 1906 BC; 1806 BC; AD 1446; 486 BC; 568/566 BC; 538/536 BC; 518/516 BC; 488/486 BC; 2938/2936 BC; 2908/2906 BC; 2888/2886 BC; 2858/2856 BC; 34566 BC; 33846 BC; 28086 BC; 21606 BC; 30486 BC; 82984537; 89483827; 82984326; 184326; 40326; 40326 BC; 44100; 39960; 43470; 63010; 54010; 288010; 44196 BC; 1050t/n BC; 1010t/n BC; 970t/n BC; 930t/n BC
+Repository scope: Full 490d Unified Chronology repository as represented through the current AI Repository structure: Part 1; Part 2a; Part 2b; Part 3; File_49; File_50-series; File_51-series; File_52-series; File_53; File_54; File_55; File_56; File_57; File_58; File_59; File_60; File_61; File_62; File_63; File_64; File_65; File_66; and Restart Capsule v10.2 inheritance; File_67; File_68; File_69; File_70; File_70 Supplement A
+Direct integration files: Restart Capsule v10.2; File_00; File_02; File_08; File_11; File_12; File_13; File_14; File_15; File_16; File_17; File_18; File_19; File_20; File_21; File_22; File_25; File_31; File_32; File_33; File_34; File_35; File_36; File_37; File_38; File_39; File_40; File_41; File_42; File_43; File_44; File_45; File_46; File_47; File_48; File_50a; File_50c; File_50-series; File_51a; File_51b; File_51c; File_52a; File_52b; File_52c; File_52d; File_52e; File_53; File_54; File_55; File_56; File_57; File_58; File_59; File_60; File_61; File_62; File_63; File_64; File_65; File_66; File_67; File_68; File_69; File_70; File_70 Supplement A
 Publication-link state: Stable-URL publication policy active (July 2026; Project Procedures v3.3 §19): content files at stable version-free raw-source URLs overwritten in place; control documents served at stable /control/ alias URLs with 301 redirects from superseded versioned URLs; superseded editions preserved under /archive/; one-file-per-link WordPress landing pages through File_56; superseded WordPress slugs retired by 301 redirect; Regular and Cumulative chronology WordPress pages rewritten and republished in place (July 2026) with corpus pointers per Register Part D §D.18
-External-archive state: External Archival Protocol active (July 2026; Project Procedures v3.4 §20): July 2026 edition of record deposited at archive.org (item 490d-unified-chronology-corpus-2026-07; ARK ark:/13960/s23kk1j3255) and Zenodo (DOI 10.5281/zenodo.21250574) under CC BY-ND 4.0 with posthumous CC BY 4.0 release; all 70 canonical URLs Wayback-captured July 7 2026; archive.today spine snapshots held (13, July 7–8 2026); pointers registered in Publication Manifest v5; archives are preservation copies, never a control layer per Machine Guard [ARCHIVE NON-CANONICITY]
-Style basis: 490d Repository Style Guide v2.5; Project Procedures v3.1; State_Vocabulary_Register (current edition v1.2); Repository_Change_Archive (non-controlling history)
-Style basis: 490d Repository Style Guide v2.5 (companion-control pointers refreshed July 2 2026 for this capsule); Project Procedures v3.4; State_Vocabulary_Register (current edition v1.19); Repository_Change_Archive (non-controlling history)
-Major modal states: File_32 Prime Quadruple scaffold state; File_32 positive-polarity date-output state; File_32 negative-polarity / signed A-space date-output state; File_32 polarity-before-Mirror hierarchy state; File_32 secondary Mirror agreement state; File_32 rails-space `B/M` state; File_32 prime-space cross-polarity state; File_32 A-space bridge state; File_32 Coordinate Mirror / Protocol 1 state; File_32 P1–P100 polarity-date table state; File_32 Key of 23 Pillars state; File_32 Modulo 210 corridor state; File_32 Formation Wobble statistical state; File_34 post-final citation-control state; Berossus computational-anchor state; SKL-to-Berossus `2370` corridor state; `30 + 20 + 30` restoration corridor state; paired slash-display state; Nisan / Tishri phase-chain state; Appendix B phase-chain dependency state; Actual; Rounded; Regular; Cumulative; Samaria Node schematic envelope state; actual Fall of Samaria state; Israel literal-reign schematic ledger state; Samaria / Jerusalem twin-city judgment vector state; Samaria Node / Immanuel 720 overlay state; Samaria Node three-tradition Creation overlay state; Abrahamic 240-cycle overlay state; Divided Kingdom actual / schematic route-triad state; United / Divided Kingdom `360/365` overlay state; Abrahamic-to-exile trunk pattern state; Samaria Node `276 → 280` flattening state; exile-return Mirror disclosure state; Elijah Northern Kingdom ministry overlay state; Elijah Northern-route rationale state; Samaria temporal-conversion convergence state; Cainan macro-vector B6 state; File_18 Cainan macro-vector table-source state; audit-controlled `2307` / solar companion state; Three-Gear Protocol state; Flood-Gear rail state; Filling Protocol state; Second-Adam / Jan-1 covenant numeric-year Mirror; File_13 Passion-date / non-Passion-display firewall state; File_13 day-year purification display; Matthew exile-bearing Abraham head bracket; cumulative MT Shem / Noah Mirror state; File_13 LXX actual / rounded firewall; biological-fractal state; variant-gap gestation state; sequential variant-gap anatomy; compressed boundary display; `276` full-year boundary-extension state; Triple-1656 Spine; typological mirroring; LXX Maximum node-label state; `587/586 BC` adjacent Fall of Jerusalem date states; File_15 Generational Axiom state; call-to-death generational-span register; exact normalized generational triad; ordered endpoint-pair display state; raw data source state; minimum baseline table state; source-table state; shared year-label state; SP Shem Superposition; Abraham / Terah four-position field; 2nd Cainan variant-boundary state; 12–8–4–2–0 generational variant-count ladder; Pentateuchal Funnel / all-even structural harmony state; File_18 LXX corrected source-table state; MT cumulative Peleg phase-resolved Mirror application; SKL display-state rail dependency; author-resolved Etana SKL row; precessional-day component-display convention; Priestly 336-day Ledger state; source-controlled 24-course roster state; Priestly-Enochian bridge corollary state; Priestly-Enochian half-week straddle state; Mirror sanctuary state; Residue Protocol state; MT Minimum-Regular; MT Standard-Normal; MT Standard-Normal +60; cumulative Flood Week; restored cumulative 2nd Cainan Flood Week; transmitted state; alternate state; apparent-age overlay; restored 2nd Cainan; Cainan expunged; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL +30 Apparent Mode; SKL +2 local rail; SKL +720 scale-state; BJ 49-register; BJ macro-50 register; Luke 6 BC hinge; Luke 36 BC rail; AD 65 terminal; AD 35 contraction; overlapped Christ-generation; Hezekiah prophetic complex state; Dial of Ahaz precessional state; AD 29515 actual Pillar state; Bidirectional Prophetic Span / Sundial Mirror; Immanuel 65/49 crossing state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; 49/50 Kings dual-ledger awareness state; File_20 Book of Jubilees fourth-witness state; BJ non-canonical derivative witness state; BJ inclusive-theological offset state; BJ/SP exclusive mathematical offset state; SP Creation exclusive / inclusive pair; BJ Noah 600th-year tolerance state; BJ Flood-to-Christ inclusive / harmonic / ordinal display state; BJ Abraham call-to-Conquest 500-year display state; File_20 Cross-Mirror AD 1446 state; Jubilees 6 source-control state; File_21 SKL Unified Protocol state; SKL rounded mod-10 Mirror display state; Residue Protocol exact-product state; Temple-Time Jachin / Boaz Projective Boundary state; Matryoshka scale-state; Jachin spelling state; File_22 Cumulative MT Harmonics state; Patriarchal Quartet scalar state; Cumulative-Regular Decimal Bridge state; Rounded Scaffold non-retrojection state; cumulative Shem birth-week state; endpoint / lower-bound versus Year-6 / Adam-state pair; Levitical Aaron/Moses `3.5`-phase display; Jared / 2nd Cainan `460` ladder; birth-transfer composite `6900` state; File_22 Residue Protocol state; File_25 Decimal Invariance state; decimal-shadow display state; finite-decimal display state; biblical 10x Mirror-scale display state; mod-10 display intent state; Nehemiah 10x backbone state; restoration-decree weave state; SKL Long `24510` terminal state; BC/AD counterpart display-label state; source-title / local axiom language state; File_41 Restoration Mirror Anchor state; File_41 Jachin inside-skin state; File_41 Jachin / Restoration lock state; File_41 Mosaic 460 link state; File_41 double 120-year template; File_41 Temple-completion endpoint state; File_41 Flood-to-inside-skin arithmetic-control state; File_41 AD 115 target restraint; File_41 argument-control state; File_45 exact-sweep statistical proof state; File_45 A-space phase-sweep state; File_45 fixed node-manifest state; File_45 target-node coincidence state; File_45 corrected exact phase-space frequency state; File_45 Daniel 9 pattern-template state; File_45 File_43 / File_44 proof-burden separation state; File_39 Resonant Lattice hypothesis state; File_39 Creation Core / Wild Phase partition state; File_39 Sextuplet Zipper operator state; File_39 two-channel resonance metric state; File_39 Sabbath anchor inclusive-boundary state; File_39 precessional descent state; File_39 wing-mode `215/5` state; File_40 Day-node mapping state; File_40 Day 3 S-Date state; File_40 Sextuplet Zipper Mirror-rendering state; File_40 +10 Mirror Artifact state; File_48 statistical-candor control-cluster state; File_48 membership-observation state; File_48 condensed-edition state; File_50a naturalized-grid / Naturalized Master Table state; File_50a three-state gear-selector state; File_50a Civil clutch state; File_50c naturalized-grid input state; P2 naturalization-zero / Grid Origin state; P1 no-naturalization bypass / Civil Datum state; Bipartite negative-catch state; Bipartite positive-catch state; exact-strike signed tri-position state; File_50c source-parenthetical admission state; coordinate-family target-identity state; target-hit multiplicity state; File_50c statistical scan state; P23 Naturalized Grid meta-anchor state; Concave Mirror / structural meta-anchor state; textual-name / computed-coordinate firewall; File_55 Moses-node thirds-primer state; one-third marker / remaining two-thirds state; Adamic `960 / 930 / 900` thirds state; halving-to-thirding terminal bifurcation state; complete paired Rounded cumulative third-marker ledger state; Cainan `+460 → +320 / +280` marker-displacement state; Flood-marker `2300 / 2580` Daniel comparison state; Enosh `8880 / 8640` typological state; Enosh Moses / Christ contrast state; SKL / Berossus stellar-precessional macro-thirding state; File_55 methodological / null-test boundary state; File_34 hybrid Berossus / SKL Alulim Creation-overlay state; File_55 ordered `±720 / mod2160` rail state; File_55 Creation–Flood–terminal external-sample state; File_55 hybrid downstream thirds-marker clarification state; File_55 Alorus / Adam `18 → 12` precessional-pair state; File_55 Ubara-Tutu exception state; File_51b Cross-Polarity Mirror mechanics state; File_51b Protocol 1 / Protocol 2 non-collapse state; File_51b `11111 / 11110 / 11100 / 11109` translation-engine state; File_51b LXX `5556 BC` actual Year-6 self-mirror state; File_51b `11106 BC` singularity state; File_51b biological / Levitical calendar-scaling restraint state; File_51b File_52a inverse-bridge firewall state; SP Enochian Day-4 phase-anchor state (cumulative-only); Creation decade envelope (Days 1–10; DecNorm 10; DecSpread 10.5); Day-10 terminus node-class; implied Day-1 label state; Aaron-member Adam selection (SP); decade segment-marking states 3+7 / 7+3; 299-multiple Exodus lock state; 605 phase-invariant gap state; 12000 Creation–Conquest transposition state; 12600 dual-convergence boundary state; Priestly Day-1 origin state; Solar Day-4 origin state; Mirror-test landing state; Mirror-test principle; SOR MT-sub-variant state; LXX original-Lamech state; Lamech 777 overlay-row state; Adam-field Mirror lock state; Ezekiel date-string state; cumulative apparent-span state; Joshua register-conversion state; center-jewel state
-Revision basis: Restart Capsule v11.2 (prior version, retained unaltered as the prior-version record; its full Revision basis line is preserved verbatim in the Repository_Change_Archive); 490d Repository Style Guide v2.5; Project Procedures v3.1; State_Vocabulary_Register v1.2; bounded Capsule pointer update recommended by the control-file diff audit of June 10 2026 (Repository Revision Plan v3.0 follow-up); author direction of June 10 2026
-Revision basis: Restart Capsule v11.3 (prior version, retained unaltered as the prior-version record); State_Vocabulary_Register v1.3 absorption of June 10 2026; 490d Repository Style Guide v2.5; Project Procedures v3.1; closure update anticipated in the v11.3 Revision Log Cross-file updates; author direction of June 10 2026
-Revision basis: Restart Capsule v11.10 (prior current edition); State_Vocabulary_Register v1.12 File_34 / File_55 hybrid-overlay registration; amended File_34 and Final amended File_55 sources; 490d Repository Style Guide v2.5; Project Procedures v3.2; author-directed bounded File_34 / File_55 cross-file audit June 21 2026
-Revision basis: Restart Capsule v11.11 (prior current edition); State_Vocabulary_Register v1.13 File_52a / File_52b convention entry; Final post-final pressure-tested File_52a and File_52b sources; 490d Repository Style Guide v2.5; Project Procedures v3.2; author-directed bounded File_52a / File_52b post-revision cross-file audit June 26 2026
-Revision basis: Restart Capsule v11.13 (prior current edition); State_Vocabulary_Register v1.15 File_51b Convention Entry; File_51b Final post-final pressure tested; File_51a Public Clean v1.1; File_52a Final post-final pressure tested; File_52b Final post-final pressure tested; 490d Repository Style Guide v2.5; Project Procedures v3.2; author-directed bounded File_51b cross-file audit June 27 2026
-Revision basis: Restart Capsule v11.15 (prior current edition); State_Vocabulary_Register v1.18 File_56 Convention Entry; File_56 Final (Creation Decade Protocol; author-invoked Finalization July 2 2026); 490d Repository Style Guide v2.5; Project Procedures v3.2; author-directed File_56 integration July 2 2026
+External-archive state: External Archival Protocol active (July 2026; Project Procedures v3.5 §20): July 2026 edition of record deposited at archive.org (item 490d-unified-chronology-corpus-2026-07; ARK ark:/13960/s23kk1j3255) and Zenodo (DOI 10.5281/zenodo.21250574) under CC BY-ND 4.0 with posthumous CC BY 4.0 release; all 70 canonical URLs Wayback-captured July 7 2026; archive.today spine snapshots held (13, July 7–8 2026); GitHub version-tracked mirror active (github.com/deantcoombs-maker/490d-unified-chronology; release v2026-07; auto-deposit DOI 10.5281/zenodo.21284211; future releases auto-deposit at Zenodo); Software Heritage capture held (July 9 2026; SWHID swh:1:snp:be686a16badb9f8913bd490003dd36d7bc051595); pointers registered in Publication Manifest v6; archives are preservation copies, never a control layer per Machine Guard [ARCHIVE NON-CANONICITY]; the July 2026 captures predate Files 65–66 and the August 3–4 2026 replacement packages, which require later live publication and preservation capture
+Style basis: Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.54 §D.43 and inherited registrations. September 8 source-hierarchy clarification of File_18 / File_00; the numerical settlement, September 6 Sothic and September 7 calibration trust scopes remain unchanged. Archive and manifest pointers remain prior non-controlling publication records.
+Major modal states: File_32 Prime Quadruple scaffold state; File_32 positive-polarity date-output state; File_32 negative-polarity / signed A-space date-output state; File_32 polarity-before-Mirror hierarchy state; File_32 secondary Mirror agreement state; File_32 rails-space `B/M` state; File_32 prime-space cross-polarity state; File_32 A-space bridge state; File_32 Coordinate Mirror / Protocol 1 state; File_32 P1–P100 polarity-date table state; File_32 Key of 23 Pillars state; File_32 Modulo 210 corridor state; File_32 Formation Wobble statistical state; File_34 post-final citation-control state; Berossus computational-anchor state; SKL-to-Berossus `2370` corridor state; `30 + 20 + 30` restoration corridor state; paired slash-display state; Nisan / Tishri phase-chain state; Appendix B phase-chain dependency state; Actual; Rounded; Regular; Cumulative; Samaria Node schematic envelope state; actual Fall of Samaria state; Israel literal-reign schematic ledger state; Samaria / Jerusalem twin-city judgment vector state; Samaria Node / Immanuel 720 overlay state; Samaria Node three-tradition Creation overlay state; Abrahamic 240-cycle overlay state; Divided Kingdom actual / schematic route-triad state; United / Divided Kingdom `360/365` overlay state; Abrahamic-to-exile trunk pattern state; Samaria Node `276 → 280` flattening state; exile-return Mirror disclosure state; Elijah Northern Kingdom ministry overlay state; Elijah Northern-route rationale state; Samaria temporal-conversion convergence state; Cainan macro-vector B6 state; File_18 Cainan macro-vector table-source state; audit-controlled `2307` / solar companion state; Three-Gear Protocol state; Flood-Gear rail state; Filling Protocol state; Second-Adam / Jan-1 covenant numeric-year Mirror; File_13 Passion-date / non-Passion-display firewall state; File_13 day-year purification display; Matthew exile-bearing Abraham head bracket; cumulative MT Shem / Noah Mirror state; File_13 LXX actual / rounded firewall; biological-fractal state; variant-gap gestation state; sequential variant-gap anatomy; compressed boundary display; `276` full-year boundary-extension state; Triple-1656 Spine; typological mirroring; LXX Maximum node-label state; `587/586 BC` adjacent Fall of Jerusalem date states; File_15 Generational Axiom state; call-to-death generational-span register; exact normalized generational triad; ordered endpoint-pair display state; raw data source state; minimum baseline table state; source-table state; shared year-label state; SP Shem Superposition; Abraham / Terah four-position field; 2nd Cainan variant-boundary state; 12–8–4–2–0 generational variant-count ladder; Pentateuchal Funnel / all-even structural harmony state; File_18 LXX corrected source-table state; MT cumulative Peleg phase-resolved Mirror application; SKL display-state rail dependency; author-resolved Etana SKL row; precessional-day component-display convention; Priestly 336-day Ledger state; source-controlled 24-course roster state; Priestly-Enochian bridge corollary state; Priestly-Enochian half-week straddle state; Mirror sanctuary state; Residue Protocol state; MT Minimum-Regular; MT Standard-Normal; MT Standard-Normal +60; cumulative Flood Week; restored cumulative 2nd Cainan Flood Week; transmitted state; alternate state; apparent-age overlay; restored 2nd Cainan; Cainan expunged; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL +30 Apparent Mode; absolute Three-Gear `+0/+2/+4`; Shem-centered local `−2/0/+2`; SKL dilation `−720/0/+720`; nested local-on-macro subrail; selected `+2` / `+720` member-display state; BJ 49-register; BJ macro-50 register; Luke 6 BC hinge; Luke 36 BC rail; AD 65 terminal; AD 35 contraction; overlapped Christ-generation; Hezekiah prophetic complex state; Dial of Ahaz precessional state; AD 29515 actual Pillar state; Bidirectional Prophetic Span / Sundial Mirror; Immanuel 65/49 crossing state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; 49/50 Kings dual-ledger awareness state; File_20 Book of Jubilees fourth-witness state; BJ non-canonical derivative witness state; BJ inclusive-theological offset state; BJ/SP exclusive mathematical offset state; SP Creation exclusive / inclusive pair; BJ Noah 600th-year tolerance state; BJ Flood-to-Christ inclusive / harmonic / ordinal display state; BJ Abraham call-to-Conquest 500-year display state; File_20 Cross-Mirror AD 1446 state; Jubilees 6 source-control state; File_21 SKL Unified Protocol state; SKL rounded mod-10 Mirror display state; Residue Protocol exact-product state; Temple-Time Jachin / Boaz Projective Boundary state; Matryoshka scale-state; Jachin spelling state; File_22 Cumulative MT Harmonics state; Patriarchal Quartet scalar state; Cumulative-Regular Decimal Bridge state; Rounded Scaffold non-retrojection state; cumulative Shem birth-week state; endpoint / lower-bound versus Year-6 / Adam-state pair; Levitical Aaron/Moses `3.5`-phase display; Jared / 2nd Cainan `460` ladder; birth-transfer composite `6900` state; File_22 Residue Protocol state; File_25 Decimal Invariance state; decimal-shadow display state; finite-decimal display state; biblical 10x Mirror-scale display state; mod-10 display intent state; Nehemiah 10x backbone state; restoration-decree weave state; SKL Long `24510` terminal state; BC/AD counterpart display-label state; source-title / local axiom language state; File_41 Restoration Mirror Anchor state; File_41 Jachin inside-skin state; File_41 Jachin / Restoration lock state; File_41 Mosaic 460 link state; File_41 double 120-year template; File_41 Temple-completion endpoint state; File_41 Flood-to-inside-skin arithmetic-control state; File_41 AD 115 target restraint; File_41 argument-control state; File_45 exact-sweep statistical proof state; File_45 A-space phase-sweep state; File_45 fixed node-manifest state; File_45 target-node coincidence state; File_45 corrected exact phase-space frequency state; File_45 Daniel 9 pattern-template state; File_45 File_43 / File_44 proof-burden separation state; File_39 Resonant Lattice hypothesis state; File_39 Creation Core / Wild Phase partition state; File_39 Sextuplet Zipper operator state; File_39 two-channel resonance metric state; File_39 Sabbath anchor inclusive-boundary state; File_39 precessional descent state; File_39 wing-mode `215/5` state; File_40 Day-node mapping state; File_40 Day 3 S-Date state; File_40 Sextuplet Zipper Mirror-rendering state; File_40 +10 Mirror Artifact state; File_48 statistical-candor control-cluster state; File_48 membership-observation state; File_48 condensed-edition state; File_50a naturalized-grid / Naturalized Master Table state; File_50a three-state gear-selector state; File_50a Civil clutch state; File_50c naturalized-grid input state; P2 naturalization-zero / Grid Origin state; P1 no-naturalization bypass / Civil Datum state; Bipartite negative-catch state; Bipartite positive-catch state; exact-strike signed tri-position state; File_50c source-parenthetical admission state; coordinate-family target-identity state; target-hit multiplicity state; File_50c statistical scan state; P23 Naturalized Grid meta-anchor state; Concave Mirror / structural meta-anchor state; textual-name / computed-coordinate firewall; File_55 Moses-node thirds-primer state; one-third marker / remaining two-thirds state; Adamic `960 / 930 / 900` thirds state; halving-to-thirding terminal bifurcation state; complete paired Rounded cumulative third-marker ledger state; Cainan `+460 → +320 / +280` marker-displacement state; Flood-marker `2300 / 2580` Daniel comparison state; Enosh `8880 / 8640` typological state; Enosh Moses / Christ contrast state; SKL / Berossus stellar-precessional macro-thirding state; File_55 methodological / null-test boundary state; File_34 hybrid Berossus / SKL Alulim Creation-overlay state; File_55 ordered `±720 / mod2160` rail state; File_55 Creation–Flood–terminal external-sample state; File_55 hybrid downstream thirds-marker clarification state; File_55 Alorus / Adam `18 → 12` precessional-pair state; File_55 Ubara-Tutu exception state; File_51b Cross-Polarity Mirror mechanics state; File_51b Protocol 1 / Protocol 2 non-collapse state; File_51b `11111 / 11110 / 11100 / 11109` translation-engine state; File_51b LXX `5556 BC` actual Year-6 self-mirror state; File_51b `11106 BC` singularity state; File_51b biological / Levitical calendar-scaling restraint state; File_51b File_52a inverse-bridge firewall state; SP Enochian Day-4 phase-anchor state (cumulative-only); Creation decade envelope (Days 1–10; DecNorm 10; DecSpread 10.5); Day-10 terminus node-class; implied Day-1 label state; Aaron-member Adam selection (SP); decade segment-marking states 3+7 / 7+3; 299-multiple Exodus lock state; 605 phase-invariant gap state; 12000 Creation–Conquest transposition state; 12600 dual-convergence boundary state; Priestly Day-1 origin state; Solar Day-4 origin state; Mirror-test landing state; Mirror-test principle; SOR MT-sub-variant state; LXX original-Lamech state; Lamech 777 overlay-row state; Adam-field Mirror lock state; Ezekiel date-string state; cumulative apparent-span state; Joshua register-conversion state; center-jewel state; File_57 selected-list cipher state; File_57 personnel / printed-number / key-withheld ledger states; File_57 western cipher-base `220800` state; File_57 Priestly / Prophetic reconciled western states; File_57 Issachar `200` pivot and repeated `364` states; File_57 national thirds state; File_57 divine-year `360 × 1000` state; File_57 Temple-anchored projection state; File_57 Enoch–Pillar bilateral state; File_57 SKL / Berossus comparative-polemic state; File_58 selected sacrificial-list cipher state; File_58 Numbers-only `280` / `280/282/285/287` matrix state; File_58 source-order / category-order protocol state; File_58 Esau purity/sex dual `490/60` state; File_58 Genesis 46 household / 1 Enoch flock-reception state; File_58 MT / LXX / SP local-lane state; File_58 Johannine endpoint proposal / future-file handoff state; File_59 two-census mean state; File_59 census half-difference `±910` state; File_59 census-head `604086 BC` state; File_59 commutative census-square state; File_59 Babel–Sinai–Zion rail state; File_59 SKL / Berossus outer-rectangle state; File_59 `666000` Pillar-midpoint state; File_59 Key-of-23 providential-extension state; File_59 quadrant-head Revelation ladder state; File_59 Reuben South-camp reconciliation state; File_59 Judah restorative-pivot state; File_59 Judah `21–25` scalar ladder state; File_59 Judah Prophetic-Key / Priestly-Key dual-expansion state; File_59 `60`-year residual / `21600` macro-scalar state; File_59 Ephraim Jubilee-head state; File_59 Dan Priestly–Jubilee / Egypt-field state; File_59 Jordan-crossing civil Cross-Mirror appendix state; File_59 crossed `2880` corridor state; File_59 bilateral `144000/288000` state; File_59 Luke four-point center state; File_59 bilateral half-week state; File_59 mirrored census-mean state; File_59 SKL Creation counterpart-rail state; File_60 Levitical Covenant Spine state; File_60 human-facing `161 × 3600` state; File_60 Covenant `299 + 161 = 460` partition state; File_60 regular / localized / cumulative non-collapse state; File_60 scribal / providential claim-split state; File_61 Jacob–Moses direct-overlay corridor state; File_61 local `T14(C)=C−14` full-clutch state; File_61 exact `H7(C)=C−7` half-clutch midpoint state; File_61 original / half-clutched / fully clutched three-rail state; File_61 translated Jacob–Moses root-rail state; File_61 male `7+33=40` half-clutch state; File_61 female `14+66=80` full-clutch state; File_61 bidirectional Joseph cumulative double-portion state; File_61 inherited half- and full-clutch Joseph portions; File_61 same-rail `27/83/27` Levi-container state; File_61 crossed `30/80/30` double-generation state; File_61 base/Apparent Adam double-`110²` state; File_61 fixed Joshua `230→216` contraction state; File_61 Joseph–Joshua `430/460` double-translation state; File_61 Joseph-bones Exodus–Conquest transport / Shechem-burial state; File_61 `12600=110²+500` closure state; File_61 Abraham `175→161→175` reciprocal-clutch state; File_61 Abrahamic half-scale `80.5→87.5` state by File_62 dependency; File_61 translated-Isaac Priestly–Prophetic register-exchange state; File_61 inverse-tree root/trunk metaphor state; File_62 Half-Clutch Birth-Law Interface state; File_62 bilateral `±7` midrail state; File_62 proposed Jacob / Aaron / Moses phase-paired coordinate state; File_62 Joseph inherited-translation detailed state; File_62 Mosaic quarter- and half-scale Key state; File_62 Jacob `483→490` dual-route Danielic carrier state; File_62 Priestly `525×336` / Prophetic `490×360` day-equivalence state; File_62 fixed-Joshua `216=6³=3×72=8×27` state; File_62 BJ explicit-hermeneutic / reconstructed-spine comparison state; File_62 Noah–Jacob–Exodus secondary `161`-lattice corroboration state; File_63 carrier-application state; File_63 File_62-freeze / carrier-clutch non-collapse state; File_63 scale-neutral `40/40.25` pair; File_63 whole-year `480` / quarter-phase `483` / completed `490` carrier state; File_63 twelve-male / twelve-generation state; File_63 Levitical thirteenth / outer fourteen-unit state; File_63 inverted Conquest hinge state; File_63 Abraham–Temple `1200/1207.5` decuple and Temple-gestation state; File_63 precise `1050/1010/970/930` and Rounded `1051/1011/971/931` United-Monarchy non-collapse state; File_63 David `7/7.5+33` and final Philistine schematic `480`-day state; File_63 Solomon `970n→970t` precise phase-joint / proposed co-rule interpretation state; File_63 Temple `967/966` ordinal/cardinal and `960t/959t/958t` corridor state; File_63 Levi–Judah `1919t→959t` priest–king midpoint state; File_63 `120/120.75→1200/1207.5→12000/12075` Decimal Invariance ladder; File_63 cumulative Creation `25–26–27×483` translation state; File_63 cumulative Flood/Shem `480/483/490` translation state; File_63 cumulative Abraham `2438–2435` confidence-gradient state; File_63 `147/161/175` elemental family state; File_63 same-side scribal / Mirror providential claim-split state; File_63 precessional `2880/2898→40/40.25` display state; File_63 Creation-to-Jacob `12005=5×49²` Jubilee state; File_63 Jacob/Israel corporate `12000/12005/12075` state; File_63 twelvefold `144000/144060/144900` unfolding state; File_63 File_59 quarter-census `144900=579600/4` dependency state; File_63 cumulative Jacob `2083→1936=147` terminal-cycle state; File_63 fixed-head full-clutch `2083→1922=161` bridge state; File_63 `900×161 → 1000×147 / 900×175` scalar-interchange state; File_63 Levitical tithe-remainder typology state; File_63 Covenant-stars `11960→12000` state; File_63 twelvefold covenant-offspring `143520→144000` state; File_63 common-seed `143520=480×299=2080×69` dual-Key state; File_63 Abraham–Isaac–Levi double-`115` cross-register state; File_63 Enochian `400×364=145600` Christological-rail state; File_63 authorial `6–1 BC` Messianic expectation / Magi-restraint state; File_63 full post-final pressure-tested state; File_63 File_64 Nexus / carrier non-collapse state; File_64 historical-theological / compositional-theological chronology split state; File_64 bounded eighteen-row Judges duration-corpus state; File_64 source-order / category-partition state; File_64 subjugation `111`, rest/rule/judgeship `299`, and complete `410` ledger state; File_64 Jephthah east-Jordan `300` / west-Jordan `299` state; File_64 `1107/1106 BC` adjacent-boundary state; File_64 post-Jephthah `91=7×13` state; File_64 direct `430`, explicit `450`, and Joshua-extended `490` opening–joint–closure state; File_64 three-position lesser schematic `1016 BC` Judges–Sanctuary Nexus state; File_64 anchored schematic-ledger state; File_64 First Samuel `40+20` canonical-recapitulation state; File_64 schematic royal `120` comparison state; File_64 Judges 17–21 negative-sanctuary compositional-closure state; File_64 historical `967/966 BC` Temple state; File_64 schematic `1016/996 BC` / historical-rounded `966/946 BC` Temple–palace non-collapse state; File_64 Triple-`430` `1876→1446→1016→586 BC` state; File_64 standard Jacob final-`70` state; File_64 localized-LXX `−33` Jacob final-`70` state; File_64 Jacob–sanctuary–restoration triple-`430` lattice state; File_64 Jacob–Daniel last-days closure state; File_64 Babylon `70/69→70` state; File_64 Cainan–Terah twin-`60` state; File_64 translated Judges twin-`60` state; File_64 `40–20–430–430–20–40` palindrome state; File_64 Kings of Judah principal `+50` state; File_64 Kings of Israel lesser `+33` state; File_64 Jacob–Temple paired-`930` construction state; File_64 Bethel–Adam sleep / wife typology state; File_64 land-rest / Joshua double-`400` Temple state; File_64 crossed Jacob–Temple double-`430` alternative-single-`33` state; File_64 Joshua-centered triple-`460` state; File_64 first- and second-census `20–40–350–40–20` palindrome states; File_64 Exodus-centered radius-matrix state; File_64 Ramesside-centered `645+645` state; File_64 subordinate Flood-Gear / Noah–Shem corroboration state; File_64 Joshua–David `460=20×23` typological state; File_64 appendix-only parallel `111/299/300` category-projection state; File_64 outer `1150+1150=2300` providential-synchronization state; File_64 July 27 pressure-tested trust state; File_04 / File_08 / File_16 reciprocal non-retrojection control state; File_65 reverse Judah pincer state; Athaliah A7-primary / A6-audit state; Ahaziah–Athaliah `299/300` seam; File_65-local `886n BC` state; regular-MT central `1290` continuity state; File_65 exilic-symmetry, local `5249n BC`, appendix-`72`, and Ezekiel `589t/588n BC` states; File_66 finite arithmetic-fractal state; File_66 Hezekiah sign-vector state; File_66 twin Hezekiah biographical-rail state; File_66 joint Hezekiah–Jerusalem appointed-death-horizon proposal; File_66 mixed-epoch 2 Kings 18 synchronism; File_66 four-corner `10 × 14` matrix; File_66 A7-primary / A6-audit fifth-expansion state; File_66 `184900/185000/185150` residue-companion state; File_66 Isaiah 37 Sabbath/Jubilee cosmology state; File_66 Priestly-rooted `25921` Precession-Square capstone state; File_66 A7-conditional mod-`11` state; File_66 source-complete `666`-month state; File_66 terminal Joshua-reversal state; File_66 MT Adjusted / SP-215 Abrahamic palindrome state; File_66 Ramesside-origin hypothesis state; File_66 canonical / historical dual-priority state; File_66 fourfold 215 corridor; File_66 fixed-center 215/430 pincer state; File_66 third-day precessional pair; File_66 Jeremiah 626 BC pre-Fall ministry state; File_66 two-scale Priestly matrix; File_66 third 1290 translated rail; File_66 Mirror closure audit state; File_66 Isaiah 36–39 deportation-inclusio state; File_66 Danielic first-deportation / revelation-horizon state; File_66 Manasseh–Zechariah 125/70 continuation state; File_66 Manasseh latent `656 BC` mercy-node state; File_66 deportation-envelope Mirror state; File_66 doubled 1290/1296 arm state; File_66 427/429/430/432 corridor state; File_66 paired 2150/2160 rail state; File_66 latent 186/156 BC relay-pair state; File_66 three-arm 1505 ladder state; File_66 common 693.5 BC civil-linear midpoint-axis state; File_66 overlapped 3.5×430 arm state; File_66 2520/2550/2580 intercalation ladder state; File_67 downstream sign-extension state; File_67 Verbatim/Schematic exact-execution state; Ahaziah `22+1=23` biographical-completion state; `886/885 BC` completed/raw head distinction; Ahaz–Hezekiah–Manasseh flanking-kings state; File_67 `120/110/100` royal-lifespan field; File_67 co-registered cumulative Creation mod-5 boundary-pair state; central `701/696 BC` five-year hub-pair state; File_67 fourfold `480` comparison state; File_67 finite `1290` closure state; File_68 seven-week-core reconstruction state; File_68 primary `70` / companion `72` carrier state; File_68 symbolic pre-generation state; File_68 common `AD 65` terminal state; File_68 Cainan-retained / Cainan-expunged attribution state; File_68 Joshua I/Joshua II double-generation state; File_68 MT-contoured Terah–Joshua corridor state; File_68 paired `490/600` and companion `504/614` weave state; File_68 accordion `660/770` and `666/777` state; File_68 generation-resolved `180/182` calendar-half state; File_68 fully stretched `1260/1274` week state; File_68 weekly gap-contraction state; File_68 ordinary / full-stretch Flood non-collapse state; File_68 finite `20|50` Sanctuary/Kings contraction state; File_68 Week-6 Kings-closure state; File_68 appendix-only SKL `30×50` corroboration state; File_69 full-outer Lukan `77` state; File_69 / File_68 Lukan `76/77` non-collapse state; File_69 Matthean `41/42` Jeconiah-overlap state; File_69 Matthew `21+42=63` composite state; File_69 Enochic symbolic-pre-generation `50` state; File_69 invariant four-point-cell state; File_69 generation-resolved `180/182` state; File_69 ordinary `70/72` carrier state; File_69 week-resolved `600/614` state; File_69 external `14+13` / internal `13+14` reverse-fingerprint state; File_69 `26/27/28` count state; File_69 Matthean Levi-branch and double-`14` Mosaic-lock state; File_69 strict / transported companion non-collapse state; File_69 BJ-facing Enoch-head state; File_69 direct-literary-dependence ceiling state; File_69 first-*toledot* literary-hinge state; File_69 ten-major-section *toledot* contraction state; File_69 Shem–Terah overlapping-boundary seam; File_69 unshifted `+60 Terah` proof state; File_69 local decennial one-seventh resolution; File_69 Terah-to-*shemot* `6/7→13/14→27/28→41/42` accordion state; File_69 Abraham–Sarah / Isaac–Entry matrix state; File_69 Cainan `460×5` cross-modal seal; File_69 regular Enoch Gear-2/Gear-3 co-registration state; File_69 Module-2-primary / Module-1-secondary proof-burden state; File_69 Atonement-Weave interpretive state; File_70 first–middle–last `7+7 | 70+70 | 7+7` scale-palindrome state; File_70 Terah double-seventy center state; File_70 Joseph `13+7+7` state; File_70 Prophetic `2340` exposure state; File_70 Priestly `2352` covering state; File_70 Enochian `2366` translation state; File_70 Gear-1 `2190` appendix state; File_70 Gear-2 Enoch–Joseph Jubilee-partition state; Jacob burial numbered-station state; Jacob death-centered bilateral `70+7` state; Jacob birth-to-Haran `70+7` state; Haran-month / embalming `30+40` state; generated `1899 BC` seam state; Sarah–Isaac–Machpelah literary frame; Ezekiel `390+40` day–year control; Daniel `1260/1290` head/endpoint state; Jacob `147→1470` scale state; File_70 cumulative Shem-axis macro-spine state; File_70 first-to-last `12075` vector; File_70 `600×3430` and `70×1400` commuting-square states; File_70 SKL extra-macro state; File_70 seven-stage ordinal involution; File_70 Index-6 one-seventh state; File_70 station-6/7 four-time completion state; File_70 Creation-day structural-index state; File_70 Supplement A subordinate technical-companion state; Supplement A Long-corridor center state; Supplement A Short-ladder center state; Supplement A Enoch-generation center state; Supplement A upper translated-bracket center state; Supplement A scalar-half / coordinate-arm non-collapse state; Supplement A PhaseNorm40 state; Supplement A Enoch `70/120` common-center state; Supplement A Short/Long `+50/6480` reconciliation state; Supplement A bilateral complementary-Key state; Supplement A pure-`720` generated-node state; Supplement A uniform `−1470` translation state; Supplement A `90×72/90×360` scalar firewall; Supplement A `720/722/728/730` calendar-double state; Supplement A `361` reception-history state; Supplement A Enoch-BC / Christ-full-axis fulcrum hierarchy state; File_70 renewed Supplement-A reciprocal-routing state; Supplement A Primary four-node Enochian–SKL reconciliation state; Supplement A MT common operator-parent state; Supplement A carrier-close / five-year-companion state; Supplement A native-`69` Cumulative–Pillar state; Supplement A Danielic-seam state; Supplement A raw/transformed Flood-seam state; Supplement A LXX Terah-parallel corroboration state; Supplement A conjectural LXX leveling state; File_70 expanded Supplement-A reciprocal-routing state; Sothic-adjacent `H=2923/2921` state; exact-`K` 365-day `G=1680/1679` state; Cainan-matched `10220` Sothic Creation state; Sothic Pillar companion state; Short twelve-node `5842` paired-Mirror state; Sothic–Mosaic/Joshua anchor-selection state; nested opposed-`±720` Sothic comparison state; Long fixed-field negative-result state; File_18 common Lamech `182/753` state; non-operative `188` transmission-hypothesis state; appendix-only LXX `777` state
+Revision basis: frozen Restart Capsule v11.52; State Vocabulary Register v1.54 §D.43; author-directed September 8 Lamech source-hierarchy clarification; unrelated inherited states preserved.
+Revision basis: Restart Capsule v11.41 prior edition; State_Vocabulary_Register v1.43 Part D §D.34; Final File_09; renewed Final File_69; bounded File_18/File_22/File_63 reciprocal replacements; affected-only no-change review of Files 14/20/53/61/62/68; Style Guide v2.5; Procedures v3.5; coordinated closure August 20 2026
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
+Revision basis: Restart Capsule v11.40 prior edition; State_Vocabulary_Register v1.43 Part D §D.33; current August 18 Final File_69; Final File_68; thirteen affected reciprocal sources; Style Guide v2.5; Procedures v3.5; Archive v1.51; Manifest v23
 
 RESTART CAPSULE — 490d Unified Chronology v11.4
 Register Absorption Closure Update with File_51–55 Inheritance
@@ -69,6 +73,12 @@ When a batch page is later divided into individual file pages, update repository
 File_54 adds the Luke 70-year genealogical lattice as a comparative bridge between File_43, File_51a, File_51c, File_52a, File_52d, and File_53. Its claims are state-controlled and claim-status controlled: the Luke/BJ relation is classified as plausibly authorial or shared-tradition evidence, not as proof of direct dependence.
 
 File_55 adds the Moses-node thirds primer keyed to `1486 / 1446 / 1406 BC`, the paired Rounded cumulative no-Cainan / restored-Cainan marker ledger, the `+460 → +320 / +280` displacement state, and dependency-controlled SKL / Berossus macro-thirding. Its selector always returns an output; therefore the formal shuffled / random null comparison remains an open research requirement and the file does not assert intentional design merely from the arithmetic.
+
+File_62 adds the exact `H7(C)=C−7` half-clutch midpoint inside File_61’s local `T14(C)=C−14` field, Joseph’s inherited fixed-offset collateral translations, male `7+33=40` and female `14+66=80` applications, the proposed `40.25/80.5` Mosaic phase carrier, distinct Priestly and Prophetic routes to `490`, and Joshua’s fixed-endpoint `216`. These remain local/downstream states governed by Register §D.26 and do not globalize the clutch.
+
+File_63 applies the controlled `480/483/490` carrier beyond the local clutch field: twelve-male / tribal ledgers, Abraham–Temple `1200/1207.5`, precise and Rounded monarchy rails, cumulative Creation–Shem–Flood translations, `147/161/175` macro construction, and Mirror / precessional closure. Its full post-final pressure test is complete at `2325/2325` PASS. The bounded File_64 interface is `1476 − 1016 = 460 = 20 × 23`; File_64 controls the `1016 BC` Judges–Sanctuary Nexus and File_63 contributes Joshua’s `1476 BC` source anchor and carrier context. Same-side BC integration may support plausible scribal design; AD and precessional completion remain providential. Detailed vocabulary and guards are routed to Register §D.27.
+
+File_64 applies the File_57 selected-list method to the bounded Judges duration corpus and retains its original protected proof: subjugation `111`, rest/rule/judgeship `299 = 13 × 23`, complete total `410`, Jephthah east-/west-Jordan `300/299`, post-Jephthah `91 = 7 × 13`, and direct `430`, explicit `450`, and Joshua-extended `490` routes converging on the lesser schematic `1016 BC` Judges–Sanctuary Nexus. The July 27 amendment then explains that already-derived node through the anchored-ledger principle, Jacob's standard and localized-LXX final-`70` rails, the four-level triple-`430` lattice to `606/586/536 BC`, the Jacob–Daniel closure, Cainan–Terah / Judges twin-`60` rails, the central palindrome, Judah's principal `+50`, Israel's lesser `+33`, paired Jacob–construction `930` rails, restrained Bethel–Adam typology, double-`400` Temple comparisons, Joshua-centered triple-`460`, census palindromes, the radius matrix, and subordinate Flood corroboration. These are downstream explanations, not inputs generating the Judges coordinate. File_04 remains the Jacob chronology controller, File_08 the Kings / historical-terminus controller, and File_16 the great-Nexus / Bullseye controller. Historical `967/966 BC`, actual `930 BC`, `722t/721n BC`, and `587/586 BC` remain source-controlled. Detailed vocabulary and forty-nine File_64-specific Machine Guards are routed to Register §D.28; `[FILE MAP RESTRAINT]` brings the Final-file total to fifty.
 
 File_13 adds the Christological Matrix state vocabulary needed for later files that cite Messianic fulfillment, Passion-date pair states, non-Passion display-state boundaries, birth day-year purification, or Matthew / Luke genealogical head states. Use these labels as state controls unless the local file explicitly opens File_13's full argument.
 
@@ -1941,8 +1951,10 @@ $$6530-50=6480.$$
 
 $$27366-20886=6480.$$
 
-Machine Guard [SKL +2 / +720 SCALE-STATE]:
-The SKL `+2` local rail shifts the beginning-and-anchor pair by two years. The same pattern has a fractal-scale expression as `2 years = 720 days`, and in the SKL/Berossus cosmic grid it appears as a `+720` or `±720` year scale-state. These are related scale states, not interchangeable local operators. Use the local `+2` in the SKL Short / Long table. Declare the `+720` scale-state explicitly when operating in the cosmic SKL/Berossus grid.
+Machine Guard [NESTED `±2 / ±720` THREE-GEAR CONTROL]:
+The ordinary Three-Gear field is `+0/+2/+4` in absolute notation and `−2/0/+2` when centered on Gear 2 / Shem. Under the SKL `360:1` dilation, the centered field is `−720/0/+720`. The local and macro wheels are homologous scale states but non-interchangeable units. Each admitted macro member may carry a nested local `−2/0/+2` subrail only when explicitly opened. Existing `+2` and `+720` rows are selected-member displays, not the complete wheel. The `+30 Apparent Mode` is orthogonal and applied last; `7200=6480+720` remains a distinct maximum/container state. Mirror inversion may reverse Gear-facing order, but it does not rename source-coordinate states, alter suffix rules, or collapse local, macro, and maximum units.
+
+The File_02 Short/Long table continues to display selected `+2` members. Register v1.47 §D.38 supplies the complete centered wheel and the affected-source guard bodies.
 
 8.2b File_02 Solar / Enochian and Pre-Creation Bridge
 
@@ -2301,12 +2313,611 @@ REVISION HISTORY POINTER
 Former Appendix E (v11.1 Revision Log), Appendix F (File_02 Flood / SKL Integration Patch record), Appendix G (File_11 Cross-File Control Patch record), Appendix H (File_12 Priestly 336-Day Ledger Cross-File Patch record), and Appendix I (File_13 Christological Matrix Cross-File Patch record) are historical update records. They were migrated verbatim to the Repository_Change_Archive in the v11.3 control-architecture update and are non-controlling there. The dependency boundaries and state controls they summarized remain active in §1–§8, Appendix AA, and the State_Vocabulary_Register.
 
 
+## 10.16 File_65 Comparative Open-Items Ledger — Compact Routing
+
+Final File_65 is a comparative companion and evidence-accounting register. Its primary local theorem is the reverse Judah pincer: Athaliah's seventh-year boundary leads the schematic ledger, her six completed years remain an audit state, Ahaziah's one-year reign forms the dynastic seam, the fixed post-Athaliah body is `292`, and `292 + 7 = 292 + 6 + 1 = 299`, completed through `300/299` to the File_65-local `886n BC` head. The terminal quarter-reign half-year is resolved separately and remains outside the whole-year Key.
+
+File_65 also restores the parent-state hierarchy `1876 BC → 586 BC = 1290` as the regular-MT central Triple-`430`, with localized-LXX flanks at `1896 → 606` and `1826 → 536`; applies File_29's `7/13` grammar through `1406 → 886n = 40 × 13` and `886n → 606 = 40 × 7`; retains the File_55 thirds landing as providential / corroborative; adopts `561 BC` as the preferred Jehoiachin-release comparison with `562/561 BC` adjacency; and controls its local Luke, exile, and Ezekiel evidence accounting.
+
+No File_65 local schematic, phase, preferred-comparison, or appendix coordinate is a repository Primary anchor. File_08, File_16, File_29, File_55, and File_64 retain their parent controls. Pass 2 independently re-executed `257/257` rows. No full post-final pressure test was performed.
+
+## 10.17 File_66 Dial of Ahaz and Hezekiah–Jerusalem Fifth Expansion — Compact Routing
+
+Current Final `File_66` preserves the August 4 pressure-tested Hezekiah core and extends it through the bounded August 5–7 amendment sequence. The seed remains the textual age-`25` / Dial-of-Ahaz vector `10 + 15 = 25`, with Actual/Historical `740 → 715 → 701 → 686 BC` and Verbatim/Schematic `750 → 725 → 711 → 696 BC` rails kept distinct. A7 remains primary and A6 audit-only; the A7 whole-year ledger, mod-`11` statistical result, `185000/185150`, Isaiah 37 Jubilee-cosmology, Precession Square, terminal `110/666/111/333`, and Joshua reversal retain their August 4 classifications.
+
+The August 5 additions register a downstream MT Adjusted / SP-215 Abrahamic palindrome, Jeremiah's preferred `626 BC` pre-Fall node within `627/626 BC` tolerance, the near/far Priestly `115→125` / `1150→1250` matrix, a third translated `1290` rail, and Appendix F's author-proposed Ramesside-origin hypothesis. That appendix may test `1231 BC` as a candidate latent historical Exodus horizon while preserving the ordinary repository hierarchy: `1446 BC` remains the primary canonical-chronographic Exodus anchor and `1231 BC` the subordinate Ramesside state unless the parent chronology is substantively reopened.
+
+Appendix G supplies Mirror coordinate-completion and corroboration rather than a second independent proof. It registers the `1290/1296` paired arms, Isaiah 36–39 deportation inclusio, Danielic first-deportation / restoration-era horizon, Manasseh–Zechariah `125/70` continuation, `427/429/430/432` corridor, paired `2150/2160` rails, latent `186/156 BC` relays, three `1505` arms, the `1|1|1` / `7|5|7` diagonal lattice, and the common `693.5 BC` civil-linear midpoint axis. The center/midpoint firewall distinguishes fixed same-side centers, civil-linear midpoint coordinates, complementary pair-sums, civil spans and half-spans, pivots, hubs, central segments, and shared overlap intervals.
+
+The final Manasseh refinement inserts generated `656 BC` inside the A7 Verbatim/Schematic field:
+
+```text
+696 − 656 = 40
+656 − 641 = 15
+711 − 656 = 55
+656 − 586 = 70
+15 + 40 + 15 = 70
+55 + 15 + 55 = 125
+711 + 586 = 656 + 641 = 1297
+1297 − 1 = 1296
+1296 = 648 + 648.
+```
+
+`656 BC` is not a historically attested captivity/release date. Second Chronicles 33:11–13 supplies the undated captivity–humbling–prayer–hearing–restoration event class only. The two `648` values are durations, not year labels; `648.5 BC` is not registered. `693.5 BC` remains a derived civil-linear midpoint coordinate because the equal-half test succeeds after no-year-zero linearization.
+
+Current verification state: Appendix B `485/485 PASS`; Appendix G `B249–B485 = 237/237 PASS`; all `B1–B470` equation cells unchanged; selected relation/state labels terminology-normalized; Appendix C byte-identical; `92/92` File_66 Machine Guards unique; `62/62` Markdown tables; `217/217` headings; `648/648` code-fence markers balanced. The August 4 full post-final pressure test remains the baseline statistical/full-source test; the August 5–7 amendments are bounded/focused verified and Appendix G received bounded post-final testing.
+
+Reciprocal review: Files 01, 05, 08, 16, 19, 26, and 65 receive bounded non-retrojection/routing guards; File_06 requires no amendment because its existing `1191 BC` subordinate Ramesside state already supplies the dependency. Parent proof burdens remain unchanged. No File_66 local Actual/Historical, Verbatim/Schematic, latent, generated, midpoint, Mirror, statistical, appendix, or providential coordinate is a repository Primary anchor.
+
 ## Appendix T. Samaria Node State Vocabulary — Pointer
 
 The Samaria Node restart vocabulary, including the later Elijah Northern Kingdom ministry overlay, Elijah Northern-route rationale, Divided Kingdom route triad, United / Divided Kingdom `360/365` overlay, Samaria / Jerusalem Pillar metric, Abrahamic-to-exile trunk pattern, `276 → 280` flattening, exile-return Mirror disclosure, and temporal-conversion convergence states, is carried by the State_Vocabulary_Register at §31.118–§31.125i and §32T (items 1–19 with Machine Guards, including [SAMARIA NODE ELIJAH / TEMPORAL-CONVERSION CONTROL]). The controlling precedent remains the focused pressure-tested File_00 Samaria Node update and the later File_00 Elijah / temporal-conversion addenda. The retired v11.3 appendix wording is preserved verbatim in the Repository_Change_Archive.
 
 
-## Appendix AA. Per-File State-Vocabulary Pointer Map
+#
+## 10.18 File_67 Flanking Kings of the Hezekiah Sign — Compact Routing
+
+Final `File_67` is the downstream Verbatim/Schematic extension of File_66's Dial-of-Ahaz sign engine. It studies the kings immediately flanking Hezekiah and the first/last boundary kings of divided Judah while preserving Actual/Historical chronology as comparison only.
+
+Compact proof spine:
+
+```markdown
+908→886→885 BC = 22+1 = 23
+886→725 BC = 161 = 7×23
+161×25/23 = 175
+886→711 BC = 175
+725→711 BC = 14
+711→708→696 BC = 3+12 = 15
+761→711→641 BC = 50+70 = 120
+761→701→641 BC = 60+60 = 120
+696→641→586 BC = 55+55 = 110
+708→608 BC = 100
+761→586 BC = 175
+```
+
+Ramesside and `480/490` routing:
+
+```markdown
+1231→1191 BC = 40
+1231→741 BC = 490
+1191→701 BC = 490
+1231→751 BC = 480
+1191→711 BC = 480
+1446→966 BC = 480
+1496→1016 BC = 480
+```
+
+Cumulative hub-pair routing:
+
+```markdown
+T_13310(14011,14006) = (701,696)
+14011→701 = 13310 = 11²×110
+14006→696 = 13310 = 11²×110
+751→696→641→586 = 55+55+55
+```
+
+Boundary-kings routing:
+
+```markdown
+1021→1016→980 BC = 5+36 = 41
+1446→618 BC = 828 = 12×69
+828×70/69 = 840
+1446→606 BC = 12×70
+606→536 BC = 70
+```
+
+Control boundary:
+File_66 retains the parent sign engine, Actual/Verbatim distinction, A7/A6, statistical proof, `185000/185150`, Ramesside-origin hypothesis, and Mirror closure. File_67 controls only its downstream royal, translated-rail, and appendix applications. Its derived birth labels and generated companions are not repository Primary anchors. The complete File_67 state vocabulary and all Machine Guards are registered at State Vocabulary Register v1.39 Part D §D.31.
+
+## 10.19 File_68 Enochic Seven-Week Core — Compact Routing
+
+Current Final `File_68` protects the source-critical and Danielic proof spine of §§1–4 while executing a fixed four-rail Enochic lattice, one symbolic pre-generation outside Weeks 1–7, and one common translated terminal at `AD 65`.
+
+Compact carrier architecture:
+
+```markdown
+70 File_68:      3546 → 3476 → 46 BC
+70 translated:   3436 → 3366 BC → AD 65
+72 File_68:      3646 → 3574 → 46 BC
+72 translated:   3536 → 3464 BC → AD 65
+```
+
+The primary `70` carrier leads the Jeremiah–Daniel and MT-contoured argument; `72` remains the bounded precessional companion. Cainan retention and expunction alter name attribution only; Arphaxad remains fixed, Joshua I/Joshua II absorb the terminal shift, and no Joshua-to-Christ genealogy is invented.
+
+Accordion routing:
+
+```markdown
+70+110=180=360/2
+72+110=182=364/2
+7×180=1260
+7×182=1274
+Gap(k)=98−14k
+```
+
+The field, week, and generation resolutions remain distinct. Generated full-resolution coordinates are local and are not repository Primary anchors.
+
+Sanctuary/Kings routing:
+
+```markdown
+1290 = 30 + 110 + 720 + 430
+1260 =      110 + 720 + 430
+1150 =            720 + 430
+606→586→536 BC = 20+50 = 70
+```
+
+The mixed central triples preserve `20|50` through the Temple and Week-6 closing rows. Files 08, 12, 17, 58, 62, 64, 65, and 67 retain their parent proof burdens; the eight reciprocal updates are pointer/guard changes only. Mirror and SKL/Berossus remain appendix corroboration. The complete File_68 state vocabulary and all `66` Machine Guards are registered at State Vocabulary Register v1.40 Part D §D.32.
+
+## 10.20 File_69 Enoch-Centered Genealogical Accordion — Compact Routing
+
+Current Final `File_69` preserves `180/182 → 70/72 → 600/614` and adds the August 18 controls:
+
+```markdown
+Matthew local microcosm       = 14|13|14 = 41
+Jeconiah-completed state      = 14|14|14 = 42
+reduced/full composites       = 62 / 63
+crossed covenant Mirrors      = 81×70 = 5670; 81×72 = 5832
+Mosaic center matrix          = 1406 / 1446 / 1448 / 1486 BC
+slot–rail exchanges           = 110 − 70 = 40; 110 − 72 = 38
+```
+
+This paragraph records the inherited August 18 closure. Register v1.43 retains those `36` guards and five reciprocal routes; §10.21 adds the ten cumulative-substrate guards and the current File_18/File_22/File_63 reciprocal closure. Archive v1.51 and Manifest v23 remain undeployed intermediate source history pending coordinated regeneration.
+
+## 10.21 File_09/File_69 Cumulative-Substrate and Enoch-Complement Closure — Compact Routing
+
+Current Final File_09 supplies the cumulative source mechanics:
+
+```markdown
+Creation / Apparent cells: 2+3+2=7
+23→25; 483→490; 460→500
+7+33=40; 14+66=80
+12558=26×483=42×299=69×182
+12558×300/299=12600
+12558×70/69=12740
+actual Enoch:    8132–8125 BC = 5879 from 14011–14004
+completed Enoch: 8131–8124 BC = 5880 = 12×490
+```
+
+Current Final File_69 carries the downstream interpretation:
+
+```markdown
+26/27/28 count states
+13/14 phase and genealogy grammar
+70/72 → 180/182
+490/504 → 600/614
+C_E(x)=8132−x
+C_A(x)=8622−x
+```
+
+Reciprocal routing:
+
+| File | Current bounded role |
+|---|---|
+| `File_18` | Admits `14501–14494 BC`, Moses `14496 BC`, Aaron `14499/14499.5 BC` as derived companion data only. |
+| `File_22` | Retains the scalar theorem and existing coordinate executions; File_09 supplies bilateral endpoint anatomy. |
+| `File_63` | Retains `3+2+2` and Temple-directed carrier states; File_09's `2+3+2` and Exodus-directed `27×483` remain distinct. |
+| Files `14/20/53/61/62/68` | Reviewed; no amendment required. Existing proof-burden and non-retrojection controls remain sufficient. |
+
+Control boundary:
+All `27` active File_09 guards and all `46` File_69 guards are registered at State Vocabulary Register v1.43 Part D §D.34. No generated coordinate is added to the Primary anchors inventory. The archive, manifest, indexes, landing pages, deployment package, and external archival recapture remain the next coordinated release stage.
+
+## 10.22 File_69 Genesis *Toledot–Shemot* / Regular-MT Atonement Closure — Compact Routing
+
+Current Final File_69 adds a Genesis-literary and regular-MT proof layer beneath the inherited Enoch-centered schematic without altering the August 20 cumulative substrate or the earlier Luke/Matthew generator.
+
+The proof-bearing regular-MT accordion is:
+
+```text
+2296 → 2236 → 2226 → 2166 → 2156 → 2026 → 2016 → 1886 → 1876 BC
+
+  60      10      60      10      130      10      130      10
+
+   6       1       6       1       13       1       13       1
+```
+
+Therefore:
+
+```text
+6/7 → 13/14 → 27/28 → 41/42
+```
+
+and:
+
+```text
+2296 → 2156 → 2016 → 1876 BC
+= 140 + 140 + 140
+= 420
+= 42×10
+= 6×70.
+```
+
+The literary route begins with Genesis 2:4 after the completed `6+1`, passes through the Noah, Shem, Terah, Isaac, and Jacob *toledot* headings, and terminates at Israel's *shemot* threshold. The Shem–Terah seam supplies `205−75−70=60`. Isaac's age-`40` wedding supplies the double-`140` center. Cainan supplies the `2300=5×460` cumulative–regular seal. Jacob's textual `130` joins the Enoch field through `980+280=1260`.
+
+Proof hierarchy:
+
+- Module 2 — Terah to *shemot* — carries the independent intentionality proof.
+- Module 1 — regular Enoch and Shem–Isaac — remains secondary corroboration.
+- `d=10=70÷7` is a local resolution only and never replaces File_15's authorized `100/70/40` units.
+- The optional whole-system `−215` state remains quarantined from the principal accordion.
+- Regular `+130`, cumulative `+460`, and regular Cainan lifespan `460` remain distinct.
+- Shared labels are co-registered node classes, not event identities.
+
+All `61` File_69 guards are registered at State Vocabulary Register v1.44 Part D §D.35. The affected-only review found no reciprocal content source requiring amendment, and no generated coordinate enters the Primary anchors inventory.
+
+## 10.23 File_70 Genesis *Toledot* Atonement-Weave Capstone — Compact Routing
+
+Final File_70 completes the Files 68–70 sequence by returning the Enoch-centered genealogy machinery to the first, middle, and last Genesis *toledot*.
+
+```text
+first *toledot*        middle Terah        final Jacob/Joseph *toledot*
+
+      7+7        |          70+70       |             7+7
+       14        |            140       |              14
+```
+
+The mathematical center is:
+
+```text
+4238−1898 = 2340 = 13×180 = 6.5×360
+4237−1885 = 2352 = 14×168 = 7×336
+4251/4244/4237 − 2366 = 1885/1878/1871
+2366 = 13×182 = 6.5×364 = 13×14×13
+```
+
+The principal narrative route is exposure/death-token → covering/investiture → Plenty/Famine preservation. The Gear-1 appendix supplies `2190=6×365=6×360+30`; the Gear-2 Enoch appendix partitions `2352` as `980+1372=20×49+28×49` and nests `490+490=7×(70+70)=70×(7+7)`.
+
+Control boundary:
+
+- File_68 retains the Enochic source-critical proof and fixed carriers; its existing downstream route through File_69 is sufficient.
+- File_69 retains the genealogical accordion, Genesis *toledot–shemot* proof, Terah center, and Enoch Gear co-registration.
+- File_29 retains the theological `7/13/14` Atonement grammar.
+- File_70's `1898 BC`, Gear-2 Noah companions, and Gear-1 outer Creation companions remain local generated coordinates.
+- Only Files 69 and 29 receive reciprocal source pointers; all other reviewed dependencies require no amendment.
+- No File_70 coordinate enters the Primary anchors inventory.
+
+All `30` File_70 guards and two reciprocal guards are registered at State Vocabulary Register v1.45 Part D §D.36.
+
+## 10.24 File_70 Jacob Burial-Day / Day–Year Calibration Amendment — Compact Routing
+
+The August 23 amendment calibrates File_70's Creation–Jacob mixed-resolution claim through a repeated Jacob-centered day/week/month-to-year grammar. It is additive to §10.23 and does not reopen the inherited Creation–Joseph capstone proof.
+
+Primary death-centered field:
+
+```text
+birth-side recurrence:
+2006 → 1936 → 1929 BC
+       70       7
+
+bilateral death-centered rail:
+1936 ──7──▶ 1929 ──70──▶ [1859] ──70──▶ 1789 ──7──▶ 1782 BC
+                           Jacob dies
+```
+
+The numbered Genesis 50 stations are `70` days of Egyptian mourning and `7` days at Atad. The journey is unnumbered; the text is not converted into one uninterrupted `77`-day elapsed interval.
+
+Secondary explanatory field:
+
+```text
+1959 ─30─ 1929 ─30─ 1899 ─40─ 1859 ─40─ 1819 BC
+```
+
+The one-month Haran datum and `40` embalming days partition the controlled `1929→1859 BC=70` span as `30+40`; bilateral projection doubles it to `140`. The `1899 BC` seam is conditional on the declared schematic thirty-day month and remains local.
+
+Canonical controls:
+
+```text
+Ezekiel: 1876→1486→1446 BC = 390+40 = 430
+Daniel 9: 70×7 = 490
+Jacob→restoration: 2006→606→536 BC = 1400+70 = 1470 = 10×147
+Daniel 12: 1876→586 BC = 1290; 1846→586 BC = 1260
+```
+
+The approximately `538–536 BC` field is disclosure/restoration context, not the endpoint of the `1260/1290` year-scale rails. The `147→1470` relation is factor regrouping rather than event-order replication.
+
+Control boundary:
+
+- State Vocabulary Register v1.45 §D.36 remains unchanged for the inherited File_70 capstone and its `30` guards.
+- State Vocabulary Register v1.46 §D.37 registers the eight amendment guards verbatim, yielding `38/38` File_70 source guards.
+- The existing File_69 and File_29 reciprocal guards remain sufficient; no new reciprocal content-source replacement is required.
+- Files 01, 04, 05, 12, 14, 15, 16, 17, 18, 61, 63, and 68 retain their parent chronology, calendar, and operator proof burdens.
+- `1959/1899/1819 BC` remain File_70-local generated projections; no coordinate enters the Primary anchors inventory.
+- The Jacob/Ezekiel/Daniel controls do not authorize indiscriminate day–year conversion.
+
+All eight amendment guards are registered at State Vocabulary Register v1.46 Part D §D.37 and routed through this §10.24.
+## 10.25 Nested `±2 / ±720` Three-Gear Control — Compact Routing
+
+The active Three-Gear topology is:
+
+```text
+absolute ordinary wheel:  +0 | +2 | +4
+Shem-centered wheel:      −2 |  0 | +2
+SKL 360:1 dilation:      −720|  0 |+720
+```
+
+The wheels are homologous but retain distinct units:
+
+```text
+2×360 = 720
+720×360 = 259200
+```
+
+For an explicitly admitted macro member `M`, a local subrail may be opened as:
+
+```text
+M−2 | M | M+2.
+```
+
+For example, the BC-facing center wheel about `262086 BC` may be displayed `262088/262086/262084 BC`, while the `262806 BC` macro member may carry `262808/262806/262804 BC`. This nested local field is a coordinate refinement only. It does not create a new source date, raw chronology row, File_50c target or hit, evidence family, or Primary anchor.
+
+The `+30 Apparent Mode` is orthogonal and applied after Gear selection. The bounded adjacent-macro comparison is:
+
+```text
+720−30 = 690
+720      = 720
+720+30 = 750
+690×25/23 = 750.
+```
+
+Mirror inversion may reverse Gear-facing order, but it does not rename source-coordinate states or replace the controlling civil / phase-resolved Mirror formula. Phase suffixes continue to follow File_09 / File_12.
+
+Control boundary:
+
+- File_11 controls the absolute `+0/+2/+4` wheel.
+- File_21 controls the SKL application layer and four-state matrix.
+- File_34 controls the full SKL / Berossus derivation and Cosmic Pixel field.
+- File_18 remains the raw-table controller; printed `+2` and `+720` rows are selected-member displays.
+- File_50c executes only its rigid macro bracket; nested local teeth and `+30` comparisons cannot create scan hits.
+- Final File_70 cites the control in its seven-stage Mirror capstone; all current File_70 guards are registered across §§D.36–D.40; the `57` inherited guards remain at §§D.36–D.39 and the renewed reciprocal guard is at §D.40.
+
+The controlling registration is State Vocabulary Register v1.47 Part D §D.38.
+
+## 10.26 File_70 Cumulative/SKL/Seven-Stage Macro-Capstone — Compact Routing
+
+The current File_70 extension is a downstream capstone, not a replacement of its parent files.
+
+Cumulative macro-spine:
+
+```text
+14011 → 5436 → 1936 → 536 BC
+ 8575     3500    1400
+49×175   20×175   8×175
+
+14011−536 = 13475 = 77×175 = 275×49.
+```
+
+The two principal translation squares are:
+
+```text
+5436 ──3430──▶ 2006       2006 ──1400──▶ 606
+ │600            │600       │70             │70
+4836 ──3430──▶ 1406       1936 ──1400──▶ 536
+```
+
+The SKL extension returns to File_68 rather than creating a second File_70 proof spine:
+
+```text
+45996−13×3430 = 1406
+45966−13×3430 = 1376
+66996−1476 = 66966−1446 = 65520.
+```
+
+The seven-stage display expands from `7` days through `7` years, `70`, `490`, `3430`, the SKL Enoch station, and the outer `453600/458640` half-week volumes, then reverses across the Mirror. Its decisive one-seventh relation is:
+
+```text
+458640 = 7×65520
+453600 = 7×64800.
+```
+
+The station-6/7 completions are:
+
+```text
+524160 = 458640+65520 = 4×360×364
+518400 = 453600+64800 = 4×360×360.
+```
+
+The `1446→1406 BC=40` wilderness interval is the node seam between displays, not an added scalar term. The Creation-day association is an ordinal theological correspondence, not a uniform multiplier or proof of direct literary dependence.
+
+Trust and control:
+
+- current full pressure test: `380/380` canonical rows in two exact engines; `380/380` mutations rejected; `336/336` additional equalities; targeted and dependency suites PASS;
+- inherited File_70 macro-capstone guards: `57/57` unique and registered across §§D.36–D.39;
+- current File_70 source guards: `58/58`, with the renewed Supplement A reciprocal guard registered at §D.40;
+- §D.38 remains the shared nested `±2 / ±720` controller;
+- affected-only review: no reciprocal content-source amendment and no Primary-anchor promotion;
+- source status: Final, full-pressure-tested, centrally registered, and renewed-author finalized August 25 2026.
+
+The inherited macro-capstone registration remains State Vocabulary Register v1.49 Part D §D.39; the current reciprocal registration is v1.50 Part D §D.40.
+
+## 10.27 File_70 Supplement A / Renewed Reciprocal Routing — Compact Registration
+
+Renewed Final `File_70 Supplement A` is a separate subordinate canonical technical companion to File_70. It does not become an embedded appendix or second governing theorem inside File_70.
+
+Its fine-resolution grammar begins with:
+
+```text
+native core:       690
+Prophetic close:   690×70/69 = 700
+Priestly close:    690×25/23 = 750
+orthogonal rail:   30
+```
+
+The center-qualified phase architecture distinguishes:
+
+```text
+2872t/2871n BC  Long-corridor center
+2922t/2921n BC  Short-ladder center
+2952t/2951n BC  upper translated-bracket center
+2912t/2911n BC  Enoch-generation / 120-field center.
+```
+
+The scalar and coordinate states remain separate:
+
+```text
+735+735 = 1470
+737.5+737.5 = 1475
+34.5×25/23 = 37.5; PhaseNorm40: 37.5+2.5 = 40.
+```
+
+The Short/Long objection-control is:
+
+```text
+17980 = 25×720−20
+24510 = 34×720+30
+24510−17980 = 6530 = 6480+50.
+```
+
+The bilateral Key theorem reconciles the variants at two generated/co-registered nodes:
+
+```text
+3626−750 = 3576−700 = 2876 BC
+2216+700 = 2166+750 = 2916 BC.
+```
+
+The four-node Enoch/SKL lattice then translates uniformly into the biblical field:
+
+```text
+2946|2916|2906|2876
+        −1470
+1476|1446|1436|1406 BC.
+```
+
+The Supplement also keeps distinct:
+
+```text
+90×72  = 6480   precessional-quarter state
+90×360 = 32400  SKL day-year / Projective-Pillar state
+720/722/728/730 = 2×360/361/364/365.
+```
+
+The `361` comparison and `1406 BC→AD 1844` remain reception-history/providential corroboration through File_36/P19. The source `24510` remains controlling; generated `24500=50×490` is an adjacent companion, not a correction.
+
+Fulcrum hierarchy:
+
+- Enoch is the internal fulcrum of the BC-side genealogical, calendrical, manuscript-variant, and SKL architecture.
+- Christ is the fulcrum and completion of the combined BC–AD axis.
+
+Control and trust:
+
+- Supplement A: `324/324` canonical arithmetic rows, `40/40` phase/argument controls, `678/678` pressure attacks, and `36/36` Machine Guards.
+- File_70: inherited `380/380` proof unchanged; current guard inventory `58/58`, including one renewed reciprocal guard.
+- Supplement centers, phase brackets, pure-`720` nodes, Pillar comparisons, and generated `24500` remain local/generated and do not enter the Primary anchors inventory.
+- No content source besides the already completed File_70 reciprocal replacement requires amendment.
+
+The controlling registration is State Vocabulary Register v1.50 Part D §D.40.
+
+## 10.28 Expanded File_70 Supplement A / Reciprocal Routing — Compact Registration
+
+Expanded Final `File_70 Supplement A` remains a separate subordinate canonical technical companion to File_70. It is not embedded into the File_70 proof inventory.
+
+The expanded Primary synthesis is:
+
+```text
+2946|2916|2906|2876 BC     four-node Enochian–SKL field
+4114/4304 ⇄ 4346 BC        common MT operator-parent
+4346→2876→1406 BC→AD 65    three `1470` carrier arms
+4836→4346→6 BC→AD 30→AD 65
+490 | 4340 | 35 | 35 = 4900.
+```
+
+The central Danielic anatomy is:
+
+```text
+7 | 20 | 1 | 21 | 20 | ½ | ½ = 70 generations
+49 | 140 | 7 | 147 | 140 | 3.5 | 3.5 = 490
+140+7+147+140 = 434.
+```
+
+The Cumulative–Pillar hinge preserves the native coefficient:
+
+```text
+14006−4346 = 9660  = 69×140
+4346 BC→AD 29465 = 33810 = 69×490
+69u → 70u / 75u under the declared Keys.
+```
+
+The bounded LXX corroboration is:
+
+```text
+5584→5554→4144→4114 BC = 30|1410|30
+5586→5556→4146→4116 BC = 30|1410|30
+5556→4836→4116 BC       = 720|720
+matched Terah pairs       = 1380 = 690+690.
+```
+
+The generated `5846→5816 BC` leveling remains Appendix-led conjecture. File_52e independently preserves `5816 BC` as a Secondary preparatory node and `5816→1406 BC=4410`, but does not establish the `+30` rail assignment.
+
+Control and trust:
+
+- Supplement A: `446/446` canonical rows; `53/53` Machine Guards; independent Pass 2 and combined pressure test complete.
+- File_70: inherited `380/380` proof unchanged; `58/58` current guards, including one expanded reciprocal guard.
+- Register v1.51 §D.41 adds the `17` reopening guards and replaces the prior reciprocal guard; §D.40 remains the inherited `36`-guard Supplement registration.
+- No Supplement center, operator-parent, Flood seam, outer head, LXX companion, Pillar completion, or conjectural coordinate enters the repository Primary-anchor inventory.
+- Affected-only review requires no content-source amendment beyond the bounded File_70 reciprocal replacement.
+
+## 10.29 Sothic/365-Day Companion and File_18 Lamech-`188` — Compact Registration
+
+The September 6 2026 bounded companion package opens two distinct 365-day ratios without enlarging the default three-Key inventory:
+
+```text
+H = 2923/2921     Sothic/Julian-adjacent half-23 companion
+G = 1680/1679     exact common-K 365-day extension
+K = 8400/23       inherited common schematic calibration
+```
+
+`H` and `G` are non-collapsible: `365H≠K`, whereas `365G=K`. Physical mean-year day-volume comparison remains distinct from civil-coordinate chronology.
+
+File_22 supplies the matched-Cainan Creation bridge:
+
+```text
+9890 + 460 − 130 = 10220 = 7×1460
+```
+
+and preserves the two Pillar outcomes: the `H` route remains `4.5` years from actual Apparent Adam `4146n BC`, while the `G` route lands at Rounded Apparent Adam `4136n BC`. Neither generated head is a new Primary anchor.
+
+File_70 Supplement A supplies the finite SKL theorem:
+
+```text
+center: January 1, 2921 BC
+4×1460.5 = 5842
+R(x) = −5842 − x
+fixed-set overlap counts for 5840/5842/5844/5846 = 8/12/8/4
+```
+
+The Mosaic–Joshua packet supplies the placement rationale: one raw `1460` cycle carries `2936/2906 BC` to `1476/1446 BC`, while the `2936/2906/2886/2856` corridor preserves the coordinated `30|20|30`, `1380`, and `50` relations. These are one correlated structural family, not independent statistical witnesses. Opposed `±720` shifts preserve the declared 36-node comparison field; unchanged four-Sothic-cycle closure for remote SKL Creation/Flood chains remains unproved. The fixed Long/Moses matrix retains the negative result that `4383=3×1461` is absent.
+
+The September 6 Lamech classification is now qualified by §10.30 / Register §D.43: `188` remains non-operative, but a bounded Key-of-23 transmission hypothesis is permitted. Main Regular/Cumulative LXX uses `182/753`; LXX `777` is appendix-only. Sothic registration and proof scopes in this section are unchanged.
+
+Control and trust:
+
+- State Vocabulary Register v1.52 §D.42 centrally registers `12/12` new Sothic guards.
+- File_70 Supplement A advances from `53/53` to `59/59` centrally registered guards; its inherited `446`-row proof inventory remains unchanged.
+- File_70 remains `58/58` with no source amendment required.
+- File_12, File_22, and Supplement A remain verification-complete bounded September 6 amendments; no new full-file pressure test is claimed.
+- The September 6 registration did not change File_18 arithmetic or tables; the separately authorized September 8 Lamech lifespan/death correction is governed by §10.30.
+- No Primary-anchor, raw chronology, default-Key, Mirror-formula, or inherited evidence-family promotion occurs.
+
+## 10.30 Common LXX Lamech Reconstruction — Compact Routing
+
+File_18 retains **attested/transmitted LXX lifespan `753`** (Genesis 5:31), judged here to preserve the preferred original LXX lifespan on textual and structural grounds. That preferred-original judgment remains distinct from the fact of attestation. **Restored begetting `182`** and **calculated remainder `571`** produce the component-wise `182/753` biography in both Regular and Cumulative execution. The lack of an identified joint attestation concerns that combination, not `753` itself. Minimum regular Lamech death remains `3052 BC` (`3267 BC` at `+215`), `29` years before the Flood. All regular birth-chain and main cumulative coordinates remain unchanged. Applying MT `777` to the LXX is an appendix-only overlay and cannot propagate into the cumulative chain; MT's own `777` is unaffected.
+
+The author-favored Key-of-23 crossover explanation for transmitted `188` is hypothetical; `188` is not activated as a main-chain variant. The exact Gear, anchor, source, and gain-transfer distinctions are controlled by File_18 §4A / Appendix B and Register v1.54 §D.43, not rederived here. File_46 Appendix A contains the displaced overlay executions; File_51a Appendix A.5 contains the secondary five-before-Flood comparison; File_17 and File_00 carry bounded provenance pointers.
+
+The separate Adam–Noah Unity subtest must use these source-specific inputs. Failure of an unmodified MT-vector/Flood-cap generator to derive `753` limits that generator, not the attested LXX lifespan. The former whole-regular-LXX-lifespan equality with MT remains superseded, although the six centenary repartitions themselves remain lifespan-preserving. No general chronology operator, Sothic guard, physical calibration, Primary anchor, or frozen Report I–IV is changed. Focused verification does not constitute a new full pressure test or live deployment.
+
+## 10.31 September 13 Pre-Pro Canonical Refresh — Compact Routing
+
+Before the next Pro research chat, apply the following current controls:
+
+1. **Localized `−33` scope:** operative bounded corridor = **Terah through Levi**. The textual `33` still derives from the LXX Jacob-family `33+397` reading; J. Barton Payne independently uses the same `33+397` logic and `1843 BC` LXX descent, so that interpretation is not repository-original. Terah's inclusion is the author-approved structural scope extension. Normal execution stops before Noah/Shem. Global Noah/Adam `−33` remains exploratory.
+2. **Terah hinge:** `2296→2091`, `2236→2031`, `2203→1998` all preserve lifespan `205`; their age-`70` outputs are `2226/2166/2133`, but these are cross-state outputs, not three biological siblings. Under the selected `+60` biography, `2226` is the firstborn threshold and `2166` is Abram's ordinary birth at Terah age `130`; `2133` remains a localized `−33` positional companion and is not assigned to Nahor. A separate qualified candidate places Nahor at `2106 BC`, giving `2226→2166→2106=60+60=120`; it is structural inference only, not textual datum or Primary anchor. `1998 BC` remains the selected Key-of-23 boundary, including `2458−1998=460`, `1998−1446=552`, `4114−1998=2116`, and the Gear-1 Noah midpoint `4114−3056=3056−1998=1058`. Qualified composite `2263→2058=205`; net `+27` is not a fourth sibling state or global operator.
+3. **Shem roles:** `2558` is the Gear-2 triad/biological birth reference; `2556` is the elected/covenant-line Gear-1 station. File_47's `322/732` cross-state reading intentionally contains the two-year state overlap; it is not extra history. Co-shift `322/730` remains separately valid.
+4. **Cumulative week:** primary object = seven years. Valid state-qualified whole-year anatomies include `2+3+2`, `2+2+3`, `3+2+2`; superimposed boundary refinement `2+1+1+1+2`. Tishri/Nisan `.5` remains separate.
+5. **Aaron/Moses:** Aaron dies first; source lifespans remain `123/120`. The `3.5` is a phase relation only. West-Jordan crossing remains Nisan 10 `1406n`.
+6. **File_18 LXX correction:** Peleg/Reu/Serug in LXX Regular-Minimum are `339/339/330`, deaths `2153/2023/1900 BC`, births `2492/2362/2230` unchanged. The former `239/239/230` LXX cells were copy errors; do not change the SP triplet.
+7. **Shelah:** current File_09 already contains the previously deferred `4398–4391→4358–4351` terminal seam and `7+483+7 → 7+490+7` completion; do not duplicate it.
+
+Control routing: State Vocabulary Register v1.55 §D.44; File_00 scope; File_60 detailed Terah lattice; File_01 Abraham/Terah dependency pointer; File_47 Shem role-state; File_09 cumulative-week / Shelah substrate; File_18 source table / phase rule; Files 04/16/61 downstream scope pointers. Current research dependency status remains `rank 49 over 66 released inputs`, `17 residual directions`. The next research audit remains File_62's `1812/1809/1806/1805` terminal cluster and `1445` endpoint before `354/364/360`.
+
+# Appendix AA. Per-File State-Vocabulary Pointer Map
 
 Per-file modal-state vocabulary, per-file convention updates, and per-file Machine Guards are governed by the State_Vocabulary_Register. Register entries carry the same authority they carried in Style Guide v2.4, and the named Final file remains the controlling precedent for each state. The map below routes each former capsule location to its Register location. Former Appendices J–S and U–Z, the former front-matter File_13 / File_14 / File_18 tables, and the former capsule update records are preserved verbatim in the Repository_Change_Archive. Register v1.3 (June 10 2026) absorbed the former capsule-held Samaria addenda and Appendix AB residuals; Appendix T below is now a pointer and Appendix AB is retired. The header Primary anchors line is the capsule's repository-wide anchor inventory; anchors whose detailed usage migrated with the former appendices (chiefly the File_33 / File_37 / File_41 / File_45 values) remain inventoried there, with this map as their route — do not prune the inventory to body-text occurrences.
 
@@ -2324,6 +2935,7 @@ Per-file modal-state vocabulary, per-file convention updates, and per-file Machi
 | 1876 Cainan macro-vector (File_16 / File_18) | former Appendix N | §31.84b–§31.84c; §32J Machine Guards; §32J.1 | File_16 Final / File_18 Final |
 | File_20 Book of Jubilees fourth witness | former Appendix O | §32M; §32M.1 | File_20 Final |
 | File_21 SKL Unified Protocol | former Appendix P | §32N; §32N.3 | File_21 Final |
+| Nested `±2 / ±720` Three-Gear control | prior one-sided body §8.2a; Files 21/34/18/50c source guards | Part D §D.38 | File_11 absolute controller; amended Files 21, 34, 18, and 50c |
 | File_22 Cumulative MT Harmonics / Rounded Scaffold non-retrojection | former Appendix Q | §31.93–§31.105; §32O; §32O.1 | File_22 Final |
 | File_25 Decimal Invariance | former Appendix R | §31.106–§31.117; §32P | File_25 Final |
 | File_31 Rod of Enoch | former Appendix S | §32S | File_31 Final |
@@ -2349,15 +2961,413 @@ Per-file modal-state vocabulary, per-file convention updates, and per-file Machi
 | File_51a / File_51b handoff and rounded Conquest-block display guard | — (public-clean control update) | Part D §D.13 | File_51a Public Clean v1.1; File_51b by dependency |
 | File_51b Cross-Polarity Mirror / deep-time translation engines | — (finalized after v11.13) | Part D §D.14 | File_51b Final; post-final pressure tested |
 | File_56 Creation Decade Protocol / SP Enochian Day-4 phase-anchor | — (finalized July 2 2026) | Part D §D.17 | File_56 Final; full pressure test scheduled |
-| Regular / Cumulative page-publication conventions (SOR sub-variant; Lamech original-state / overlay / dual-locality; Adam field / Mirror lock; Ezekiel date-string; apparent-span lattice; Joshua / center-jewel; guard set) | — (new, July 2026) | Part D §D.18 | per §D.18.2 controlling files |
+| File_57 Biblical List–Chronology Template | — (finalized July 11 2026; bounded File_58 routing update July 12) | Part D §D.21 | File_57 Final; post-final pressure tested; File_58 routing update focused pressure tested |
+| File_58 Numbers 28–29 Tishri Sacrificial Ledger | — (finalized and post-final pressure tested July 12 2026) | Part D §D.22 | File_58 Final; post-final pressure tested; Pass 2 verified |
+| File_59 Numbers Census–Revelation Matrix | — (finalized and post-final pressure tested July 16 2026; Levitical Firstborn-Reconciliation / tribal mod-100 amendment focused pressure tested July 18) | Part D §D.23 | File_59 Final; prior verification retained; latest bounded amendment `382/382` PASS; `55` Machine Guards registered; local-coordinate non-promotion and BC-side `606–536 BC` terminus retained |
+| File_60 Levitical Covenant Spine / `161/299` reconciliation | — (finalized July 19 2026; independent Pass 2 verified) | Part D §D.24 | File_60 Final; post-final pressure tested `342/342` PASS; prior `168/168` Pass 2 arithmetic retained; ten Machine Guards registered; no transformed or Mirror coordinate promoted to Primary-anchor status |
+| File_61 Jacob–Moses Cumulative–Regular Root System / full and half clutch / Joseph crossed double portion | — (finalized July 21 2026; bounded File_62 corrective amendment July 23) | Part D §D.25 | Corrected File_61 Final; original post-final test retained; focused corrective-amendment `2028/2028` PASS; `312/312` arithmetic-ledger rows, `20/20` Markdown tables, and thirty-five Machine Guards verified; no derived clutch, collateral Joseph, phase, extremal, or cumulative coordinate promoted to Primary-anchor status |
+| File_62 Half-Clutch Birth-Law Interface / `±7` midrail / Joseph inherited translation / Joshua `216` | — (finalized and full post-final pressure tested July 23 2026; reciprocal File_63 pointer July 24) | Part D §D.26 | File_62 Final; full post-final `1071/1071` PASS; `115/115` arithmetic-ledger rows, `14/14` Markdown tables, and thirty-seven Machine Guards verified; bounded File_63 downstream pointer applied; proposed phase pairs, derived clutch coordinates, collateral Joseph coordinates, BJ reconstructed coordinates, Joshua comparison coordinates, and Noah comparison coordinates remain local / dependency-controlled and are not promoted to Primary-anchor status |
+| File_63 Scale-Neutral `480/483/490` Carrier / macro synthesis | — (finalized July 24 2026; full post-final pressure tested July 26 2026; File_64 interface registered) | Part D §D.27 | File_63 Final; full post-final pressure test `2325/2325` PASS; all `126` arithmetic-ledger rows `A1–A123` including `A73a–A73c` recomputed; `43/43` Markdown tables and forty-seven total Machine Guards verified (forty-six File_63-specific plus `[FILE MAP RESTRAINT]`); bounded File_64 interface `1476−1016=460=20×23` registered; no proposed phase, author-designated comparison, schematic Nexus, derived translation, macro-head, Temple-corridor, Covenant-macro-head, AD-rail, or precessional coordinate promoted to Primary-anchor status |
+| File_64 Jephthah–Judges Sanctuary Nexus / expanded `1876/1016` synthesis | — (original Final July 26 2026; substantive amendment Final and full post-final pressure tested July 27 2026) | Part D §D.28 | File_64 Final; protected eighteen-row Judges proof retained; core post-final pressure test `3076/3076` and trust-status closure `3078/3078` PASS; `116/116` Appendix C rows, `190/190` atomic operations, `318/318` parseable body arithmetic displays, `54/54` Markdown tables, `714/714` table rows, `337/337` fenced blocks, and `67/67` protected baseline sections verified; forty-nine File_64-specific Machine Guards plus `[FILE MAP RESTRAINT]` = fifty total; expanded Jacob final-`70`, triple-`430`, Jacob–Daniel, Cainan–Terah / Judges, Judah `+50` / Israel `+33`, paired `930`, double-`400`, triple-`460`, census-palindrome, radius-matrix, and subordinate Flood states registered; reciprocal File_04 / File_08 / File_16 guards routed; no local schematic, derived, cumulative, appendix, or providential coordinate promoted to Primary-anchor status |
+| Regular / Cumulative page-publication conventions (SOR sub-variant; Lamech historical hierarchy superseded by §D.43; Adam field / Mirror lock; Ezekiel date-string; apparent-span lattice; Joshua / center-jewel; guard set) | — (new, July 2026) | Part D §D.18 | per §D.18.2 controlling files |
+
+| File_65 Comparative Open-Items Ledger / reverse Judah pincer / evidence accounting | — (Finalized August 3 2026; independent Pass 2 verified; no post-final pressure test) | Part D §D.29 | File_65 Final; `257/257` independent Pass 2 arithmetic PASS; `40/40` Markdown tables and nineteen File_65 Machine Guards verified; exact reciprocal controls in Files 08, 16, 29, and 64; no local schematic `886n BC`, preferred `561 BC`, local `5249n BC`, phase, appendix, or providential coordinate promoted to Primary-anchor status |
+
+| File_66 Dial of Ahaz / Hezekiah–Jerusalem fifth expansion / finite arithmetic fractal | — (Final; August 4 full-pressure-test baseline retained; August 5–7 bounded/focused amendment verification complete) | Part D §D.30 | Current File_66: Appendix B `485/485 PASS`; Appendix G `237/237 PASS`; `92/92` File_66 Machine Guards; `62` Markdown tables; center/midpoint firewall; generated non-historical `656 BC`; reciprocal routing to Files 01/05/08/16/19/26/65 with File_06 no-change review; no local Actual/Historical, Verbatim/Schematic, latent, generated, midpoint, Mirror, statistical, appendix, or providential coordinate promoted to Primary-anchor status |
+| File_67 Flanking Kings of the Hezekiah Sign | Ahaziah `22+1=23`; Ahaz–Hezekiah–Manasseh Verbatim field; Ramesside `480/490`; `120/110/100`; cumulative `14011/14006→701/696`; Rehoboam/Zedekiah boundary kings; finite `1290`; appendix-only SKL/Berossus and Christological corroboration | Part D §D.31 | Downstream File_66 application; no Primary-anchor promotion; 21 guards and seven reciprocal guards registered. |
+| File_68 Enochic Seven-Week Core / dual carriers / MT-contoured corridor / generation-resolved accordion / Sanctuary-Kings closure | — (Finalization refresh August 13 2026; Renewed Independent Pass 2 verified) | Part D §D.32 | File_68 Final; `1581/1581` arithmetic PASS; `453/453` controls; `66` Machine Guards; eight reciprocal guards; no generated-coordinate Primary-anchor promotion |
+| File_69 Enoch-Centered Genealogical Accordion / Matthean `14\|13\|14` / covenant `6\|7\|8` / Mosaic center matrix | — (Final and full post-final pressure tested August 18 2026; inherited closure retained) | Part D §D.33 | `416/416` arithmetic; `323/323` Appendix; `365/365` assertions; inherited `36` guards and five reciprocal routes retained; no Primary-anchor promotion |
+| File_09 cumulative Creation–Cainan–Enoch substrate / bilateral Key completion / Enoch `5879/5880` clutch | — (Final August 19 2026; combined Pass 2 / pressure test; audit closure complete) | Part D §D.34 | `27/27` active guards across §§D.33–D.34; File_18/File_22/File_63 reciprocal routing; no Primary-anchor promotion |
+| File_69 cumulative-substrate and same-side complement extension | — (renewed Final August 20 2026; combined Pass 2 / pressure test retained) | Part D §§D.33–D.34 | `46/46` guards; `8132/8622` same-side complement field; coordinated File_09/File_69 closure; no Primary-anchor promotion |
+| File_69 Genesis *Toledot–Shemot* / regular-MT Atonement extension | — (renewed Final August 21 2026; combined Pass 2 / pressure test retained) | Part D §D.35 | `208/208` arithmetic; `61/61` guards; `6/7→13/14→27/28→41/42`; no reciprocal source amendment; no Primary-anchor promotion |
+| File_70 Genesis *Toledot* Atonement-Weave capstone | — (Final August 22 2026; Independent Pass 2 and combined full pressure test retained) | Part D §D.36 | `151/151` arithmetic; `30/30` File_70 guards plus two reciprocal guards; `7+7|70+70|7+7`; `2340/2352/2366`; reciprocal Files 69/29 only; no Primary-anchor promotion |
+| File_70 Jacob burial-day / day–year calibration amendment | — (renewed Final August 23 2026; Independent Pass 2 and combined pressure test retained) | Part D §D.37 | Eight amendment guards; File_70 total `38/38`; primary bilateral `70+7`; secondary conditional `30+40`; compact Ezekiel/Daniel controls; no new reciprocal source; no Primary-anchor promotion |
+| Nested `±2 / ±720` Three-Gear correction | — (bounded control correction August 25 2026) | Part D §D.38 | Full `+0/+2/+4 → −2/0/+2 → −720/0/+720` topology; four amended source guards; no arithmetic, scan, raw-table, Mirror-formula, or Primary-anchor change |
+| File_70 cumulative/SKL/seven-stage macro-capstone | — (full pressure tested and centrally registered August 25 2026) | Part D §D.39 | `57/57` File_70 guards across §§D.36–D.39; `380/380` arithmetic; no reciprocal source amendment or Primary-anchor promotion |
+| File_70 Supplement A / expanded File_70 reciprocal routing | — (expanded Supplement Final and pressure tested August 28 2026; bounded File_70 reciprocal replacement focused verified) | Part D §§D.40–D.41 | Supplement A `53/53` guards and `446/446` arithmetic; File_70 current `58/58` guards; four-node Enoch field, `4346` common parent, Cumulative–Pillar, Danielic seam, bounded LXX corroboration, and conjecture ceiling; no Primary-anchor promotion |
+| September 6 Sothic/365-day companion + File_18 Lamech-`188` classification | — (verification-complete bounded amendment/control registration September 6 2026) | Part D §D.42 | File_12 `H/G` distinction; File_22 `10220`/Pillar applications; Supplement A `5842` whole-field / Mosaic–Joshua / Long negative result; Supplement A `59/59` guards; File_18 earlier classification qualified by §D.43; no Primary-anchor promotion |
+| September 8 common LXX Lamech reconstruction | — (bounded amendment and source-hierarchy clarification; focused verified; no new full pressure test) | Part D §D.43 | Attested LXX `753`, preferred-original judgment, restored `182`, calculated `571`; combination reconstructed; non-operative `188`; MT-derived appendix LXX `777`; inherited File_00/17/46/51a routing |
 
 Machine Guard [CAPSULE REGISTER POINTER]:
 Per-file vocabulary does not re-accrete in this capsule. When a file's states are needed, load the State_Vocabulary_Register entries and the named Final file. The former bounded exceptions (Appendix T capsule-held addenda; Appendix AB) were absorbed by Register v1.3 on June 10 2026; no capsule-held per-file exception now exists, and none may be created without author direction.
-END OF CAPSULE (v11.19 — EXTERNAL-ARCHIVE STATE UPDATE; FULL PATCH HISTORY: REPOSITORY_CHANGE_ARCHIVE).
+
+## Revision Log — September 6 2026 Sothic/365-day and File_18 registration
+
+- File: `Restart_Capsule_v11.51`.
+- Revision date: September 6 2026.
+- Prior version: v11.50 retained as the prior edition.
+- State Register: v1.52 Part D §D.42.
+- Changes: added §10.29; routed the Sothic `H/G`, matched-Cainan `10220`, Pillar, twelve-node `5842`, Mosaic–Joshua, opposed-`±720`, Long-field negative-result, and File_18 Lamech-`188` classification states; added Appendix-AA §D.42 route; updated active pointers and modal-state inventory.
+- Anchor status: inherited Primary anchors unchanged.
+- Trust status: September 6 content additions remain verification-complete bounded amendments; no new full-file pressure test is claimed.
+- Style Guide v2.5 and Project Procedures v3.5 receive pointer-only refreshes.
+
+END OF INHERITED v11.51 CAPSULE BODY (retained history; current edition v11.53).
 
 Self-contained for its own domain:
-§0–§11 + Appendices A–D and AA cover the v10.2 Logic Engine, Regular / Cumulative / SKL chronologies, Prime-Lattice architecture, Naturalized Grid System, File_50-series integration layer, Rounded Scaffold, Mirror protocols, inverse-number architecture, Book of Jubilees witness, File_54’s Luke 70-year lattice, File_55’s Moses-node thirds primer, and File_56’s Creation Decade Protocol. Per-file modal-state vocabulary, per-file convention updates, and per-file Machine Guards — including the full Samaria Node vocabulary routed through the Appendix T pointer — are carried by the State_Vocabulary_Register (v1.18 or later) and routed through Appendix AA. A restart context is complete when this capsule is loaded together with the 490d Repository Style Guide v2.5, Project Procedures v3.4, and the State_Vocabulary_Register, with the Repository_Change_Archive available as non-controlling history.
+§0–§11 + Appendices A–D and AA cover the v10.2 Logic Engine through current Final File_70 and expanded Final File_70 Supplement A. Per-file modal-state vocabulary, convention updates, and Machine Guards are carried by State_Vocabulary_Register v1.51 and routed through Appendix AA. A restart context is complete when this capsule is loaded together with the 490d Repository Style Guide v2.5, Project Procedures v3.5, State_Vocabulary_Register v1.51, current source files including File_70 Supplement A, and Repository_Change_Archive v1.52 as non-controlling prior history; Publication Manifest v24 remains the prior release manifest pending later author-directed regeneration.
 
+
+## Revision Log (v11.50)
+
+- File: `Restart_Capsule_v11.50`
+- Revision date: August 28 2026
+- Prior edition: v11.49 retained.
+- Changes: added compact §10.28; advanced Appendix-AA routing to Register §§D.40–D.41; recorded Supplement A `446/53`, File_70 `380/58`, common-parent / Danielic / LXX states, and affected-only no-change review.
+- Primary-anchor inventory: inherited header line preserved byte-for-byte.
+- Boundary: no source chronology, proof equation, calendar definition, guard body, Mirror formula, generic rule, Archive, Manifest, or publication layer changed.
+
+## Revision Log (v11.49)
+
+- File: `Restart_Capsule_v11.49`
+- Revision date: August 27 2026
+- Prior version: v11.48 retained as the prior-edition record.
+- State Vocabulary Register: v1.50 Part D §D.40; inherited File_70 §§D.36–D.39 and shared nested-wheel §D.38 retained.
+- Changes: added File_70 Supplement A to repository scope and direct integration; appended selected Supplement states; added compact §10.27 and Appendix-AA §D.40 route; routed all `36` Supplement guards and the current File_70 reciprocal guard; updated current File_70 total to `58/58`.
+- Verification: inherited Primary anchors line byte-identical; Supplement/File_70 guard fidelity, control versions, headings, tables, fences, affected-only disposition, and pointer coherence PASS.
+- Boundary: no source chronology, proof equation, parent guard, Primary anchor, generic Style Guide rule, Project Procedures workflow, Archive, Manifest, index, landing page, deployment, or external archive changed.
+
+## Revision Log (v11.48)
+
+- File: `Restart_Capsule_v11.48`
+- Revision date: August 25 2026
+- Prior version: v11.47 retained as the prior-edition record.
+- Changes: aligned §10.26 and Appendix-AA routing to renewed Final File_70 and State Vocabulary Register v1.49; preserved the complete `57/57` guard route and inherited Primary anchors line.
+- Verification: byte comparison confirms no Primary anchor, chronology, operator, phase suffix, Mirror formula, guard body, dependency burden, reciprocal content source, or publication layer changed.
+- Status: Final File_70 trust-state alignment; compact routing/pointer update only.
+
+## Revision Log (v11.47)
+
+- File: `Restart_Capsule_v11.47`
+- Revision date: August 25 2026
+- Prior version: v11.46 retained as the prior-edition record.
+- State Vocabulary Register: v1.49 Part D §D.39; shared nested control remains at §D.38.
+- Changes: added compact §10.26; added Appendix-AA §D.39 route; appended selected File_70 macro-capstone states; routed all `19` remaining File_70 guards, yielding `57/57` centrally registered.
+- Verification: inherited Primary anchors line byte-identical; control versions, guard fidelity, arithmetic trust figures, heading/table/fence structure, affected-only disposition, and pointer coherence PASS.
+- Boundary: no reciprocal content source, Archive, Manifest, index, landing page, deployment, or external archive changed; renewed File_70 Finalization not claimed.
+
+## Revision Log (v11.46)
+
+- File: `Restart_Capsule_v11.46`
+- Revision date: August 25 2026
+- Prior version: v11.45 retained as the prior-edition record
+- State Vocabulary Register: v1.47 Part D §D.38; inherited File_70 registrations remain at §§D.36–D.37
+- Changes: replaced the one-sided SKL `+2 / +720` guard; added compact §10.25; added Appendix-AA routing; appended the nested wheel to active modal states; preserved all existing chronology and File_70 routes.
+- Verification: inherited Primary anchors line byte-identical; unit identities, source-guard routing, File_18 raw-table invariance, File_50c scan invariance, heading/table/fence structure, and bounded control diffs PASS.
+- Publication boundary: Repository Change Archive, Publication Manifest, indexes, landing pages, deployment, and external archival capture remain separate.
+
+## Revision Log (v11.45)
+
+- File: `Restart_Capsule_v11.45`
+- Revision date: August 23 2026
+- Prior version: v11.44 retained as the prior-edition record
+- State Vocabulary Register: v1.46 Part D §D.37; inherited capstone remains at §D.36
+- Changes: compact File_70 burial-day / day–year amendment routing added at §10.24; Appendix AA amendment route added; selected amendment states appended; all eight new guards routed, yielding `38/38` File_70 source guards; existing File_69/File_29 reciprocal guards retained; affected-only no-change review recorded; no Primary-anchor inventory change.
+- Verification: inherited Primary anchors line byte-identical; inherited §10.23 byte-identical; compact equations exact; Register/Capsule route coherence, source guard fidelity, no-change reciprocal disposition, table/fence structure, and pointer-only control diffs PASS.
+- Publication boundary: Repository Change Archive, Publication Manifest, indexes, landing pages, deployment, and external archival capture remain separate.
+## Revision Log (v11.44)
+
+- File: `Restart_Capsule_v11.44`
+- Revision date: August 22 2026
+- Prior version: v11.43 retained as the prior-edition record
+- State Vocabulary Register: v1.45 Part D §D.36
+- Changes: compact File_70 routing added at §10.23; File_70 appended to repository scope and direct integration; Appendix AA route added; selected File_70 states appended; all `30` File_70 guards and two reciprocal guards routed; bounded reciprocal replacements limited to Files 69 and 29; no Primary-anchor inventory change.
+- Verification: inherited Primary anchors line byte-identical; compact equations exact; Register/Capsule route coherence, table/fence structure, and bounded reciprocal diffs PASS.
+- Publication boundary: source/control/index/landing/deployment package prepared; Repository Change Archive and Publication Manifest await author-supplied prior files; live authenticated upload not claimed.
+
+## Revision Log (v11.43)
+
+- File: `Restart_Capsule_v11.43`
+- Revision date: August 21 2026
+- Prior version: v11.42 retained as the prior-edition record
+- State Vocabulary Register: v1.44 Part D §D.35
+- Changes: compact File_69 Genesis *Toledot–Shemot* / regular-MT Atonement routing added at §10.22; Appendix AA route added; selected File_69 states appended; all `61` guards routed; affected-only no-change reciprocal review recorded; no Primary-anchor inventory change.
+- Verification: inherited Primary anchors line byte-identical; compact equations exact; Register/Capsule guard and route coherence PASS; no reciprocal content source changed.
+- Publication boundary: Repository Change Archive, Publication Manifest, indexes, landing pages, deployment, and external recapture deferred.
+
+## Revision Log (v11.42)
+
+- File: `Restart_Capsule_v11.42`
+- Revision date: August 20 2026
+- Prior version: v11.41 retained as the prior-edition record
+- State Vocabulary Register: v1.43
+- Changes: compact File_09/File_69 cumulative-substrate routing added at §10.21; File_18/File_22/File_63 reciprocal roles recorded; affected-only no-change review for Files 14/20/53/61/62/68 recorded; all File_09/File_69 guards routed; no Primary-anchor inventory change.
+- Verification: the inherited Primary anchors line is byte-identical to v11.41; package-level guard, arithmetic, dependency, Markdown, and pointer checks passed.
+- Publication boundary: Archive v1.51 and Manifest v23 remain prior undeployed controls pending coordinated regeneration with indexes, landing pages, deployment, and external recapture.
+
+## Revision Log (v11.41)
+
+- Revision date: August 18 2026.
+- Prior version: v11.40 retained.
+- Scope: File_69 August 18 routing, Register v1.42, `36` guards, five new reciprocal guards, thirteen affected replacements, Archive v1.51, Manifest v23.
+- Verification: Primary anchors line byte-identical; route, scope, guard, table, heading, and fence checks PASS.
+- Publication boundary: package prepared; live deployment and external recapture not claimed.
+
+## Revision Log (v11.40)
+
+- File: `Restart_Capsule_v11.40`
+- Revision date: August 17 2026.
+- Prior version: v11.39 retained unaltered as the prior-version record.
+- Scope: current Final File_69 compact routing, Register v1.41 pointer, all `28` File_69 Machine Guards, eight centrally registered reciprocal-routing guards, exact Primary-anchor non-promotion, and control-only separation from later reciprocal-source and publication work.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.41; (2) File_69 added to Repository scope and Direct integration; (3) selected File_69 states appended to the active modal-state header; (4) compact File_69 summary added at §10.20; (5) Appendix AA §D.33 route added; (6) no regular source file, Archive, Manifest, index, landing page, derived publication layer, or external archive altered; (7) no Primary-anchor inventory change.
+- Verification status: inherited Primary anchors line preserved byte-for-byte from v11.39; Register/Capsule route coherence PASS; File_69 `28/28` guard reproduction and eight reciprocal-guard inventory routed; Markdown table, heading, and code-fence structure PASS.
+- Publication boundary: Repository Change Archive v1.49 and Publication Manifest v21 remain the current File_67–File_68 release controls pending File_69 publication work.
+
+## Revision Log (v11.39)
+
+- File: `Restart_Capsule_v11.39`
+- Revision date: August 13 2026.
+- Prior version: v11.38 retained unaltered as the prior-version record.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.40; (2) File_68 added to Repository scope and Direct integration; (3) selected File_68 states appended to the active modal-state header; (4) compact File_68 summary added at §10.19; (5) Appendix AA §D.32 route added; (6) bounded reciprocal updates to Files 08, 12, 17, 58, 62, 64, 65, and 67 recorded; (7) no Primary-anchor inventory change; (8) Archive / Manifest updates left pending.
+- Verification status: exact Primary-anchor-line preservation, Register/Capsule version coherence, File_68 route integrity, selected-state presence, repository-scope / direct-integration presence, Markdown-table structure, heading structure, and stale-current-pointer checks PASS.
+
+## Revision Log (v11.39 — August 15 2026 publication-pointer closure)
+
+- Revision date: August 15 2026.
+- Capsule edition remains `v11.39`; the August 13 File_68 registration is unchanged.
+- Scope: bounded publication-pointer closure only.
+- Changes: current Archive / Manifest pointers advanced from the pending File_68 release layer (`v1.48` / `v20`) to the coordinated File_67–File_68 release (`Repository_Change_Archive v1.49` / `Publication Manifest v21`).
+- Preservation: §10.19, Appendix AA, the inherited Primary anchors line, File_68's state routing, all `66` guards, and all eight reciprocal guards are unchanged.
+- Publication boundary: stable-alias replacement prepared; live deployment and external recapture remain separate operations.
+
+## Revision Log (v11.38)
+
+- File: `Restart_Capsule_v11.38`
+- Revision date: August 10 2026.
+- Prior version: v11.37 retained unaltered as the prior-version record.
+- Scope: Final File_67 compact routing, Register v1.39 pointer, seven bounded reciprocal guards, Archive v1.48 / Manifest v20 coordination, and exact Primary-anchor non-promotion.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.39; (2) File_67 added to Repository scope and Direct integration; (3) selected File_67 states appended to the active modal-state header; (4) compact File_67 summary added at §10.18; (5) Appendix AA §D.31 route added; (6) reciprocal Files 08, 17, 22, 34, 51a, 65, and 66 recorded; (7) Archive / Manifest routing advanced to v1.48 / v20; (8) no Primary-anchor inventory change.
+- Verification status: inherited Primary anchors line preserved byte-for-byte from v11.37; Register v1.39 / Capsule route coherence PASS; File_67 `21` guards and seven reciprocal guards routed; Markdown and code-fence structure PASS.
+- Pressure-test status: File_67's August 10 full post-final pressure-test baseline and bounded cumulative-hub focused verification are registered by dependency; this Capsule update is control routing only and is not represented as another source pressure test.
+
+## Revision Log (v11.37)
+
+- File: `Restart_Capsule_v11.37`
+- Revision date: August 8 2026
+- Prior version: v11.36 retained unaltered as the prior-version record.
+- Scope: bounded control update for the August 5–7 File_66 amendments, Register v1.38 routing, reciprocal review closure, Archive v1.47 / Manifest v19 coordination, and exact Primary-anchor non-promotion.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.38; (2) §10.17 refreshed through `B485`, `92` File_66 guards, Appendix G, center/midpoint terminology, and latent `656 BC`; (3) Appendix AA §D.30 route refreshed; (4) selected new File_66 states appended to the active modal-state header; (5) bounded reciprocal updates to Files 01, 05, 08, 16, 19, 26, and 65 recorded; File_06 no-change review recorded; (6) Archive / Manifest routing advanced to v1.47 / v19; (7) no Primary-anchor inventory change.
+- Verification status: Primary anchors line preserved byte-for-byte from v11.36; Register v1.38 / Capsule route coherence PASS; File_66 arithmetic/state summary agrees with the independently verified clean B485 source; Markdown structure and code-fence balance PASS.
+- Pressure-test status: August 4 full post-final pressure-test baseline retained; August 5–7 File_66 amendments remain bounded/focused verified; this Capsule update is control routing only and is not represented as a new full source pressure test.
+
+## Revision Log (v11.36)
+
+- File: `Restart_Capsule_v11.36`
+- Revision date: August 4 2026
+- Prior version: v11.35 retained unaltered as the prior-current record.
+- Scope: File_66 compact routing, Register v1.37 pointer, reciprocal File_10 / File_17 / File_19 maintenance, and Archive v1.45 pending-history pointer.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.37; (2) File_66 added to Repository scope and Direct integration; (3) selected File_66 states appended to the active modal-state header; (4) compact File_66 summary added at §10.17; (5) Appendix AA §D.30 route added; (6) File_66 reciprocal controller boundaries in Files 10, 17, and 19 recorded; (7) closing scope and current-control lines refreshed; (8) no Primary-anchor inventory change.
+- Verification status: exact Primary-anchor-line preservation; Register / Capsule coherence; §D.30 route integrity; all sixty-four File_66 and eight reciprocal guards present in Register v1.37; Markdown-table, heading, fence, stale-pointer, and scope checks PASS.
+- Arithmetic and statistical status: File_66 full post-final pressure-test `176/176` manifest and `199/199` additional body arithmetic PASS recorded; all `29` A7 qualifying spans and `p ≈ 0.00612` replicated; no arithmetic was changed by the Capsule update.
+- Anchor status: no File_66 local Actual/Historical, Verbatim/Schematic, latent, conditional, astronomical, generated, preferred-comparison, appendix, statistical, or providential coordinate promoted to the Primary anchors inventory.
+- Reciprocal status: Files 10, 17, and 19 bounded File_66 pointers remain focused verified; the Capsule imports only their controller boundaries and exact guards, not File_66’s proof burden.
+- External-archive status: July 2026 preservation captures predate Files 65–66 and the August 3–4 replacement packages; later live publication and preservation capture remain external tasks.
+- Cross-file status: Register v1.37 and Capsule v11.36 complete; bounded pointer refreshes of File_66 and Files 10, 17, and 19 prepared; Style Guide / Project Procedures current-pointer refresh, Repository Change Archive v1.45 append, manifest, indexes, landing page, publication layers, and archival release remain separate tasks.
+- Status: Revised control file; v11.36 File_66 routing and reciprocal-control maintenance complete.
+
+## Revision Log (v11.35)
+
+- File: `Restart_Capsule_v11.35`
+- Revision date: August 3 2026
+- Prior version: v11.34 retained unaltered as the prior-current record.
+- Scope: File_65 compact routing, Register v1.36 pointer, reciprocal File_08 / File_16 / File_29 / File_64 maintenance, and Archive v1.45 pointer closure.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.36; (2) File_65 added to Repository scope and Direct integration; (3) selected File_65 states appended to the active modal-state header; (4) compact File_65 summary added at §10.16; (5) Appendix AA §D.29 route added; (6) File_65 reciprocal controller boundaries recorded; (7) closing scope and current-control lines refreshed; (8) no Primary-anchor inventory change.
+- Verification status: exact Primary-anchor-line preservation; Register / Capsule coherence; D.29 route integrity; reciprocal-guard presence; Markdown-table, heading, fence, and stale-pointer checks PASS.
+- Arithmetic status: Final File_65 independent Pass 2 `257/257` PASS recorded; no arithmetic recomputed or changed by the Capsule update.
+- Pressure-test status: File_65 was not post-final pressure tested; Capsule v11.35 does not imply such status.
+- External-archive status: July 2026 preservation captures predate File_65 and the August 3 replacement package; later live publication and preservation capture remain external tasks.
+- Status: Revised control file; v11.35 File_65 routing and reciprocal-control maintenance complete.
+
+## Revision Log (v11.34)
+
+- File: `Restart_Capsule_v11.34`
+- Revision date: July 27 2026
+- Prior version: v11.33 retained unaltered as the prior-current record
+- Scope: expanded File_64 control routing and reciprocal File_04 / File_08 / File_16 non-collapse maintenance
+- Changes: (1) State Vocabulary Register pointer advanced to v1.35 and Repository Change Archive pointer aligned to current non-controlling v1.43; (2) selected File_64 July 27 states appended to the active modal-state header; (3) the compact File_64 summary expanded through the Jacob final-`70`, triple-`430`, Jacob–Daniel, Cainan–Terah / Judges, Judah `+50` / Israel `+33`, paired `930`, double-`400`, triple-`460`, census-palindrome, radius-matrix, and subordinate Flood states; (4) Appendix AA §D.28 refreshed to the current trust figures, fifty total guards, fifty-four tables, and reciprocal-control routing; (5) updated File_04, File_08, and File_16 controller boundaries recorded without transferring File_64 proof burden; (6) closing scope and current-control lines refreshed; (7) no Primary-anchor inventory change
+- Verification status: exact Primary-anchor-line preservation; State Register / Capsule version coherence; File_64 §D.28 trust-stat and state-routing integrity; File_04 / File_08 / File_16 reciprocal-controller presence; Markdown-table, heading, code-fence, and stale-current-pointer checks PASS
+- Anchor status: no File_64 `1016`, `999`, `963t/n`, `1922/1889`, `606/586/536`, `1076/956`, census-palindrome, radius-matrix, Flood, AD, or other local / schematic / derived coordinate promoted to the Primary anchors inventory
+- Operator status: the Jacob `−33`, triple-`430`, Northern reign-ledger back-projection, alternative single-`33`, same-side radius, paired `930`, census-threshold, and Flood comparison executions remain file-local or dependency-controlled applications; no new repository-wide operator is created
+- Claim-status boundary: the protected Judges ledger remains the proof of `1016 BC`; Jacob–Daniel, Bethel–Adam, royal, Cainan–Terah, census, radius, and Flood material remains downstream structural, typological, theological, providential, dependency-controlled, or appendix evidence according to Register §D.28
+- Pressure-test status: File_64 core post-final `3076/3076` PASS and final trust-status closure `3078/3078` PASS recorded; the July 26 `1025/1025` run remains the historical baseline for the protected original state
+- Cross-file status: Register v1.35 and Capsule v11.34 complete; updated File_04, File_08, and File_16 reciprocal sources complete; Style Guide and Project Procedures companion-pointer refresh, Repository Change Archive July 27 record, manifest, indexes, landing page, archive deposits, and derived publication layers remain separate tasks
+- Status: Revised control file; v11.34 expanded File_64 routing and reciprocal-control maintenance complete
+
+## Revision Log (v11.33)
+
+- File: `Restart_Capsule_v11.33`
+- Revision date: July 26 2026
+- Prior version: v11.32 retained unaltered as the prior-current record
+- Scope: bounded File_64 control routing and File_63 post-final pressure-test trust-status update
+- Changes: (1) State Vocabulary Register pointer advanced to v1.34; (2) File_64 added to Repository scope and Direct integration; (3) selected File_64 states and the File_63 post-final / File_64 interface states appended to the active modal-state header; (4) File_64 summary paragraph added; (5) Appendix AA §D.27 refreshed for `2325/2325` and the bounded `1476−1016=460=20×23` interface; (6) Appendix AA §D.28 route added; (7) closing scope and version lines refreshed; (8) no Primary-anchor inventory change
+- Verification status: exact Primary-anchor-line preservation, Register/Capsule version coherence, File_63 and File_64 Appendix AA route integrity, selected-state presence, repository-scope / direct-integration presence, Markdown-table structure, heading structure, and stale-current-pointer checks PASS
+- Anchor status: no File_64 schematic `1016 BC`, local Jephthah coordinate, appendix projection, providential AD terminal, or File_63 derived interface coordinate promoted to the Primary anchors inventory
+- Operator status: the File_64 printed-duration ledger, category partition, `300/299`, and opening–joint–closure display remain file-local applications; the update creates no new repository-wide operator
+- Claim-status boundary: the bounded same-book Judges arithmetic may support plausible scribal arrangement; the Judges epilogue reading remains compositional / literary; the AD 135 outer envelope remains providential synchronization; the historical Temple remains `967/966 BC`
+- Pressure-test status: File_64 full post-final `1025/1025` PASS and File_63 full post-final `2325/2325` PASS recorded
+- Cross-file status: Register v1.34 and Capsule v11.33 complete; Repository Change Archive v1.42 remains current but requires a separate File_64 / File_63 update; Style Guide pointer refresh, manifest, indexes, landing page, raw-source index, and derived publication layers remain separate tasks
+- Status: Revised control file; v11.33 File_64 routing and File_63 pressure-test update complete
+
+
+## Revision Log (v11.32)
+
+- File: `Restart_Capsule_v11.32`
+- Revision date: July 25 2026
+- Prior version: v11.31 retained unaltered as the prior-current record
+- Scope: bounded File_63 July 25 integrated-amendment routing update
+- Changes: (1) Register pointer advanced to v1.33 and Archive pointer to v1.42; (2) selected File_63 `12000/12005/12075`, corporate Israel, `144000/144060/144900`, File_59 quarter-census, cumulative Jacob–Levi, Covenant-stars, common-seed dual-Key, double-`115`, tithe-remainder, Magi-restraint, and `400×364` states appended; (3) Appendix AA §D.27 route updated to forty-six total Machine Guards and the four focused amendment suites; (4) closing scope and version lines refreshed; (5) no Primary-anchor inventory change
+- Verification status: exact primary-anchor-line preservation, Register/Capsule version coherence, Appendix AA row integrity, Markdown-table structure, heading structure, and stale-current-pointer checks PASS
+- Anchor status: no File_63 proposed phase, author-designated comparison, derived translation, macro-head, Temple-corridor, Covenant-macro-head, AD rail, or precessional coordinate promoted
+- Operator status: `τ_s` remains File_63-local; `H7/T14` remain local to Files 61–62; the Covenant and twelvefold equations are registered applications, not repository-wide operators
+- Claim-status boundary: same-side BC structures may be plausibly scribal; corporate Israel, tithe, Temple gestation, and Magi material remain structural / typological / theological as labeled; Mirror, Christological macro-head, and precessional completions remain providential
+- Pressure-test status: File_63 full post-final pressure test remains pending and is not claimed
+- Cross-file status: Register v1.33, Capsule v11.32, and Archive v1.42 complete; Style Guide companion-pointer refresh, manifest, indexes, landing page, raw-source index, and derived publication layers remain separate tasks
+- Status: Revised control file; v11.32 File_63 amendment routing complete
+
+## Revision Log (v11.31)
+
+- File: `Restart_Capsule_v11.31`
+- Revision date: July 24 2026
+- Prior version: v11.30 File_62 routing stage, constructed within this bounded replacement from the supplied v11.29 source
+- Scope: bounded File_63 control-routing update plus completion of the File_62 stage
+- Changes: (1) Register pointer advanced to v1.32; (2) File_63 added to Repository scope and Direct integration; (3) selected File_63 modal states appended; (4) precise `1050t/n→1010t/n→970t/n→930t/n BC` source-controlled royal fields added to the Primary-anchor inventory while the Rounded `1051n→1011n→971n→931n BC` rail remains a modal comparison state; (5) Appendix AA §D.27 route added; (6) File_62 §D.26 route and reciprocal pointer retained; (7) closing scope and version lines refreshed
+- Verification status: machine diff, exact-token routing, anchor-tier, table, heading, code-fence, and stale-pointer checks PASS
+- Anchor status: no File_63 proposed phase, derived translation, macro-head, Temple-corridor, AD rail, or precessional coordinate promoted. Only the corrected precise royal phase fields, already source-controlled in Files 08 and 18, were added to the Capsule Primary-anchor inventory
+- Operator status: `τ_s` remains File_63-local shorthand for ordinary same-side translation; `H7/T14` remain local to Files 61–62; no new repository-wide operator created
+- Claim-status boundary: same-side BC architecture may be plausibly scribal; Mirror and precessional completion remain providential; File_63 has no post-final pressure test yet
+- Cross-file status: File_62 reciprocal pointer, Register v1.32, and Capsule v11.31 complete; Archive, Manifest, indexes, and publication layers remain pending
+- Status: Revised control file; v11.31 File_63 routing complete; diff-audited July 24 2026
+
+## Revision Log (v11.30)
+
+- File: `Restart_Capsule_v11.30`
+- Revision date: July 24 2026
+- Prior version: v11.29 supplied source edition
+- Scope: bounded File_62 control-routing stage, subsumed by v11.31
+- Changes: (1) File_62 added to Repository scope and Direct integration; (2) Register §D.26 and selected File_62 modal states routed; (3) corrected File_61 focused-amendment status refreshed; (4) no File_62 proposed phase, derived clutch, Joseph collateral, Joshua comparison, BJ reconstruction, or Noah comparison coordinate promoted to Primary-anchor status
+- Verification status: File_62 full post-final `1071/1071` PASS and corrected File_61 focused `2028/2028` PASS retained; routing diff checked
+- Operator status: `H7/T14` remain local to Files 61–62 and are not promoted to repository-wide variants
+- Status: Intermediate File_62 routing stage; fully incorporated into v11.31
+
+
+## Revision Log (v11.29)
+
+- File: `Restart_Capsule_v11.29`
+- Revision date: July 21 2026
+- Prior version: v11.28 retained unaltered as the prior-version record
+- Scope: bounded File_61 control-routing update only
+- Changes: (1) State Vocabulary Register pointer advanced from v1.29 to v1.30; (2) File_61 Final added to Repository scope and Direct integration files; (3) selected File_61 modal states appended to the header; (4) Appendix AA row added routing File_61 to Register Part D §D.25; (5) closing self-contained scope and version/status lines refreshed; (6) detailed File_61 state vocabulary and thirty-three Machine Guards remain in Register §D.25 and the Final file rather than re-accreting in the Capsule
+- Verification status: machine diff confirms the v11.28 body and historical logs remain unchanged outside the bounded header, Appendix AA, closing-scope, and new revision-log edits
+- Anchor status: no Primary anchors inventory change. File_61’s clutch coordinates, collateral Joseph heads, phase displays, extremal envelope coordinates, Joshua cumulative register, and restored-Cainan/Apparent heads remain derived, local, cumulative, or dependency-controlled states under Register §D.25
+- Operator status: the fourteen-year clutch remains a File_61-local operator and is not promoted to a repository-wide chronological variant by this Capsule routing
+- Claim-status boundary: the arithmetic root-system, double-portion, and Joshua-translation equations remain arithmetic facts under declared states; deliberate hidden-age design, crossed-hands meaning, gestation, Joseph-bones resurrection symbolism, and the inverse-tree metaphor retain their File_61 structural / typological / providential classifications
+- Pressure-test status: File_61 full post-final pressure test complete July 21 2026; `464/464` checks PASS; `288/288` arithmetic-ledger rows, `18/18` Markdown tables, and thirty-three Machine Guards verified; no publication blocker
+- Cross-file status: Repository Change Archive, Publication Manifest, dependency files, and publication layers remain pending separate author-directed review; no such file is altered by this Capsule replacement
+- Status: Revised control file; v11.29 File_61 control-routing update; diff-audited July 21 2026
+
+## Revision Log (v11.28)
+
+- File: `Restart_Capsule_v11.28`
+- Revision date: July 19 2026
+- Prior version: v11.27 retained unaltered as the prior-version record
+- Scope: bounded File_60 post-final pressure-test status routing only
+- Changes: (1) State Vocabulary Register pointer advanced from v1.28 to v1.29; (2) File_60 post-final pressure-test status routed at Appendix AA §D.24; (3) existing modal states, Repository scope, Direct integration, Machine Guards, control boundaries, and Primary-anchor non-promotion retained unchanged; (4) closing version/status lines refreshed
+- Verification status: machine diff confirms the v11.27 body and historical logs remain unchanged outside the bounded header, Appendix AA, closing-scope, and new revision-log edits
+- Anchor status: no Primary anchors inventory change. File_60’s `1879`, `1742`, `1566 BC`, AD Mirror labels, and cumulative branch coordinates remain transformed, local, or dependency-controlled states under Register §D.24
+- Claim-status boundary: File_60’s `579600 = 161 × 3600` may be plausibly scribal; the wider Mirror and cumulative network remains structural / providential absent source-critical proof
+- Pressure-test status: File_60 post-final pressure test complete July 19 2026; `342/342` checks PASS; no publication blocker
+- Status: Revised control file; v11.28 File_60 post-final pressure-test routing update; diff-audited July 19 2026
+
+## Revision Log (v11.27)
+
+- File: `Restart_Capsule_v11.27`
+- Revision date: July 19 2026
+- Prior version: v11.26 retained unaltered as the prior-version record
+- Scope: bounded File_60 control-routing update only
+- Changes: (1) State Vocabulary Register pointer advanced from v1.27 to v1.28; (2) File_60 Final added to Repository scope and Direct integration files; (3) selected File_60 modal states appended to the header; (4) Appendix AA row added routing File_60 to Register Part D §D.24; (5) closing scope and version/status lines refreshed
+- Verification status: machine diff confirms the v11.26 body and historical logs remain unchanged outside the bounded header, Appendix AA, closing-scope, and new revision-log edits
+- Anchor status: no Primary anchors inventory change. File_60’s `1879`, `1742`, `1566 BC`, AD Mirror labels, and cumulative branch coordinates remain transformed, local, or dependency-controlled states under Register §D.24
+- Claim-status boundary: File_60’s `579600 = 161 × 3600` may be plausibly scribal; the wider Mirror and cumulative network remains structural / providential absent source-critical proof
+- Pressure-test status: File_60 has completed Pass 2 Verification but has not undergone a post-final pressure test
+- Status: Revised control file; v11.27 File_60 Register-routing update; diff-audited July 19 2026
+
+## Revision Log (v11.26)
+
+- File: `Restart_Capsule_v11.26`
+- Revision date: July 18 2026
+- Prior version: v11.25 retained unaltered as the prior-version record.
+- Scope: minimal control-routing update only; no new Capsule arithmetic, Primary anchors, Major modal states, per-file vocabulary, Machine Guards, or dependency mechanics added.
+- Changes: (1) State Vocabulary Register pointer advanced from v1.26 to v1.27; (2) Appendix AA File_59 row refreshed for the Levitical Firstborn-Reconciliation / tribal mod-100 amendment and focused `382/382` pressure-test PASS; (3) closing scope and version/status lines refreshed; (4) no File_59 vocabulary duplicated because Register Part D §D.23 remains the controlling route.
+- Verification status: focused Capsule check confirms the v11.25 body and historical logs remain unchanged outside the bounded header, Appendix AA, closing-scope, and new revision-log edits.
+- Anchor and state status: no Primary anchors inventory change and no Major modal states inventory change. The stated `22000`, exact `22273`, nearest-hundred `22300`, MT clan-row subtotal `22300`, Levitical operators, and seven new Machine Guards remain controlled by File_59 and State Vocabulary Register v1.27 §D.23.
+- Status: Revised control file; v11.26 minimal File_59 Levitical / mod-100 Register-routing update; focused checked July 18 2026.
+
+
+## Revision Log (v11.25)
+
+- File: `Restart_Capsule_v11.25`
+- Revision date: July 16 2026
+- Prior version: v11.24 retained unaltered as the prior-version record.
+- Passes completed: bounded File_59 Quadrant-Head / Judah / Jordan-Mirror integration; State Vocabulary Register v1.26 comparison; Appendix AA route audit; modal-state append; anchor-tier audit; machine diff.
+- Changes: (1) State Vocabulary Register pointer advanced to v1.26; (2) selected File_59 quadrant-head, Judah, civil Cross-Mirror, bilateral Revelation, Luke-center, and SKL counterpart-rail states appended to the header; (3) Appendix AA File_59 row refreshed; (4) no Primary anchors inventory change; (5) bounded reciprocal pointers confirmed in Files 13, 16, 17, 21, 41, 54, and 55, with Files 06, 20, 43, and 51b retained by dependency routing only; (6) version / status / closing-scope lines refreshed.
+- Verification status: File_59 retains the original independent Pass 2 and full post-final pressure test; the bounded amendment passed `162/162` focused checks, with original proof-bearing §§2–11 and Appendix D unchanged.
+- Anchor status: all new File_59 outputs remain local derived, display-only, dependency-controlled, providential, or appendix-only states under Register §D.23.
+- Status: Revised control file; v11.25 File_59 bounded amendment integration and reciprocal-maintenance closure; diff-audited July 16 2026.
+
+## Revision Log (v11.24)
+
+- File: `Restart_Capsule_v11.24`
+- Revision date: July 16 2026
+- Prior version: v11.23 retained unaltered as the prior-version record.
+- Passes completed: bounded File_59 integration after author-invoked Finalization and full post-final pressure test; State Vocabulary Register v1.25 comparison; reciprocal content-file routing audit; Appendix AA route update; direct-integration and scope audit; anchor-tier audit; machine diff.
+- Changes: (1) File_59 Final post-final pressure tested added to Repository scope and Direct integration files; (2) Appendix AA row added routing File_59 to Register Part D §D.23; (3) selected File_59 modal states appended to the header; (4) State Vocabulary Register pointer advanced to v1.25; (5) bounded reciprocal pointers to Files 57, 58, 13, 19, 21, 34, 41, 51a, and 55 recorded; (6) version / status / closing-scope lines refreshed.
+- Anchor status: no Primary anchors inventory change. File_59's `604086 BC`, `AD 61915`, dual `144000` placement coordinates, Key-of-23 branch coordinates, and individual-tribe outputs remain local derived or dependency-controlled states under Register §D.23.
+- Verification status: File_59 retains independent Pass 2 verification and the full post-final `300/300` pressure-test PASS. The present integration changes no arithmetic.
+- Status: Revised control file; v11.24 File_59 integration update; diff-audited July 16 2026.
+
+## Revision Log (v11.23)
+
+- File: `Restart_Capsule_v11.23`
+- Revision date: July 12 2026
+- Prior version: v11.22 retained unaltered as the prior-version record.
+- Passes completed: author-invoked File_58 full post-final Pressure Test; State Vocabulary Register v1.25 comparison; bounded File_57 / File_20 focused pressure tests; anchor-tier audit; Appendix AA route audit; machine diff.
+- Changes: (1) File_58 status advanced to Final post-final pressure tested; (2) File_57 and File_20 bounded routing updates marked focused pressure tested; (3) Register pointer advanced v1.23 → v1.24; (4) current status, Appendix AA, closing pointer, and revision lines refreshed.
+- Pressure-test result: PASS. The only File_58 source change was bounded publication-clean removal of two stale active `Pass 1B` labels. No arithmetic, Primary anchor, operator, modal state, Machine Guard, claim-status category, theological claim, or dependency boundary changed.
+- Anchor status: no Primary anchors inventory change. File_58 local / appendix-only / rounded / shared-label / Johannine proposal states remain non-promoted.
+- Status: Revised control file; v11.23 File_58 post-final pressure-test closure; diff-audited July 12 2026.
+
+## Revision Log (v11.22)
+
+- File: `Restart_Capsule_v11.22`
+- Revision date: July 12 2026
+- Prior version: v11.21 retained unaltered as the prior-version record.
+- Passes completed: bounded File_58 integration after author-invoked Finalization; State Vocabulary Register v1.23 comparison; File_57 / File_20 routing audit; Appendix AA route update; direct-integration and scope audit; anchor-tier audit; machine diff.
+- Changes: (1) File_58 Final added to Repository scope and Direct integration files; (2) Appendix AA row added routing File_58 to Register Part D §D.22; (3) selected File_58 modal states appended to the header; (4) State Vocabulary Register pointer advanced to v1.23; (5) bounded File_57 / File_20 routing updates recorded; (6) version/status/END lines and closing self-containment paragraph updated.
+- Anchor status: no Primary anchors inventory change. File_58's principal chronology labels are already dependency-controlled repository anchors; `1806 BC`, `1873 BC`, Benjamin `1906 BC`, and `AD 31t/32n` / `AD 32t` remain rounded, appendix-only, shared-label, or proposal states under Register §D.22.
+- Verification status: File_58 Pass 2 passed `253/253` arithmetic checks and `30/30` lint / dependency checks. No post-final Pressure Test is claimed or performed in this update.
+- Cross-file status: State Vocabulary Register v1.23, bounded File_57 and File_20 replacements, and the File_58 Final source are supplied. Repository_Change_Archive addendum supplied. Publication manifest, indexes, WordPress, GitHub, and archival-release updates remain the next publication stage.
+- Status: Revised control file; v11.22 File_58 integration update; diff-audited July 12 2026.
+
+## Revision Log (v11.21)
+
+- File: `Restart_Capsule_v11.21`
+- Revision date: July 11 2026
+- Prior version: v11.20 retained unaltered as the prior-version record.
+- Passes completed: bounded File_57 integration after author-invoked Finalization and immediate post-final pressure test; State Vocabulary Register v1.22 comparison; Appendix AA route update; direct-integration and scope audit; anchor-tier audit; machine diff.
+- Changes: (1) File_57 Final post-final pressure tested added to Repository scope and Direct integration files; (2) Appendix AA row added routing File_57 to Register Part D §D.21; (3) selected File_57 modal states appended to the header; (4) State Vocabulary Register pointer advanced to v1.22; (5) version/status/END lines and closing self-containment paragraph updated.
+- Anchor status: no Primary anchors inventory change. File_57's `221766 BC`, `120966 BC`, `AD 119515`, `240486 BC`, `AD 239035`, `87486 BC`, and `AD 86035` are derived comparison coordinates, not repository endpoint anchors.
+- Audit findings recorded: File_57's local list arithmetic carries the primary proof; the Issacharite-coterie, Messianic-awareness, and remote SKL / Berossus states retain historical-critical / providential classifications. The comparison is with the ancient king-list grammar later represented by SKL / Berossus; direct dependence on a surviving Berossus text is not claimed.
+- Cross-file updates required: (1) publish by overwriting `control/Restart_Capsule.md`, after archiving v11.20 under a versioned filename; (2) replace State Vocabulary Register v1.21 with v1.22; (3) install File_57 Final post-final pressure tested; (4) append the File_57 Finalization / pressure-test / control-registration record to Repository_Change_Archive when the current source is supplied; (5) bounded content-file pointers listed in File_57 remain optional follow-up items.
+- Status: Revised control file; v11.21 File_57 integration update; diff-audited July 11 2026.
+
+## Revision Log (v11.20)
+
+- File: `Restart_Capsule_v11.20`
+- Revision date: July 9 2026
+- Passes completed: bounded one-line external-archive extension update with machine diff; author-directed July 8–9 2026.
+- Changes: (1) v11.20 Status entry recording the July 8–9 2026 archival extension per Project Procedures v3.5 §20; (2) `External-archive state` line extended (Tier-4 GitHub mirror with release v2026-07 and auto-deposit DOI 10.5281/zenodo.21284211; Tier-5 Software Heritage SWHID; Manifest pointer advanced v5 → v6; Procedures pointer within the line advanced v3.4 → v3.5); (3) Style basis Procedures pointer advanced v3.4 → v3.5; (4) closing self-containment paragraph Procedures pointer advanced v3.4 → v3.5; (5) version / status / END lines updated. No Primary anchors inventory change; no modal states added. No arithmetic, anchor value, active modal-state logic, node-class, sign convention, operator, slash-pair, range, envelope, Mirror protocol, pre-existing Machine Guard content, claim-status label, theological claim, or dependency boundary altered.
+- Cross-file updates required: (1) publish by overwriting `control/Restart_Capsule.md`, after copying the superseded v11.19 edition to `/archive/` under a versioned filename; (2) Project_Procedures v3.5, Repository_Change_Archive v1.33, and Publication Manifest v6 publish with this edition (supplied together); (3) File_56 full pressure test remains Scheduled per its own header.
+- Status: Revised control file; v11.20 external-archive extension update; diff-audited July 9 2026
 
 ## Revision Log (v11.19)
 
@@ -2564,3 +3574,15 @@ Self-contained for its own domain:
 - Cross-file updates required: (1) State_Vocabulary_Register — replace v1.12 with v1.13; (2) Style Guide v2.5 Active companion controls — refresh Register v1.12 → v1.13 and Capsule v11.11 → v11.12; (3) Project knowledge — replace the v11.11 Capsule and v1.12 Register with these editions; (4) Repository_Change_Archive — append the File_52a / File_52b finalization / pressure-test / cross-file audit record when the current Archive source is supplied.
 - Status: Revised control file; v11.12 File_52a / File_52b post-final registration update; diff-audited June 26 2026.
 
+
+
+## Revision Log — September 8 2026 Lamech settlement
+
+- Capsule v11.52 / Register v1.53 §D.43; prior v11.51 preserved.
+- Added compact §10.30 and updated Lamech-only routing. Inherited Sothic, calibration, phase, and Primary-anchor controls remain unchanged.
+- Focused verification only; separate Unity rerun and publication work remain downstream. No full pressure test, separate source re-Finalization, or deployment claimed.
+
+
+## Bounded source-hierarchy clarification — September 8 2026
+
+Capsule v11.53 / Register v1.54 §D.43 retain the v11.52 / v1.53 numerical settlement while distinguishing attested LXX `753`, its author-preferred original status, restored `182`, and calculated `571`. The joint-attestation caveat concerns the combination only. Prior v11.52 preserved; no chronological input, operator, Primary anchor, or research result changed. Focused verification only; no new full pressure test or website deployment claimed.

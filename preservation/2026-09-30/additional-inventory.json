@@ -1,0 +1,50 @@
+[
+  {
+    "path": "source-sitemap.xml",
+    "url": "https://490d.com/source/490d-unified-chronology/sitemap.xml",
+    "final_url": "https://490d.com/source/490d-unified-chronology/sitemap.xml",
+    "bytes": 23044,
+    "sha256": "6afd37b4fefce8c615b143a14e2d480777f4f0b4c921f3cb91fdd5bbcc4c947e",
+    "last_modified": "Sat, 29 Aug 2026 15:48:53 GMT",
+    "content_type": "application/xml",
+    "retrieved_utc": "2026-09-30T14:52:55.137796+00:00",
+    "scope": "Original source sitemap; contains older publication pointers"
+  },
+  {
+    "path": "historical-publication/490d_publication_manifest_v28_archive_pointers.csv",
+    "url": "https://490d.com/source/490d-unified-chronology/manifest/490d_publication_manifest_v28_archive_pointers.csv",
+    "final_url": "https://490d.com/source/490d-unified-chronology/manifest/490d_publication_manifest_v28_archive_pointers.csv",
+    "bytes": 87165,
+    "sha256": "9ff353be4acd479f49042b01d3d3d911b7f7a8394861087218c82312c89bc5fc",
+    "last_modified": "Sat, 29 Aug 2026 15:36:42 GMT",
+    "content_type": "text/csv; charset=UTF-8",
+    "retrieved_utc": "2026-09-30T14:52:55.116059+00:00",
+    "scope": "Prior publication manifest directly referenced in source sitemap"
+  },
+  {
+    "path": "historical-publication/490d_publication_manifest_v28_archive_pointers.xlsx",
+    "url": "https://490d.com/source/490d-unified-chronology/manifest/490d_publication_manifest_v28_archive_pointers.xlsx",
+    "final_url": "https://490d.com/source/490d-unified-chronology/manifest/490d_publication_manifest_v28_archive_pointers.xlsx",
+    "bytes": 32910,
+    "sha256": "aa8f24b924db87ac446b4146d10ca45d07bc9d59ef1f0fa2d33ab78b30b052be",
+    "last_modified": "Sat, 29 Aug 2026 15:36:42 GMT",
+    "content_type": "text/plain; charset=UTF-8",
+    "retrieved_utc": "2026-09-30T14:52:55.031096+00:00",
+    "scope": "Prior publication manifest directly referenced in source sitemap"
+  },
+  {
+    "url": "https://490d.com/source/490d-unified-chronology/File_70_Supplement_A.Key_of_23_Fine_Resolution_720_30_Rail.md",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "path": "external-chart-dependency/chart.umd.js",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js",
+    "bytes": 205125,
+    "sha256": "74401d738dd3e03ee5dfb3b6841210fe2c4ead8a960c4011ca4ba0b78a9fd8f3",
+    "last_modified": "Tue, 05 Dec 2023 02:05:56 GMT",
+    "content_type": "application/javascript; charset=utf-8",
+    "retrieved_utc": "2026-09-30T14:52:53.744794+00:00",
+    "scope": "Chart.js 4.4.1 dependency explicitly referenced by original chart HTML; original HTML remains unchanged"
+  }
+]

@@ -3,22 +3,70 @@ Title: Prophetic Time Span Anatomy
 Entity: Prophetic Time Span Anatomy
 Classification: Foundational Axiom / Internal Structure Reference
 UUID: AXIOM_TIMESPAN_COMPONENTS
-Status: Final; Priestly 336-day Ledger cross-file update applied; File_14 Biological Fractals cross-file update applied; File_15 Generational Axiom cross-file update applied; File_19 Hezekiah / Temple 430 cross-file update applied; 1876 Cainan macro-vector cross-file update applied; File_26 precessional-season cross-file update applied; Samaria Node cross-file update applied; Ezekiel Date-String cross-file update applied; bounded cross-file updates focused pressure tested under current Register Agreement; Ezekiel endpoint-derivation / siege-frame / SP year-mirror bounded update applied (July 2026)
-Pressure-test status: Current; focused pressure test complete for Priestly 336-day Ledger, File_14 Biological Fractals, File_15 Generational Axiom, File_19 Hezekiah / Temple 430, 1876 Cainan macro-vector, File_26 precessional-season, Samaria Node, and Ezekiel Date-String bounded cross-file updates; prior post-final pressure-tested status retained. Focused check complete for the endpoint-derivation / siege-frame / SP year-mirror bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.19 and active companion controls; bounded §13A extension (data rows; §13A.3 rows; §13A.3a; §13A.4 sibling; §13A.8 closure; §13A.9) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Final; Priestly 336-day Ledger cross-file update applied; File_14 Biological Fractals cross-file update applied; File_15 Generational Axiom cross-file update applied; File_19 Hezekiah / Temple 430 cross-file update applied; 1876 Cainan macro-vector cross-file update applied; File_26 precessional-season cross-file update applied; Samaria Node cross-file update applied; Ezekiel Date-String cross-file update applied; bounded cross-file updates focused pressure tested under current Register Agreement; Ezekiel endpoint-derivation / siege-frame / SP year-mirror bounded update applied (July 2026); File_59 Judah dual-Key instance pointer applied and focused checked July 16 2026; bounded File_62 dual-`490` reciprocal pointer applied (July 2026); bounded Final File_66 common-`2580` / `1150→1250` reciprocal update applied August 4 2026; bounded File_67 reciprocal pointer applied August 10 2026; bounded Final File_68 reciprocal pointer applied August 13 2026; bounded Final File_69 reciprocal pointer applied August 17 2026.
+Pressure-test status: Current; prior full and focused pressure-test results retained; focused verification complete August 4 2026 for the bounded Final File_66 reciprocal update; no new full pressure test is claimed and no publication blocker remains; focused reciprocal-routing verification complete August 10 2026 for the bounded File_67 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 13 2026 for the bounded File_68 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed.
+Reciprocal-routing verification status: File_62 and Final File_66 pointers applied and bounded machine-diff, exact-arithmetic, dependency, Machine-Guard, Markdown-structure, and publication-clean checks completed through August 4 2026; no new full pressure test was performed for either bounded update; bounded Final File_68 pointer applied and focused machine-diff, dependency, guard, and Markdown checks completed August 13 2026; no new full pressure test; bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.37 Part D §D.30 and Restart Capsule v11.36; the common-`2580`, `1150/1250`, and Precession-Square dependency guards are registered. File_17 retains control of the ordinary ratio and precessional-day grammar; no File_17 Primary anchor, ratio definition, calendar state, or prior proof spine is changed; File_67 reciprocal guard registered at State_Vocabulary_Register v1.39 §D.31 and routed through Restart Capsule v11.38; no pre-existing proof-bearing state or Primary anchor changed; File_68 reciprocal guard registered at State Vocabulary Register v1.40 Part D §D.32 and routed through Restart Capsule v11.39; no pre-existing proof-bearing state or Primary anchor changed; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed.
 Primary domain: Prophetic; Calendar; Comparative; Theological
 Traditions: MT; SP; LXX; Enochian; Jubilee; Second Temple
 Canonical source: Markdown
 Primary anchors: 931/930 BC; 736/735 BC; 701 BC; 686 BC; 671/670 BC; 606/605 BC; 541/540 BC; 1878–1871 BC; 1876–1871 BC; 1876 BC; 726–721 BC; late 722 BC ±1; 1846 BC; 1662/1661 BC; 1661 BC; 1446 BC; 1406 BC; 1399 BC; 606 BC; 587/586 BC; 967/966 BC; 537/536 BC; 516 BC; 490 BC; 2166 BC; 2091 BC; 2556 BC; 168–165 BC; 4116 BC; 4114 BC; 4176 BC; 4176n BC; 3901n BC; 3900n BC; 1476 BC; 1366 BC; AD 60; AD 29515; 168; 270; 275; 276; 280; 336; 364; 1260; 1274; 2150; 2160; 25800; 25920; 8600; 8640; 593 BC; 585 BC; 588 BC
-Related files: `File_00`; `File_04`; `File_05`; `File_07`; `File_08`; `File_10`; `File_12`; `File_13`; `File_14`; `File_15`; `File_16`; `File_18`; `File_19`; `File_22`; `File_26`; `File_30`; `File_51a`; Restart Capsule v11.18; 490d Repository Style Guide v2.5; Project Procedures v3.3; State Vocabulary Register v1.19
-Major operators: same-side BC span; Key of 23; `25/23`; `70/69`; prophetic year `360`; Enochian year `364`; Cainan macro-vector B6 by dependency; audit-controlled `2307` companion; Priestly 336-day Ledger; `24 × 7 = 168`; `168 + 168 = 336`; `24 × 14 = 336`; `4 × 7 = 28`; `336 + 28 = 364`; leap month `30`; purification/testing `40`; Jubilee `49`; Danielic `490`; Sojourn `430`; Affliction `400`; Canaan/Egypt division `215 + 215`; `1260`; `1274`; `1290`; `1335`; `1334`; `1150`; Samaria Node `1876–1871 BC → 726–721 BC`; `2300`; `2340`; `2520`; `2700`; `2730`; `1656`; `1800`; standard precessional day `72`; alternate precessional day `71⅔ years = 215/3`; standard precessional month `2160 = 30 × 72`; alternate precessional month `2150 = 30 × 71⅔`; standard precessional season `8640 = 120 × 72`; alternate precessional season `8600 = 120 × 71⅔`; File_15 authorized generational units; call-to-death generational-span register; exact normalized triad `100:70:40 = 10:7:4`; Abrahamic-base fractions `10/10`, `7/10`, `4/10 = 2/5`; generational LCM `LCM(40, 70, 100) = 1400`; File_19 Hezekiah `720`; File_19 `185000`; `2150 = 5 × 430 = 10 × 215`; `36 + 394.5 = 430.5`; `967 BC` second month → `537 BC` second month = `430`; `1446 BC → 586 BC = 860 = 2 × 430 = 4 × 215`; `391 = 17 × 23`; Ezekiel day-quartet `5 | 7 | 10 | 12 = 2 + 3 + 2`; `2550 = 1260 + 1290`; `2730 = 430 + 2300`; `1075 = 2.5 × 430`; `2580 = 430 + 2150 = 430 × 6`; inclusive close `1655 / 1656`; leap-month scheme-instance by File_12 §7A dependency
-Major modal states: prophetic component state; textually explicit span state; inferred component state; Cainan macro-vector B6 state; audit-controlled `2307` / solar companion state; MT Ezekiel state; LXX Ezekiel state; SP Sojourn state; Sojourn / Affliction offset; Samaria Node `1150` half-cycle state; precessional display state; File_26 precessional month / season dependency state; File_19 Hezekiah prophetic complex state; Immanuel 65/49 crossing state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; AD 29515 actual Pillar state by File_10 / File_19 dependency; Priestly 336-day Ledger state; Priestly-Enochian bridge corollary state; Priestly-Enochian half-week straddle state; Enochian half-week state; Jubilee register; Key-of-23 conversion state; purification-extension state; biological-fractal state; variant-gap gestation state; `276` full-year boundary-extension state; Triple-1656 Spine; `587/586 BC` adjacent Fall of Jerusalem date-state; File_15 authorized generational-unit state; call-to-death generational-span register; exact normalized generational triad; generational LCM state; ordered endpoint-pair display state; decree-average state; slash-pair / range / envelope state; Creation-week / Year-6 state; typological reading; theological note; exploratory note; dependency-controlled cross-reference state; Ezekiel date-string state; siege-frame derivation state; SP year-mirror display state; leap-month scheme-instance state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.18; State Vocabulary Register v1.19; Project Procedures v3.3; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.18, State_Vocabulary_Register v1.19, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded Ezekiel Date-String addition (§13A) registered from the Cumulative-page publication discussion record; companion pointers refreshed to Restart Capsule v11.18, State_Vocabulary_Register v1.19, and Project Procedures v3.3.
+File_66 dependency-controlled comparison values: 841 BC; 1150; 1250; 184900; 185000; 185150; 2580; 25921; 1296050
+Related files: `File_00`; `File_04`; `File_05`; `File_07`; `File_08`; `File_10`; `File_12`; `File_13`; `File_14`; `File_15`; `File_16`; `File_18`; `File_19`; `File_22`; `File_26`; `File_30`; `File_51a`; `File_59`; `File_61`; `File_62`; `File_66`; Restart Capsule v11.36; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.37; File_67; File_68; File_69
+Major operators: same-side BC span; Key of 23; `25/23`; `70/69`; File_62 half-scale instances `40.25 × 25/23 = 43.75` and `80.5 × 25/23 = 87.5`; File_62 dual-`490` routes `402.5 + (80.5 × 25/23) = 490` and `483 × 70/69 = 490`; File_62 calendar-equivalent closure `483 × 25/23 = 525` and `525 × 336 = 490 × 360 = 176400`; prophetic year `360`; Enochian year `364`; Cainan macro-vector B6 by dependency; audit-controlled `2307` companion; Priestly 336-day Ledger; `24 × 7 = 168`; `168 + 168 = 336`; `24 × 14 = 336`; `4 × 7 = 28`; `336 + 28 = 364`; leap month `30`; purification/testing `40`; Jubilee `49`; Danielic `490`; Sojourn `430`; Affliction `400`; Canaan/Egypt division `215 + 215`; `1260`; `1274`; `1290`; `1335`; `1334`; `1150`; File_66 local application `1150 × 25/23 = 1250`; Samaria Node `1876–1871 BC → 726–721 BC`; `2300`; `2340`; `2520`; `2700`; `2730`; `1656`; `1800`; standard precessional day `72`; alternate precessional day `71⅔ years = 215/3`; standard precessional month `2160 = 30 × 72`; alternate precessional month `2150 = 30 × 71⅔`; standard precessional season `8640 = 120 × 72`; alternate precessional season `8600 = 120 × 71⅔`; common File_19/File_66 count `430² = 2580 × 71⅔` and `430 × 432 = 2580 × 72`; File_10-controlled square root `161 × 25/23 = 175`; File_15 authorized generational units; call-to-death generational-span register; exact normalized triad `100:70:40 = 10:7:4`; Abrahamic-base fractions `10/10`, `7/10`, `4/10 = 2/5`; generational LCM `LCM(40, 70, 100) = 1400`; File_19 Hezekiah `720`; File_19 `185000`; `2150 = 5 × 430 = 10 × 215`; `36 + 394.5 = 430.5`; `967 BC` second month → `537 BC` second month = `430`; `1446 BC → 586 BC = 860 = 2 × 430 = 4 × 215`; `391 = 17 × 23`; Ezekiel day-quartet `5 | 7 | 10 | 12 = 2 + 3 + 2`; `2550 = 1260 + 1290`; `2730 = 430 + 2300`; `1075 = 2.5 × 430`; `2580 = 430 + 2150 = 430 × 6`; inclusive close `1655 / 1656`; leap-month scheme-instance by File_12 §7A dependency
+Major modal states: prophetic component state; File_62 half-scale / dual-`490` dependency state; File_66 common-`2580` precessional-day interface state; File_66 `1150/1250` Priestly application state; File_10/File_66 Precession-Square dependency state; textually explicit span state; inferred component state; Cainan macro-vector B6 state; audit-controlled `2307` / solar companion state; MT Ezekiel state; LXX Ezekiel state; SP Sojourn state; Sojourn / Affliction offset; Samaria Node `1150` half-cycle state; precessional display state; File_26 precessional month / season dependency state; File_19 Hezekiah prophetic complex state; Immanuel 65/49 crossing state; Temple 430.5 month-state bridge; literal post-exilic 430 coreference state; AD 29515 actual Pillar state by File_10 / File_19 dependency; Priestly 336-day Ledger state; Priestly-Enochian bridge corollary state; Priestly-Enochian half-week straddle state; Enochian half-week state; Jubilee register; Key-of-23 conversion state; purification-extension state; biological-fractal state; variant-gap gestation state; `276` full-year boundary-extension state; Triple-1656 Spine; `587/586 BC` adjacent Fall of Jerusalem date-state; File_15 authorized generational-unit state; call-to-death generational-span register; exact normalized generational triad; generational LCM state; ordered endpoint-pair display state; decree-average state; slash-pair / range / envelope state; Creation-week / Year-6 state; typological reading; theological note; exploratory note; dependency-controlled cross-reference state; Ezekiel date-string state; siege-frame derivation state; SP year-mirror display state; leap-month scheme-instance state; File_59 Judah `1380 → 1400 / 1500` dual-Key instance state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.36; State Vocabulary Register v1.37; Project Procedures v3.5; prior finalized source; corrected Final File_61; Final File_62; Final File_66 with author-invoked Finalization August 4 2026; Repository_Change_Archive (non-controlling history); bounded File_59, File_62, and File_66 reciprocal routing; Final post-final pressure-tested File_67; State Vocabulary Register v1.39; Restart Capsule v11.38; Final File_68 after the August 13 2026 Finalization refresh; State Vocabulary Register v1.40; Restart Capsule v11.39; Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package.
+Current refresh note: The August 4 2026 bounded Final File_66 update adds two downstream applications of existing File_17 grammar: the common `2580` precessional-day count in the File_19 `430²/430×432` pair, and the `1150 × 25/23 = 1250` Abrahamic comparison at `841 BC`. File_10 remains controlling for `25921`; File_66 controls the Hezekiah chronology, `185150`, and the celestial capstone. No File_17 Primary anchor, ratio definition, calendar state, or prior proof spine is changed; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 Source-history status: Version 5.3
 
+September 8 2026 bounded Lamech routing: §8 explicitly retains MT `777`; §13A.4 labels the `4026` LXX endpoint as a generated, non-operative comparison under File_18 §4A. No span, ratio, calendar, or pre-existing arithmetic changes. Register v1.53 §D.43 / Capsule v11.52 §10.30; focused verification only; no new full pressure test.
+
 # File_17 — Prophetic Time Span Anatomy
+
+File_59 Judah dual-Key note:
+`File_59` supplies the local exact instances `496800 × 70/69 = 504000 = 1400 × 360` and `496800 × 25/23 = 540000 = 1500 × 360`. The Prophetic and Priestly Keys remain distinct operators; File_59’s Judah interpretation and Christological synthesis do not redefine File_17’s ratio families.
+
+File_62 dual-`490` reciprocal note:
+`File_62` supplies the downstream exact instances `40.25 × 25/23 = 43.75`, `80.5 × 25/23 = 87.5`, `402.5 + (80.5 × 25/23) = 490`, `483 × 70/69 = 490`, `483 × 25/23 = 525`, and `525 × 336 = 490 × 360 = 176400`. File_17 remains controlling for the ratio families, prophetic-span grammar, and `336/360` calendar distinction. File_62 controls the proposed phase coordinates and local chronology. The common endpoint `490` does not make `25/23` and `70/69` one operator, and the equal day total does not make the Priestly `336`-day year identical to the Prophetic `360`-day year.
+
+File_66 Hezekiah / precession reciprocal note:
+Final `File_66` applies File_17 component grammar in two bounded ways:
+
+```markdown
+430 × 430 = 2580 × 71⅔
+430 × 432 = 2580 × 72
+```
+
+and:
+
+```markdown
+1991 BC → 841 BC = 1150
+2091 BC → 841 BC = 1250
+1150 × 25/23 = 1250.
+```
+
+File_17 now registers these as downstream applications. File_19 controls the Hezekiah endpoints; File_10 controls `25921`; File_66 controls the A7 chronology, `185150`, and the theological synthesis.
+
+### File_67 Key-family application reciprocal note
+
+Final `File_67` applies File_17's established exact-rational grammar to the flanking-kings field: `161×25/23=175`, `483×70/69=490`, `828×70/69=840`, and appendix-only `33120×70/69=33600`. It also uses the established alternate/standard precessional-day pair `71⅔/72` in the `215/216` and `1075/1080` companion displays. File_17 remains controlling for the Key families and precessional components.
+
+Machine Guard [FILE_17 FILE_67 KEY-FAMILY APPLICATION ROUTING]:
+Final File_67's `161→175`, `483→490`, `828→840`, and appendix-only `33120→33600` executions are downstream instances of File_17's `25/23` and `70/69` operators. The `162/161` palindromic-calendar side ratio is appendix-only and is not a fourth standard Key-of-23 operator. File_17 retains all ratio definitions, component grammar, and precessional-day controls.
+
+### File_68 calendar-half and Sanctuary-contraction reciprocal note
+
+Final `File_68` applies File_17's prophetic-span grammar to two bounded downstream structures: the generation-resolved `1260/1274` calendar pair and the finite Sanctuary contraction `1290→1260→1150`. The latter is executed as `1290=30+110+720+430`, `1260=110+720+430`, and `1150=720+430`, terminating at the controlled `606/586/536 BC` field.
+
+Machine Guard [FILE_17 FILE_68 CALENDAR-HALF / SANCTUARY-CONTRACTION ROUTING]:
+Final File_68 may apply File_17's `1260`, `1274`, `1290`, `1150`, `400`, and `430` grammar to its declared accordion and Sanctuary/Kings states. File_17 retains all prophetic-span definitions, component statuses, calendar firewalls, and Key-of-23 operators. File_68's mixed central triples, generated full-resolution coordinates, Kings chronology, and Week-6 interpretation do not become File_17 Primary anchors or redefine the prophetic components.
+
+File_69 prophetic-span reciprocal note:
+Final File_69 executes `1260/1274`, `2300±30`, and the `25/23` / `70/69` families only as downstream applications. File_17 retains the prophetic-span and exact-ratio definitions.
+
+Machine Guard [FILE_12 FILE_17 FILE_69 CALENDAR-RESOLUTION ROUTING]:
+Final File_69 may apply `180/182`, `600/614`, `1260/1274`, and `13/13.5/14×360/364` inside its declared genealogical-resolution states. File_12 remains controlling for the Priestly `336`, Prophetic `360`, Enochian `364`, and calendar non-collapse; File_17 remains controlling for prophetic-span grammar and the `25/23` and `70/69` operators. File_69 creates no new calendar-year definition, prophetic component, or parent-file Primary anchor.
 
 ## 0. File-function
 
@@ -46,12 +94,16 @@ The following states are active in `File_17`. They are simultaneous, non-competi
 | Samaria Node `1150` half-cycle state | `1876–1871 BC → 726–721 BC`; actual late `722 BC ±1`; broader source-retained `1878–1871 BC → 728–721 BC` window | Daniel 8 half-cycle / File_00 dependency | `726 BC` is the schematic onset / collapse label and `721 BC` is the terminal / latest-fall label. The actual fall remains late `722 BC ±1`. Preserve the broader seven-year famine / Samaria window as source-retained orientation, not as a correction of the refined File_00 node. |
 | Sojourn / Affliction offset | `1876 → 1446 = 430`; `1846 → 1446 = 400`; `1876 → 586 = 1290`; `1846 → 586 = 1260` | Egypt-bookend state | Follow `File_16` and `File_04` state controls. |
 | File_26 precessional month / season dependency state | `2160`; `2150`; `8640`; `8600`; `25800`; `25920` | precessional month and season extension | Dependency-controlled by `File_26`. It extends the existing standard / alternate precessional-day state into month and `120`-unit season displays without replacing the local `430/432` component grammar. |
+| File_66 common-`2580` precessional-day interface state | `430² = 2580 × 71⅔`; `430 × 432 = 2580 × 72` | shared count under alternate/standard day lengths | Downstream application of File_17 precessional-day grammar to File_19’s products; does not identify `71⅔` with `72`. |
+| File_66 `1150/1250` Priestly application state | `1991→841 = 1150`; `2091→841 = 1250`; `1150 × 25/23 = 1250` | decadal Key-of-23 application | File_66 controls the dates and interpretation; File_17 controls the exact ratio and `1150` family. |
+| File_10/File_66 Precession-Square dependency state | `161 × 25/23 = 175`; `25921 = 161²`; `185150 × 7 = 50 × 25921` | square-root / downstream capstone interface | File_10 controls `25921`; File_66 controls `185150`; File_17 supplies `25/23` grammar only. |
 | Enochian half-week state | `1274 = 3.5 × 364`; `1260 + 14`; `26 × 49` | 364-day and Jubilee interface | Preserve distinct from 360-day prophetic state. |
 | Priestly 336-day Ledger state | `24 × 7 = 168`; `168 + 168 = 336`; `48 × 7 = 336`; `24 × 14 = 336` | Priestly service-cycle baseline | Treat as foundational Priestly component grammar. It is not a failed solar year and not a replacement for Prophetic `360` or Enochian `364`. |
 | Priestly-Enochian bridge corollary state | `4 × 7 = 28`; `336 + 28 = 364` | bridge from Priestly ledger to Enochian year | Corollary state. Festival-week or epagomenal execution details remain source-control bounded unless locally proof-bearing. |
 | Priestly-Enochian half-week straddle state | `3.5` days; `3.5 × 360 = 1260`; `3.5 × 364 = 1274` | liturgical / prophetic half-week projection | Preserved by `File_12` dependency. Do not collapse with the Aaron/Moses terminal `L = 3.5` unless a local file opens that exact node-class. |
 | Jubilee register | `49`; `490`; `1274`; `1470`; `2450` where cited | Levitical / Danielic register | Identify active Jubilee or Danielic register where needed. |
 | Key-of-23 conversion state | `483 × 70/69 = 490`; `483 × 25/23 = 525`; `1656 × 25/23 = 1800`; `2300 × 25/23 = 2500` | exact-rational conversion | Preserve exact ratios; do not decimalize. |
+| File_62 half-scale / dual-`490` dependency state | `40.25 × 25/23 = 43.75`; `80.5 × 25/23 = 87.5`; `402.5 + 87.5 = 490`; `483 × 70/69 = 490`; `483 × 25/23 = 525`; `525 × 336 = 490 × 360 = 176400` | downstream phase / Priestly–Prophetic comparison | Final File_62 controls the proposed phase dates and local chronology. File_17 controls the exact ratio families and calendar-register distinctions. Shared endpoints and day totals do not collapse operators or year types. |
 | Purification-extension state | `1260 + 40 = 1300`; `2520 + 80 = 2600`; `2300 + 40 = 2340` | Leviticus 12 / typological extension | Preserve and classify as typological / structural where needed. |
 | File_15 authorized generational-unit state | `100`; `70`; `40` | Abrahamic / Jacobean / Mosaic generational units | Use only where `File_15` or a local section opens the authorized generational-unit argument. Do not treat `40`, `70`, or `100` as interchangeable component values merely because they synchronize at `1400`. |
 | Call-to-death generational-span register | Abraham `75 → 175 = 100`; Jacob `77 → 147 = 70`; Moses `80 → 120 = 40` | File_15 authorization rationale | Treat as a structural inference supported by dependency-controlled arithmetic facts from `File_01`, `File_04`, and `File_14`. |
@@ -86,11 +138,11 @@ A shared number or span does not create identity unless state, node-class, tradi
 | §2 | Records the `65` family and File_19 Immanuel crossing | Isaiah shattering register; `65`; `130`; `195`; `390`; `391 = 17 × 23` |
 | §3 | Records the `190` family | LXX Ezekiel; Metonic `19` |
 | §4 | Records the `390` family | `360 + 30`; `130 × 3`; `65 × 6`; `13 × 30` |
-| §5 | Records the `430/432` family and File_19 Temple `430` controls | Sojourn; precession; `215/216`; MT/LXX/SP components; Temple `430.5`; literal post-exilic `430` |
+| §5 | Defines the `430/432` family and the common `2580` precessional-day interface | Sojourn; precessional-day pair; `215/216`; File_26 month/season extension; File_19/File_66 product bridge; File_19 Temple `430` |
 | §6 | Records the `400` family | Affliction; `430 − 30`; four generations |
 | §7 | Records the `490` family | Daniel 9; Jubilee; `483`; Persian decree average |
 | §8 | Records the `777` bridge | Daniel-Revelation bridge; Lamech lifespan |
-| §9 | Records the `1150` family | half of `2300`; `720 + 430`; `1150 + 7` |
+| §9 | Defines the `1150` family and the bounded File_66 `1150 → 1250` Priestly application | half of `2300`; `23 × 50`; `720 + 430`; Samaria Node; `25/23` downstream instance |
 | §10 | Records the `2300`, `2340`, `1300`, and `2600` families | Daniel 8; Key of 23; purification extension |
 | §11 | Records the `2520` family | full prophetic week; chiastic half-week structure |
 | §12 | Records the `1260`, `1274`, `1290`, `1335`, and `1334` family | half-week variants; Enochian/Jubilee interface; Daniel 12 |
@@ -119,6 +171,9 @@ A shared number or span does not create identity unless state, node-class, tradi
 12. The Priestly-Enochian `3.5`-day straddle may project into the prophetic half-week under the day-year principle, but this projection is a `File_12` dependency and must not be generalized to every local `3.5` use.
 13. File_14 biological-fractal values such as `270`, `275`, `276`, and `280` are dependency-controlled when used as gestation / purification states. In File_17, they may clarify span-component families but do not become universal component operators unless a local section opens File_14's argument.
 14. File_15 generational-unit values such as `100`, `70`, and `40` are dependency-controlled when used as Abrahamic, Jacobean, or Mosaic authorized units. In `File_17`, they may clarify span-component families but do not become universal component operators unless a local section opens `File_15`'s argument.
+15. The common count `2580` in `430² = 2580 × 71⅔` and `430 × 432 = 2580 × 72` coordinates two precessional-day states. It does not make `71⅔` and `72` equal, and it must not be merged with the Ezekiel `2580` day-string or another chronology unless the active node-class is restated.
+16. Final File_66’s `1150 × 25/23 = 1250` is a downstream application at the `841 BC` coordinate. It does not redefine the `1150` family, make `1250` a universal prophetic span, or promote `841 BC` into File_17’s Primary anchors.
+17. `25921 = 161²` is controlled by File_10. File_17 may supply the root conversion `161 × 25/23 = 175`, but it must not treat `25921` as a fourth ordinary ratio or import File_66’s `185150` capstone as local proof.
 
 ### 0.4 Machine Guards for `File_17`
 
@@ -146,6 +201,10 @@ Machine Guard [FILE_17 KEY-OF-23 EXACT RATIOS]:
 
 The Key-of-23 ratios `25/23`, `70/69`, and `300/299` are exact rational operators. Do not replace them with rounded decimals. Do not invoke the Residue Protocol unless the local file explicitly shifts from whole-year conversion to physical residue or residual-display arithmetic.
 
+Machine Guard [FILE_17 FILE_62 DUAL-490 NON-COLLAPSE]:
+
+Final File_62 may apply `25/23` locally to `40.25/80.5`, apply `70/69` to the whole `483`, and compare `525 × 336` with `490 × 360`. These are downstream applications of File_17 component grammar. Do not promote File_62’s proposed phase dates into File_17 Primary anchors; do not exchange `25/23` with `70/69`; do not identify the Priestly `336`-day year with the Prophetic `360`-day year; and do not treat exact rational day-volume equality as exact physical solar-calendar identity.
+
 Machine Guard [FILE_17 CAINAN MACRO-VECTOR DEPENDENCY]:
 
 `File_17` may index `2300`, `2520`, `2730`, and `1260 → 1290 → 1260` as component families, but the Cainan macro-vector B6 classification belongs to `File_16` and the table-source values belong to `File_18`. Do not use span-component vocabulary to create new event-node witnesses or to alter the File_16 Bullseye inventory.
@@ -161,6 +220,16 @@ File_14 controls biological-fractal terminology for `270`, `275`, `276`, and `28
 Machine Guard [FILE_17 PRECESSIONAL DISPLAY]:
 
 The standard precessional-day state is `72 years = 1 Precessional Day`, derived from `25920 ÷ 360 = 72`. The alternate precessional-day state is `71⅔ years = 1 Precessional Day = 215/3 years`, derived from `25800 ÷ 360 = 215/3`. Use `71⅔` as the display form and `215/3` as the exact arithmetic state.
+
+
+Machine Guard [FILE_17 COMMON 2580 NON-COLLAPSE]:
+`430 × 430 = 2580 × 71⅔` and `430 × 432 = 2580 × 72` preserve one common count under alternate and standard precessional-day lengths. Do not identify `71⅔` with `72`, and do not collapse this interface with the Ezekiel `2580` day-string or another `2580` chronology state.
+
+Machine Guard [FILE_17 FILE_66 1150 / 1250 APPLICATION]:
+Final File_66 may apply `25/23` to `1150` at the dependency-controlled `841 BC` coordinate, yielding `1250`. This does not redefine the `1150` family, create a universal `1250` span, or promote File_66’s dates into File_17 Primary anchors.
+
+Machine Guard [FILE_17 PRECESSION-SQUARE DEPENDENCY]:
+File_10 controls `25921 = 161²`. File_17 controls the ordinary Priestly ratio and may state `161 × 25/23 = 175`. Do not treat `25921` as a fourth Key-of-23 fraction, and do not import File_66’s `185150 × 7 = 50 × 25921` as local File_17 proof.
 
 Machine Guard [FILE_17 SLASH-PAIR / WINDOW SAFETY]:
 
@@ -188,9 +257,13 @@ This control checks visible arithmetic statements, same-side BC spans, component
 | Same-side BC spans | Visible subtraction spans checked where the active operator is same-side BC subtraction. |
 | Cross-axis spans | No main-body cross-axis span is active in this file. |
 | Key-of-23 conversions | Exact ratios preserved where arithmetic checks: `483 × 70/69 = 490`; `483 × 25/23 = 525`; `2300 × 25/23 = 2500`; `1656 × 25/23 = 1800`. |
+| File_62 downstream dual-`490` applications | Dependency arithmetic retained: `40.25 × 25/23 = 43.75`; `80.5 × 25/23 = 87.5`; `402.5 + 87.5 = 490`; `525 × 336 = 490 × 360 = 176400`. These do not alter File_17’s operator definitions or calendar-state firewalls. |
 | Enochian / prophetic conversions | Preserved where arithmetic checks: `1260 = 3.5 × 360`; `1274 = 3.5 × 364`; `2520 = 7 × 360`; `2730 = 7.5 × 364`. |
 | Priestly 336-day ledger | Preserved where arithmetic checks: `24 × 7 = 168`; `168 + 168 = 336`; `48 × 7 = 336`; `24 × 14 = 336`; `4 × 7 = 28`; `336 + 28 = 364`. |
 | Precessional values | Resolved as paired states: standard `72 years = 1 Precessional Day`; alternate `71⅔ years = 1 Precessional Day = 215/3 years`. |
+| File_66 common `2580` interface | `430 × 430 = 184900 = 2580 × 71⅔ = 2580 × 215/3`; `430 × 432 = 185760 = 2580 × 72`; difference `860 = 2580 × 1/3 = 2 × 430`. |
+| File_66 `1150/1250` application | `1991 − 841 = 1150`; `2091 − 841 = 1250`; `1150 × 25/23 = 1250`. Dates remain File_66 / File_01 dependency states. |
+| File_10/File_66 square interface | `161 × 25/23 = 175`; dependency-controlled `25921 = 161²`; File_66 application `185150 × 7 = 50 × 25921`. |
 | `220` gap | Controlled arithmetic: `2520 − 2300 = 220`. No Key-of-23 operator is active for this gap in the final source. |
 | Arithmetic-control result | The full-week chiastic display uses the mirrored half-week form: `360 + 720 + 180 + 180 + 720 + 360 = 2520`. |
 | Remaining arithmetic uncertainties | None blocking in the source body. The `490 BC` decree-average section remains source-status / argument-status material, not an arithmetic blocker. |
@@ -388,6 +461,42 @@ Exact arithmetic note:
 Dependency note:
 These values are registered as span-component vocabulary for later citation. File_26 controls the local `18726 BC`, Balih, Nexus, and Pillar applications; File_17 only records the component grammar.
 
+### 5.1B File_19 / File_66 common `2580`-day interface
+
+Active state:
+File_66 common-`2580` precessional-day interface by File_19 dependency.
+
+File_19 supplies the paired products:
+
+```markdown
+430 × 430 = 184900
+430 × 432 = 185760.
+```
+
+Under the two File_17 precessional-day states, both carry one common count:
+
+```markdown
+184900
+= 2580 × 71⅔
+= 2580 × 215/3
+
+185760
+= 2580 × 72.
+```
+
+Their difference is:
+
+```markdown
+185760 − 184900
+= 860
+= 2580 × (72 − 71⅔)
+= 2580 × 1/3
+= 2 × 430.
+```
+
+Component-control result:
+The common `2580` demonstrates that `430 × 430` and `430 × 432` are alternate/standard measurements of the same count of precessional days. It does not identify the day lengths and does not replace File_19’s anchor-specific Hezekiah argument. Final File_66 controls the later `185150/25921` synthesis.
+
 ### 5.2 The Sojourn as new Creation
 
 State note: `1878 BC` is the famine-beginning state; `1876 BC` is the Entry / Sojourn state in this table. They are adjacent related labels inside the Egypt field, not the same node.
@@ -508,6 +617,9 @@ Conversions:
 | `483 × 70/69` | `490` | Prophetic expansion |
 | `483 × 25/23` | `525` | Priestly expansion, `75 × 7` |
 
+File_62 downstream application note:
+Final File_62 instantiates the same component grammar in a proposed Jacob–Moses phase carrier. It uses the local Priestly route `402.5 + (80.5 × 25/23) = 490` and the whole-carrier Prophetic route `483 × 70/69 = 490`, while the full Priestly conversion yields `483 × 25/23 = 525` and the calendar-equivalent total `525 × 336 = 490 × 360 = 176400`. These are downstream applications. The common endpoint and equal day volume do not merge the two ratios or the two calendar registers.
+
 ### 7.3 The `70/49/21` Temple triangle
 
 | From | To | Span | Event |
@@ -581,7 +693,7 @@ Dependency note:
 
 ## 8. The `777` bridge: Daniel to Revelation
 
-Active state: Daniel-Revelation bridge state. `777` is Lamech’s lifespan and functions here as a component bridge into `1260`; it does not become a universal half-week operator.
+Active state: Daniel-Revelation bridge state. `777` is MT Lamech’s lifespan and functions here as a component bridge into `1260`; it does not become a universal half-week operator.
 
 ### 8.1 The `777`: Lamech’s lifespan
 
@@ -604,6 +716,33 @@ Active state: Daniel 8 half-cycle state. The `1150` may be read as half of `2300
 | `2300 ÷ 2 = 1150` | half of evening-morning cycle | Dan 8:14 |
 | `23 × 50 = 1150` | Key of 23 × Jubilee | calculated |
 | `25 × 46 = 1150` | Priestly ratio × Temple years | John 2:20 connection |
+
+### 9.1A Final File_66 decadal Priestly expansion at `841 BC`
+
+Active state:
+File_66 `1150/1250` Priestly application state.
+
+Final File_66 supplies a fixed historical-comparison endpoint at `841 BC`:
+
+```markdown
+1991 BC → 841 BC = 1150 = 50 × 23
+2091 BC → 841 BC = 1250 = 50 × 25.
+```
+
+Therefore:
+
+```markdown
+1150 × 25/23 = 1250.
+```
+
+The gain is exactly:
+
+```markdown
+1250 − 1150 = 100.
+```
+
+Dependency boundary:
+`1991 BC` and `2091 BC` remain Abrahamic dependency anchors; `841 BC` and the historical interpretation belong to Final File_66. File_17 records only the exact `1150 → 1250` Key instance. The related factorizations `185150 = 161 × 1150` and `201250 = 161 × 1250` remain downstream corroboration rather than new File_17 span families.
 
 ### 9.2 The `720 + 430` historical application
 
@@ -1091,7 +1230,7 @@ The siege-to-refugee span is the sides' `430` at the `2.5` scale; the call stand
 2730 − 430 = 2300
 ```
 
-The siege-posture `430` (§13A.1) plus the Daniel 8 component (§10) exactly compose the Enochian-register total, the call-week carried forward within the span. Sibling decomposition: `2580 = 430 + 2150 = 430 × 6` — the sides' `430` in days, "a day for every year" (Ezek. 4:6, the day-for-year license stated in the text itself), plus five more. Cross-scale display: `2580` days `= 430 × 6` is the exact day-scale twin of the Lamech span `4026 → 1446 = 2580` years `= 430 × 6` (`File_18` §4A.5); one six-fold figure at both scales.
+The siege-posture `430` (§13A.1) plus the Daniel 8 component (§10) exactly compose the Enochian-register total, the call-week carried forward within the span. Sibling decomposition: `2580 = 430 + 2150 = 430 × 6` — the sides' `430` in days, "a day for every year" (Ezek. 4:6, the day-for-year license stated in the text itself), plus five more. Cross-scale display: `2580` days `= 430 × 6` equals the year-span of the **generated, non-operative** LXX Lamech comparison `4026 → 1446 = 2580` (`File_18` §4A.5–§4A.6). This is a cross-scale structural comparison, not a main LXX birth date or proof of the proposed `182/188` transmission mechanism. The actual main Lamech birth in that frame remains `4020 BC`.
 
 Claim-status: arithmetic fact (the identities); textual datum (the day-for-year license); structural inference (the carried-week reading); cross-scale display (the twin).
 
@@ -1355,6 +1494,9 @@ Dependency-state note: The following files are cross-reference dependencies. A f
 | `File_18` | Kings, variant matrices, and Cainan macro-vector table-source values | `+50`, decree, matrix dependencies, and File_16 Cainan macro-vector source values where active |
 | `File_19` | Applied Hezekiah prophetic complex and Temple `430` controls | Immanuel `391 = 17 × 23`; Temple `36 + 394.5 = 430.5`; literal `967 BC` second-month → `537 BC` second-month `430`; Hezekiah `720` / `185000` field |
 | `File_22` | Priestly Expansion / Triple `430` | `430 + 215 + 430` and `1876 BC` targeting |
+| `File_61` | Half-clutch / fixed-Joshua application | Applies the existing `216 = 3 × 72` component to the local `230 → 216` contraction without redefining File_17 precessional grammar |
+| `File_62` | Half-scale and dual-`490` application | Applies `25/23` to `40.25/80.5`, `70/69` to `483`, and compares `525 × 336` with `490 × 360`; File_17 retains operator and calendar-register control |
+| `File_66` | Dial of Ahaz / Judah chronology / precessional capstone | Applies File_17 grammar to the common `2580` count and the `1150 × 25/23 = 1250` instance; File_10 controls `25921`, and File_66 controls the dates and larger synthesis |
 | `File_30` | Alpha-Omega Link | `4900`-year expansion from the `490` seed |
 
 ## Audit notes
@@ -1374,6 +1516,12 @@ The §13A date-string is a bounded day-level display. It does not extend the Fil
 Dependency note [FILE_17 CAINAN MACRO-VECTOR]:
 `File_16` and `File_18` supply the Cainan macro-vector dependency. `File_17` registers the span-component grammar for `2300`, `2520`, `2730`, and `1260 → 1290 → 1260`, while preserving `File_16` as the Nexus-classification file and `File_18` as the table-source file.
 
+Dependency note [FILE_17 FILE_62 DUAL-490]:
+Final File_62 supplies the local phase chronology and the exact downstream instances `40.25 × 25/23 = 43.75`, `80.5 × 25/23 = 87.5`, `402.5 + 87.5 = 490`, `483 × 70/69 = 490`, and `525 × 336 = 490 × 360 = 176400`. File_17 remains the component and operator controller. File_61 supplies the separate local `216 = 3 × 72` Joshua application. Neither downstream file alters File_17’s Primary anchors or ratio-family definitions.
+
+Dependency note [FILE_17 FILE_66]:
+Final File_66 supplies the Hezekiah/Judah dates, the `185150` companion, and the theological/statistical synthesis. File_17 registers only the component interfaces `430² = 2580 × 71⅔`, `430 × 432 = 2580 × 72`, and `1150 × 25/23 = 1250`. File_10 remains controlling for `25921 = 161²`.
+
 ## Unresolved issues
 
 None. The former §13A.8 open item is closed (endpoint derived, July 2026). Later local pressure testing may still be requested by the author, but no current source blocker remains.
@@ -1384,6 +1532,6 @@ This public-clean Markdown source removes only archival amendment history, pass 
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No pre-existing arithmetic, anchors, modal states, node-classes, sign conventions, operator definitions, slash-pairs, ranges, envelopes, Mirror protocols, claim-status labels, theological claims, or dependency boundaries are changed. The bounded Final File_66 update adds two downstream component applications, three non-collapse Machine Guards, reciprocal routing, and focused arithmetic clarification without redefining the parent span families.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.

@@ -1,18 +1,19 @@
 File: File_16
 Title: The 1876 BC Nexus
-Status: Final; post-final pressure tested; File_18 section-label, 2nd Cainan variant-boundary clarification, Pentateuchal Funnel structural-harmony clarification, File_19 Sundial Mirror cross-file update, 1876 Cainan macro-vector update applied, File_26 18766/18756 Nexus rail cross-file update applied; 1876 Cainan macro-vector update focused pressure tested; 60-multiple Shelah / Plenty-Famine note, Mirror 60-spine addendum, File_26 Nexus rail note, and Samaria Node cross-file update focused pressure tested under current Register Agreement; four-roads shared-label display bounded update applied (July 2026)
-Pressure-test status: Current; focused pressure test complete for later File_26 Nexus rail, 60-multiple Shelah / Plenty-Famine, Mirror 60-spine, and Samaria Node bounded updates and public-clean cleanup; prior post-final and 1876 Cainan macro-vector focused tests retained. Focused check complete for the four-roads shared-label display bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded four-roads shared-label display addition (§2 display block) only, consolidating three already-registered convergence states and adding the File_20 SOR Covenant member; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed; the Bullseye Protocol inventory is unchanged.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Final; bounded September 13 2026 Terah-inclusive `−33` scope pointer applied; post-final pressure tested; File_18 section-label, 2nd Cainan variant-boundary clarification, Pentateuchal Funnel structural-harmony clarification, File_19 Sundial Mirror cross-file update, 1876 Cainan macro-vector update applied, File_26 18766/18756 Nexus rail cross-file update applied; 1876 Cainan macro-vector update focused pressure tested; 60-multiple Shelah / Plenty-Famine note, Mirror 60-spine addendum, File_26 Nexus rail note, and Samaria Node cross-file update focused pressure tested under current Register Agreement; four-roads shared-label display bounded update applied (July 2026); File_20 §8A corruption-symmetry corroboration pointer applied (July 2026); File_59 Judah `1500`-year / `AD 25–30` bracket pointer applied and focused checked July 16 2026; bounded File_62 male `7+33` / localized `−33` reciprocal pointer applied (July 2026); bounded File_64 lesser Judges–Sanctuary Nexus reciprocal pointer applied July 26 2026; bounded File_64 expanded Nexus / Jacob–Daniel reciprocal pointer applied July 27 2026; bounded Final File_65 reciprocal pointer applied August 3 2026; bounded File_66 reciprocal pointer applied August 8 2026
+Pressure-test status: Current; focused pressure test complete for later File_26 Nexus rail, 60-multiple Shelah / Plenty-Famine, Mirror 60-spine, and Samaria Node bounded updates and public-clean cleanup; prior post-final and 1876 Cainan macro-vector focused tests retained. Focused check complete for the four-roads shared-label display bounded update. Focused check complete for the File_20 §8A corroboration-pointer bounded update; focused check complete for the bounded File_59 Judah `1476 BC → AD 25 = 1500` application pointer; bounded File_62 reciprocal pointer machine-diff checked; focused reciprocal-routing verification complete July 26 2026 for the original File_64 pointer; focused reciprocal-routing verification refreshed July 27 2026 for the expanded File_64 Nexus / Jacob–Daniel pointer; no new full pressure test claimed; no publication blocker. Bounded File_65 pointer received focused diff, guard, dependency, and Markdown checks only; no new full pressure test and no File_65 pressure-tested status claimed.
+Reciprocal-routing verification status: File_62 and File_64 pointers applied and bounded machine-diff, arithmetic, dependency, Machine Guard, Markdown-structure, protected-section, and publication-clean checks completed through July 27 2026; no new full pressure test was performed for these pointer-only updates. Final File_65 pointer applied August 3 2026 and focused machine-diff checked; no new full pressure test.
+Register Agreement status: Existing File_16 states and Machine Guards retain their prior control basis. The exact File_65 reciprocal guard is registered at State Vocabulary Register v1.36 Part D §D.29 and routed through Restart Capsule v11.35. The bounded File_65 pointer imports no File_65 coordinate as a File_16 Primary anchor, adds no Bullseye witness, and changes no pre-existing arithmetic, modal-state logic, node-class, operator definition, sign convention, slash-pair, range, envelope, Mirror protocol, claim-status label, theological claim, or dependency boundary. Current bounded reciprocal routing is aligned to State_Vocabulary_Register v1.38 / Restart Capsule v11.37; no pre-existing proof-bearing arithmetic or Primary anchor is changed.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; File_65 reciprocal replacement prepared in the August 3 2026 release package.
 Primary domain: Regular; Cumulative; Rounded; Comparative; Prophetic; Theological; Mirror; Inverse
 Traditions: MT; SP; LXX
 Canonical source: Markdown
 Primary anchors: 1876 BC; 1878–1871 BC; 1885–1878 BC; 18766/18756 BC; 1876.6/1875.6 BC; 726–721 BC; late 722 BC ±1; 725–722 BC ±1; 1670/1663/1656 BC; AD 1656/1663/1670; 1936 BC; 1816 BC; 1846 BC; 1661 BC; 1446 BC; 1231 BC; 1016 BC; 966 BC; 586 BC; 2091 BC; 4398–4391 BC; 4396 BC; 4391 BC; 4278–4271 BC; 4825–4818 BC; 4858–4851 BC; 2551 BC; 2336 BC; 3136 BC; 2458/2456 BC; 3058/3056 BC; 2558/2556 BC; 1843/1845 BC; AD 1843/1845; AD 1876/1878; 4106 BC; 5486 BC; AD 1875; 5096 BC; 14006 BC; AD 25; AD 30
-Related files: `File_00`; `File_01`; `File_02`; `File_04`; `File_05`; `File_07`; `File_08`; `File_09`; `File_10`; `File_11`; `File_12`; `File_13`; `File_14`; `File_16`; `File_17`; `File_18`; `File_19`; `File_22`; `File_26`; `File_51a`; `File_51b`; `File_52a`; `File_54`; `File_20`; Restart Capsule v11.17; 490d Repository Style Guide v2.5; Project Procedures v3.3; State Vocabulary Register v1.18
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; Protocol 1 Mirror target generation; base-10 inverse-number operator; Rounded inverse axiom; File_26 bounded 10x Nexus rail comparison; `18766 ÷ 10 = 1876.6`; `18756 ÷ 10 = 1875.6`; `18766 − 18756 = 10`; `430`; `400`; `215`; `645`; `860`; `1260`; `1274`; `1290`; `1335`; `1900`; `2300`; audit-controlled inclusive companion `2307`; `2400`; `2520`; `2730`; `2940`; `60 × 42`; `60 × 40`; `60 × 49`; `60 × 59`; `60 × 99`; `60 × 101`; `60 × 108`; `6 × 490`; `3540`; `5940`; `6060`; `6480`; `7.5 × 364`; `1260 → 1290 → 1260`; Samaria Node schematic envelope; `1876 → 726 = 1150`; `1871 → 721 = 1150`; `726 → 586 = 140`; Triple `430`; `+50` Jubilee Offset; `+60 Terah`; `+130` regular 2nd Cainan; `+460` cumulative 2nd Cainan; `±2`; `−33`; `+30 Apparent Age`; `25/23`; `70/69`; `10x` scaling; `364 × 3.5`; `400 + 1500`; `400 + 3900`; `990` transfer delta; `9900` cumulative-to-regular bridge
-Major modal states: `1876 BC` shared year-label; bidirectional prophetic span / sundial mirror state; `1878/1876 BC` paired target field; File_26 `18766/18756 BC` Nexus 10x rail comparison state; primary `1446 BC` Exodus state; subordinate `1231 BC` Ramesside Exodus state; MT `430` Egypt state; SP/LXX `215 + 215` Sojourn-division state; LXX `−33` / `33 + 397` family-unit state; Sojourn 215; Exodus 215; Ramesside radius state; `+60 Terah`; SP-145 Terah state; regular restored 2nd Cainan; cumulative restored 2nd Cainan; 2nd Cainan variant-boundary state; Pentateuchal Funnel / all-even structural harmony state; Cainan death-window state; Cainan / Famine envelope-to-envelope state; cross-tradition 60-multiple Shelah / Plenty-Famine alignment state; Mirror 60-spine / Terah-Cainan death-rail state; regular-Cainan 460-year cross-modal symmetry state; Cainan triple-target matrix state; Cainan-to-Exile Daniel 12 sandwich state; Samaria / Jerusalem twin-city judgment vector state; Samaria Node actual / schematic firewall state; Famine window; Famine Year 1 / Year 2 display states; Affliction start; Triple-430 schematic ledger; historical Temple ledger; localized `−33` Mirror state; global `−33` exploratory Mirror state; Protocol 1 `AD 1875` Mirror target for `1876 BC`; MT/LXX deep-time Mirror vector; appendix-only inverse-number state; `990` transfer-delta state; Flood-epoch slash-pair states; Christological bracket; `AD 25/30` display field; Daniel Quadruple Lock; four-roads shared-label display state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. Bounded four-roads shared-label display (§2) registered from the Regular-page publication discussion record.
+Related files: `File_00`; `File_01`; `File_02`; `File_04`; `File_05`; `File_07`; `File_08`; `File_09`; `File_10`; `File_11`; `File_12`; `File_13`; `File_14`; `File_16`; `File_17`; `File_18`; `File_19`; `File_22`; `File_26`; `File_51a`; `File_51b`; `File_52a`; `File_54`; `File_20`; `File_59`; `File_61`; `File_62`; `File_64`; Restart Capsule v11.30; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31; File_65; File_66
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; Protocol 1 Mirror target generation; base-10 inverse-number operator; Rounded inverse axiom; File_26 bounded 10x Nexus rail comparison; `18766 ÷ 10 = 1876.6`; `18756 ÷ 10 = 1875.6`; `18766 − 18756 = 10`; `430`; `400`; `215`; `645`; `860`; `1260`; `1274`; `1290`; `1335`; `1900`; `2300`; audit-controlled inclusive companion `2307`; `2400`; `2520`; `2730`; `2940`; `60 × 42`; `60 × 40`; `60 × 49`; `60 × 59`; `60 × 99`; `60 × 101`; `60 × 108`; `6 × 490`; `3540`; `5940`; `6060`; `6480`; `7.5 × 364`; `1260 → 1290 → 1260`; Samaria Node schematic envelope; `1876 → 726 = 1150`; `1871 → 721 = 1150`; `726 → 586 = 140`; Triple `430`; `1876 → 1446 → 1016 = 430 + 430`; `+50` Jubilee Offset; `+60 Terah`; `+130` regular 2nd Cainan; `+460` cumulative 2nd Cainan; `±2`; `−33`; `+30 Apparent Age`; `25/23`; `70/69`; `10x` scaling; `364 × 3.5`; `400 + 1500`; `400 + 3900`; `990` transfer delta; `9900` cumulative-to-regular bridge; File_64 downstream `430/450/490` opening–joint–closure convergence, Jacob final-`70` triple-`430` lattice, and uniform `860` Cainan–Judges translation by dependency; File_62 downstream generational male form `H→K=7`, `K→V=33`, `H→V=40` by dependency
+Major modal states: `1876 BC` shared year-label; bidirectional prophetic span / sundial mirror state; `1878/1876 BC` paired target field; File_26 `18766/18756 BC` Nexus 10x rail comparison state; primary `1446 BC` Exodus state; subordinate `1231 BC` Ramesside Exodus state; MT `430` Egypt state; SP/LXX `215 + 215` Sojourn-division state; LXX `−33` / `33 + 397` family-unit state; Sojourn 215; Exodus 215; Ramesside radius state; `+60 Terah`; SP-145 Terah state; regular restored 2nd Cainan; cumulative restored 2nd Cainan; 2nd Cainan variant-boundary state; Pentateuchal Funnel / all-even structural harmony state; Cainan death-window state; Cainan / Famine envelope-to-envelope state; cross-tradition 60-multiple Shelah / Plenty-Famine alignment state; Mirror 60-spine / Terah-Cainan death-rail state; regular-Cainan 460-year cross-modal symmetry state; Cainan triple-target matrix state; Cainan-to-Exile Daniel 12 sandwich state; Samaria / Jerusalem twin-city judgment vector state; Samaria Node actual / schematic firewall state; Famine window; Famine Year 1 / Year 2 display states; Affliction start; Triple-430 schematic ledger; historical Temple ledger; File_64 expanded great-/lesser-Nexus synthesis dependency state; File_64 Jacob final-`70` / Daniel `1290` closure dependency state; File_64 Cainan–Terah / Judges translated-rail dependency state; localized `−33` Mirror state; global `−33` exploratory Mirror state; Protocol 1 `AD 1875` Mirror target for `1876 BC`; MT/LXX deep-time Mirror vector; appendix-only inverse-number state; `990` transfer-delta state; Flood-epoch slash-pair states; Christological bracket; `AD 25/30` display field; Daniel Quadruple Lock; four-roads shared-label display state; File_59 Judah `1476 BC → AD 25 = 1500` application state; File_62 male `7+33` hybrid application state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; prior finalized source; corrected Final File_61; Final File_62; Final full post-final pressure-tested File_64 including the July 27 substantive Nexus amendment; Repository_Change_Archive (non-controlling history); July 16 2026 bounded File_59 Judah / ministry-bracket reciprocal pointer; bounded File_62 reciprocal routing (July 2026); bounded File_64 reciprocal routing July 26 2026; bounded expanded File_64 reciprocal routing July 27 2026; Final File_65 and its August 3 2026 reciprocal-control package; State Vocabulary Register v1.36; Restart Capsule v11.35; Repository Change Archive v1.45 (non-controlling history).
+Current refresh note: Bounded reciprocal routing preserves File_16's existing control basis while recognizing the original File_64 registration at State_Vocabulary_Register v1.34 / Restart Capsule v11.33 and the July 27 amendment's Final-source control status. The expanded File_64 pointer records three downstream uses of File_16-controlled material: the great / lesser frame `1876 → 1446 → 1016 = 430 + 430`; the localized-LXX Jacob rail carried through three `430` descents to `606/586/536 BC`; and the lower Cainan–Terah `1936/1876/1816 BC` rail translated by `860` to `1076/1016/956 BC`. These additions create no Category A or Category B Bullseye witness, promote no File_64 coordinate to the File_16 Primary-anchor inventory, and do not alter the historical `966 BC` Temple state, Kings `+50`, File_08's Northern `+33`, or any File_16 operator. Detailed history remains in Repository_Change_Archive. File_16 remains controlling for the great `1876 BC` Nexus, Triple-`430` architecture, localized LXX `−33` / `33+397` family-unit state, Cainan macro-vectors, and Bullseye inventory; Final File_64 controls its Judges ledgers, Jacob–Daniel synthesis, translated rails, and lesser-Nexus interpretation. The August 3 2026 bounded File_65 pointer adds only the exact reciprocal dependency and non-collapse guard; no Primary anchor, source duration, historical chronology, operator, or existing proof spine changed.
 Source-history status: Finalized (Version 5.1)
 Source UUID: ANCHOR_1876_NEXUS
 
@@ -37,10 +38,54 @@ Source UUID: ANCHOR_1876_NEXUS
 | `File_12` | Solar/Lunar Straddle; `0.5 → 5` at `10x` scale. |
 | `File_13` | Christological Matrix. |
 | `File_14` | Purification and gestation structures. |
+| `File_61` | Supplies the corrected local `T14/H7` cumulative clutch and fixed-anchor handoff. File_16 does not import File_61’s cumulative coordinates as local Nexus evidence. |
+| `File_62` | Applies the File_16-controlled localized `−33` family-unit state to downstream male `7+33=40` comparison fields. File_62 controls the half-clutch coordinates, hybrid construction, and claim status; File_16 controls the `−33` source state. |
+| `File_64` | Final full post-final pressure-tested Judges duration-ledger and Nexus synthesis. It independently derives the schematic `1016 BC` coordinate through Jephthah's direct `430`, the explicit `450`, and the Joshua-extended `490`; then applies File_16-controlled `1876 BC`, localized LXX `−33`, `1290`, and Cainan/Terah states in the Jacob final-`70` lattice, Jacob–Daniel closure, and translated `60 + 60` rail. File_16 remains controlling for the great `1876 BC` Nexus, Triple-`430` architecture, localized `−33` source state, Cainan macro-vectors, literal / schematic firewall, and Bullseye inventory. |
 | `File_26` | Dependency-controlled 10x Nexus rail comparison for `18766/18756 BC`, which brackets the `1876 BC` Nexus as `1876.6/1875.6` at the 10x scale. This is a bounded display-state comparison, not a new Category A event-node witness or formal Mirror protocol in `File_16`. |
+| `File_59` | Downstream Judah / Christological application of the already controlled `1476 BC → AD 25 = 1500` span and the adjacent `AD 25/30` bracket. File_16 remains the controller of the `1876/1846 BC` Egypt field, the Christological bracket, and convergence restraint. |
 | `File_51a`; `File_54` | File map style, modal-state tables, Mirror role classification, claim-status control, and later-file style precedent. |
 | `File_51b` | Cross-Polarity Mirror mechanics; Protocol 1 Mirror target generation for pure rounded states. |
 | `File_52a` | Inverse-number architecture; base-10 reversal; Rounded inverse axiom; inverse material kept appendix-only unless the active file is inverse-focused. |
+| `File_65` | Final comparative companion clarifying the regular-MT central `1876 → 586 = 1290`, localized-LXX flanks, and the corroborative `2006 → 1876 → 1446 → 1016 → 886n BC = 130 + 430 + 430 + 130` frame. File_16 remains the great-Nexus and Triple-`430` controller. |
+
+File_65 reciprocal central-`1290` note:
+Final `File_65` correctly restores the regular-MT center `1876 BC → 586 BC = 1290` and treats the localized-LXX `1896 → 606` and `1826 → 536` columns as flanks rather than as the source of the center. Its `130 + 430 + 430 + 130 = 1120 = 16 × 70` outer frame is a corroborative closure around parent-controlled nodes. File_16 retains control of the great `1876 BC` Nexus, Triple-`430`, localized `−33`, Danielic spans, and Bullseye inventory.
+
+
+File_59 Judah / ministry-bracket note:
+`File_59` uses the File_16-controlled `1476 BC → AD 25 = 1500` span to translate Judah’s three reverse-total states into `1260/1320/1380 × 360`. The exact local landing is at `AD 25`; `AD 30` remains the adjacent permitted Christological endpoint and is not substituted into the same equation. This pointer adds no new Category A road and does not alter the Bullseye Protocol.
+
+File_62 male `7+33` reciprocal note:
+Final `File_62` uses File_16’s localized LXX `−33` / `33+397` family-unit state as the second component in declared hybrid comparisons. Its generational form is `H→K=7`, `K→V=33`, `H→V=40`, where `H` and `K` are File_61/File_62 half- and full-clutch coordinates and `V` is a localized `−33` comparison coordinate. File_16 remains the controller of the `−33` source state and its bounded Terah-through-Levi scope; its displayed Mirror rows remain the Jacob-family subset unless a Terah node is explicitly opened. File_62 controls the cumulative midrail, local date landings, male-birth-law interpretation, and hybrid claim status. The terminal Moses form `1526→1519→1486=7+33=40` is File_62-local and does not use the LXX `−33` operator.
+
+File_64 expanded Nexus reciprocal note:
+Final, full post-final pressure-tested `File_64` independently derives the already controlled schematic `1016 BC` coordinate from the Book of Judges. Its direct route uses Jephthah's east-/west-Jordan `300/299` field and the post-Jephthah `91`; its complementary printed-duration routes total `450` and `490`, placing `1016 BC` at the closure, joint, and opening of the final Philistine–Samson `40 + 20` module.
+
+File_64 then uses File_16-controlled Nexus and localized-LXX states in two downstream structures:
+
+```text
+1896 / 1876 / 1826
+  ↓430   ↓430   ↓430
+1466 / 1446 / 1396
+  ↓430   ↓430   ↓430
+1036 / 1016 /  966
+  ↓430   ↓430   ↓430
+ 606 /  586 /  536
+```
+
+Each row preserves `20 + 50 = 70`; each full column preserves `1290 = 3 × 430`. File_64 also translates the lower Cainan–Terah death rail uniformly:
+
+```text
+1936 / 1876 / 1816
+  −860   −860   −860
+1076 / 1016 /  956.
+```
+
+File_16 remains the controller of the great `1876 BC` Genesis Nexus, the localized `−33` source state, Cainan macro-vectors, and the literal / schematic Triple-`430` firewall. File_64 controls the Judges arithmetic, the Jacob–Daniel literary-theological closure, the translated rails, and the lesser-Nexus interpretation. These pointers add no Category A event-node or Category B pattern-vector witness, do not alter the Kings `+50` or File_08's Northern `+33`, and do not claim direct literary dependence between Genesis 49 and Daniel 12.
+
+
+File_66 reciprocal third-`1290` note:
+Final `File_66` adds a downstream translated third `1290` comparison `1851 BC → 561 BC` beside the already controlled `1991→701` and `1876→586` relations, and uses `626 BC` in a Jeremiah pre-Fall translation field. These are File_66 structural comparisons. File_16 retains control of the regular-MT `1290`, the `1876 BC` Nexus, Cainan/Famine states, and Bullseye inventory.
 
 ## 0. File-function
 
@@ -54,7 +99,9 @@ The file argues that `1876 BC` is:
 4. targeted by both Regular and Cumulative chronological methods;
 5. echoed by micro-patterns such as `±2`, `+30 Apparent Age`, localized/global `−33`, and the Famine window;
 6. bracketed at the 10x scale by the File_26 `18766/18756 BC` Nexus rail comparison;
-7. extended by the File_00 Samaria Node twin-city vector, where `1876 BC → 726 BC = 1150` and `1876 BC → 586 BC = 1290` distinguish Samaria and Jerusalem as sister-city judgment nodes.
+7. extended by the File_00 Samaria Node twin-city vector, where `1876 BC → 726 BC = 1150` and `1876 BC → 586 BC = 1290` distinguish Samaria and Jerusalem as sister-city judgment nodes;
+8. framed downstream by Final File_64 as the great Genesis Nexus standing `430 + 430` years before the lesser `1016 BC` Judges–Sanctuary Nexus, with the Exodus at the center;
+9. extended downstream by File_64 through Jacob's final `70`, three `430` descents to the `606/586/536 BC` restoration field, and the Jacob–Daniel last-days closure without adding a Bullseye witness.
 
 The source classifies this convergence as the Bullseye Protocol. The arithmetic base is the state-tagged convergence inventory. The argument layer is structural inference and providential synchronization supporting the file’s theological claim of unified divine authorship across textual transmission.
 
@@ -76,6 +123,7 @@ The following states are active in `File_16`. They are simultaneous, non-competi
 | MT `430` Egypt state | 1876 BC; 1446 BC | Jacob Entry / Sojourn start to primary Exodus | Direct MT path. In this state, `1876 BC` is Jacob’s Entry. |
 | SP/LXX `215 + 215` Sojourn-division state | 1876 BC; 1661 BC; 1446 BC | Abraham Call / Death of Terah to Entry to Exodus | Preserved as Canaan/Egypt Sojourn-division witness under the primary Exodus anchor. It does not absorb the LXX `33 + 397` family-unit state. |
 | LXX `−33` / `33 + 397` state | 1876 BC; 1843 BC; 1446 BC | Jacob family-unit return / Entry / Exodus | Follows `File_04`: Jacob’s return from Haran at `1876 BC`; Entry at `1843 BC`. This is a family-unit Sojourn state, not a replacement for MT Entry. |
+| File_62 male `7+33` hybrid application state | `2073→2066→2033`; `1926→1919→1886`; `1789→1782→1749`; `7+33=40` | downstream half-clutch / regular / localized-LXX comparison | Final File_62 controls the half-clutch and full-clutch coordinates and the local node landings. File_16 supplies only the localized `−33` family-unit operator. These are declared hybrid comparisons, not one manuscript’s continuous chronology and not new Nexus witnesses. |
 | Subordinate Ramesside convergence state | 1231 BC; 1661 BC; 1876 BC | subordinate Exodus lens producing Entry at `1661 BC` and Call / Death of Terah at `1876 BC` | Valid subordinate path. `1231 BC` may function as Ramesside Exodus and geometric center, but it must not replace primary `1446 BC` or treat `1876 BC` as Ramesside Entry. |
 | Ramesside radius state | 1876 BC; 1231 BC; 586 BC | `645`-year bisector of `1290` | Preserved as geometric corroboration of the subordinate state. In this geometry, `1876 BC` is Bondage-cycle origin / MT Entry label, while the Ramesside convergence path also makes it Abraham Call / Death of Terah. |
 | `+60 Terah` state | 1876 BC | Death of Terah = Call of Abraham | Textual harmonization witness; distinct from SP-145 native Terah. |
@@ -94,8 +142,9 @@ The following states are active in `File_16`. They are simultaneous, non-competi
 | Famine window | 1878–1871 BC; 1878/1876 BC | seven-year famine envelope / target-window field | Contains `1876 BC`, the Year-2 / `±2` echo, and the `1878/1876 BC` target-window language. Treat it as an envelope with internal labels, not a single date. |
 | Affliction-start state | 1846 BC | `400` and `1260` base | `1846 → 1446 = 400`; `1846 → 586 = 1260`. |
 | Triple `430` state | 1876 BC; 1446 BC; 1016 BC; 586 BC | prophetic schematic ledger | First `430` is literal Sojourn; later two use schematic `1016 BC`. |
+| File_64 expanded great-/lesser-Nexus synthesis dependency state | `1876 → 1446 → 1016 = 430 + 430`; Jacob `1896/1876/1826 → 606/586/536 = 1290` by three `430` descents; Cainan–Terah `1936/1876/1816 → 1076/1016/956` by `860` | downstream applied list-chronology / theological synthesis | Final File_64 independently reaches `1016 BC` from Judges and then applies File_16-controlled Nexus, localized `−33`, `1290`, and Cainan/Terah states. File_16 controls the source states and Bullseye inventory; File_64 controls the Jacob–Daniel closure and translated rails. No new File_16 witness or Primary anchor is created. |
 | Kings dual-ledger state | 966 BC; 1016 BC | historical vs schematic Temple pivot | Preserve `966 BC` historical and `1016 BC` schematic; do not collapse. |
-| Localized `−33` Mirror state | 1843/1845 BC; AD 1843/1845 | localized Abraham–Levi Mirror corroboration | Local numeric-year Mirror target state generated by the `−33` Sojourn field and Flood-epoch spans. Civil cross-axis spans use `BC + AD − 1`; this is not Protocol 1 pure rounded A-space Mirror unless a later file explicitly reclassifies it. |
+| Localized `−33` Mirror state | 1843/1845 BC; AD 1843/1845 | Jacob-family Mirror corroboration inside the bounded Terah-through-Levi scope | Local numeric-year Mirror target state generated by the `−33` Sojourn field and Flood-epoch spans. Civil cross-axis spans use `BC + AD − 1`; this is not Protocol 1 pure rounded A-space Mirror unless a later file explicitly reclassifies it. |
 | Bidirectional prophetic span / sundial mirror state | `File_19`; Dial of Ahaz; `701 BC`; `686 BC`; `720`; `185000` | local forward/backward prophetic span language | Classifies File_19's sundial-based forward/backward span language as local Bidirectional Prophetic Span / Sundial Mirror. This is distinct from Protocol 1, deep-time Mirror target generation, civil cross-axis span-counting, 10x Mirror scaling, and inverse-number reversal. |
 | Global `−33` exploratory state | 3025/3023 BC; 2425/2423 BC; AD 1876/1878 | globally additive `−33` permutation | Exploratory Mirror permutation. It is coherent but not tracked in standard tables and must not overwrite localized `−33`. |
 | Protocol 1 `1876 BC` Mirror target | 1876 BC; AD 1875 | pure rounded A-space Mirror target | Used only in the deep-time Mirror addendum. This is distinct from the localized numeric-year Mirror labels `1843 BC ↔ AD 1843` and `1876 BC ↔ AD 1876`. |
@@ -133,7 +182,7 @@ When the Samaria Node is cited in `File_16`, treat it as a File_00 schematic env
 |---|---|---|
 | Related Repository Files | Dependency orientation | cross-file dependency tracking |
 | §0 | File-function, working-state register, File map, terminology controls, Machine Guards, arithmetic controls, and claim-status controls | file-level modal states; same-side BC span; civil span `BC + AD − 1` |
-| §1 | Establishes the prophetic origin of `1876 BC` from `586 BC + 1290` and the Triple `430` | same-side BC span; Triple `430`; `+50` Jubilee Offset |
+| §1 | Establishes the prophetic origin of `1876 BC` from `586 BC + 1290`, the Triple `430`, and the File_64 great-/lesser-Nexus framing | same-side BC span; Triple `430`; `+50` Jubilee Offset; downstream File_64 corroboration |
 | §2 | Records the variant convergence paths to `1876 BC` | MT; SP/LXX `215 + 215`; LXX `33 + 397`; subordinate Ramesside; `645` radius |
 | §3 | Preserves the 2nd Cainan cumulative-to-regular mechanism and Cainan macro-vector expansion | regular `+130`; cumulative `+460`; `2520`; `2400`; `2940`; `2300`; `2307`; `2730`; `60`-multiple Shelah alignment; Mirror `3540 = 60 × 59`; Terah-Cainan `±60` death rail; `1260 → 1290 → 1260`; `130` chain |
 | §4 | Records micro-pattern echoes and localized/global `−33` Mirror material | `±2`; `+30`; localized `−33` target-generation state; global `−33` exploratory state; civil cross-axis span; File_26 `18766/18756 BC` 10x rail |
@@ -151,7 +200,7 @@ When the Samaria Node is cited in `File_16`, treat it as a File_00 schematic env
 2. The MT `430` Egypt path, SP/LXX `215 + 215` Sojourn-division path, LXX `33 + 397` family-unit path, `+60 Terah` path, SP-145 path, subordinate Ramesside path, and 2nd Cainan path must remain distinct.
 3. The Sojourn 215, Exodus 215, and LXX `−33` states answer different questions and must not be merged into one generic adjustment.
 4. The subordinate Ramesside path uses `1231 BC` as a subordinate Exodus lens and `645`-radius midpoint. It must not replace the primary `1446 BC` Exodus anchor.
-5. The LXX `−33` value is textual under the LXX Exodus 12:40 interpretation; its standard Abraham–Levi localization is methodological. Global `−33` remains exploratory.
+5. The LXX `−33` value is textual under the LXX Exodus 12:40 interpretation. The operative scope is now bounded Terah-through-Levi; the Terah extension is methodological/structural, while the Mirror rows in this file remain primarily Jacob-family corroboration. Global Noah/Adam `−33` remains exploratory.
 6. The LXX `33 + 397` state is a family-unit Sojourn state. It places Jacob’s return from Haran at `1876 BC` and Entry into Egypt at `1843 BC`; it does not convert MT Entry into `1843 BC`.
 7. Regular restored 2nd Cainan uses `+130`; cumulative restored 2nd Cainan uses `+460`. Do not feed the regular insertion into cumulative death-window arithmetic.
 8. The Cainan death-window state preserves EnvNorm `7` as the source’s integer window label. EnvSpread `7.5` remains a phase-resolved dependency state and is not locally activated unless a section explicitly opens that envelope.
@@ -166,10 +215,15 @@ When the Samaria Node is cited in `File_16`, treat it as a File_00 schematic env
 17. The cross-tradition `60`-multiple Shelah / Plenty-Famine alignment and its Mirror `3540 = 60 × 59` companion are structural inference / Mirror corroboration / providential synchronization. MT and SP target the Famine window; LXX targets the preceding Plenty window. Do not collapse Plenty with Famine, and do not make the common `60` factor a new operator.
 18. The inverse-number addendum is appendix-only inverse corroboration. It is not Mirror protocol, not civil cross-axis arithmetic, and not part of the core `13` counted mechanisms.
 19. The historical `966 BC` Temple foundation and schematic `1016 BC` Triple-430 pivot are dual-ledger states.
-20. `AD 25` and `AD 30` in the Christological bracket are paired target members, not one collapsed Christological endpoint.
-21. The File_00 Samaria Node `726–721 BC` is a schematic envelope inside the broader File_16 `728–721 BC` Famine-window projection. It does not correct the actual Fall of Samaria, and it does not replace the broad window row.
+20. File_64's `430/450/490` Judges ledgers independently corroborate the schematic `1016 BC` coordinate and may name it the lesser Judges–Sanctuary Nexus. They do not add a Category A or Category B witness to File_16, do not rederive the Kings `+50`, and do not turn the second `430` into a literal elapsed-history claim.
+21. `AD 25` and `AD 30` in the Christological bracket are paired target members, not one collapsed Christological endpoint.
+22. The File_00 Samaria Node `726–721 BC` is a schematic envelope inside the broader File_16 `728–721 BC` Famine-window projection. It does not correct the actual Fall of Samaria, and it does not replace the broad window row.
 
 ### 0.4 Machine Guards for `File_16`
+
+Machine Guard [FILE_16 FILE_66 THIRD-1290 / JEREMIAH NON-BULLSEYE]:
+Final File_66 may add a downstream third `1290` comparison `1851 BC → 561 BC` beside File_16's existing `1991→701` and `1876→586` relations and may use `626 BC` in the Jeremiah pre-Fall translation field. These are File_66 structural comparisons, not new File_16 Primary anchors or Bullseye witnesses, and do not redefine the regular-MT `1290`, Famine/Exile, or Nexus controls.
+
 
 Machine Guard [FILE_16 1876 YEAR-LABEL]:
 
@@ -190,6 +244,10 @@ In the subordinate Ramesside convergence path, `1231 BC` is the Exodus node, `16
 Machine Guard [FILE_16 LXX 33 + 397]:
 
 The LXX `33 + 397` reading is a family-unit Sojourn interpretation. It places Jacob’s return from Haran at `1876 BC` and Jacob’s Entry into Egypt at `1843 BC`. Do not collapse this with the MT `430`-Egypt state, where Jacob’s Entry itself is `1876 BC`.
+
+Machine Guard [FILE_16 FILE_62 MALE 7+33 HYBRID]:
+
+Final File_62 may combine File_61/File_62 half-clutch and full-clutch coordinates with File_16’s localized `−33` family-unit comparison to display `H→K=7`, `K→V=33`, `H→V=40`. This is a declared cross-modal hybrid. Do not promote File_62’s `H7/T14` coordinates into File_16 Primary anchors; do not present the hybrid as one MT, LXX, SP, or cumulative continuous chronology; do not extend the localized `−33` beyond its declared bounded Terah-through-Levi scope without a controlling derivation; do not convert the resulting `7+33=40` into a new Category A/B Nexus witness; and do not collapse the terminal Moses form `1526→1519→1486` with the generational localized-`−33` form.
 
 Machine Guard [FILE_16 CAINAN REGULAR / CUMULATIVE]:
 
@@ -245,6 +303,10 @@ Machine Guard [FILE_16 TRIPLE 430 DUAL LEDGER]:
 
 The first `430` in `1876 → 1446` is literal under Exodus 12:40. The `1446 → 1016` and `1016 → 586` spans use the schematic `1016 BC` pivot generated through the `+50` Jubilee Offset from the historical `966 BC` Temple foundation. The schematic pivot must not overwrite the historical anchor.
 
+Machine Guard [FILE_16 FILE_64 GREAT / LESSER NEXUS NON-COLLAPSE]:
+
+Final File_64 may identify `1016 BC` as the lesser Judges–Sanctuary Nexus and may corroborate it through the Judges `430/450/490` ledgers. It may also apply File_16-controlled `1876 BC`, localized `−33`, `1290`, and Cainan/Terah states in its Jacob final-`70` lattice, Jacob–Daniel closure, and translated `60 + 60` rails. File_16 remains controlling for the great `1876 BC` Nexus, the `1876 → 1446 → 1016 = 430 + 430` frame, the Triple-`430` literal / schematic firewall, the localized `−33` source state, Cainan macro-vectors, and the Bullseye inventory. Do not import File_64's Judges rows, Jacob/Daniel synthesis, Cainan–Terah translations, Northern `+33`, paired `930`, or Flood corroboration into the File_16 Category A/B count; do not claim that File_64 derives the Kings `+50`; do not make `1016 BC` the historical Temple foundation; do not convert the schematic `430` blocks into uninterrupted literal history; and do not claim direct literary dependence between Genesis 49 and Daniel 12.
+
 Machine Guard [FILE_16 SLASH-PAIR / WINDOW SAFETY]:
 
 Slash-pairs such as `3058/3056 BC`, `2458/2456 BC`, `1843/1845 BC`, `AD 1843/1845`, and `AD 1876/1878` are ordered state-pairs. They are not ranges, averages, or loose alternatives. Famine windows and Daniel windows are envelopes. Compute or classify each member component-wise when cross-axis or same-side arithmetic is later verified.
@@ -265,6 +327,9 @@ The `2230 → 3220`, `5096 BC`, `9200`, `10000`, and `990` transfer-delta materi
 Machine Guard [FILE_16 CHRISTOLOGICAL BRACKET]:
 
 `1876 BC → AD 25` and `1871 BC → AD 30` are paired Christological bracket members. The first belongs to the ministry target; the second belongs to the famine-completion / death target. Do not collapse `AD 25/30` into one date or make either endpoint replace the other.
+
+Machine Guard [FILE_16 FILE_65 CENTRAL-`1290` / OUTER-FRAME NON-COLLAPSE]:
+Final File_65 correctly identifies `1876 BC → 586 BC = 1290` as the regular-MT central Triple-`430` route and may place the localized-LXX flanks at `1896 → 606` and `1826 → 536`. It may also display `2006 → 1876 → 1446 → 1016 → 886n BC = 130 + 430 + 430 + 130 = 1120 = 16 × 70`. File_16 remains controlling for the great `1876 BC` Nexus, Triple-`430`, localized `−33`, `1260/1290/1335`, and Bullseye inventory. Do not count the File_65 outer frame as a new Bullseye category, convert `886n BC` into a Primary anchor, or collapse the literal first `430` with the schematic later `430`s.
 
 ### 0.5 Terminology controls
 
@@ -296,6 +361,8 @@ Machine Guard [FILE_16 CHRISTOLOGICAL BRACKET]:
 | Cainan arithmetic | Regular `+130`, cumulative `+460`, selected death-window nodes `4398 BC`, `4396 BC`, and `4391 BC`, and the `2520` / `2300` / `2730` target spans are kept distinct. Visible target calculations check. Full Cainan table provenance remains dependency-controlled. |
 | Cainan macro-vector update | The `4398–4391 BC → 1878–1871 BC` envelope projection by `2520`, regular-Cainan lifespan members `2551–2091 BC` and `2336–1876 BC`, the `2307` inclusive companion line, the `4391 BC → 1661 BC = 2730` Enochian vector, and the `4396 BC → 586 BC = 3810` Daniel 12 sandwich are retained as B6 substructure. The `2307` and solar comparison lines remain audit-controlled companion notes. |
 | Key-of-23 material | The only explicit local Key-of-23 arithmetic in the main body is the Shem Death Lock expansion, `920 × 25/23 = 1000`; it checks. |
+| File_62 downstream male `7+33` application | Dependency arithmetic checks: `2073−2066=7`; `2066−2033=33`; `2073−2033=40`; `1926−1919=7`; `1919−1886=33`; `1926−1886=40`; `1789−1782=7`; `1782−1749=33`; `1789−1749=40`. File_62 controls the half/full-clutch coordinates and node labels; File_16 controls only the localized `−33` operator. |
+| File_64 expanded Nexus synthesis | Dependency arithmetic checks: `1876−1446=430`; `1446−1016=430`; `1876−1016=860=2×430`; `1896−606=1290`; `1876−586=1290`; `1826−536=1290`; `1936−1076=860`; `1876−1016=860`; `1816−956=860`. File_64's `430/450/490` Judges ledgers, Jacob final-`70` lattice, Jacob–Daniel closure, and translated Cainan–Terah rail remain downstream. File_16 controls the source states and does not add these structures to the Bullseye count. |
 | Enumeration arithmetic | Active core classified inventory count is `7 + 6 = 13` mechanisms. The raw source-inventory display had `8 + 6 = 14` rows because Cainan appeared in direct-fork and pattern-vector logic. The Final source retains the Cainan witness under Category B only. Appendix B adds three dependency-controlled deep-time extension vectors, B7–B9, which are not counted inside the core `13`. The source’s `13+` label is retained as an inclusive inventory label; the product `3 × 2 × 2` remains corrected to `12` baseline slots. |
 | Deep-time Mirror / inverse arithmetic | Appendix B checks `4106 + 1875 − 1 = 5980`, `5486 + 1875 − 1 = 7360`, `4106 − 1876 = 2230`, `2230 → 3220`, `1876 + 3220 = 5096`, `5980 + 3220 = 9200`, `9200 × 25/23 = 10000`, and `3220 − 2230 = 990`. These are dependency-controlled by `File_51b` / `File_52a` and retained as appendix-level corroboration. |
 | Statistical / probability arithmetic | Broad probability and “many possible landing points” statements are preserved as qualitative convergence claims. They are not treated as formal statistical results unless `File_10` or another dependency supplies a defined probability model. |
@@ -441,6 +508,58 @@ Terminology:
 |---|---|
 | Literal | The span corresponds directly to a biblical duration statement. The `430`-year Sojourn is explicitly stated in Exodus 12:40. |
 | Schematic | The span is required by the source pattern but does not correspond to a single explicit biblical duration. It represents the idealized structure underlying the historical data. |
+
+#### 1.4A File_64: the lesser Judges–Sanctuary Nexus
+
+Final, post-final pressure-tested `File_64` supplies a downstream independent derivation of the schematic `1016 BC` coordinate from the Book of Judges. Its simplest route is:
+
+```text
+1446 → 1406 = 40
+1406 → 1107 = 299
+1107 → 1016 = 91
+
+40 + 299 + 91 = 430.
+```
+
+Its complete printed-duration ledgers then place the same coordinate at all three boundaries of the final Philistine–Samson `40 + 20` module:
+
+| File_64 route | Full schematic tally | Position of `1016 BC` |
+|---|---:|---|
+| Joshua-extended Judges ledger | `490` | opening of the Philistine `40` |
+| Explicit Judges printed ledger | `450` | joint between the Philistine `40` and Samson `20` |
+| Jephthah direct route | `430` | closure of Samson's `20` |
+
+File_64 therefore names `1016 BC` the **lesser Judges–Sanctuary Nexus** and frames it against File_16's great Genesis Nexus:
+
+```text
+1876 BC ──430── 1446 BC ──430── 1016 BC
+```
+
+The first `430` remains the literal MT Sojourn state. The second remains schematic. File_64's independent landing strengthens the endpoint but does not replace the File_08 Kings derivation, does not generate the `+50` operator, and does not add another Category A or Category B witness to the File_16 Bullseye inventory.
+
+The July 27 File_64 amendment then carries a localized-LXX Jacob `20 + 50 = 70` rail through the same Nexus field:
+
+```text
+1896 / 1876 / 1826
+  ↓430   ↓430   ↓430
+1466 / 1446 / 1396
+  ↓430   ↓430   ↓430
+1036 / 1016 /  966
+  ↓430   ↓430   ↓430
+ 606 /  586 /  536
+```
+
+The rows preserve Jacob's final `70`; the columns preserve `1290 = 3 × 430`. The terminal comparison joins Jacob's Genesis 49 declaration concerning the latter days to Daniel 12's `1290/1335`, rest, and allotted inheritance. File_64 classifies this as literary-theological and providential synthesis, not proof of direct literary dependence.
+
+File_64 also carries the lower Cainan–Terah death rail into the Judges field:
+
+```text
+1936 / 1876 / 1816
+  −860   −860   −860
+1076 / 1016 /  956.
+```
+
+This is a downstream uniform translation of File_16 / File_18 dependency states. It does not create new File_16 Bullseye witnesses, identify Cainan and Terah as one node-class, or convert the translated Judges labels into historical royal dates.
 
 ### 1.5 The `+50` Jubilee Offset
 
@@ -657,6 +776,9 @@ Active state: four-roads shared-label display state.
 Four traditions, four distinct events, one year-label — each hanging its own `430`-family span from the same numeral. This display consolidates three already-registered convergence states and adds the SOR Covenant member; the event-states remain distinct under the `1876 BC` shared year-label state (do not collapse), and the Bullseye Protocol inventory (§6) is unchanged by this display — elevation of the SOR member into the inventory is deferred to a later author pass if desired.
 
 Claim-status: arithmetic fact (each span within its own frame); structural convergence / providential synchronization (the four-fold coincidence of the label); dependency-controlled (`File_20`; `File_04`).
+
+Cross-file corroboration pointer (bounded addition):
+`File_20` §8A records an inverse witness on this label: BJ / Jubilees' principal internal contradiction — the Isaac `+11` displacement — lays out four Isaac coordinates whose nested envelopes center exactly on `1876 BC` (= AM 1981). Classification: holographic corroboration, controlled by `File_20`; not a fifth road and not a Category A member; the Bullseye Protocol inventory (§6) is unchanged.
 
 ## 3. The Cainan mechanism: the cumulative-to-regular gear
 
@@ -1051,6 +1173,8 @@ The source reads Adam’s `+30` as maturity before the curse takes effect and th
 Mirror role note:
 This section contains Mirror material in a non-Mirror file. Cross-axis span counts use `BC + AD − 1`. The localized `−33` Mirror rows are classified as Mirror corroboration because they stress-test textual states already established by Genesis 11:10 and the LXX `33 + 397` Sojourn reading. The global `−33` rows are classified as an Exploratory Mirror note because they are coherent but not tracked in standard tables.
 
+Author scope clarification (September 2026): repository-wide localized `−33` now includes Terah as the upstream hinge, while remaining bounded before Noah/Shem. This section does **not** reinterpret its existing Mirror rows as Terah biography rows. `File_60` controls the detailed Terah states `2296→2091`, `2236→2031`, `2203→1998` and the qualified composite `2263→2058`; `File_00` controls the scope rule.
+
 Two chronological variants are treated as native baselines within their respective epochs. The local numeric-year Mirror corroborates their architectural coherence by connecting them across time.
 
 #### 4.3.1 The two localized variants
@@ -1058,10 +1182,10 @@ Two chronological variants are treated as native baselines within their respecti
 | Variant | Assigned scope | Source | Effect |
 |---|---|---|---|
 | `±2` | Noah and Shem | Genesis 11:10 ambiguity | two-year range at Flood pivot |
-| `−33` | Abraham to Levi | LXX Exodus 12:40, `33 + 397` | alternate Entry position |
+| `−33` | bounded Terah through Levi; this Mirror subsection executes the Jacob-family subset | LXX Exodus 12:40 supplies the `33 + 397` value; Terah extension is structural | alternate Entry position plus separately controlled Terah hinge |
 
 Methodological note retained:
-The `−33` is localized to Abraham–Levi for simplicity, not logical necessity.
+The former Abraham–Levi-only shorthand is superseded. The operative `−33` scope is bounded Terah-through-Levi; the Terah step is structural/methodological, not an additional claim about the wording of Exodus 12:40.
 
 #### 4.3.2 The `−33` position dates: localized application
 
@@ -1154,9 +1278,9 @@ Active state:
 Global `−33` exploratory state.
 
 Node-class note:
-This is an Exploratory Mirror note. It may show coherent Mirror alignment, but it does not become the standard repository table state and does not replace localized Abraham–Levi `−33`.
+This is an Exploratory Mirror note. It may show coherent Mirror alignment, but it does not become the standard repository table state and does not replace the bounded Terah-through-Levi `−33` state.
 
-The localization of `−33` to Abraham–Levi is a methodological simplification, not a logical constraint. There is no inherent reason `−33` cannot be applied additively all the way back to Noah or Adam.
+The bounded Terah-through-Levi scope is a methodological/structural selection, not an arithmetic impossibility theorem. There is no inherent arithmetic reason `−33` cannot be applied additively all the way back to Noah or Adam, but such global use remains exploratory.
 
 If `−33` is applied globally to the Flood epoch:
 
@@ -1189,7 +1313,7 @@ Key observation retained:
 
 | Scope | Pattern | Target |
 |---|---|---|
-| Localized `−33`, Abraham–Levi only | Flood dates → `4900` / `4300` | AD 1843/1845, `−33` Entry mirror |
+| Localized `−33`, bounded Terah-through-Levi (Mirror row uses Jacob-family subset) | Flood dates → `4900` / `4300` | AD 1843/1845, `−33` Entry mirror |
 | Global `−33`, applied to Flood | shifted Flood dates → `4900` / `4300` | AD 1876/1878, standard Entry mirror |
 
 Both produce coherent Mirror alignments. The `−33` works whether localized or global; it targets different valid anchors.
@@ -1200,7 +1324,7 @@ The source localizes for human comprehension and AI processing efficiency. The s
 | Variant | Repository tracking convention |
 |---|---|
 | `±2` | Native to Noah/Shem baseline; always present as range. |
-| `−33` | Restricted to Abraham–Levi epoch; optional alternate. |
+| `−33` | Bounded Terah-through-Levi operative scope; global Noah/Adam translation remains exploratory. |
 | `+60`, `+215` | Universal additive variants; apply across all epochs where active. |
 
 Advanced analysis may explore the full permutation space, but standard tables do not track `−33` as globally additive.
@@ -1222,13 +1346,73 @@ The source treats `±2` and `−33` as:
 AI processing note retained:
 
 - `±2` and `−33` are baseline features, not additive variants like `+60` / `+215`.
-- Standard repository tables localize `−33` to Abraham–Levi.
+- Standard repository scope is bounded Terah-through-Levi; this file’s displayed Mirror arithmetic remains the Jacob-family subset unless Terah is explicitly opened.
 - AI systems may model `−33` as globally additive; results remain structurally coherent.
 - The fact that both localizations produce valid patterns is preserved as Mirror corroboration for the local case and as an Exploratory Mirror note for the global case.
 
 Cross-reference retained:
 `File_00`, localized baseline variants; `File_04`, LXX `33 + 397` interpretation; `File_02`, Shem `±2` anomaly; `File_18`, §1.5, Shem `±2` local variant.
 
+#### 4.3.8 File_62 male `7+33` downstream application
+
+Dependency state:
+Final `File_62` applies the localized `−33` family-unit state to a separate cumulative–regular half-clutch field controlled by corrected File_61 and File_62.
+
+For the generational form, define:
+
+```markdown
+H = half-clutch coordinate
+K = full-clutch coordinate
+V = K − 33
+```
+
+Then:
+
+```markdown
+H − K = 7
+K − V = 33
+H − V = 40
+```
+
+The principal downstream rows are:
+
+| Field | Half-clutch `H` | Full-clutch / regular landing `K` | Localized `−33` landing `V` | Partition |
+|---|---:|---:|---:|---:|
+| Jacob–Isaac | `2073 BC` | `2066 BC` | `2033 BC` | `7 + 33 = 40` |
+| Levi birth | `1926 BC` | `1919 BC` | `1886 BC` | `7 + 33 = 40` |
+| Judah–Levi death | `1789 BC` | `1782 BC` | `1749 BC` | `7 + 33 = 40` |
+
+Arithmetic:
+
+```markdown
+2073 − 2066 = 7
+2066 − 2033 = 33
+2073 − 2033 = 40
+
+1926 − 1919 = 7
+1919 − 1886 = 33
+1926 − 1886 = 40
+
+1789 − 1782 = 7
+1782 − 1749 = 33
+1789 − 1749 = 40
+```
+
+State and claim-status control:
+
+- File_16 controls the localized LXX `−33` / `33+397` family-unit operator.
+- Corrected File_61 and Final File_62 control `H7`, `T14`, the cumulative coordinates, and the meaningful regular landings.
+- The combined rows are declared hybrid MT-cumulative / MT-regular / localized-LXX comparisons. They are not one manuscript’s continuous chronology.
+- The arithmetic is exact. Applying the male-child `7+33=40` purification grammar is structural / typological, with Jubilees providing explicit ancient hermeneutical precedent by File_62 dependency.
+- These rows add no Category A or Category B road to the Bullseye Protocol.
+
+The terminal Moses form remains separate:
+
+```markdown
+1526 → 1519 → 1486 = 7 + 33 = 40
+```
+
+Its final `33` is the fixed half-clutch-midpoint-to-Midian span, not an application of the LXX `−33` operator.
 
 ### 4.4 File_26 10x Nexus rail: `18766/18756 BC`
 
@@ -1845,6 +2029,9 @@ The source reads the `1876 BC → 586 BC` line as an Egypt-to-Exile cycle: Israe
 | `File_11` | Pillar Axiom | `130` / `120` rhythm |
 | `File_12` | Solar/Lunar Straddle | `0.5 → 5` at `10x` |
 | `File_14` | Purification structure | `40 + 40` pattern field |
+| `File_61` | Corrected half/full clutch | Supplies `H7/T14` coordinates and fixed-anchor boundaries; not local File_16 Nexus evidence |
+| `File_62` | Male `7+33` hybrid application | Combines File_61/File_62 clutch coordinates with the File_16 localized `−33` state under explicit cross-modal restraint |
+| `File_64` | Lesser Judges–Sanctuary Nexus | Independently derives schematic `1016 BC` through Judges `430/450/490` ledgers and frames `1876 → 1446 → 1016 = 430 + 430`; adds no Bullseye witness |
 | `File_16` | Christological Criterion | `4300` / `1900` lock |
 | `File_16` | Daniel Quadruple Lock | `1150` / `1274` / `1290` / `1335` |
 | `File_18` | Kings of Judah | `+50` Jubilee Offset verification |
@@ -2032,6 +2219,12 @@ The `18766/18756 BC` 10x Nexus rail comparison is dependency-controlled by `File
 Dependency note [FILE_16 SAMARIA NODE]:
 The Samaria Node twin-city vector remains controlled by `File_00` for actual / schematic firewalling. `File_16` preserves the Nexus relation `1876 BC → 726 BC = 1150`, `1876 BC → 586 BC = 1290`, and `726 BC → 586 BC = 140 = 2 × 70`.
 
+Dependency note [FILE_16 FILE_62 MALE 7+33]:
+Final File_62 uses the File_16 localized `−33` family-unit state only as a declared downstream component in the generational rows `2073→2066→2033`, `1926→1919→1886`, and `1789→1782→1749`. Corrected File_61 and File_62 control the half/full-clutch coordinates, regular node identities, and male-birth-law interpretation. File_16’s Nexus proof, Bullseye inventory, and Primary anchors remain unchanged; only the standard `−33` scope pointer is broadened one generation upstream to Terah.
+
+Dependency note [FILE_16 FILE_64 EXPANDED NEXUS SYNTHESIS]:
+Final, full post-final pressure-tested File_64 independently derives the schematic `1016 BC` endpoint through the Judges `430/450/490` duration-ledger routes and uses the label lesser Judges–Sanctuary Nexus. Its July 27 amendment then applies File_16-controlled `1876 BC`, localized `−33`, `1290`, and Cainan/Terah states in the Jacob final-`70` triple-`430` lattice, the Genesis 49 / Daniel 12 literary-theological closure, and the uniform `1936/1876/1816 → 1076/1016/956` translation. File_16 remains controlling for the great Nexus, source states, Triple-`430` literal / schematic distinction, Cainan macro-vectors, and Bullseye inventory. The pointer adds no Category A/B witness, alters no historical `966 BC` Temple state, does not rederive the Kings `+50` or Northern `+33`, and does not establish direct literary dependence.
+
 ## Unresolved issues
 
 No local source blocker remains. The `2307` inclusive companion and solar comparison remain audit-controlled; later bounded update caution labels remain preserved in the file header.
@@ -2042,6 +2235,14 @@ This public-clean Markdown source removes only archival amendment history, pass 
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+No pre-existing File_16 arithmetic, Primary anchors, source states, node-classes, sign conventions, operator definitions, slash-pairs, ranges, envelopes, Mirror protocols, claim-status labels, theological claims, Bullseye inventory, or dependency boundaries are changed. The previously applied File_62 and original File_64 guards remain; this bounded update expands only the File_64 dependency description, reciprocal note, state row, arithmetic audit row, §1.4A synthesis, and the existing great-/lesser-Nexus non-collapse guard.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+
+## August 3 2026 File_65 reciprocal-control update
+
+- Added Final File_65 as a bounded reciprocal dependency.
+- Added the exact non-collapse Machine Guard registered at State Vocabulary Register v1.36 §D.29.
+- Routed current control pointers through Restart Capsule v11.35 and Repository Change Archive v1.45.
+- Changed no pre-existing arithmetic, Primary anchor, source duration, operator, historical chronology, or dependency boundary.
+- Focused replacement checks performed; no new full pressure test.

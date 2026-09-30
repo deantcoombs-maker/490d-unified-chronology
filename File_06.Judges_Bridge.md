@@ -4,23 +4,25 @@ Legacy source title: ENTITY_THE_JUDGES.md
 Entity: THE JUDGES
 Classification: The Wilderness Bridge
 UUID: ERA_JUDGES
-Status: Final; pressure tested; File_15 Generational Axiom cross-file update applied
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
-Pressure-test status: Current; publication-clean verification complete; prior pressure-tested status retained; File_15 Generational Axiom cross-file update verified as dependency-label cleanup only.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; pressure tested; File_15 Generational Axiom cross-file update applied; bounded File_64 reciprocal Jephthah / Judges–Sanctuary Nexus update applied July 26 2026; bounded Final File_69 reciprocal pointer applied August 17 2026; bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 reciprocal replacement incorporated into the Manifest v22 non-archive release package; no live deployment or external archival capture claimed; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
+Pressure-test status: Current; publication-clean verification complete; prior pressure-tested status retained; File_15 Generational Axiom cross-file update verified as dependency-label cleanup only; focused reciprocal-routing verification complete July 26 2026 for the File_64 update; no new full pressure test is claimed; focused reciprocal-routing verification complete August 17 2026 for the bounded File_69 pointer; no new full pressure test claimed; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status: Bounded File_64 update applied and focused machine-diff, arithmetic, state-firewall, dependency, Machine Guard, Markdown-structure, and publication-clean checks completed July 26 2026; no new full pressure test was performed for this bounded update; bounded Final File_69 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 17 2026; no new full pressure test; bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; bounded File_64 dependency routing, Jephthah `1107/1106 BC` state clarification, and one File_06 non-collapse Machine Guard only. File_64-specific vocabulary remains pending its own control-document registration. No pre-existing File_06 arithmetic value, Primary anchor, Conquest or Ramesside state, operator definition, sign convention, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status label, theological claim, or dependency boundary changed; File_69 reciprocal guard registered at State_Vocabulary_Register v1.41 Part D §D.33 and routed through Restart Capsule v11.40; no pre-existing proof-bearing state or Primary anchor changed; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
 Primary domain: Regular; Cumulative; Rounded; Prophetic; Comparative; Calendar; Theological
 Traditions: MT; subordinate Ramesside lens
 Canonical source: Markdown
 Primary anchors: 1406n BC; 1400n BC; 1406 BC; 1106 BC; 4116 BC; 1476 BC; 1231 BC; 1261 BC; 1191 BC; AD 30; AD 70; 14011 BC; 1411 BC; 14471 BC; 1871 BC
 Control-comparison anchors: 1399 BC; 1399n BC; 14006 BC; 1406 BC; 1878–1871 BC
+File_64 dependency-controlled comparison anchors: 1407 BC; 1107 BC; 1016 BC; 996 BC; 956 BC
 Supplemental phase anchors: Aaron spring/Nisan birth-label about 1529 BC; Moses spring/Nisan birth-label about 1526 BC; optional Aaron autumn/Tishri retro-shift about 1530 BC; optional Moses autumn/Tishri retro-shift about 1527 BC; plague-period label-state 1447t/1446n BC; Aaron death 1407 BC; Moses death / Conquest begins 1406 BC
 Creation-week comparison anchors: 4122t–4115t BC; 4121n–4114n BC; 14012t–14005t BC; 14011n–14004n BC
-Related files: File_00; File_04; File_15; File_16; File_17; File_18; File_51a; File_54; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2
-Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; `299 → 300`; `300/299`; `7 × 430`; `1260`; `1290`; `12600 + 300 = 12900`; Aaron/Moses `L = 3.5`; EnvNorm `7`; EnvSpread `7.5`; 10x scale; `0.5 → 5.0`; File_15 ordered endpoint-pair display; generational LCM `LCM(40, 70, 100) = 1400`
-Major modal states: file-identity bridge state; calendar-suffix state; Nisan/Tishri phase-state; Conquest process state; Land Division / Caleb 85 / Sabbath-rest onset state; land-rest envelope `1400n–1399n BC`; File_15 ordered endpoint-pair dependency state; Jephthah `300` state; `299 → 300` component state; MT Creation Year-6 to Jephthah state; subordinate Ramesside Joshua birth-state; subordinate Ramesside Restoration / Judgment bifurcation; Aaron/Moses three-year birth-label branch; Aaron/Moses `L = 3.5` phase-resolved branch; EnvNorm / EnvSpread envelope state; Leader's Gap 10x scale-state; Creation-week / cumulative Creation-week straddle state; `12600` lock Track A / Track B; Famine Relief / famine-window endpoint state; Joshua-Jesus typological state
+Related files: File_00; File_04; File_15; File_16; File_17; File_18; File_51a; File_54; File_61; File_64; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; File_69
+Major operators: same-side BC span; civil cross-axis span `BC + AD − 1`; `299 → 300`; `300/299`; `7 × 430`; `1260`; `1290`; `12600 + 300 = 12900`; File_64 post-Jephthah tally `6 + 7 + 10 + 8 + 40 + 20 = 91`; File_64 direct `40 + 299 + 91 = 430`; File_64 explicit `450` and Joshua-extended `490` ledgers by dependency; Aaron/Moses `L = 3.5`; EnvNorm `7`; EnvSpread `7.5`; 10x scale; `0.5 → 5.0`; File_15 ordered endpoint-pair display; generational LCM `LCM(40, 70, 100) = 1400`
+Major modal states: file-identity bridge state; calendar-suffix state; Nisan/Tishri phase-state; Conquest process state; Land Division / Caleb 85 / Sabbath-rest onset state; land-rest envelope `1400n–1399n BC`; File_15 ordered endpoint-pair dependency state; Jephthah east-Jordan speech / accession state by File_64 dependency; west-Jordan `299` Key state by File_64 dependency; inherited `1106 BC` completed-boundary companion state; `299 → 300` component state; File_64 opening / joint / closure `1016 BC` convergence state by dependency; MT Creation Year-6 to Jephthah state; subordinate Ramesside Joshua birth-state; subordinate Ramesside Restoration / Judgment bifurcation; Aaron/Moses three-year birth-label branch; Aaron/Moses `L = 3.5` phase-resolved branch; EnvNorm / EnvSpread envelope state; Leader's Gap 10x scale-state; Creation-week / cumulative Creation-week straddle state; `12600` lock Track A / Track B; Famine Relief / famine-window endpoint state; Joshua-Jesus typological state
 Major claim-status labels: textual datum; source-retained chronology datum; arithmetic fact; structural inference; typological reading; theological note; dependency-controlled; audit note
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; listed file dependencies; Repository_Change_Archive (non-controlling history).
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; Final post-final pressure-tested File_64; bounded File_64 reciprocal update July 26 2026; listed file dependencies; Repository_Change_Archive (non-controlling history); Final File_69; State Vocabulary Register v1.41; Restart Capsule v11.40; Publication Manifest v22 non-archive release package; Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. The July 26 2026 bounded File_64 update preserves the inherited `1406 BC → 1106 BC = 300`, `12600 + 300 = 12900`, and `4116 BC → 1106 BC = 3010 = 7 × 430` companion states while registering File_64's distinction between the `1107 BC` Jephthah speech / accession state and the `1106 BC` completed-boundary companion. It routes the full `430/450/490` Judges duration-ledger proof and lesser `1016 BC` Judges–Sanctuary Nexus interpretation to File_64. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive; Bounded File_69 reciprocal routing applied August 17 2026; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_06 — The Judges Bridge
 
@@ -36,7 +38,21 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_18` | Data verification dependency, especially Kings of Judah baseline material where `+50`, schematic ledgers, or monarchy-adjacent checks are active. |
 | `File_51a` | Rounded Scaffold and cumulative-state dependency for `12600`, rounded cumulative anchors, cumulative / regular distinction, and Creation-week state discipline. |
 | `File_54` | Comparative style exemplar and supporting dependency for Joshua birth-state handling where Joshua birth at `1476 BC` is used as a derived comparison node. |
+| `File_61` | Downstream Joseph–Joshua synthesis: Joseph's bones carried out at the `1446 BC` Exodus, entering the land under Joshua in the `1406 BC` Conquest, and later burial at Shechem; File_61 controls the resurrection / promised-rest typology. |
+| `File_64` | Final post-final pressure-tested full treatment of Jephthah and the Judges duration ledgers. It distinguishes the east-Jordan `1407 BC → 1107 BC = 300` speech / accession rail, the adjacent west-Jordan `1406 BC → 1107 BC = 299 = 13 × 23` Key rail, and File_06's inherited `1406 BC → 1106 BC = 300` completed-boundary companion. It controls the complete `111/299/410` duration manifest, the direct `430`, explicit `450`, Joshua-extended `490`, the opening / joint / closure convergence at schematic `1016 BC`, and the Judges 17–21 Jerusalem interpretation. |
 | Restart Capsule v11.15 | Repository-wide anchor, operator, and modal-state control, including Operator `L`, EnvNorm, and EnvSpread. |
+
+File_69 Conquest reciprocal note:
+Final File_69 uses the historical `1406 BC` Moses-death / Conquest transition as the terminal control of its generated Matthean Levi-branch comparison. The generated `2386/2456 BC` closes do not become File_06 anchors.
+
+Machine Guard [FILE_05 FILE_06 FILE_69 MOSAIC-CONQUEST ROUTING]:
+Final File_69 may use the schematic primary branch `2876→2386 BC=490` and the comparison `2386→1406 BC=980=14×70`, with companion `2960→2456→1448 BC`, to expose a Matthean Levi-branch Mosaic weave. File_05 retains `1446 BC` as the primary Exodus anchor and File_06 retains `1406 BC` as the historical Moses-death / Conquest transition. `2386/2456 BC` remain generated schematic Mosaic closes and are not historical Moses or Conquest anchors.
+
+File_69 Mosaic-center reciprocal note:
+Final File_69 now routes its Matthean slot–rail theorem through the controlled Mosaic center matrix: `1406 BC` historical Moses-death / Conquest, `1446 BC` primary Exodus, `1448 BC` strict `72`-carrier companion, and `1486 BC` Moses age `40`. The parent anchor and generational-unit hierarchies remain unchanged.
+
+Machine Guard [FILE_05 FILE_06 FILE_14 FILE_15 FILE_69 MOSAIC-CENTER ROUTING]:
+Final File_69 may register the center matrix `1406/1446/1448/1486 BC` and the paired slot–rail exchanges `110−70=40` and `110−72=38`. File_05 retains `1446 BC` as the primary Exodus anchor; File_06 retains `1406 BC` as the historical Moses-death / Conquest transition; File_14 retains `1486 BC` as Moses age `40` and the biological-fractal controls; File_15 retains the authorized `100/70/40` generational units. `1448 BC` remains a strict schematic companion center and does not replace any historical anchor.
 
 ## 0. File-function
 
@@ -45,7 +61,7 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 The file preserves a compact logic engine connecting:
 
 - the Conquest process and Caleb anchor;
-- Jephthah's `300`-year statement;
+- Jephthah's `300`-year statement and the adjacent `1407/1406 BC → 1107/1106 BC` boundary field by File_64 dependency;
 - the MT Creation Year-6 anchor at `4116 BC`;
 - the subordinate Ramesside Joshua-Jesus harmonic;
 - the AD 30 / AD 70 `1260` bifurcation;
@@ -62,10 +78,13 @@ Audit-resolution handling:
 The author-supplied audit clarifications resolve the remaining author-decision items. `1400n BC` is treated as Land Division / Caleb 85 / Sabbath-rest onset within the `1400n–1399n BC` land-rest envelope. `1261 BC` is treated as the subordinate Ramesside Joshua birth-state derived from `1476 BC − 215`. The retired malformed Creation-week form is removed from executable source status and replaced by the corrected Creation-week forms `4122t–4115t BC`, `4121n–4114n BC`, `14012t–14005t BC`, and `14011n–14004n BC`.
 
 Scope note:
-`File_06` is not a full proof file. It is a state-aware bridge and index file. The anchor-specific arguments remain controlled by `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, and `File_51a`.
+`File_06` is not a full proof file. It is a state-aware bridge and index file. The expanded Jephthah, complete Judges duration-ledger, `430/450/490`, `1016 BC` Nexus, and Judges 17–21 Jerusalem arguments are controlled by Final File_64. The other anchor-specific arguments remain controlled by `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, and `File_51a`.
 
 File_15 cross-file dependency note:
 `File_15` cites `File_06` for the Conquest / land-rest side of its ordered endpoint-pair display. `File_06` does not import `File_15`'s full generational axiom; it only records that `File_15` may use the `File_06` `1406 BC` / `1399 BC` control side when the generational LCM argument is active.
+
+File_64 reciprocal Jephthah / Judges–Sanctuary Nexus note:
+Final, post-final pressure-tested `File_64` expands this bridge into the complete Judges duration-ledger proof. It identifies `1107 BC` as Jephthah's speech / accession state measured from the east-Jordan occupation at `1407 BC`, preserves `1106 BC` as the completed-boundary companion required by File_06's cumulative and Year-6 locks, and derives the schematic `1016 BC` Judges–Sanctuary Nexus through the direct `430`, explicit `450`, and Joshua-extended `490` routes. File_06 retains the compact bridge; File_64 controls the expanded proof and literary-theological synthesis.
 
 Modal-state rule:
 A shared date-label, number, span, suffix, phase label, or component does not create identity unless state, node-class, tradition, and operator agree.
@@ -85,8 +104,12 @@ Arithmetic facts and source-retained chronology data carry the base layer of `Fi
 | Land-rest envelope state | `1400n–1399n BC` | Sabbath-year rest envelope | The land rests from `1400n BC` to `1399n BC`. Preserve `1399 BC` / `1399n BC` as the land-rest endpoint / repository control state. |
 | File_15 endpoint-pair dependency state | `1406–1399 BC → 6 BC–AD 2`; local side `1406 BC` / `1399 BC` | Conquest / land-rest side of File_15 ordered endpoint-pair display | `File_06` supplies the Conquest / land-rest side only. Christological endpoints are `File_13`-controlled; the generational axiom is `File_15`-controlled. |
 | Conquest begins state | `1406 BC` | Conquest begins / Moses dies | Used in the Jephthah bridge and subordinate comparison states. Distinct from the suffixed `1406n BC` display unless locally equated. |
-| Jephthah `300` state | `1406 BC → 1106 BC`; `300` | Conquest-to-Jephthah textual / bridge state | Arithmetic checks by same-side subtraction: `1406 − 1106 = 300`. |
-| `299 → 300` component state | `299 → 300`; `300/299` | Key-of-23 / Enochian component expression | If the `300/299` operator is active, the conversion checks: `299 × 300/299 = 300`. It is not ordinary date subtraction and not Residue Protocol. |
+| Jephthah completed-boundary `300` state | `1406 BC → 1106 BC`; `300` | inherited completed-boundary / cumulative-harmonic companion | Arithmetic checks by same-side subtraction: `1406 − 1106 = 300`. Final File_64 does not erase this state; it classifies `1106 BC` as the completed-boundary companion to the `1107 BC` speech / accession state. |
+| File_64 east-Jordan Jephthah speech state | `1407 BC → 1107 BC = 300` | east-Jordan occupation → Jephthah speech / accession | Dependency-controlled by Final File_64. This is the primary geographical-textual `300` rail. It does not replace the inherited `1106 BC` companion. |
+| File_64 west-Jordan hidden-Key state | `1406 BC → 1107 BC = 299 = 13 × 23`; `299 × 300/299 = 300` | west-Jordan Conquest → Jephthah speech / accession | Dependency-controlled by Final File_64. The `299` is an ordinary same-side span; its `300/299` completion is a distinct exact-rational operation. |
+| `1107/1106 BC` boundary-pair state | `1107 BC`; `1106 BC` | speech / accession boundary; completed-boundary / cumulative-harmonic companion | Preserve both. Do not globally substitute one for the other. File_64 controls the state distinction; File_06 retains the `1106 BC` cumulative and `7 × 430` companion arithmetic. |
+| File_64 `1016 BC` convergence state | direct `430`; explicit `450`; Joshua-extended `490`; opening / joint / closure of `40 + 20` | downstream Judges duration-ledger / lesser Judges–Sanctuary Nexus | Dependency-controlled by Final File_64. It does not alter File_06's compact bridge, the historical `966 BC` Temple foundation, or the Kings `+50`. |
+| `299 → 300` component state | `299 → 300`; `300/299` | Key-of-23 / Enochian component expression | Final File_64 supplies the underlying west-Jordan span `1406 BC → 1107 BC = 299`. If the `300/299` operator is active, the conversion checks: `299 × 300/299 = 300`. It is not ordinary date subtraction and not Residue Protocol. |
 | Cumulative Danielic state | `12600 + 300 = 12900` | cumulative Conquest trunk plus Jephthah bridge | Arithmetic checks: `12600 + 300 = 12900`; `12900 = 10 × 1290 = 30 × 430`. Do not treat `12900` as a date anchor. |
 | MT Creation Year-6 to Jephthah state | `4116 BC → 1106 BC`; `3010 years`; `7 × 430` | MT Year-6 comparison to Jephthah | Arithmetic checks: `4116 − 1106 = 3010`; `7 × 430 = 3010`. `4116 BC` is a Year-6 / prime-chronology state, not a Creation endpoint. |
 | `430` component state | `7 × 430` | Sojourn / prophetic component family | Preserve as a component state. Do not import every `430` reading from `File_17` unless opened locally. |
@@ -120,9 +143,11 @@ Arithmetic facts and source-retained chronology data carry the base layer of `Fi
 | §0 | Defines file function, scope, working state register, File map, terminology controls, modal-state rules, Machine Guards, arithmetic controls, claim-status controls, and argument controls | file-level bridge state; modal-state controls; arithmetic facts; structural inference; dependency control |
 | File_15 dependency note | Records the reciprocal File_15 endpoint-pair dependency | ordered endpoint-pair display; Conquest / land-rest side |
 | §1 | Records the Conquest process, Caleb anchor, and land-rest envelope | `1406n BC → 1400n BC`; `1400n–1399n BC`; same-side span; calendar suffix state |
-| §2 | Records Jephthah's `300`-year bridge | `1406 BC → 1106 BC`; `299 → 300`; `300/299`; `12600 + 300 = 12900` |
+| §2 | Records the inherited completed-boundary Jephthah bridge and routes the full proof to File_64 | `1407/1406 BC → 1107/1106 BC`; `299 → 300`; `300/299`; `12600 + 300 = 12900`; File_64 `430/450/490` by dependency |
 | §3 | Records the MT Creation Year-6 to Jephthah cycle | `4116 BC → 1106 BC`; `7 × 430`; Year-6 state |
 | §4 | Records the Joshua-Jesus harmonic | subordinate Ramesside lens; `1261 BC` Joshua birth-state; `1260`; `1290` |
+| File_61 pointer | Routes Joseph's bones and Joshua's inheritance closure without expanding the local proof body | `1446 BC → 1406 BC = 40`; land entry distinct from later Shechem burial |
+| File_64 pointer | Routes the east-/west-Jordan Jephthah field, complete Judges duration manifest, three-position `1016 BC` convergence, and Jerusalem epilogue synthesis | `1407→1107=300`; `1406→1107=299`; `1107→1016=91`; direct `430`; explicit `450`; Joshua-extended `490` |
 | §5 | Records the `1260` bifurcation | Restoration / Judgment path states; civil cross-axis span `BC + AD − 1` |
 | §6 | Records the Leader's Gap scale rule | Aaron/Moses three-year branch; `L = 3.5`; EnvNorm / EnvSpread; `0.5 → 5.0`; 10x scale-state |
 | §7 | Records the `12600`-year locks | Track A / Track B cumulative states; corrected Creation-week / cumulative-week straddle; famine-window endpoint dependency |
@@ -142,6 +167,8 @@ Arithmetic facts and source-retained chronology data carry the base layer of `Fi
 | legacy comma-form of `12600` | Normalized to `12600`. |
 | legacy comma-form of `12900` | Normalized to `12900`. |
 | `FILE_16` / `FILE_18` | Normalized to `File_16` / `File_18`. |
+| File_64 `1107/1106 BC` Jephthah pair | `1107 BC` is the speech / accession state; `1106 BC` is the completed-boundary / cumulative-harmonic companion. Preserve both and do not treat either as a transcription correction of the other. |
+| `lesser Judges–Sanctuary Nexus` | File_64-controlled label for the schematic `1016 BC` coordinate generated by the Judges `430/450/490` ledgers. It does not replace the historical `966 BC` Temple foundation. |
 | `THE JOSHUA-JESUS HARMONIC` | Normalized as title case while preserving the Joshua-Jesus typological register. |
 | `THE 1260 BIFURCATION (AD 30 vs AD 70)` | Normalized as a numbered section while preserving both terminal states. |
 | `THE LEADER'S GAP (The 0.5 vs 5.0 Rule)` | Normalized as `The Leader's Gap: the 0.5 versus 5.0 rule`. |
@@ -156,7 +183,7 @@ Arithmetic facts and source-retained chronology data carry the base layer of `Fi
 1. `n` and `t` suffixes are calendar-state labels. Preserve them; do not strip the suffix.
 2. A suffixed date and an unsuffixed date are not automatically identical. `1406n BC` and `1406 BC` may point to related Conquest states, but they remain distinct display states unless the local section equates them.
 3. `1400n BC` marks Land Division / Caleb 85 / Sabbath-rest onset. The land-rest envelope runs `1400n–1399n BC`, with `1399 BC` / `1399n BC` preserved as the land-rest endpoint / repository control state.
-4. Jephthah’s `300` and the expression `299 → 300` are related but distinct state expressions. `299 → 300` is not ordinary date subtraction; it is executable only where the exact `300/299` operator is active.
+4. Final File_64 distinguishes three coordinated Jephthah relations: east-Jordan `1407 BC → 1107 BC = 300`, west-Jordan `1406 BC → 1107 BC = 299`, and the inherited File_06 completed-boundary companion `1406 BC → 1106 BC = 300`. `1107 BC` is the speech / accession state; `1106 BC` is the completed-boundary / cumulative-harmonic companion. The `299 → 300` completion is not ordinary date subtraction; it is executable only where the exact `300/299` operator is active.
 5. `File_17` component families do not become executable in `File_06` by resemblance. The local state, node-class, tradition, and operator must be stated.
 6. `4116 BC` is the MT Creation Year-6 / prime-chronology anchor. It is not a Creation endpoint and must not be collapsed into `4114 BC`, `4106 BC`, or other Creation states.
 7. `1231 BC`, `1261 BC`, and `1191 BC` belong to the subordinate Ramesside state. They do not replace the primary `1446 BC` Exodus, `1476 BC` Joshua birth, or `1406 BC` Conquest state.
@@ -184,7 +211,11 @@ Machine Guard [FILE_06 FILE_15 ENDPOINT-PAIR BOUNDARY]:
 
 Machine Guard [FILE_06 BRIDGE STATUS]:
 
-`File_06` is a bridge file. It records Conquest, Caleb, Jephthah, subordinate Ramesside, Danielic, Aaron/Moses phase-state, and cumulative-lock states without replacing the fuller proofs in `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, or `File_51a`.
+`File_06` is a bridge file. It records Conquest, Caleb, Jephthah, subordinate Ramesside, Danielic, Aaron/Moses phase-state, and cumulative-lock states without replacing the fuller proofs in `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, `File_51a`, or Final `File_64`.
+
+Machine Guard [FILE_06 FILE_64 BRIDGE / FULL-PROOF NON-COLLAPSE]:
+
+Final File_64 controls the expanded Jephthah geography, the `1107/1106 BC` state distinction, the complete `111/299/410` Judges duration manifest, the direct `430`, explicit `450`, Joshua-extended `490`, the three-position `1016 BC` convergence, and the Judges 17–21 Jerusalem synthesis. File_06 remains the compact bridge and retains its inherited `1106 BC`, `12900`, and `7 × 430` companion states. Do not import the complete File_64 proof as if every element were locally derived in File_06, and do not treat File_64 as replacing File_06.
 
 Machine Guard [FILE_06 CALENDAR SUFFIX]:
 
@@ -196,7 +227,7 @@ Machine Guard [FILE_06 CONQUEST / LAND-REST]:
 
 Machine Guard [FILE_06 JEPHTHAH 299/300]:
 
-Jephthah's `300` state and the source expression `299 → 300` must remain distinct. If `300/299` is opened, it must be treated as an exact Key-of-23 / Enochian rational operator, not as rounded arithmetic and not as Residue Protocol.
+Preserve the coordinated File_64 rails: `1407 BC → 1107 BC = 300`, `1406 BC → 1107 BC = 299`, and the inherited File_06 completed-boundary companion `1406 BC → 1106 BC = 300`. The `1107 BC` speech / accession state and `1106 BC` completed-boundary state must not collapse. If `300/299` is opened, it must be treated as an exact Key-of-23 / Enochian rational operator, not as rounded arithmetic and not as Residue Protocol.
 
 Machine Guard [FILE_06 RAMESSES NON-REPLACEMENT]:
 
@@ -255,8 +286,14 @@ This control checks visible arithmetic statements, same-side BC spans, cross-axi
 |---|---|---:|---|
 | Conquest process | `1406 − 1400` | `6` | Checks as six-year process / Land Division / Sabbath-rest onset field. |
 | Land-rest endpoint comparison | `1406 − 1399` | `7` | Checks as comparison-control span to the land-rest endpoint. Does not overwrite `1400n BC`. |
-| Jephthah bridge | `1406 − 1106` | `300` | Checks by same-side BC subtraction. |
+| File_64 east-Jordan Jephthah rail | `1407 − 1107` | `300` | Dependency check; primary geographical-textual rail in Final File_64. |
+| File_64 west-Jordan hidden-Key rail | `1406 − 1107` | `299 = 13 × 23` | Dependency check; ordinary same-side span underlying the `300/299` completion. |
+| Inherited completed-boundary Jephthah bridge | `1406 − 1106` | `300` | Checks by same-side BC subtraction; retained for File_06 cumulative and Year-6 companion states. |
 | Enochian component expression | `299 × 300/299` | `300` | Checks only if `300/299` is active. Not ordinary date subtraction. |
+| File_64 post-Jephthah tail | `6 + 7 + 10 + 8 + 40 + 20` | `91 = 7 × 13` | Dependency check; printed-duration ledger, not literal non-overlapping elapsed chronology. |
+| File_64 direct Exodus-to-Nexus route | `40 + 299 + 91` | `430` | Dependency check; `1446 BC → 1016 BC = 430`. |
+| File_64 explicit printed ledger | `40 + 410` | `450` | Dependency check; full endpoint `996 BC`; `1016 BC` is the joint before the final Samson `20`. |
+| File_64 Joshua-extended ledger | `40 + 40 + 410` | `490` | Dependency check; full endpoint `956 BC`; `1016 BC` is the opening of the final `40 + 20`. |
 | Cumulative Danielic link | `12600 + 300` | `12900` | Checks. |
 | Daniel 12 harmonic display | `12900 ÷ 10` | `1290` | Checks. `12900 = 10 × 1290 = 30 × 430`. |
 | MT Year-6 to Jephthah | `4116 − 1106` | `3010` | Checks. |
@@ -292,7 +329,7 @@ This control checks visible arithmetic statements, same-side BC spans, cross-axi
 | Residue Protocol | not invoked | — | No residue arithmetic is active in `File_06`. |
 
 Arithmetic-control result:
-The explicit arithmetic checks under the stated operators if modal states are preserved. The main arithmetic risk remains endpoint substitution: Track A requires `1411 BC`, not standard `1406 BC`, to preserve the stated `12600` lock. The prior `1400n BC` and `1261 BC` audit items are resolved by author clarification: `1400n BC` is land-rest onset within the `1400n–1399n BC` envelope, and `1261 BC` is the subordinate Ramesside Joshua birth-state.
+The explicit arithmetic checks under the stated operators if modal states are preserved. The File_64 dependency rows also check while remaining downstream rather than local proof. The main arithmetic risks are endpoint substitution and state collapse: Track A requires `1411 BC`, not standard `1406 BC`, to preserve its stated `12600` lock; Jephthah's `1107 BC` speech / accession state must not replace the inherited `1106 BC` completed-boundary companion needed by the File_06 `12900` and `7 × 430` displays. The prior `1400n BC` and `1261 BC` audit items remain resolved by author clarification.
 
 ### 0.7 Claim-status register for `File_06`
 
@@ -300,7 +337,7 @@ The explicit arithmetic checks under the stated operators if modal states are pr
 |---|---|
 | Textual datum | Direct biblical datum where supplied by the source or controlling dependency, such as Jephthah's `300`-year statement when cited as textual basis. |
 | Source-retained chronology datum | Date, label, or node preserved from the supplied source where `File_06` does not independently prove the value. |
-| Arithmetic fact | Direct calculation from stated anchors or exact operators, such as `1406 − 1106 = 300`, `1231 + 30 − 1 = 1260`, or `14011 − 1411 = 12600`. |
+| Arithmetic fact | Direct calculation from stated anchors or exact operators, such as `1407 − 1107 = 300`, `1406 − 1107 = 299`, `1406 − 1106 = 300`, `1231 + 30 − 1 = 1260`, or `14011 − 1411 = 12600`. |
 | Structural inference | Pattern inferred from repeated or state-controlled arithmetic, such as `12600 + 300 = 12900` as a Daniel 12 harmonic or the AD 30 / AD 70 bifurcation. |
 | Typological reading | Joshua-Jesus, Restoration, Judgment, Caleb, Famine Relief, or related theological meaning attached to a checked structure. |
 | Theological note | Broader theological interpretation preserved without letting the theology carry the arithmetic burden. |
@@ -316,11 +353,11 @@ Claim-status labels are used where they prevent confusion between arithmetic, te
 
 | Argument layer | Function in `File_06` | Final control |
 |---|---|---|
-| Source-retained chronology data | Preserves `1406n BC`, `1400n BC`, `1106 BC`, `1231 BC`, `1261 BC`, `1191 BC`, `14011 BC`, `1411 BC`, `14471 BC`, and `1871 BC` from the supplied source. | Retained with node-class notes; author-decision items have been resolved, while dependency hygiene remains labeled. |
+| Source-retained chronology data | Preserves `1406n BC`, `1400n BC`, `1106 BC`, `1231 BC`, `1261 BC`, `1191 BC`, `14011 BC`, `1411 BC`, `14471 BC`, and `1871 BC` from the supplied source; registers `1407 BC`, `1107 BC`, and `1016 BC` only by Final File_64 dependency. | Retained with node-class notes; author-decision items have been resolved, while dependency hygiene remains labeled. |
 | Arithmetic base | Same-side spans, cross-axis spans, exact ratios, and scale-state checks. | May carry the local computational claim under the stated operator. |
 | Structural inference | Connects the checked spans into Daniel 12, Creation Year-6, Joshua-Jesus, Leader's Gap, and `12600` lock structures. | Supportive and state-controlled; does not override dependency boundaries. |
 | Typological / theological layer | Explains why Joshua-Jesus, Restoration, Judgment, Caleb, and famine-window labels matter. | Preserved as typological reading or theological note; does not carry the arithmetic burden. |
-| Dependency-controlled layer | Uses `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, and `File_51a` for fuller proof. | Local file does not re-prove those dependencies. Remaining items are dependency hygiene, not author-decision blockers. |
+| Dependency-controlled layer | Uses `File_00`, `File_04`, `File_16`, `File_17`, `File_18`, `File_51a`, and Final `File_64` for fuller proof. | Local file does not re-prove those dependencies. File_64 controls the complete Judges ledger and lesser-Nexus interpretation; remaining items are dependency hygiene, not author-decision blockers. |
 | Exploratory / macro-fractal layer | Connects the half-year phase-state to Creation-week, cumulative Creation-week, SKL, and precessional scaling. | Preserved only as dependency-controlled context; not load-bearing in `File_06`. |
 
 Argument-control result:
@@ -361,28 +398,47 @@ The `1406n BC → 1400n BC` relation is a source-retained chronology datum plus 
 
 ## 2. Jephthah's `300`-year bridge
 
-### 2.1 Jephthah's `300`
+### 2.1 The three coordinated Jephthah rails
 
-Active state:
-Jephthah `300` bridge state.
+Active states:
+
+- File_64 east-Jordan Jephthah speech / accession state;
+- File_64 west-Jordan hidden-Key state;
+- inherited File_06 completed-boundary companion state.
 
 Node-class:
-Conquest-to-Jephthah bridge.
+Conquest / occupation boundary to Jephthah speech, followed by the completed-boundary companion used by the cumulative and Year-6 displays.
 
-| Element | Source form | Arithmetic / operator handling |
-|---|---|---|
-| Link | `299 → 300` | source-retained component expression; if `300/299` is active, `299 × 300/299 = 300` |
-| Span field | `1406 BC → 1106 BC` | same-side BC span; `1406 − 1106 = 300` |
-| Function | Connects Conquest to Jephthah | Judges-era bridge |
+| Rail | Source / dependency form | Arithmetic / operator handling | File function |
+|---|---|---|---|
+| East-Jordan textual-geographical rail | `1407 BC → 1107 BC = 300` | `1407 − 1107 = 300` | Primary Jephthah speech / accession state under Final File_64 |
+| West-Jordan hidden-Key rail | `1406 BC → 1107 BC = 299 = 13 × 23` | `1406 − 1107 = 299`; `299 × 300/299 = 300` when the Enochian operator is active | Reveals the Key-of-23 component beneath the textual `300` |
+| Completed-boundary companion | `1406 BC → 1106 BC = 300` | `1406 − 1106 = 300` | Inherited File_06 state retained for `12900` and `7 × 430` |
 
-Source-retained statement:
-Jephthah's `300` links `1406 BC` to `1106 BC`, with the `299 → 300` form preserved.
+File_64 source-state clarification:
+Final File_64 identifies `1107 BC` as Jephthah's speech / accession state because Judges 11:26 concerns the east-Jordan territory occupied before the western crossing. It identifies `1106 BC` as the adjacent completed-boundary / cumulative-harmonic companion. The two states are coordinated rather than competing.
 
 Operator note:
-The `299 → 300` expression is retained as a component-state expression. It is executable only as the exact `300/299` operator and is not ordinary date subtraction.
+The ordinary same-side span is:
+
+```markdown
+1406 − 1107 = 299
+```
+
+The Enochian completion is a separate exact-rational operation:
+
+```markdown
+299 × 300/299 = 300
+```
+
+The inherited File_06 companion remains:
+
+```markdown
+1406 − 1106 = 300
+```
 
 Claim-status note:
-Jephthah's `300` functions as the base textual / chronology datum for this bridge. The `1406 BC → 1106 BC` calculation is an arithmetic fact. The `299 → 300` form is a structural inference / component-harmonic expression controlled by `File_17`; it does not become a textual datum merely because it explains the `300` display.
+The east-Jordan and west-Jordan rails are dependency-controlled here by Final File_64. Their arithmetic is exact. The geographical and literary argument belongs to File_64. File_06 retains the completed-boundary companion because its downstream cumulative and Creation-Year-6 equations require `1106 BC`.
 
 ### 2.2 Cumulative link
 
@@ -390,7 +446,7 @@ Active state:
 Cumulative Danielic link state.
 
 Node-class:
-Cumulative Conquest trunk plus Jephthah bridge.
+Cumulative Conquest trunk plus the completed-boundary Jephthah bridge.
 
 ```markdown
 12600 (Conquest) + 300 = 12900 years
@@ -404,14 +460,59 @@ Arithmetic check:
 12900 = 30 × 430
 ```
 
-Source-retained function:
-The result is identified as a Daniel 12 harmonic.
+State clarification:
+This local equation uses the inherited completed-boundary companion:
+
+```markdown
+14006 BC → 1406 BC = 12600
+1406 BC → 1106 BC = 300
+14006 BC → 1106 BC = 12900
+```
+
+It does not require replacing the `1107 BC` speech / accession state. The boundary moves one year according to the active node-class.
 
 Claim-status note:
-The equation `12600 + 300 = 12900` is an arithmetic fact. The statement that `12900` functions as a Daniel 12 harmonic is a structural inference because `12900 = 10 × 1290`. It is not a new date anchor and not a separate textual datum.
+The equations are arithmetic facts. The statement that `12900` functions as a Daniel 12 harmonic is a structural inference because `12900 = 10 × 1290`. It is not a new date anchor and not a separate textual datum.
 
-Modal-state note:
-`12900` is preserved as a cumulative harmonic result. It is not introduced here as a date anchor.
+### 2.3 File_64 handoff: the direct `430` and the three-position `1016 BC` convergence
+
+Final File_64 carries the complete proof beyond this bridge. Its post-Jephthah printed-duration tail is:
+
+```markdown
+6 + 7 + 10 + 8 + 40 + 20
+= 91
+= 7 × 13.
+```
+
+Therefore:
+
+```markdown
+1107 − 91 = 1016
+```
+
+and the primary west-Jordan Exodus route is:
+
+```markdown
+1446 → 1406 = 40
+1406 → 1107 = 299
+1107 → 1016 = 91
+
+40 + 299 + 91 = 430.
+```
+
+File_64 then places the same schematic `1016 BC` coordinate at all three boundaries of the final Philistine–Samson `40 + 20` module:
+
+| File_64 route | Full schematic tally | Position of `1016 BC` |
+|---|---:|---|
+| Joshua-extended ledger | `490` | opening of the Philistine `40` |
+| Explicit printed-duration ledger | `450` | joint between the Philistine `40` and Samson `20` |
+| Jephthah direct route | `430` | closure of Samson's `20` |
+
+Dependency boundary:
+File_64 controls the complete `111/299/410` Judges duration manifest, historical-overlap / compositional-ledger distinction, First Samuel recapitulation, Judges 17–21 Jerusalem antithesis, and the label **lesser Judges–Sanctuary Nexus** for schematic `1016 BC`. File_06 records only the compact bridge and the state handoff.
+
+Historical / schematic firewall:
+The schematic `1016 BC` coordinate does not replace the historical `967/966 BC` Temple foundation and does not generate the Kings `+50`. Those states remain controlled by Files 08, 10, and 16. The File_64 duration ledgers are theological-compositional ledgers, not claims that every stated Judges duration elapsed consecutively without overlap.
 
 ## 3. MT Creation Year 6 to Jephthah: the `7 × 430` cycle
 
@@ -466,6 +567,9 @@ The subordinate Ramesside lens is controlled by `File_00` and `File_16`. The Jos
 
 Claim-status note:
 The cross-axis calculations are arithmetic facts. The Joshua-Jesus label is a typological reading / structural inference attached to those checked spans. `1261 BC` is not an unresolved free rail in this Final source; it is the subordinate Ramesside Joshua birth-state.
+
+File_61 Joseph-bones / Joshua-closure pointer:
+`File_61` controls the downstream Joseph–Joshua application. Joseph's bones were carried out of Egypt with Moses at the `1446 BC` Exodus and entered the Promised Land under Joshua in the `1406 BC` Conquest, completing a `40`-year passage. Joshua 24:32 records their later burial at Shechem; the burial itself is not assigned to `1406 BC`. File_61 classifies the bodily passage into the inheritance as resurrection / promised-rest typology, not a literal resurrection and not a new chronological operator. `File_06` remains controlling for Joshua's birth, Conquest, and land-rest states.
 
 ## 5. The `1260` bifurcation: AD 30 versus AD 70
 
@@ -615,6 +719,8 @@ The paired `+460` relation between Track A and Track B is arithmetic fact. The i
 | Data verification | `File_18`, §2E, Kings of Judah Baseline |
 | Rounded / cumulative controls | `File_51a` |
 | Joshua birth comparison / later-file style control | `File_54` |
+| Joseph's bones / Joshua inheritance closure | `File_61` |
+| Full Jephthah / Judges duration-ledger proof and lesser `1016 BC` Nexus | `File_64` |
 | Repository-wide controls | Restart Capsule v11.15; 490d Repository Style Guide v2.5 |
 
 ### 8.1 File_15 cross-file update
@@ -622,6 +728,12 @@ The paired `+460` relation between Track A and Track B is arithmetic fact. The i
 | File | Topic | Relevance |
 |---|---|---|
 | `File_15` | Generational Axiom | Reciprocal dependency for the `1406 BC` / `1399 BC` Conquest / land-rest side of the `1406–1399 BC → 6 BC–AD 2` ordered endpoint-pair display. |
+
+### 8.2 File_64 reciprocal Jephthah / Judges–Sanctuary Nexus update
+
+| File | Topic | Relevance |
+|---|---|---|
+| `File_64` | Jephthah, complete Judges duration ledgers, and the lesser `1016 BC` Judges–Sanctuary Nexus | Distinguishes `1107 BC` speech / accession from the inherited `1106 BC` completed-boundary companion; controls the `111/299/410` manifest, direct `430`, explicit `450`, Joshua-extended `490`, opening / joint / closure convergence, and Jerusalem literary synthesis. |
 
 ## Revision and archive note
 
@@ -631,4 +743,4 @@ Detailed revision history is preserved in the `Repository_Change_Archive`.
 
 Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+The July 26 2026 bounded File_64 update adds reciprocal routing, clarifies the `1107/1106 BC` Jephthah boundary pair, adds File_64 dependency arithmetic to the control ledger, and adds one File_06 non-collapse Machine Guard. It changes no pre-existing File_06 arithmetic value, Primary anchor, Conquest or Ramesside state, sign convention, operator definition, slash-pair, range, envelope, Mirror protocol, prior Machine Guard, claim-status hierarchy, theological claim, or dependency boundary.

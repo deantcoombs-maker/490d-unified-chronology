@@ -14,7 +14,71 @@ Major modal states: File identity state; Rounded Scaffold dependency state; inve
 Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; `File_00` foundation / archive-routing precedent; `File_51a`; `File_52b`; `File_54`; prior `File_52a` Final and post-final pressure-tested source; author §14 non-load-bearing Mirror-row removal decision; Repository_Change_Archive (non-controlling history).
 Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
 
+Rounded-coordinate clarification: Author-directed September 25 2026; signed mod-5 calculations and symmetric BC/AD display labels are distinguished from literal civil counts; amendment examples and bounded diffs verified; no new full-file pressure test or central-register update claimed.
+Rounded whole-span anchor clarification: Author-directed September 25 2026; 6/1406 BC for Rounded birth/event sources ending in 6 and 1/1401 BC for those ending in 1; segmented chains retain their stated rules; bounded amendment verification only, with no new full-file pressure test or central-register update claimed.
+
 # File_52a — Inverse-Number Architecture of the Rounded Chronology
+
+## Author clarification — Rounded coordinates and civil spans (20260925)
+
+Author clarification: Dean, September 25 2026. Scope: the pure Rounded coordinate and display convention in Files 51a, 51b, 52a, and 52b. The choice to use a civil count as an input to a particular mixed inverse/expansion construction remains explicit and provisional.
+
+The Rounded calculation takes place on signed multiples of five. Write its coordinate as $q$:
+
+$$q(B\text{ BC})=-(B-1),\qquad q(\text{AD }A)=A-1.$$
+
+Reflection sends $q$ to $-q$. Display a nonzero coordinate with the numeral $|q|+1$ and the era indicated by its sign. Thus $-1405$ displays as **1406 BC**, and $+1405$ displays as **AD 1406**. Pure Rounded date labels end in **1 or 6** on both sides; their coordinates end in **0 or 5**. Zero denotes the algebraic Mirror origin and does not introduce a civil year zero. These labels do not acquire Tishri/Nisan phases merely from their final digits.
+
+For opposite-side displayed labels, distinguish two quantities:
+
+$$W_R=q(\text{AD }A)-q(B\text{ BC})=B+A-2,$$
+$$C=B+A-1=W_R+1.$$
+
+$W_R$ is the Rounded coordinate width. $C$ is the ordinary civil elapsed-year count between those same printed BC/AD numerals. The label mapping is therefore a Rounded display convention, not a single ordinary astronomical-year coordinate map. Use the appropriate count explicitly; do not transfer the extra year into a coordinate calculation silently.
+
+| Rounded coordinates | Symmetric displayed labels | Coordinate width $W_R$ | Literal civil count $C$ |
+|---|---|---:|---:|
+| $-1405\rightarrow+1405$ | 1406 BC → AD 1406 | 2810 | 2811 |
+| $-14010\rightarrow+14005$ | 14011 BC → AD 14006 | 28015 | 28016 |
+| $-8605\rightarrow+1445$ | 8606 BC → AD 1446 | 10050 | 10051 |
+| $-41005\rightarrow+14010$ | 41006 BC → AD 14011 | 55015 | 55016 |
+
+The last row begins at **41006 BC**, not 14006 BC. Accordingly, Dean's example is:
+
+$$14010-(-41005)=55015,\qquad41006+14011-1=55016.$$
+
+The selected civil-count conversion chains are:
+
+$$10051=19\times529\xrightarrow{25/23}10925\xrightarrow{25/23}11875,$$
+$$55016=104\times529\xrightarrow{25/23}59800\xrightarrow{25/23}65000,$$
+$$59800=200\times299\xrightarrow{300/299}60000.$$
+
+These are exact conversions of $C$, not of the neighboring coordinate widths 10050 and 55015. Their arithmetic alone does not establish the proposed inverse system as a third geometric axis.
+
+When a converted duration is subsequently applied on the Rounded grid, calculate with $q$ and restore the date label afterward. In Dean's separately stated launch from **14006 BC**:
+
+$$-14005+59800=+45795\quad\longrightarrow\quad\boxed{\text{AD }45796}.$$
+
+Here the coordinate width is **59800**; the literal civil count between the displayed labels 14006 BC and AD 45796 is **59801**. The starting anchor is declared separately from the original 41006 BC → AD 14011 span that generated the converted duration.
+
+**Existing-file reading rule.** Earlier Protocol 1 passages often render a positive coordinate $q$ as civil **AD $q$**; the symmetric Rounded display renders it **AD $(q+1)$**. Thus the legacy expression “1406 BC → AD 1405” and the symmetric display “1406 BC ↔ AD 1406” can refer to the same abstract coordinate pair $-1405,+1405$ under different renderings. An explicitly civil equation retains its stated civil labels and count. When redrawing a pure Rounded diagram, render its coordinates using the symmetric rule. Do not globally shift actual dates, phase-resolved dates, or no-placeholder inverse results.
+
+This author-directed clarification controls the pure Rounded display convention in this file. Inherited references to `AD (n-1)` or `AD (n − 1)` as a strict Protocol 1 target describe the legacy astronomical/civil rendering; the symmetric Rounded display of that positive coordinate is `AD n`. Prior expressly civil calculations remain readable in their stated rendering. The clarification and its examples are verified separately from the earlier full-file proof status.
+
+## Author clarification — Whole-span inverse anchors (20260925)
+
+For a whole-span inversion of an explicitly Rounded BC birth or event date, select the Nativity or Conquest anchor family required by the construction, then select its member from the source date's final digit:
+
+| Rounded BC date ends in | Nativity anchor | Conquest anchor |
+|---|---|---|
+| 6 | 6 BC | 1406 BC |
+| 1 | 1 BC | 1401 BC |
+
+Keep the source date unchanged. Subtract the selected anchor, invert that complete span while preserving its trailing-zero placeholders, and rebuild from the same anchor. Matching the final digit makes the span a multiple of ten, so this whole-span operation needs no post-inverse rounding.
+
+The selector applies in both regular and cumulative Rounded states. It does not re-anchor individual rows of a begetting or lifespan chain: those segment-by-segment operations retain their stated anchors and mod-5 normalization rules. Explicit Exodus constructions retain 1446 BC; this clarification introduces no 1441 BC anchor. Actual and phase-resolved dates are outside this rule. The Mirror coordinate and civil-count distinction above remains unchanged.
+
+File_52a §2.1 defines the operation; File_52b §1.1 supplies the six regular dates ending in 1 and both sets of results. This author-directed rule controls whole-span birth/event inversion; it does not settle the separate experimental inverse death-date procedure or increase the evidential status of proposed patterns.
 
 ## Related Repository Files
 
@@ -61,6 +125,7 @@ A shared date-label, span, operator, Mirror term, or apparent-age label does not
 | Base-10 inverse-number state | digit reversal | inverse operator | Reverses the base-10 digits of a span or structured value. Not a Mirror protocol. |
 | Mod-9 reversal grammar | reversal differences divisible by `9` | decimal arithmetic grammar | Preserved as mechanism for `90`, `990`, `1980`, `2700`, and `9900`. |
 | Rounded inverse axiom | off-lattice inverse normalized to nearest mod-5 value | mod-5 restoration operator | Core local axiom. Do not silently replace with raw non-rounded inverse values. |
+| Whole-span birth/event anchor state | 6/1406 BC for sources ending in 6; 1/1401 BC for sources ending in 1 | complete anchored-span inverse | Select the family first; retain placeholders; no post-inverse rounding. Regular and cumulative Rounded states remain distinct; see §2.1. |
 | Placeholder force state | `30 → 30`; `60 → 60`; `100 → 100`; `500 → 500`; `130 → 310`; `240 → 420`; `230 → 320` by File_52b dependency | primary regular inverse-chain register | Placeholder-preserving inversion is the primary register. |
 | No-placeholder compression state | `0501`; `006`; related File_52b values | technical supplement / secondary confirmation | Dependency-controlled by File_52b. It does not replace placeholder force. |
 | Regular trunk inverse state | `2700 → 7200` | primary trunk rail | Core trunk state. Branches remain subordinate to it. |
@@ -86,6 +151,7 @@ A shared date-label, span, operator, Mirror term, or apparent-age label does not
 |---|---|---|
 | §0 | File-function, dependencies, state register, Machine Guards, and claim-status controls | file-level inverse architecture state |
 | §§1–3 | Thesis, decimal mechanism, Rounded inverse axiom, and `9900` transfer constant | base-10 reversal; mod-9; mod-5; `9900` bridge |
+| §2.1 | Whole-span birth/event anchor selection | 6/1406 BC and 1/1401 BC; exact placeholder-preserving inverse |
 | §4 | Trunk demonstration | regular `2700 → 7200`; cumulative `12600 → 62100` |
 | §§5–6 | Primary regular inverse and route-independent backbone | `1650 → 5610`; `1050 → 5010`; placeholder force |
 | §7 | Christ anchor and optional `2700` shift | Christ super-anchor; inverse relay |
@@ -106,10 +172,10 @@ Machine Guard [CIVIL SPAN EXECUTION]:
 When an executable BC-to-AD civil span is opened, use `BC + AD − 1 = total`. Do not use ordinary signed subtraction across the epoch boundary unless an explicitly labeled A-space calculation is being performed.
 
 Machine Guard [A-SPACE DISPLAY]:
-A-space may be used to display mirror coordinates or signed cross-axis relations. A-space display does not replace civil BC/AD labels in ordinary chronological statements.
+Pure Rounded calculations use signed mod-5 coordinate q, with symmetric display numeral |q|+1 and era from its sign. Distinguish that Rounded display from legacy astronomical/civil A-space rendering and from literal civil statements. A Rounded width between displayed BC B and AD A is B+A-2; the literal civil count between those printed numerals is B+A-1. See the September 25 2026 author clarification above.
 
 Machine Guard [ROUNDED INVERSE AXIOM]:
-When a rounded span is inverted and the raw inverse falls off the mod-5 lattice, normalize to the nearest mod-5 value before reapplying the span chronologically.
+When a rounded span is inverted and the raw inverse falls off the mod-5 lattice, normalize to the nearest mod-5 value before reapplying the span chronologically. Whole-span birth/event inversion uses the source-ending anchor selector first; its multiples-of-ten spans remain exact and require no normalization. Do not use this axiom to bypass that selector.
 
 Machine Guard [PLACEHOLDER FORCE]:
 Placeholder-preserving inversion is the primary register of `File_52a`. Do not strip trailing zeros unless a local section explicitly opens File_52b no-placeholder compression.
@@ -118,7 +184,7 @@ Machine Guard [NO-PLACEHOLDER COMPRESSION]:
 No-placeholder compression belongs to File_52b as a secondary technical confirmation. It does not replace placeholder force and does not become the default operator in `File_52a`.
 
 Machine Guard [ANCHOR RULE]:
-Regular inverse chains are reckoned from `1406 BC`, `1446 BC`, or `6 BC` only where the section states the active anchor. The cumulative inverse lifespan chain summary is reckoned from `1406 BC` by File_52b dependency.
+Regular inverse chains are reckoned from `1406 BC`, `1446 BC`, or `6 BC` only where the section states the active anchor. The cumulative inverse lifespan chain summary is reckoned from `1406 BC` by File_52b dependency. For independent whole-span birth/event inversions, select the anchor family first and use 6/1406 BC for a Rounded source ending in 6 or 1/1401 BC for one ending in 1. This source-ending rule does not re-anchor the segmented chains; see the dated author clarification and the whole-span section.
 
 Machine Guard [TRUNK-FIRST HIERARCHY]:
 The inverse architecture is trunk-first. Do not promote branch coincidences above the regular trunk `2700 → 7200`, the cumulative trunk `12600 → 62100`, or the `9900` transfer bridge.
@@ -187,6 +253,28 @@ A further operational rule applies in the regular inverse chains: placeholder fo
 
 Dependency note:
 File_52b extends the placeholder rule to additional examples such as `130 → 310`, `240 → 420`, and `230 → 320`, and distinguishes this primary register from no-placeholder compression.
+
+### 2.1 Whole-span birth/event inversion: 6/1406 BC and 1/1401 BC
+
+Active state: an explicitly Rounded regular or cumulative BC birth/event date. Active operation: invert the complete span to a selected Nativity or Conquest anchor, rather than invert and sum individual begetting or lifespan segments.
+
+Choose the anchor family first. A source date ending in 6 uses 6 BC or 1406 BC; a source ending in 1 uses 1 BC or 1401 BC. Do not move the source date by five years to change its ending, and do not switch anchor families to obtain a preferred result.
+
+For the BC-side routes used here, write the source numeral as $B$ and the selected anchor as $a$, with $B\ge a$. Define the placeholder-preserving inverse $I$ by $I(0)=0$ and, for a positive span $s=10^k m$ with all trailing zeros removed from $m$,
+
+$$I(s)=10^k\operatorname{rev}(m),\qquad F_a(B)=a+I(B-a).$$
+
+Here $\operatorname{rev}$ reverses the decimal digits of the remaining core, and $k$ is the number of trailing zeros retained in their original place-value positions. Thus $2700\rightarrow7200$, $14000\rightarrow41000$, $1050\rightarrow5010$, $660\rightarrow660$, and $2000\rightarrow2000$. The rebuilt numeral $F_a(B)$ is a BC label on this branch; a construction in another direction must state that direction separately.
+
+Matching source and anchor endings makes $B-a$ divisible by ten. Its inverse is also divisible by ten, and the rebuilt date has the same final digit as the source. No nearest-five adjustment is needed. Because this reversal preserves the trailing-zero count, applying it twice at the same anchor returns the source exactly:
+
+$$I(I(s))=s,\qquad F_a(F_a(B))=B.$$
+
+Shelah illustrates why anchor selection precedes inversion: $2421-1=2420\rightarrow2420$ returns 2421 BC, and $2421-1401=1020\rightarrow2010$ gives 3411 BC. The alternative $2421-6=2415\rightarrow5142\rightarrow5140$ uses an unmatched anchor followed by mod-5 normalization; it is not the primary whole-span procedure defined here. File_52b §1.1 lists all six regular birth dates ending in 1.
+
+This clarification leaves the existing 6-ending whole-span examples intact: $4106-1406=2700\rightarrow7200$ rebuilds 8606 BC; $4106-6=4100\rightarrow1400$ rebuilds 1406 BC; and $14006-6=14000\rightarrow41000$ rebuilds 41006 BC. The same source-ending selector applies to an explicitly selected Rounded cumulative date ending in 1, including the 14011 BC member where that state is active.
+
+Scope of the earlier Rounded inverse axiom: the mod-5 normalization examples in §2 remain valid for the segment or separately declared operation being inverted. The new rule does not re-anchor each row of the regular inverse begetting chain or cumulative inverse lifespan chain. Those chains, their summed macro routes, no-placeholder supplements, and explicit 1446 BC constructions retain their stated operators and anchors. Birth/event inversions carry the present rule; the separate inverse death-date proposal is not resolved by it. Choosing 1 BC or 1401 BC as an inverse anchor also leaves the Mirror origin at $q=0$ and does not alter civil counts.
 
 ## 3. Why `9900` is the ideal transfer constant
 

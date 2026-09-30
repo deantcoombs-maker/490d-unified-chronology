@@ -3,20 +3,23 @@ Title: Chronological Scaling Laws `10x / 100x`
 Entity: Chronological Scaling Laws
 Classification: Macro-Harmonics / Fractal Geometry
 UUID: SCALE_LAW_PROTOCOL_SPLIT
-Status: Final; post-final pressure tested; source status `DEFINED` retained; page-derived ×10 / field-harmonic / `12558` dual-placement bounded update applied
-Pressure-test status: Current; publication-clean verification complete; June 9 2026 post-final pressure test retained; focused check complete for the page-derived ×10 / field-harmonic / `12558` dual-placement bounded update.
-Register Agreement status: Checked against State_Vocabulary_Register v1.18 and active companion controls; bounded page-derived ×10 / field-harmonic / `12558` dual-placement addition (§3.1 extension; §6A) only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
+Status: Final; post-final pressure tested; source status `DEFINED` retained; page-derived ×10 / field-harmonic / `12558` dual-placement bounded update applied; bounded Lamech appendix-routing amendment applied September 8 2026
+Pressure-test status: Current; publication-clean verification complete; June 9 2026 post-final pressure test retained; focused check complete for the page-derived ×10 / field-harmonic / `12558` dual-placement bounded update; September 8 2026 Lamech appendix-routing amendment focused-verified only; no new full pressure test claimed.
+Register Agreement status: Original File_44 agreement remains checked against State_Vocabulary_Register v1.18 and its companion controls. The September 8 2026 Lamech routing follows State Vocabulary Register v1.53 §D.43 / Restart Capsule v11.52 §10.30: no arithmetic value, main-chain chronology, operator, or dependency boundary changes; `8646 BC` alone is reclassified from the Primary-anchor inventory to an appendix-only generated comparison.
 Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
 Primary domain: Macro-harmonics; Prime–Civil interface by dependency; NT genealogical; Cumulative; Flood Gear; Comparative; Calendar; Theological
 Traditions: NT / Luke; NT / Matthew; MT; LXX by Creation-head anchor state; MT / SP / LXX comparative witness commentary where opened
 Canonical source: Markdown
-Primary anchors: `6 BC`; `36 BC`; AD 25; `5250`; `2800`; `2870`; `8050`; `8750`; `700`; `14004 BC`; `1446 BC`; `12558`; `12600`; `12740`; `490`; `5556 BC`; `5256 BC`; `5956 BC`; `4556 BC`; `3506 BC`; `2456 BC`; `1406 BC`; `2106 BC`; `4200`; `4900`; `18200`; `14034 BC`; `1476 BC`; `14496 BC`; `14466 BC`; `5296 BC`; `1296 BC`; `13200`; `8646 BC`; `7200`; `4300`; `14490`
+Primary anchors: `6 BC`; `36 BC`; AD 25; `5250`; `2800`; `2870`; `8050`; `8750`; `700`; `14004 BC`; `1446 BC`; `12558`; `12600`; `12740`; `490`; `5556 BC`; `5256 BC`; `5956 BC`; `4556 BC`; `3506 BC`; `2456 BC`; `1406 BC`; `2106 BC`; `4200`; `4900`; `18200`; `14034 BC`; `1476 BC`; `14496 BC`; `14466 BC`; `5296 BC`; `1296 BC`; `13200`; `7200`; `4300`; `14490`
+Appendix-only generated comparison: `8646 BC` — inherited from the LXX `777` overlay through `File_46` Appendix A; not a main `182/753`-chain prediction or independent Primary anchor.
 Related files: `File_00`; `File_12`; `File_14`; `File_15`; `File_16`; `File_17`; `File_18`; `File_22`; `File_30`; `File_32`; `File_33`; `File_42` by author-supplied source; `File_43`; `File_45` downstream by supplied dependency; `File_46`; `File_51a`; `File_54`; Restart Capsule v11.17; State Vocabulary Register v1.18; 490d Repository Style Guide v2.5; Project Procedures v3.3
 Major operators: same-side BC span; civil cross-axis span `BC + AD − 1` where opened; positive-polarity date-output / rails-space `B/M` state by File_32 / File_33 dependency; P2 positive rails-window `6 BC / 36 BC`; P2 negative-polarity / signed A-space bridge `6 BC / AD 25`; Key-of-23 whole-year expansion `25/23`; exact-ratio expansion `300/299`; exact-ratio expansion `70/69`; `10x`; `100x`; `10 × 70`; `70 × 7`; `12740 ÷ 26`; Flood Gear `1050` step; `2 × 700`; display-only `30 + 40`; display-only `50 × 364`; exact-ratio increment corollary `23n × 25/23 = 23n + 2n`; `13200 = 110 × 120`; `12558` dual placement by `+30` co-translation
-Major modal states: `12558` dual-placement state; page-derived ×10 display state; backbone field-harmonic state; exact-ratio increment-corollary state; scaling-law protocol split state; P2 positive rails-window state; P2 negative-polarity / signed A-space bridge state; File_42 geometry-first dependency state; File_43 Genealogical Bridge dependency state; MirrorVolume span-provenance state; Seal700 generated coefficient state; `12558` exact-ratio expansion state; LXX Maximum Year-6 / Adam-state display state; `5256 BC` Luke Shadow Creation / ledger-boundary shared date-label state; Creation-head 10x dependency-controlled triad state; Flood Gear `1050` ladder state; schematic Noah node state; literal MT Flood / Arphaxad state; MT Noah death subgear state; display-only macro motif state; mod-50 gearbox display state; external LXX reconstruction witness state; MT / SP / LXX witness-state commentary; providential multi-tradition system state where opened
-Major claim-status labels: arithmetic fact; exact-ratio arithmetic fact; dependency-controlled arithmetic fact; source-retained structural label; display motif; structural inference; shared-tradition evidence; theological note; providential synchronization; dependency-controlled; source-reconstruction witness; Machine Guard; argument-control result; audit note
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; author-supplied `FILE_44: SCALING_LAWS.md`; File_43 Final Harmonized; File_14 LXX Maximum node-label state; File_54 Luke Shadow Creation / Rounded Scaffold comparison controls; File_32 / File_33 Prime–Civil / Polarity Namespace controls; prior finalized File_44 source; Repository_Change_Archive (non-controlling history).
+Major modal states: `12558` dual-placement state; page-derived ×10 display state; backbone field-harmonic state; exact-ratio increment-corollary state; appendix-only tenfold Abram realization; scaling-law protocol split state; P2 positive rails-window state; P2 negative-polarity / signed A-space bridge state; File_42 geometry-first dependency state; File_43 Genealogical Bridge dependency state; MirrorVolume span-provenance state; Seal700 generated coefficient state; `12558` exact-ratio expansion state; LXX Maximum Year-6 / Adam-state display state; `5256 BC` Luke Shadow Creation / ledger-boundary shared date-label state; Creation-head 10x dependency-controlled triad state; Flood Gear `1050` ladder state; schematic Noah node state; literal MT Flood / Arphaxad state; MT Noah death subgear state; display-only macro motif state; mod-50 gearbox display state; external LXX reconstruction witness state; MT / SP / LXX witness-state commentary; providential multi-tradition system state where opened
+Major claim-status labels: arithmetic fact; exact-ratio arithmetic fact; dependency-controlled arithmetic fact; source-retained structural label; display motif; structural inference; shared-tradition evidence; theological note; providential synchronization; dependency-controlled; source-reconstruction witness; appendix-only; Machine Guard; argument-control result; audit note
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.17; State Vocabulary Register v1.18; Project Procedures v3.3; author-supplied `FILE_44: SCALING_LAWS.md`; File_43 Final Harmonized; File_14 LXX Maximum node-label state; File_54 Luke Shadow Creation / Rounded Scaffold comparison controls; File_32 / File_33 Prime–Civil / Polarity Namespace controls; prior finalized File_44 source; Repository_Change_Archive (non-controlling history); September 8 2026 bounded Lamech routing by current File_18, current File_46 Appendix A, State Vocabulary Register v1.53 §D.43, and Restart Capsule v11.52 §10.30.
 Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.17, State_Vocabulary_Register v1.18, and Project Procedures v3.3. Bounded page-derived additions (§3.1 extension; §6A) registered from the Regular / Cumulative page publication discussion record. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+
+September 8 2026 bounded Lamech appendix routing: §6A.1 now remains as a stable routing stub, while its `8646 BC` tenfold-Abram realization is preserved in Appendix A.1 because that deep-frame coordinate inherits the appendix-only LXX `777` overlay through `File_46` Appendix A. The identity `(7200, 4300) = 10 × (720, 430)` remains arithmetically valid; only this specific chronological realization is reclassified. `8646 BC` is therefore removed from the Primary-anchor inventory and retained as an appendix-only generated comparison. Main LXX execution remains `182/753` under State Vocabulary Register v1.53 §D.43 and Restart Capsule v11.52 §10.30. Focused verification only; no new full pressure test or separate re-Finalization is claimed.
 
 # File_44 — Chronological Scaling Laws `10x / 100x`
 
@@ -53,6 +56,7 @@ A shared date-label, span, ratio, scale value, or theological phrase does not cr
 | `File_42` | Author-supplied foundation for the P2 dual-operator protocol, geometry-first rails / A-space firewall, Key-of-23 expansion, MirrorVolume, and Seal700. Terminology is harmonized through File_32 / File_33. |
 | `File_43` | Immediate upstream Genealogical Bridge dependency for LukeIntervals, MattSpan_BirthHinge, MattSpan_Carrier, MirrorVolume, Seal700, P2 non-straddling, double-generational knot classification, and `5256 BC` as ledger boundary / cumulative-cube endpoint where that state is opened. |
 | `File_45` | Downstream exact-sweep superstructure file that names `File_44` as the scaling-law dependency. |
+| `File_46` | Controls the LXX `777`-overlay operator executions now preserved in its Appendix A. File_44 Appendix A.1 inherits only the generated `7200` / `8646 BC` realization; it does not promote the overlay into the main LXX chain. |
 | `File_51a` | Rounded Scaffold non-retrojection control, especially where rounded `18200` visibility motifs are retained as non-locks. |
 | `File_54` | Comparative Luke / Rounded Scaffold / BJ context for `5256 BC` as Luke Shadow Creation / LukeIntervals from `6 BC`; rounded and comparative states remain distinct from File_43 ledger states. |
 
@@ -69,6 +73,7 @@ A shared date-label, span, ratio, scale value, or theological phrase does not cr
 | §6 | Matthean and Enochian motifs | display motif only |
 | §7 | mod-50 gear-shift invariance | commentary only |
 | §8 | Finalization and post-final pressure-test notes | final source status, audit notes, pressure-test result, unresolved issues, and cross-file updates |
+| Appendix A | Preserved LXX `777`-overlay tenfold-Abram realization | appendix-only generated comparison; no main-chain propagation |
 
 ## 0.3 Machine Guards
 
@@ -137,6 +142,7 @@ The `400/700/1000` Creation-head triad is arithmetically verified and dependency
 | Literal MT Flood / Arphaxad state | `2456 BC` | literal MT node | Separate from schematic Noah nodes. |
 | MT Noah death subgear state | `2106 BC`; `350`; `1400` | observation subgear | Preserved; not substituted into ladder. |
 | Display-only macro motif state | `4200→4900`; `18200 = 50 × 364`; mod-50 gearbox | non-lock motif | Not an arithmetic driver. |
+| Appendix-only tenfold Abram realization | `8646 BC`; `7200`; `4300` | generated comparison inherited from `File_46` Appendix A and `File_30` pair | Appendix A only; the identity remains valid, but `8646 BC` is not a main `182/753`-chain output or Primary anchor. |
 
 ## 0.5 Counting and source-control conventions
 
@@ -621,15 +627,11 @@ The Enochian display arithmetic checks exactly. It remains a rounded visibility 
 
 ## 6A. Page-derived ×10 and field-harmonic displays (bounded addition)
 
-Active states: page-derived ×10 display state; backbone field-harmonic state; exact-ratio increment-corollary state. Source record: the Regular / Cumulative page publication discussion. Value sources: `File_18` §6D (LXX cumulative overlay row); `File_46` (expansion mechanics); `File_30` (`4900 / 4300` pair); `File_22` (Adam-field and center-jewel narrative). `File_44` registers the scaling-law readings only.
+Active states: page-derived ×10 display state; backbone field-harmonic state; exact-ratio increment-corollary state; appendix-only tenfold Abram realization. Source record: the Regular / Cumulative page publication discussion. Main-chain values remain controlled by current `File_18`; the former `8646 BC` realization in §6A.1 inherits the appendix-only LXX `777` overlay through `File_46` Appendix A and is routed to File_44 Appendix A.1. `File_30` supplies the `4900 / 4300` pair; `File_22` retains the Adam-field and center-jewel narrative. `File_44` registers the scaling-law readings only. §§6A.2–6A.3 remain main-body displays and are unchanged.
 
-### 6A.1 The tenfold Abram pair
+### 6A.1 The tenfold Abram pair — routed to Appendix A.1
 
-```markdown
-(7200, 4300) = 10 × (720, 430)
-```
-
-Deep frame: the expanded LXX cumulative Flood label `8646 BC` stands `7200` from `1446 BC`, and the Arphaxad Flood node stands `4300` (`File_30` pair). Regular frame: Abram's birth stands `720` from the Exodus (`2166 → 1446`) and the sojourn is `430`. Claim-status: arithmetic fact (spans); display motif / structural inference (the ×10 identification); providential multi-tradition system state where opened.
+The identity remains valid, but its specific deep-frame realization at `8646 BC` inherits the appendix-only LXX `777` overlay through `File_46` Appendix A. Under the September 8 2026 Lamech ruling, that chronological realization is therefore appendix-only and is preserved at Appendix A.1. This stable routing stub preserves existing §6A.1 references; it does not make `8646 BC` a main `182/753`-chain prediction or independent anchor.
 
 ### 6A.2 The backbone field-harmonic
 
@@ -685,7 +687,7 @@ Audit note:
 The mod-50 MT / SP / LXX discussion remains commentary only. It may support shared-tradition evidence, theological note, or providential synchronization where the larger providential multi-tradition system state is active, but it does not prove direct scribal intent or collapse MT / SP / LXX witness states.
 
 Dependency note:
-The §3.1 dual placement and §6A displays are sourced from `File_18` §6D, `File_46`, `File_30`, and `File_22` as noted locally. `File_44` registers scaling-law readings and the increment corollary only; narrative classification of the Adam field, the center jewel, and the overlay remains with the source files.
+The §3.1 dual placement and §§6A.2–6A.3 displays are sourced from current `File_18`, `File_30`, and `File_22` as noted locally. §6A.1 is now a routing stub: its `8646 BC` realization depends specifically on the appendix-only LXX `777` overlay preserved in `File_18` Appendix B and executed through `File_46` Appendix A, and is therefore retained only in File_44 Appendix A.1. `File_44` registers scaling-law readings and the increment corollary only; narrative classification of the Adam field, the center jewel, and the overlay remains with the source files.
 
 Dependency note:
 `File_42` has been supplied and is compatible with `File_32` / `File_33` when its local P2 geometry-first wording is harmonized through the current Prime–Civil / Polarity Namespace. `File_42` itself is not revised in this file.
@@ -697,12 +699,27 @@ Downstream `File_45` should cite `File_44` for scaling-law controls and display-
 
 None.
 
+## Appendix A. Preserved LXX `777`-overlay scaling display
+
+Status: appendix-only preservation layer, subordinate to the main LXX `182/753` ruling in current `File_18` and State Vocabulary Register v1.53 §D.43. The arithmetic below is retained unchanged from former §6A.1. Its deep-frame `8646 BC` coordinate is generated from the appendix-only `777` overlay through `File_46` Appendix A; it must not propagate into the main LXX cumulative chain or be promoted to the Primary-anchor inventory.
+
+### A.1 The tenfold Abram pair
+
+```markdown
+(7200, 4300) = 10 × (720, 430)
+```
+
+Deep frame: the expanded LXX cumulative Flood label `8646 BC` stands `7200` from `1446 BC`, and the Arphaxad Flood node stands `4300` (`File_30` pair). Regular frame: Abram's birth stands `720` from the Exodus (`2166 → 1446`) and the sojourn is `430`. Claim-status: arithmetic fact (spans); display motif / structural inference (the ×10 identification); providential multi-tradition system state where opened.
+
+Appendix-routing note:
+The identity `(7200, 4300) = 10 × (720, 430)` remains valid. The reclassification concerns only the `8646 BC` chronological realization: `File_46` Appendix A derives `7200` from the row-local LXX `777` overlay (`8070 BC → 1446 BC = 6624`; `6624 × 25/23 = 7200`; `1446 + 7200 = 8646 BC`). Current `File_18` keeps that overlay appendix-only and non-propagating. Nothing here changes the regular Abram `720`, the sojourn `430`, the `4300` pair, or any main-chain LXX `182/753` coordinate.
+
 ## Revision and archive note
 
 This public-clean Markdown source removes only archival amendment history, pass logs, pressure-test repetition, pointer-refresh records, and obsolete replacement-workflow notes.
 
 Detailed revision history is preserved in the `Repository_Change_Archive`.
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+Inherited public-clean note: the prior cleanup changed no arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries. The September 8 2026 bounded amendment changes only the classification and routing of the overlay-derived `8646 BC` realization: its arithmetic and interpretation are preserved in Appendix A.1, while `8646 BC` is removed from the Primary-anchor inventory and declared appendix-only. No numerical chronology value, main-chain LXX `182/753` coordinate, scaling operator, or existing proof equation changes.
 
-Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+The inherited full pressure-test status is preserved in the file header. The September 8 amendment received focused verification only; detailed verification records remain external to the public file body.

@@ -1,9 +1,11 @@
 File: File_18
 Title: Chronological Data Tables
-Status: Final; post-final pressure tested; focused Cainan / Pentateuchal Funnel amendments integrated; structural cleanup applied; 1876 Cainan macro-vector update applied and focused pressure tested; 60-multiple Shelah / Plenty-Famine table-source note and Mirror 60-spine addendum added and focused pressure tested during trust-status equalization; File_21 SKL Unified Protocol and File_34 post-final citation-control cross-file updates applied and focused pressure tested during trust-status equalization; File_18 post-equalization full pressure test complete; Lamech original-state / overlay-row / 430-alignment bounded update applied; §6C.1 Day-4 phase-anchor display added (File_56 dependency; routed July 2 2026, applied July 6 2026)
-Pressure-test status: Current; full pressure test complete June 28 2026 for File_18 as chronological table-source, dependency-control, and SKL interface file; focused pressure tests for the 60-multiple Shelah / Plenty-Famine table-source note, Mirror 60-spine addendum, File_21 SKL Unified Protocol update, File_34 post-final citation-control update, and public-clean cleanup retained; prior post-final and focused Cainan / Funnel checks retained; focused check complete for the Lamech original-state / overlay-row / 430-alignment bounded update; focused check complete for the §6C.1 Day-4 phase-anchor display (File_56 dependency); no publication blocker.
-Register Agreement status: Checked against State_Vocabulary_Register v1.19 and active companion controls; bounded §6C.1 Day-4 phase-anchor display addition (File_56 dependency; routed July 2 2026, applied July 6 2026) only; no other arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Inherited Final baseline retained; bounded September 18 2026 author-authorized SP Flood / Noah–Shem correction and cross-tradition Flood-Gear clarification applied; bounded September 13 2026 source-table / phase clarification applied (LXX Peleg/Reu/Serug copy-error correction; Aaron-before-Moses phase wording); September 8 2026 Lamech settlement clarified by author direction: attested LXX lifespan `753`, restored begetting `182`, calculated remainder `571`; the combined `182/753` biography is component-wise reconstructed. LXX `777` remains an MT-derived appendix overlay. The **September 8 Lamech wording clarification** changed no numerical table; the September 13 LXX triplet correction changes only the three author-confirmed §4.2 copy-error cells and their death labels. Focused verification only; no new full-file pressure test or separate re-Finalization.
+Pressure-test status: Prior full and focused certifications remain historical to their source editions. The September 8 Lamech and September 18 SP/Flood amendments receive focused arithmetic, source-diff, guard, protected-region, and dependency verification only; no new full pressure test is claimed.
+Focused correction verification status: Complete July 24 2026 — included in the File_63 Finalization package-level `176/176` verification PASS; no new full pressure test claimed
+Reciprocal-routing verification status: Prior File_61/File_62 and File_69 routes remain retained. The August 20 2026 coordinated File_09/File_69 package adds one derived restored-Cainan/Apparent-Adam companion row and one reciprocal guard; focused package verification is complete; no pre-existing raw table row or Primary anchor is changed.
+Register Agreement status: Lamech source hierarchy remains at State Vocabulary Register v1.54 §D.43 / current v1.55 inherited §D.43 and Restart Capsule v11.53 §10.30; September 13 corrections are registered at State Vocabulary Register v1.55 §D.44 and Restart Capsule v11.54 §10.31; the v1.53 / v11.52 numerical settlement is unchanged. Earlier Lamech-specific D.18/D.42 instructions remain superseded in scope. The September 18 SP/Flood correction is author-authorized in this file and the revised Report V / companion register; corresponding central Register and Restart Capsule updates remain pending. Unrelated inherited controls, nested Gears, Sothic amendments, and Primary anchors remain unchanged.
+Publication-cleanup status: Public-clean Final Markdown; bounded reciprocal replacement included in the coordinated Final File_09/File_69 source/control package. Repository Change Archive, Publication Manifest, indexes, landing pages, deployment, and external archival recapture remain separate subsequent work.
 Source-history status: Essential companion to all inquiries; Version 5.0
 Entity: RAW CHRONOLOGICAL DATA
 Classification: Foundational Tables / Lookup Reference
@@ -11,14 +13,20 @@ UUID: DATA_TABLES_CORE
 Primary domain: Regular; Cumulative; Comparative; SKL; Calendar; Theological
 Traditions: MT; SP; LXX; BJ / Jubilees; SKL; Berossus by dependency
 Canonical source: Markdown
-Primary anchors: 3899 BC; 4199 BC; 5279 BC; 1661 BC; 1876 BC; 1885–1878 BC; 1670/1663/1656 BC; AD 1656/1663/1670; 1936 BC; 1816 BC; 1846 BC; 1446 BC; 1406 BC; 966 BC; 1016 BC; 586 BC; AD 29395; AD 29465; AD 29515; 14006 BC; 14466 BC; 4831 BC; 5291 BC; 5296–5289 BC; 4858–4851 BC; 4856 BC; 4398–4391 BC; 4396 BC; 4278–4271 BC; 4825–4818 BC; 3136 BC; 3921 BC; 3011 BC; 2551 BC; 2336 BC; 2091 BC; 6306 BC; 13398 BC; 14896 BC; 3856 BC; 2906 BC; 2856 BC; 20886 BC; 27366 BC; 452886 BC; 459366 BC
-Related files: File_00; File_01; File_02; File_04; File_05; File_06; File_07; File_08; File_09; File_10; File_11; File_12; File_14; File_16; File_17; File_20; File_21; File_22; File_34; File_46; File_51a; File_54; File_56; Restart Capsule v11.18; 490d Repository Style Guide v2.5; Project Procedures v3.3; State Vocabulary Register v1.19
-Major operators: `+60 Terah`; `+215 Sojourn`; `+275`; `60 + 155 + 60`; `±215`; Shem `±2`; regular restored 2nd Cainan `+130`; cumulative restored 2nd Cainan `+460`; 137 checksum `7 + 130`; proportional unit `1656 ÷ 12 = 138`; missing-four extension `4 × 138 = 552`; completed extension `16 × 138 = 2208`; Cainan-to-Moses lock `3450 = 138 × 25`; Kenan / Cainan reinforcement `1370 = 10 × 137`; Cainan lifespan-sum `910 + 460 = 1370`; Cainan macro-vector `2300`; Cainan / Famine envelope projection `2520`; cross-tradition Shelah `60`-multiple comparison `2400` / `2940`; `60 × 42`; `60 × 40`; `60 × 49`; `60 × 59`; `60 × 99`; `60 × 101`; `60 × 108`; `6 × 490`; `3540`; `5940`; `6060`; `6480`; inclusive companion `2307`; Enochian lower-bound vector `2730 = 7.5 × 364`; Daniel 12 sandwich `1260 → 1290 → 1260`; 360:1 SKL scale; `+6480`; `+720 scale-state`; `+30 Apparent Mode`; `+2 local rail`; File_21 SKL rounded mod-10 Mirror display `BC + AD − 2`; File_21 SKL Short / Long relation `6530 − 50 = 6480`; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; `25/23`; `70/69`; `300/299`; `430`; `480`; `+50` Jubilee Offset; same-side BC subtraction; civil cross-axis span `BC + AD − 1` if opened; Lamech transform quanta `+6 / −30 / −24`; `454 − 24 = 430`; LXX Exodus lock `299 × 45` by File_56 dependency; Flood Gears `3240 / 3238 / 3236` (`+215` frame) by File_11 dependency
-Major modal states: raw data source state; minimum baseline table state; Regular chronology; Cumulative chronology; MT Minimum-Regular; MT Standard-Normal; Abraham two-state / Terah four-state variant field; 2nd Cainan variant-boundary state; 12–8–4–2–0 generational variant-count ladder; multi-tradition Pentateuchal Funnel all-even structural harmony; restored/native 2nd Cainan 27-generation completion state; tebah / ark typological bridge state; 137 boundary checksum state; Shem dual-100 state; 16 × 8 expectation / cumulative-Cainan extension state; Kenan / Cainan tenfold reinforcement state; Cainan macro-vector state; Cainan / Famine envelope-to-envelope state; cross-tradition 60-multiple Shelah / Plenty-Famine alignment state; Mirror 60-spine / Terah-Cainan death-rail state; regular-Cainan 460-year cross-modal symmetry state; Cainan triple-target matrix state; Cainan-to-Exile Daniel 12 sandwich state; Cainan-sector branch-restraint state; SP Normal / Toggle ON; SP Ideal / Exclusive; LXX Regular-Minimum; LXX Terah / Abraham `2 × 2` variant field; regular-localized Shem `±2`; cumulative-propagated Shem `±2`; regular restored 2nd Cainan; cumulative restored 2nd Cainan; Kings dual-ledger state; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL `+30 Apparent Mode`; SKL `+2 local rail`; SKL `+720 scale-state`; File_21 SKL Unified Protocol dependency state; File_34 post-final dependency state; File_34 SKL-to-Berossus `2370` corridor dependency state; File_34 `30 + 20 + 30` restoration corridor dependency state; SKL rounded mod-10 Mirror display-state; Jachin / Boaz Temple-Time Pillar coordinate state; providential multi-tradition system state; LXX original-Lamech state; Lamech `777` overlay-row state; Lamech dual-locality state; `430`-alignment justification state; Flood-marker convention set; Kohath / Amram silence state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.18; State Vocabulary Register v1.19; Project Procedures v3.3; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.18, State_Vocabulary_Register v1.19, and Project Procedures v3.3. Bounded §6C.1 Day-4 phase-anchor display applied per File_56 §10 routing (routed July 2 2026, applied July 6 2026). Bounded Lamech original-state / overlay-row / 430-alignment update registered from the Regular / Cumulative page publication discussion record, with two author-ruled guard supersessions logged to the Archive. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Primary anchors: 3899 BC; 4199 BC; 5279 BC; 1661 BC; 1876 BC; 1885–1878 BC; 1670/1663/1656 BC; AD 1656/1663/1670; 1936 BC; 1816 BC; 1846 BC; 1446 BC; 1406 BC; literal/precise United Monarchy `1050t/n→1010t/n→970t/n→930t/n BC`; Rounded United Monarchy `1051n→1011n→971n→931n BC`; 967/966 BC; 1016 BC; 586 BC; AD 29395; AD 29465; AD 29515; 14006 BC; 14466 BC; 4831 BC; 5291 BC; 5296–5289 BC; 4858–4851 BC; 4856 BC; 4398–4391 BC; 4396 BC; 4278–4271 BC; 4825–4818 BC; 3136 BC; 3921 BC; 3011 BC; 2551 BC; 2336 BC; 2091 BC; 6306 BC; 13398 BC; 14896 BC; 3856 BC; 2906 BC; 2856 BC; 20886 BC; 27366 BC; 452886 BC; 459366 BC
+Related files: File_00; File_01; File_02; File_04; File_05; File_06; File_07; File_08; File_09; File_10; File_11; File_12; File_14; File_16; File_17; File_20; File_21; File_22; File_34; File_46; File_50c; File_51a; File_54; File_56; File_61; File_62; File_63; Restart Capsule v11.46; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.47; File_69
+Major operators: `+60 Terah`; `+215 Sojourn`; `+275`; `60 + 155 + 60`; `±215`; File_11 absolute Three-Gear `+0/+2/+4`; Shem-centered local `−2/0/+2`; SKL dilation `−720/0/+720`; nested local-on-macro subrails; regular restored 2nd Cainan `+130`; cumulative restored 2nd Cainan `+460`; 137 checksum `7 + 130`; proportional unit `1656 ÷ 12 = 138`; missing-four extension `4 × 138 = 552`; completed extension `16 × 138 = 2208`; Cainan-to-Moses lock `3450 = 138 × 25`; Kenan / Cainan reinforcement `1370 = 10 × 137`; Cainan lifespan-sum `910 + 460 = 1370`; Cainan macro-vector `2300`; Cainan / Famine envelope projection `2520`; cross-tradition Shelah `60`-multiple comparison `2400` / `2940`; `60 × 42`; `60 × 40`; `60 × 49`; `60 × 59`; `60 × 99`; `60 × 101`; `60 × 108`; `6 × 490`; `3540`; `5940`; `6060`; `6480`; inclusive companion `2307`; Enochian lower-bound vector `2730 = 7.5 × 364`; Daniel 12 sandwich `1260 → 1290 → 1260`; 360:1 SKL scale; `+6480`; selected macro `+720` member; `+30 Apparent Mode`; selected local `+2` member; bounded adjacent-macro `690/720/750`; File_21 SKL rounded mod-10 Mirror display `BC + AD − 2`; File_21 SKL Short / Long relation `6530 − 50 = 6480`; File_34 SKL-to-Berossus `2370` corridor by dependency; File_34 `30 + 20 + 30` restoration corridor by dependency; paired slash-display arithmetic by dependency; phase-chain arithmetic by dependency; `25/23`; `70/69`; `300/299`; `430`; `480`; `+50` Jubilee Offset; same-side BC subtraction; civil cross-axis span `BC + AD − 1` if opened; Lamech non-operative transmitted-`188` comparison; hypothesis-level gain-transfer; appendix triad deltas `+6 / −30 / −24`; `454 − 24 = 430`; LXX Exodus lock `299 × 45` by File_56 dependency; Flood Gears `3240 / 3238 / 3236` (`+215` frame) by File_11 dependency; downstream full clutch `T14(C) = C − 14`, half-clutch midpoint `H7(C) = C − 7`, and fixed-offset Joseph translation by corrected File_61 / Final File_62 dependency only
+Major modal states: raw data source state; minimum baseline table state; Regular chronology; Cumulative chronology; MT Minimum-Regular; MT Standard-Normal; Abraham two-state / Terah four-state variant field; 2nd Cainan variant-boundary state; 12–8–4–2–0 generational variant-count ladder; multi-tradition Pentateuchal Funnel all-even structural harmony; restored/native 2nd Cainan 27-generation completion state; tebah / ark typological bridge state; 137 boundary checksum state; Shem dual-100 state; 16 × 8 expectation / cumulative-Cainan extension state; Kenan / Cainan tenfold reinforcement state; Cainan macro-vector state; Cainan / Famine envelope-to-envelope state; cross-tradition 60-multiple Shelah / Plenty-Famine alignment state; Mirror 60-spine / Terah-Cainan death-rail state; regular-Cainan 460-year cross-modal symmetry state; Cainan triple-target matrix state; Cainan-to-Exile Daniel 12 sandwich state; Cainan-sector branch-restraint state; SP Normal / G2; SP-local Noah/Shem primary–companion field; cross-tradition Flood Gear / start–close field; SP Ideal / Exclusive comparison; LXX Regular-Minimum; LXX Terah / Abraham `2 × 2` variant field; regular-localized Shem `±2`; cumulative-propagated Shem `±2`; absolute Three-Gear state; selected local `+2` member state; SKL centered `±720` dilation; nested local-on-macro subrail state; regular restored 2nd Cainan; cumulative restored 2nd Cainan; literal/precise United Monarchy state; Rounded Scaffold United Monarchy state; shared-`966` state; Kings dual-ledger state; Sumerian A / SKL Short; Sumerian B / SKL Long; SKL `+30 Apparent Mode`; selected SKL local `+2` member; selected SKL macro `+720` member; full nested `±2 / ±720` Three-Gear control; File_21 SKL Unified Protocol dependency state; File_34 post-final dependency state; File_34 SKL-to-Berossus `2370` corridor dependency state; File_34 `30 + 20 + 30` restoration corridor dependency state; SKL rounded mod-10 Mirror display-state; Jachin / Boaz Temple-Time Pillar coordinate state; providential multi-tradition system state; LXX component-wise `182/753` main-chain state; non-operative transmitted-`188` comparison state; Key-of-23 crossover hypothesis; appendix-only LXX `777` overlay state; `430`-alignment justification state; Flood-marker convention set; Kohath / Amram silence state; corrected File_61 / Final File_62 downstream half-/full-clutch table-routing state; File_62 Joseph inherited-translation and fixed-Joshua `216` comparison state by dependency
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.46; State Vocabulary Register v1.47 Part D §D.38; Project Procedures v3.5; prior finalized File_18 source; Files 11, 21, 34, and 50c; retained monarchy, File_63, File_61/File_62, File_09/File_69, and File_69 routes; August 25 2026 bounded nested Three-Gear control correction; Repository_Change_Archive and Publication Manifest retained as non-controlling prior publication records.
+Current refresh note: Prior monarchy, File_63, File_61/File_62, and File_09/File_69 table-source boundaries remain unchanged. The August 25 2026 bounded correction clarifies only the SKL rail ontology: the printed `+2` and `+720` rows are selected members of the complete centered `−2/0/+2` and `−720/0/+720` wheels, with optional local subteeth nested inside admitted macro members. The `+30 Apparent Mode` remains orthogonal, and no new raw date row or proof-bearing equation is introduced.
+
+September 8 2026 Lamech correction: the former regular-`777` / cumulative-`753` split is superseded by `182/753` in both main reconstructions. Regular Lamech death changes from `3028` to `3052 BC` in the minimum frame; the birth chain and all cumulative chain values remain fixed. `188` remains non-operative but may be examined as a qualified Key-of-23 transmission hypothesis; LXX `777` examples move to Appendix B.
 
 Current pressure-test note: The June 28 2026 File_18 pressure test verified current control alignment, table-source boundaries, Machine Guards, dependency routing, no-comma Markdown formatting, and visible arithmetic / table arithmetic. The pass changed only stale trust-status and dependency-status wording; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries were changed.
+
+Bounded monarchy-correction note: The July 24 2026 amendment is independently focused-verified but is not a new full pressure test. The prior June 28 2026 full-pressure-test baseline remains historical control for all unaffected material.
+
+September 18 2026 SP/Flood correction: in the native SP frame, G2 Lamech is `3545→2893`, `653` inclusive; Noah primary/companion is `3493/3492`; Flood start→close is `2893→2892`; fixed Arphaxad remains `2891`. Add `215` for the reports’ equalized SP frame: `3760→3108`, Noah `3708/3707`, Flood `3108→3107`, Arphaxad `3106`. Ordinary Flood Gears and each Gear’s one-year event span apply to MT, LXX, and SP; the adjacent `−1` person-station rail applies only to SP Noah/Shem. The native-LXX comparison remains Cainan ON: G2 Creation `5494`, Flood `3238→3237`, Arphaxad `3236`. §§0, 2.2.1, and 3, Appendix A, and clarification note 10 carry the bounded correction; cumulative and SKL data are unchanged.
 
 # File_18 — Chronological Data Tables
 
@@ -28,12 +36,12 @@ Current pressure-test note: The June 28 2026 File_18 pressure test verified curr
 |---|---|
 | `File_00` | Axiom Engine, structural variators, source-map discipline, civil / Mirror / inverse firewalling, and source-control rules. |
 | `File_01` | Abraham entity data and `1876 BC` convergence year-label where Abraham rows are used. |
-| `File_02` | Flood terminology; MT Minimum-Regular / MT Standard-Normal distinction; SP Normal / Toggle ON; LXX Regular-Minimum; SKL Short / Long terminology; Shem `±2` state distinction. |
+| `File_02` | Flood terminology; MT Minimum-Regular / MT Standard-Normal distinction; SP Normal / G2 with the September 18 local correction; LXX Regular-Minimum; SKL Short / Long terminology; Shem `±2` state distinction. |
 | `File_04` | Jacob, Entry, LXX `33 + 397`, Levi death-state handling, and the `1876 BC` shared year-label. |
 | `File_05` | Primary `1446 BC` Exodus state; subordinate `1231 BC` Ramesside state; Sojourn 215 / Exodus 215 firewall. |
 | `File_07` | Creation-week endpoint / Year-6 distinction, restored Cainan `+130` / `+460`, and Creation microstructure. |
-| `File_08` | Kings dual-ledger state, historical `966 BC`, schematic `1016 BC`, and Fall of Jerusalem date-state controls. |
-| `File_09` | Cumulative architecture and restored cumulative 2nd Cainan Flood Week controls. |
+| `File_08` | Controls the literal/precise and Rounded United-Monarchy state split, historical `966 BC`, schematic `1016 BC`, David’s exact/rounded reign states, and Fall of Jerusalem date-state controls. |
+| `File_09` | Controls the cumulative Creation–Cainan–Enoch substrate, including the derived restored-Cainan/Apparent-Adam companion `14501–14494 BC`; File_18 remains the raw-table controller and admits that state only as an explicitly derived companion. |
 | `File_10` | External validation, Smith / Rudd source-control, SKL / Berossus witness framing, and providential multi-tradition system language. |
 | `File_11` | Three-Gear Protocol, `299 → 300`, `300/299`, and Residue Protocol distinction. |
 | `File_12` | Calendrical physics, Enochian `300/299`, Solar / Enochian year display, `7` / `7.5`, and residue controls. |
@@ -42,8 +50,31 @@ Current pressure-test note: The June 28 2026 File_18 pressure test verified curr
 | `File_17` | Prophetic span-component terminology and exact-ratio controls. |
 | `File_21` | Controls the SKL Unified Protocol as an application layer: `360:1` scalar, four-state SKL matrix, SKL rounded mod-10 Mirror display-state, Residue Protocol `6480.25`, Projective Boundary / Temple-Time Pillar coordinates, and Jachin / Boaz spelling control. It does not replace `File_34` for full SKL / Berossus derivation. |
 | `File_22` | Decimal Bridge and cumulative / Aaron-Moses dependency where exact cumulative tables are opened. |
+| `File_61` | Uses the unchanged §6A Jacob, Levi, Kohath, Amram, and Moses/Aaron rows to derive the bounded `T14(C)=C−14` and `H7(C)=C−7` rails and Joseph's fixed-offset collateral portions. File_18 remains the table source; none of the derived clutch coordinates is inserted as a new File_18 row. |
+| `File_62` | Controls the detailed half-clutch birth-law interface, inherited Joseph translations, Mosaic phase carrier, dual-`490` closure, BJ comparative warrant, and fixed-Joshua `216` comparison. It consumes File_18 source rows through Files 61–62 but does not reclassify its derived coordinates as File_18 table data. |
 | `File_34` | Full SKL / Berossus derivation, precessional envelope, `6480` tier logic, Berossus computational-anchor state, SKL-to-Berossus `2370` corridor, `30 + 20 + 30` restoration corridor, paired slash-display arithmetic, and phase-chain / Pillar cross-axis controls. |
-| `File_51a`; `File_54` | State-register, File map, Machine Guard, claim-status, Mirror / inverse restraint, and later-file style precedent. |
+| `File_51a` | Controls the Rounded Scaffold, including the Rounded United-Monarchy companion rail and `560`-year Aaron/Moses checks. |
+| `File_54` | State-register, File map, Machine Guard, claim-status, Mirror / inverse restraint, and later-file style precedent. |
+| `File_63` | Downstream Final carrier synthesis requiring the literal/Rounded monarchy table split and retaining File_18 as table source. |
+
+File_69 Cainan-count reciprocal note:
+Final File_69 uses File_18's restored/native second-Cainan `27`-generation Adam-to-Moses inventory as the internal reverse fingerprint of its external `14+13` schematic spacing. File_18 remains the raw-table and count controller.
+
+Machine Guard [FILE_18 FILE_25 FILE_69 CAINAN-FINGERPRINT ROUTING]:
+Final File_69 may use File_18's restored/native-second-Cainan `27`-generation Adam-to-Moses inventory and File_25 / File_29's same-name Kenan–Cainan `70+840=910` corroboration to state the external `14+13` / internal `13+14` reverse fingerprint. File_18 remains the raw table and count controller; File_25 remains the Decimal Invariance / `910` reference controller. In LXX, do not add another `+130` to native Cainan. The `26/27/28` states alter attribution or the figurative bookend only and do not move the fixed date grid.
+
+File_69 Jeconiah–Cainan reciprocal note:
+Final File_69 now compares Jeconiah's forwarded `70+840=910` row with first Kenan and compares Jeconiah's `41↔42` slot operation with second Cainan's `26↔27` retention/expunction. This is a bounded analogy, not an identity of persons, texts, curses, or chronologies.
+
+Machine Guard [FILE_18 FILE_25 FILE_29 FILE_53 FILE_69 JECONIAH–CAINAN ROUTING]:
+Final File_69 may compare Jeconiah's six-year-forwarded row with first Kenan's `70+840=910` anatomy and may compare Jeconiah's `41↔42` overlap with second Cainan's `26↔27` retention/expunction as analogous one-position count-clutches. File_18 retains the raw table and Adam-to-Moses count states; File_25 retains Decimal Invariance and the `910` reference field; File_29 retains the `7/13` theological grammar; File_53 retains Cainan-expunction and BJ claim-status control. Analogy does not create identity, and native LXX Cainan receives no additional `+130`.
+
+### Final File_09/File_69 cumulative-substrate reciprocal note
+
+Final File_09 derives the restored-Cainan/Apparent-Adam companion by applying the already controlled `+460` cumulative Cainan translation to the base Apparent-Adam row, equivalently by applying localized `+30` Apparent Age to the restored-Cainan Creation row. Final File_69 uses that companion only by dependency inside its cumulative-substrate synthesis. File_18 records the row as **derived companion data**, not as an independently transmitted chronology row.
+
+Machine Guard [FILE_18 FILE_09 FILE_69 RESTORED-CAINAN / APPARENT-ADAM ROUTING]:
+`14501–14494 BC`, Moses-side center `14496 BC`, Aaron whole-year node `14499 BC`, and Aaron phase-resolved node `14499.5 BC` are derived companion values generated from File_18 source rows under `+460` and localized `+30`. They are not inherited raw data, do not revise the base Apparent-Adam or restored-Cainan Creation rows, and are not repository Primary anchors. Final File_09 controls their cumulative derivation; Final File_69 controls only the downstream genealogical interpretation.
 
 ## 0. File-function
 
@@ -69,6 +100,9 @@ LXX chronology is materially active in this file. Henry B. Smith Jr.'s reconstru
 Publication-cleanup note:
 This public-clean source preserves the Final, post-final pressure-tested, focused-amendment, later cross-file-update, and current post-equalization full pressure-test status in the header. Detailed pass logs, pressure-test records, bounded update ledgers, pointer-refresh history, and replacement-workflow notes are archived rather than repeated in the public body.
 
+Nested Three-Gear correction note:
+The August 25 2026 update is a state/guard correction only. It changes no table datum and adds no chronology row.
+
 ### 0.1 Working state register
 
 The following states are active in `File_18`. They are simultaneous, non-competing states unless a local section explicitly narrows the working state.
@@ -79,6 +113,7 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | Minimum baseline table state | `3899 BC`; `4199 BC`; `5279 BC`; `1661 BC` | minimum display rows | Baseline rows are forward-most table values. Variant rows are generated by stated operators rather than by silently altering the baseline. |
 | Regular chronology state | begetting ages | historical / genealogical timeline | Use for MT, SP, and LXX begetting-age rows. Do not collapse with cumulative lifespan stacking. |
 | Cumulative chronology state | lifespans added end-to-end | theological / schematic deep-time timeline | Use for §6 tables. Do not treat cumulative dates as ordinary historical birth dates unless a local dependency opens that node-class. |
+| Restored-Cainan/Apparent-Adam derived companion state | `14501–14494 BC`; Moses `14496 BC`; Aaron whole-year `14499 BC`; Aaron exact `14499.5 BC` | derived companion row / cumulative interface | Generated by `+460` from the base Apparent-Adam row, equivalently `+30` from restored-Cainan Creation. It is not an inherited raw chronology row or Primary anchor. |
 | Literal Creation-week state | 7 days | literal Genesis 1 week | Converges with the figurative week at the displayed Creation endpoint. |
 | Figurative Creation-week state | 7 years | day-year Creation-week | Converges with the literal week at the displayed endpoint. The Year-6 / Adam state remains distinct from the endpoint. |
 | Creation endpoint state | `3899 BC`; `4114 BC`; `4174 BC`; `5279 BC`; related endpoints | Day 7 / Year 7 complete | Do not collapse Creation endpoint states with Year-6 / Adam states such as `3900 BC` or cumulative `14006 BC`. |
@@ -109,19 +144,23 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | `1876 BC` shared year-label state | `1876 BC` | Entry / Call / return / convergence year-label by dependency | In `File_18`, `1876 BC` may mark Entry under MT `430`, Abraham Call / Death of Terah under Sojourn-division paths, or another dependency-controlled convergence label. Do not collapse node-classes. |
 | Primary Exodus state | `1446 BC` | primary Exodus anchor | Governs the tables unless a subordinate Ramesside state is explicitly opened by dependency. |
 | Conquest / Moses-death state | `1406 BC` | Conquest / Moses endpoint anchor | Active in regular and cumulative tables. Do not collapse with Joshua death `1296 BC` in SP cumulative state. |
+| Literal/precise United-Monarchy state | `1050t/n→1010t/n→970t/n→930t/n BC` | primary royal phase rail | Preserve as author-clarified chronology. Same-phase reigns equal `40`; David’s exact cross-phase reign equals `40.5`. |
+| Rounded Scaffold United-Monarchy state | `1051n→1011n→971n→931n BC` | mod-5 comparison rail | File_51a-controlled; not literal/precise chronology. |
+| Shared-`966` state | literal `1446n→966n=480`; Rounded `1526n→966n=560` | Temple / Rounded comparison | Shared label; distinct origin, node-class, and operator. |
 | Kings dual-ledger state | `966 BC`; `1016 BC`; `+50` | historical Temple ledger versus schematic Triple-`430` ledger | Preserve both ledger states in §2.5. `1016 BC` does not replace historical `966 BC`. |
 | Fall of Jerusalem endpoint state | `586 BC` | Kings / exile endpoint | In `File_18`, `586 BC` remains the displayed endpoint unless another dependency opens adjacent `587/586 BC` date-states. |
-| SP Normal / Toggle ON state | `4199 BC`; `2892 BC` | SP inclusive-reckoning state | Active through the Flood in §3. Treat `4199 BC` as SP Normal / Toggle ON, not as SP Ideal. |
-| SP Ideal / Exclusive state | `4200 BC` | exclusive / harmonic companion | Mentioned by comparison. Does not replace the §3 baseline. |
-| SP Toggle OFF / post-Flood state | `2991 BC`; `2891 BC`; post-Flood rows | post-Flood standard SP interval state | The Toggle ON antediluvian state stops at the Flood; post-Flood rows resume standard intervals. |
-| SP Shem Superposition state | `2990/2991 BC`; `2390/2391 BC`; Noah's `600th year` read as either full `600` or inclusive `599+` | Shem bound to Noah and Arphaxad in different toggle states | Author-clarified. Preserve both toggle bindings. The inclusive SP reading may ripple backward toward Adam inside the antediluvian SP state, while the post-Flood Arphaxad-bound row does not inherit that backward ripple. |
+| SP Normal / G2 state | Creation `4199 BC`; Flood start `2893 BC`, close `2892 BC` | SP native regular frame | §3 retains the preferred chain head and applies interval-specific inclusive/completed counts. The legacy Toggle ON label does not license a global one-year shift. |
+| SP Ideal / Exclusive comparison | `4200 BC` | legacy uncompressed / harmonic comparison | Does not replace the preferred §3 chain head `4199`; is not generated by the localized Noah/Shem companion rail. |
+| SP Arphaxad-bound post-Flood state | Shem `2991 BC`; Arphaxad `2891 BC`; subsequent rows | fixed-Gear suffix / ordinary begetting intervals | At held Sojourn, Terah, and Cainan settings, Arphaxad onward does not move with ordinary Gear or inherit the SP Noah/Shem companion rail. |
+| SP Noah/Shem adjacent field / Shem Superposition | G2 Noah `3493/3492`; G2 Shem `2993/2992`; G1 Shem `2991/2990` | primary / lower companion, with binding named | Only Noah/Shem receive the SP `−1` companion. Ordinal `599+` and conventional cardinal `600` are interval-specific readings. No backward propagation to Adam and no forward propagation into the fixed Arphaxad suffix. See §3.2.1 for paired deaths. |
+| Flood Gear / event-year state | MT `2460/2458/2456`; native LXX `3240/3238/3236`; SP `3110/3108/3106`, full-430 frame | G3/G2/G1 starts; every close = start−1 | Ordinary three-Gear transport in all three traditions; each start→close is an event span. No Flood companion rail is generated by SP Noah/Shem. See §3.1.4. |
 | SP Terah dual-lock state | `145`; `205`; `2021 BC`; `1876 BC`; `1951 BC` | textual lifespan / architectural lifespan pair | Author-clarified. SP text gives Terah's official lifespan as `145`, landing death at Abram's call; the architectural `205` mirrors MT/LXX and shows that the same Terah problem remains as a swapped lifespan / begetting-age issue. In SP cumulative tables, `145` remains the official span. |
 | BJ / Jubilees comparison state | `3856 BC`; `343`; 7 Jubilees | external comparative witness | Used as SP / BJ alignment witness. Do not turn BJ into the SP table itself. |
 | LXX Regular-Minimum state | `5279 BC`; `3023 BC`; native 2nd Cainan | LXX regular comparison state | Active in §4. Smith is an external LXX reconstruction witness, not the source of the repository interpretation. |
-| LXX original-Lamech state (supersedes the LXX corrected Lamech state) | originals `(182, 595, 777)`; vestige pair `(188, 565, 753)`; Flood `3023 BC` | LXX regular source-control state | Author ruling, July 2026, superseding the prior guard: the MT set `(182, 595, 777)` is original; the attested LXX set `(188, 565, 753)` is its Key-of-23 transform (quanta `+6 / −30 / −24`; `6 − 30 = −24`). The File_18 LXX regular table uses begetting `182` with lifespan `777` primary and `753` as vestige display. See §4A. The prior guard against `777` is superseded for the regular table and retained for the cumulative chain value (see the cumulative row below). |
+| LXX component-wise Lamech reconstruction | `182` restored begetting; `753` attested LXX lifespan; `571` calculated remainder; minimum `3805–3052 BC` | main Regular/Cumulative source selection | `753` is retained as the author-preferred original LXX lifespan; that judgment is distinct from its textual attestation. Only the combined `182/753` biography lacks identified joint attestation. `188` is non-operative; LXX `777` is an MT-derived Appendix B overlay. See §4A. |
 | LXX Terah / Abraham `2 × 2` variant field | Abraham `1951/2166 BC`; Terah `2021/2081/2236/2296 BC` | independent `+215 Sojourn` and `+60 Terah` variant field | Author-clarified. Abraham has two birth labels because the `+215 Sojourn` state applies from Levi / Joseph back to Abraham. Terah has four birth labels because `+60 Terah` activates at Terah and doubles that two-date field. If restored 2nd Cainan is inserted, 2nd Cainan remains four-position; the eight-position effect begins at Arphaxad / Flood and propagates backward to Adam. |
-| LXX cumulative source-table state | `14896 BC`; `5745 BC`; Cainan `5280 BC`; Peleg `3856 BC`; Lamech `753`; Nahor `208` | cumulative LXX table state | Author-clarified, refined by the July 2026 ruling: the cumulative chain retains Lamech `753` as its local value (dual-locality: `182` local to the regular spine, `753` local to the cumulative chain); `777` appears in the cumulative only as the row-local overlay of §6D and does not propagate. Nahor uses `208` where this state is active. |
-| Regular-localized Shem `±2` state | Noah / Shem only | local regular anomaly | Applies in regular chronology only. |
+| LXX cumulative source-table state | `14896 BC`; `5745 BC`; Cainan `5280 BC`; Peleg `3856 BC`; Lamech `753`; Nahor `208` | cumulative LXX table state | Lamech shares the main `753` lifespan selection with Regular execution; cumulative values remain unchanged. The row-local `777` overlay is preserved only in Appendix B.2 and must not propagate. |
+| Regular-localized Shem `±2` state | Noah / Shem binding and qualified cross-Gear comparisons | local regular anomaly | Distinct from coherent Gear transport of other admitted biographies and the Flood. Arphaxad remains fixed under Gear at held variant settings; see §3.1.4. |
 | Cumulative-propagated Shem `±2` state | `2 + 3 + 2`; 7-year margin | chain-wide cumulative anomaly | Generates cumulative envelopes; do not reduce to the regular-localized anomaly. |
 | Regular restored 2nd Cainan state | `+130` | begetting-age insertion | Applies to regular MT/SP restoration only. LXX already includes Cainan. |
 | Cumulative restored 2nd Cainan state | `+460` | lifespan insertion | Applies to cumulative MT/SP restoration only. Do not substitute `+130`. |
@@ -137,9 +176,10 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | Sumerian A / SKL Short state | `2906 BC`; `20886 BC`; `452886 BC`; `17980` | primary SKL Short whole-year state | Preserve as Sumerian A / SKL Short. |
 | Sumerian B / SKL Long state | `2856 BC`; `27366 BC`; `459366 BC`; `24510`; `+6480` | alternate SKL Long whole-year state | Preserve as Sumerian B / SKL Long. |
 | SKL appended month/day datum state | `3 months and 3.5 days` | SKL textual-datum / dependency-controlled calendar detail | Retained as source datum. Whole-year local arithmetic remains separate unless `File_34` / `File_12` opens granular execution. |
-| SKL `+30 Apparent Mode` state | `+30`; examples `2936/2886 BC` by dependency | apparent-age rail | Do not collapse with local `+2` or scaled `+720`. |
-| SKL `+2 local rail` state | `+2`; examples `2908/2858 BC` by dependency | local fine-tuning rail | Local rail only. Not the same as `+720 scale-state`. |
-| SKL `+720 scale-state` | `2 × 360`; examples `262086/262806 BC` | scaled Shem `±2` expression | Scale-state only. Distinct from local `+2`. |
+| SKL `+30 Apparent Mode` state | `+30`; examples `2936/2886 BC` by dependency; bounded adjacent-macro `690/720/750` comparison | orthogonal apparent-age rail | Apply after Gear selection. Do not collapse with local or macro Gear units. |
+| SKL local centered `±2` Three-Gear state | absolute `+0/+2/+4`; relative `−2/0/+2`; examples `2908/2858 BC` as selected members | ordinary-year fine-tooth wheel | Printed `+2` rows expose one member only. The full field is active when §D.38 or a local section opens it. |
+| SKL centered `±720` Three-Gear dilation | `−720/0/+720`; `720 = 2 × 360`; examples `262086/262806 BC` as center/selected member | cosmic years-of-years wheel | Exact `360:1` dilation of the local field. Distinct units; not a floating adjustment. |
+| SKL nested local-on-macro subrail state | for admitted macro member `M`, coordinate field `M−2/M/M+2` | small teeth within large teeth | Open only under declared phase, Mirror, or rail-closure work. It does not add source rows or evidence. |
 | Precessional envelope / Berossus state | `6480`; `12960`; Berossus by `File_34` dependency | SKL / Berossus unification field | Preserved as dependency-controlled; §7 does not fully rederive it. |
 | File_34 post-final dependency state | `2370`; `30 + 20 + 30`; `568/566 BC`; `538/536 BC`; `518/516 BC`; `488/486 BC` | post-final SKL / Berossus citation-control state | `File_18` may register these as File_34-controlled dependency labels. It does not rederive the corridor or change local SKL table rows. |
 | Same-side BC span state | higher BC minus lower BC | same-axis chronology span | Main arithmetic display in §8. Arithmetic verification is recorded in §0.8 and §8. |
@@ -158,9 +198,10 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | `4114 BC` | Creation endpoint under `+215 Sojourn` | MT Standard-Normal | `3899 BC`; Year-6 anchors in `File_07`; rounded MT `4106 BC` |
 | `3959 BC` | Terah-only Creation endpoint | MT `+60 Terah` | `3899 BC`; `4114 BC`; `4174 BC` |
 | `4174 BC` | maximum Creation endpoint | MT `+275` | Year-6 `4176 BC`; LXX Maximum node-labels in `File_14` |
-| `4199 BC` | SP Normal Creation endpoint | SP Normal / Toggle ON | SP Ideal `4200 BC`; MT `3899 BC` |
-| `4206–4199 BC` | SP Creation-week wrapper | SP Normal / Toggle ON | SP Ideal wrapper if separately opened |
-| `2990/2991 BC` | Shem superposed birth labels | SP Shem Superposition | ordinary regular-localized `±2` labels unless the toggle binding is named |
+| `4199 BC` | SP Normal Creation endpoint / preferred chain head | SP Normal / G2 | legacy SP Ideal `4200 BC`; MT `3899 BC`; separately typed Creation-week / Adam-Day nodes |
+| `4206–4199 BC` | SP Creation-week wrapper | SP Normal / G2 | SP Ideal wrapper if separately opened |
+| `2991/2990 BC` | Shem G1 primary / companion births | SP-local person-station pair | G2 Shem `2993/2992`; Flood start/close pairs; name the Noah-bound or Arphaxad-bound relation |
+| `2893→2892 BC` | Flood start→close | SP Normal / G2, native frame | Noah/Shem primary→companion; fixed Arphaxad `2891` |
 | `5279 BC` | LXX Creation endpoint | LXX Regular-Minimum | File_13 LXX actual `5494 BC`; File_54 rounded `5486 BC` |
 | `5286–5279 BC` | LXX Creation-week wrapper | LXX Regular-Minimum | LXX cumulative Adam `14896 BC` |
 | `3023 BC` | LXX Regular-Minimum Flood | LXX corrected Lamech state | LXX cumulative Flood `5745 BC` |
@@ -175,7 +216,7 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | `14009.5 BC` | MT cumulative Adam on Aaron / Tishri trunk | cumulative Aaron line | integer Moses line `14006 BC` |
 | `14011–14004 BC` | MT cumulative Adam envelope | cumulative 7-year span | one single date |
 | `14036 BC` | cumulative apparent birth | Year-6 +30 overlay | Adam Year-6 `14006 BC` |
-| `4831 BC` | MT cumulative Flood / Arphaxad table label | cumulative MT | regular Flood rows `2243 BC`, `2892 BC`, `3023 BC` |
+| `4831 BC` | MT cumulative Flood / Arphaxad table label | cumulative MT | regular G2 Flood-start rows `2243 BC`, `2893 BC`, `3023 BC` |
 | `5291 BC` | restored cumulative Cainan Flood / Arphaxad label | cumulative restored 2nd Cainan | regular restored Cainan `+130` state |
 | `5296–5289 BC` | restored cumulative 2nd Cainan Flood Week | cumulative envelope | LXX Creation endpoint `5279 BC`; LXX cumulative Cainan `5280 BC` |
 | `4858–4851 BC` | MT Cumulative + 2nd Cainan Cainan envelope | cumulative restored 2nd Cainan | regular restored Cainan `+130`; LXX cumulative Cainan `5280 BC` |
@@ -203,7 +244,7 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | `27366 BC` | SKL Long Flood | Sumerian B / SKL Long | SKL Short `20886 BC` |
 | `452886 BC` | SKL Short Pre-Creation | Sumerian A / SKL Short | SKL Long Pre-Creation `459366 BC`; +720 rail by dependency |
 | `459366 BC` | SKL Long Pre-Creation | Sumerian B / SKL Long | SKL Short Pre-Creation `452886 BC` |
-| `262086/262806 BC` | Adam / Alulim rail pair | SKL `+720 scale-state` | local `+2` rail or regular Adam rows |
+| `262086/262806 BC` | Adam / Alulim center and selected `+720` member | SKL centered `±720` Three-Gear dilation | complementary `261366 BC` macro member; nested local `±2` subteeth; regular Adam rows |
 
 ### 0.1b Operator and sign-convention register
 
@@ -215,8 +256,10 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | `+215 Sojourn` | add 215 years backward where full 430 Egypt position is opened | variant matrix and Entry field | Distinct from Exodus 215 / subordinate Ramesside shift. |
 | `+275` | `+60 + 215`; also sequential `60 + 155 + 60` display | four-position variant matrix | Preserve both combined and sequential displays. |
 | `±215` | Sojourn-position fork | Abraham → Levi / Joseph field | Produces two date states for Abraham through Levi / Joseph. Not a generic global adjustment and not identical to `+60 Terah`. |
-| Shem `±2` | localized in regular; propagated in cumulative | Noah / Shem; cumulative envelope | Must name active mode before applying. |
-| SP Toggle ON | inclusive reckoning through Flood | SP regular antediluvian table | Stops at Flood; post-Flood resumes standard intervals. |
+| Shem `±2` | localized bindings in regular; propagated in cumulative | Noah / Shem comparisons; cumulative envelope | Name active mode; do not use localized binding scope to deny ordinary coherent Flood Gears. |
+| SP Noah/Shem companion | primary minus one | SP Noah/Shem person-stations only | Count the distinction once per admitted local path; no upstream birth shift and no Flood companion. |
+| Flood start→close | start minus one | each ordinary Gear in MT, LXX, and SP | Event-year boundary, independent of the SP Noah/Shem operator. |
+| SP inclusive cap capacity | birth−Flood start+1 = birth−Flood close | Adam through Lamech, with declared lifespan count | Inclusive count does not give the nine rows a Noah/Shem companion rail; Noah is excluded from the cap. |
 | Regular restored 2nd Cainan | `+130` | regular MT/SP restoration | Begetting-age insertion only. |
 | Cumulative restored 2nd Cainan | `+460` | cumulative MT/SP restoration | Lifespan insertion only. |
 | `137` checksum | `7 + 130` | boundary checksum where completion and patriarchal `130` states are both opened | Diagnostic only; not a new chronological operator. |
@@ -240,6 +283,9 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | SKL local `+2` | literal-year local rail | SKL Tower / anchor fine-tuning | Distinct from scaled `+720`. |
 | `25/23`; `70/69`; `300/299` | exact-rational operators by dependency | Key-of-23, prophetic, Enochian contexts | Do not decimalize or invert without naming the active state. |
 | Residue Protocol | physical / residual display only where opened | 299/300 residue audit line | Not ordinary Key-of-23 whole-year conversion. |
+| Literal/precise monarchy rail | `1050→1010→970→930`; each step `40` | United Monarchy chronology | Distinct from Rounded and schematic ledgers. |
+| Rounded monarchy rail | `1051→1011→971→931`; each step `40` | File_51a mod-5 comparison | Distinct from literal chronology. |
+| Rounded Moses/Aaron links | `1531−971=560`; `1526−966=560` | Rounded Scaffold comparison | Does not redefine literal `966 BC`. |
 | Kings `+50` Jubilee Offset | `1016 − 966 = 50` by dependency | Kings dual-ledger state | Does not change historical `966 BC`. |
 
 ### 0.1c Slash-pair, range, envelope, and display-state register
@@ -248,18 +294,20 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 |---|---|---|---|
 | `3906–3899 BC`; `4206–4199 BC`; `5286–5279 BC` | Creation-week wrapper ranges | regular Creation endpoint states | Ranges / blocks, not single anchors. |
 | `70/130` | Terah begetting-age slash-pair | MT regular table | Ordered source display for Terah's dual begetting logic; not a range. |
-| `2990/2991 BC`; `2390/2391 BC` | SP Shem superposed slash-pair | SP Shem Superposition | Two toggle-bound labels, not an average or correction. |
+| `2991/2990 BC`; `2391/2390 BC` | SP Shem G1 primary / companion pairs | SP Shem Superposition, native frame | First members pair together, and second members pair together; each lifespan is `600`. Name the binding. G2 is `2993/2992` and `2393/2392`. |
 | `145 (205)` | SP Terah lifespan pair | SP Terah dual-lock | Textual / architectural pair; preserve both. |
 | `.5` labels | half-year display | Aaron / Tishri cumulative track | Exact display states; do not floor unless a display operator is named. |
 | `14011–14004 BC`; `4836–4829 BC`; `5296–5289 BC` | cumulative 7-year envelopes | cumulative MT / restored Cainan | Envelopes with internal members; not one date. |
 | `4716–4709 BC`; `14901–14894 BC` | cumulative comparison envelopes | SP / LXX cumulative | Preserve as table envelopes. |
 | `1878–1871 BC` by dependency | famine-window envelope | File_16 dependency | Not locally tabulated as a main File_18 anchor unless opened by dependency. |
 | `4398–4391 BC → 1878–1871 BC` by dependency | projected envelope-to-envelope relation | Cainan / Famine macro-vector state | Uses `2520`; component labels must remain distinct and non-collapsed. |
-| `971/970 BC`; `587/586 BC`; `967/966 BC` by dependency | adjacent date-state slash-pairs | Kings / File_08 / File_14 dependencies | Preserve as adjacent states if opened; File_18's local table uses `966 BC` and `586 BC`. |
+| `1050t/n→1010t/n→970t/n→930t/n BC` | literal/precise monarchy phase rail | Kings / File_08 dependency | Compact `t/n` means phase-admissible same-year alternatives, not a Mirror slash-pair or uncertainty range. |
+| `1051n→1011n→971n→931n BC` | Rounded monarchy rail | File_51a dependency | Mod-5 comparison state; not literal chronology. |
+| `587/586 BC`; `967/966 BC` by dependency | adjacent date-state slash-pairs | Kings / File_08 / File_14 dependencies | Preserve as adjacent states if opened; File_18 uses `966 BC` and `586 BC` as primary displayed anchors. |
 | `2906/2856 BC`; `20886/27366 BC`; `452886/459366 BC` | SKL Short / Long paired states | Sumerian A / B | Paired states, not ordinary uncertainty ranges. |
 | `262086/262806 BC` | SKL +720 rail pair | scaled Shem `±2` | Scale-state pair, not local `±2`. |
 | `3658/3656/3608/3606 BC` | SKL fine-tuning display cluster | +720 / +30 / +2 dependency field | Source-retained display cluster; full derivation remains `File_34`-controlled. |
-| `599–600` | inclusive reading range | SP Noah / Flood display | Source-history website adjustment state; do not force one member in this file. |
+| `599+` / conventional `600` | ordinal / cardinal counting distinction | SP Noah/Shem local paths | Qualify each interval; not a Flood uncertainty range. Each Gear has an independently typed Flood start→close year. |
 | `3 months and 3.5 days` | SKL textual-datum display | Sumerian B / SKL Long dependency | Month/day datum is preserved separately from whole-year local arithmetic. |
 
 ### 0.1d Modal-state processing rules
@@ -273,16 +321,18 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 7. The `12–8–4–2–0` shorthand must be read as a structural funnel: generation-count blocks `12 → 8 → 4 → 2`, paired with possible-date states `8 → 4 → 2 → 0` when restored 2nd Cainan is explicitly opened. It is not a mere boundary list.
 8. The restored/native 2nd Cainan 27-generation completion state extends the Pentateuchal Funnel to Moses: `12 + 8 + 4 + 2 + 1 = 27 = 3 × 3 × 3`. This is a secondary generation-count / typological layer. Do not let it overshadow the primary `12–8–4–2–0` variant-count ladder or the operative 8-date / 4-date / 2-date / 0-date block logic. Do not use this theological / structural state to add dates to Kohath, Amram, Aaron, or Moses, and do not erase the ordinary fixed-anchor rule from Aaron / Moses onward.
 9. The fixed epoch from Aaron onward uses fixed anchors unless a dependency explicitly opens another state.
-10. The SP Toggle ON state is antediluvian through the Flood. The SP post-Flood rows resume standard intervals. Shem may occupy both toggle bindings in the SP Shem Superposition state.
-11. Superseded in part by the July 2026 author ruling (§4A): the LXX regular table now carries lifespan `777` primary with `753` as vestige, begetting `182` unchanged; the LXX cumulative chain retains `753` as its local value, with `777` row-local in the §6D overlay only. Smith's discussion remains an external reconstruction witness.
+10. SP Noah/Shem alone receive the adjacent `−1` companion rail. Flood start→close is an independent event-year span within ordinary three-Gear transport in MT, LXX, and SP. SP cap counts are inclusive to Flood start. With other variant settings held, Arphaxad onward remains fixed under Gear and the SP companion mechanism.
+11. The September 8 2026 ruling uses Lamech `182/753` in the main LXX Regular and Cumulative reconstructions. `571` is calculated only; `188` is non-operative transmitted data; LXX `777` and its dependent comparisons are appendix-only. See §4A and Appendix B.
 12. Regular restored 2nd Cainan uses `+130`; cumulative restored 2nd Cainan uses `+460`; LXX native Cainan requires no restoration.
 13. Cumulative `.5` labels belong to the Aaron / Tishri trunk and must not be silently rounded.
 14. Cumulative 7-year spans are envelopes. A stated upper, lower, or internal member must be preserved as a member-label. The MT cumulative Peleg row has a Nisan envelope `3501n–3494n BC` and a parallel Tishri envelope `3502t–3495t BC`; its Mirror relation to the Conquest / land-rest envelope must be evaluated component-wise.
-15. Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, `+2 local rail`, `+720 scale-state`, and `+6480` variant-tier logic must remain distinct.
+15. Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, the selected local `+2` member, the full local `−2/0/+2` wheel, the selected macro `+720` member, the full SKL `−720/0/+720` dilation, and `+6480` variant-tier logic must remain distinct by unit and state.
 16. The SKL appended `3 months and 3.5 days` datum is preserved as a textual / dependency-controlled state, not as a local whole-year operator.
 17. The Cainan macro-vector state is a File_16 dependency layer, not a new File_18 table-generation operator. `2300`, `2307`, `2520`, `2730`, and `1260 → 1290 → 1260` may be cited from File_18 table values only when the active vector state and target node-class are named.
 18. No broad Mirror protocol or inverse-number operator is active in the main body of `File_18`. The author-clarified MT cumulative Peleg row opens a bounded File_09-style phase-resolved Mirror coordinate-completion state only for that Peleg / Conquest relation. Mirror, civil cross-axis span, `10x` scaling, and inverse-number reversal must still be named separately.
 19. The 299 / 300 residue line is now author-clarified as a dependency-controlled residue / conceptual residual-display state. The active Enochian ratio is `300/299`; legacy `299/300` wording is source-history / inverse-caption language; physical residue and conceptual residual-display must remain distinct.
+20. The literal/precise United Monarchy is `1050t/n→1010t/n→970t/n→930t/n BC`. The Rounded Scaffold United Monarchy is `1051n→1011n→971n→931n BC`. The old mixed `1011→971/970→931 BC` row must not be restored as Actual / Historical.
+21. `966 BC` is a shared year label: literal cardinal Temple foundation from `1446 BC`, and Rounded `560`-year landing from Moses `1526n BC`. Shared label does not collapse state or operator.
 
 ### 0.2 File map
 
@@ -292,14 +342,16 @@ The following states are active in `File_18`. They are simultaneous, non-competi
 | §0A | Fractal Self-Constraint Principle | vertical scale-state / multi-witness framework |
 | §1 | Variant mechanism, Pentateuchal Funnel, `137` checksum, bounded cumulative-Cainan extension, and Cainan macro-vector controls | `+60 Terah`; `+215 Sojourn`; `+275`; Shem `±2`; Cainan `+130` / `+460`; `137 = 7 + 130`; `16 × 8` diagnostic; `4 × 138 = 552`; `2300`; `2520`; `2730`; Pentateuchal Funnel state; File_16 dependency |
 | §2 | MT Regular baseline | MT Minimum-Regular; Kings dual-ledger dependency |
-| §3 | SP Regular baseline | SP Normal / Toggle ON; SP Ideal / Exclusive; Shem Superposition |
+| §3 | SP Regular baseline | SP Normal / G2; ordinal/completed local paths; inclusive cap; universal Flood Gears; Noah/Shem companion field and named bindings |
 | §4 | LXX Regular baseline | LXX Regular-Minimum; Smith source-reconstruction witness; native 2nd Cainan; Abraham / Terah `2 × 2` variant field |
+| §4A | Common LXX Lamech reconstruction and bounded transmission hypothesis | main `182/753`; cross-Gear `69/529/598`; generated `+6` comparisons; source distinction |
 | §5 | Source-numbering note | supplied source has no Section 5 |
 | §6 | Cumulative chronology matrix | cumulative MT; cumulative 2nd Cainan; SP cumulative; LXX cumulative |
 | §7 | SKL Integration | Sumerian A / SKL Short; Sumerian B / SKL Long; `+6480`; `+720`; `+30`; `+2`; File_21 application controls |
 | §8 | Arithmetic verification table and argument-control notes | same-side BC subtraction; exact spans checked where locally executable; claim-status controls |
 | §9 | Cross-reference index | dependency tracking |
 | Appendix A | Website table adjustments | source-history conversion notes |
+| Appendix B | LXX `777` preservation and subsidiary comparisons | non-propagating overlay; Smith reconstruction; supporting arithmetic only |
 | Audit notes | Retains unresolved dependency and audit controls | audit notes; dependency boundaries |
 | Unresolved issues | Lists retained non-blocking controls | source-history and dependency controls |
 
@@ -329,12 +381,12 @@ This table states the current hierarchy for the post-final Cainan / Funnel mater
 | `Sojourn +215` | Normalized to `+215 Sojourn`. |
 | `Regular (Short)` | Preserved as Regular chronology with Short as legacy term. |
 | `Cumulative (Long)` | Preserved as Cumulative chronology with Long as legacy term. |
-| `SP Normal`; `Toggle ON` | Preserved as `SP Normal / Toggle ON`. |
+| `SP Normal`; legacy `Toggle ON` | Preferred `SP Normal / G2`; use interval-specific counting and SP-local Noah/Shem primary/companion labels. Legacy Toggle language does not authorize a whole-chain shift. |
 | `SP Ideal`; exclusive reckoning | Preserved as `SP Ideal / Exclusive`. |
 | `LXX Minimum` | Normalized to `LXX Regular-Minimum`. |
 | `Sumerian`, primary rail | Normalized to `Sumerian A / SKL Short` where the 17980-year state is active. |
 | `Sumerian`, +6480 rail | Normalized to `Sumerian B / SKL Long` where the 24510-year state is active. |
-| `±30`; `±2`; `+720` in SKL | Labeled as `+30 Apparent Mode`, `+2 local rail`, and `+720 scale-state` where needed. |
+| `±30`; local `±2`; macro `±720` in SKL | Label `+30 Apparent Mode` separately; use full centered local `−2/0/+2` and SKL `−720/0/+720` when the wheel is active; retain `+2` / `+720` only for selected-member rows. |
 | Comma-form numbers | Normalized to no-comma format, e.g. `6480`, `14466`, `453600`. |
 
 ### 0.4 Machine Guards for `File_18`
@@ -349,15 +401,22 @@ Regular restored 2nd Cainan uses `+130`. Cumulative restored 2nd Cainan uses `+4
 
 Machine Guard [FILE_18 SHEM ±2]:
 
-In Regular chronology, Shem `±2` is localized to Noah / Shem. In Cumulative chronology, the same anomaly propagates through the cumulative chain and creates the 7-year margin. Do not treat the regular-localized and cumulative-propagated states as one mechanism.
+In Regular chronology, the localized Shem `±2` anomaly governs Noah/Shem bindings and qualified endpoint comparisons. Ordinary coherent Gear transport also applies to the Flood and other admitted pre-Flood biographies; see §3.1.4. At held variant settings, Arphaxad onward remains fixed under regular Gear. In Cumulative chronology, the anomaly propagates through the cumulative chain and creates the 7-year margin. Keep these mechanisms and domains distinct.
 
 Machine Guard [FILE_18 KINGS DUAL LEDGER]:
 
 `966 BC` is the historical Temple foundation anchor. `1016 BC` is the schematic Triple-`430` pivot generated by the `+50` Jubilee Offset. Do not let either ledger overwrite the other.
 
-Machine Guard [FILE_18 SKL RAILS]:
+Machine Guard [FILE_18 LITERAL / ROUNDED MONARCHY NON-COLLAPSE]:
 
-Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, `+2 local rail`, and `+720 scale-state` are distinct states. The local `+2` rail is not the same operation as the scaled `+720` state.
+The literal/precise United Monarchy is `1050t/n→1010t/n→970t/n→930t/n BC`. The Rounded Scaffold rail is `1051n→1011n→971n→931n BC`. Do not label the Rounded rail Actual / Historical, and do not move the precise phase rail backward by one year.
+
+Machine Guard [FILE_18 966 SHARED-LABEL]:
+
+`966n BC` may function as the literal cardinal Temple foundation and as the Rounded `1526n→966n=560` landing. Shared year label does not create identity of source state, origin, or operator.
+
+Machine Guard [FILE_18 SKL NESTED THREE-GEAR RAILS]:
+File_11's ordinary Three-Gear field is `+0/+2/+4` in absolute notation and `−2/0/+2` when centered on Gear 2 / Shem. Under the SKL `360:1` scalar, the centered field is `−720/0/+720`. Sumerian A / SKL Short, Sumerian B / SKL Long, `+30 Apparent Mode`, the local and macro wheels, and `+6480` remain distinct states and units. Existing `+2` and `+720` table rows are selected-member displays, not the complete topology; each admitted macro member may carry a nested local `−2/0/+2` subrail only when explicitly opened. No nested subrail creates a new raw table row, source witness, or Primary anchor.
 
 Machine Guard [FILE_18 CREATION ENDPOINT / YEAR-6]:
 
@@ -371,9 +430,9 @@ Machine Guard [FILE_18 1876 YEAR-LABEL]:
 
 `1876 BC` is a shared year-label. Depending on active state, it may mark Jacob's Entry under MT `430`, Abraham's Call / Death of Terah under Sojourn-division paths, Jacob's return from Haran under LXX `33 + 397` by dependency, or another convergence witness. Do not collapse these node-classes.
 
-Machine Guard [FILE_18 SP TOGGLE / SHEM]:
+Machine Guard [FILE_18 SP NOAH/SHEM LOCALITY + FLOOD GEAR SEPARATION]:
 
-SP Normal / Toggle ON governs the antediluvian SP state through the Flood, but the Noah `600th year` datum may be read as either full `600` or inclusive `599+`. The SP primarily preserves the inclusive option while retaining the round `600` for schematic purposes. This allowance can ripple backward toward Adam inside the SP antediluvian state, but it does not propagate forward beyond the Arphaxad-bound post-Flood row. Shem may legitimately appear as `2990/2991 BC` and `2390/2391 BC` because he is bound to Noah and Arphaxad by different toggle states.
+The SP companion operator is primary minus one for Noah/Shem person-stations only. Native G2 Noah is `3493/3492`, Shem `2993/2992`, Noah death `2543/2542`, and Shem death `2393/2392`. G1 Shem `2991/2990` with deaths `2391/2390` remains available under named bindings; only `2991→2891` is the displayed full-100 Arphaxad-bound relation. Do not propagate the companion into Adam through Lamech or Arphaxad onward, and do not transfer it to MT/LXX. Native G2 Lamech is `3545→2893`, `653` inclusive. Flood `2893→2892` is a start→close event pair, not a companion pair. All three traditions retain ordinary Flood Gears and independent one-year Flood spans; §3.1.4 supplies the exact table. LXX is native Cainan ON in that comparison. Keep the G2 `654+654` midpoint to fixed Arphaxad separate from the G1 Lamech-death / Flood-start / Arphaxad coordinate convergence.
 
 Machine Guard [FILE_18 CUMULATIVE ENVELOPES]:
 
@@ -385,7 +444,11 @@ The MT cumulative Peleg row must preserve both the Nisan span `3501n–3494n BC`
 
 Machine Guard [FILE_18 LXX REGULAR / CUMULATIVE]:
 
-The LXX Regular-Minimum table and the LXX cumulative table are separate source-table states. By the July 2026 author ruling (§4A): the regular table uses begetting `182` with lifespan `777` primary (`753` vestige); the cumulative chain retains `753` as its local value, `777` appearing only as the §6D row-local overlay, which does not propagate (File_56 `299 × 45` Exodus lock). Nahor uses `208` where the corrected LXX source-table state is active. The former guard against `777` is superseded for the regular table by author ruling and retained for the cumulative chain value.
+The main LXX reconstruction retains the attested/transmitted LXX lifespan `753` (Genesis 5:31) with restored operative begetting age `182` in both Regular and Cumulative execution. `753` itself is not reconstructed; its retention as the preferred original LXX lifespan is the author-adopted textual/structural judgment of §4A.1. The remainder `571 = 753 − 182` is calculated, not an identified manuscript reading. No surviving joint `182/753` attestation has been identified in the reviewed sources; this qualification concerns the combined biography, not the attestation of `753`. Regular begetting paths and cumulative lifespan paths remain distinct methods, but Lamech's selected lifespan no longer changes between them. LXX use of MT `777` is an appendix overlay confined to Appendix B and appendix-routed downstream comparisons; its cumulative overlay is row-local and must not propagate into the `753` chain. MT `777` and Nahor's controlled LXX `208` remain unchanged. The transmitted `188` is non-operative: its possible Key-of-23 origin is a structural/transmission hypothesis, not an admitted main-chain variant.
+
+Machine Guard [FILE_18 LAMECH KEY / TRANSMISSION]:
+
+File_18 §4A records exact arithmetic within declared chronological states and an author-favored Key-of-23 crossover hypothesis. Neither harmonic compatibility nor a generated `+6` endpoint proves a historical scribal sequence or a joint `182/753` manuscript. The continuous LXX `3336 → 3267 → 2738 BC` comparison is cross-Gear (`69 + 529 = 598`), not a replacement of Shem's `600`-year lifespan. The MT `3127 → 3058 BC = 69` and `3056 → 2458 BC = 598` are separately located intervals; their relationship must not be presented as one attested continuous MT three-node partition. Gain-transfer, anchored expansion, and whole-biography translation must be distinguished. `188`-based comparison outputs remain non-operative, and applying `188` to the otherwise unchanged birth chain does not preserve its `1656` total.
 
 Machine Guard [FILE_18 RESIDUE / KEY-OF-23]:
 
@@ -705,7 +768,7 @@ Shem carries two valid `100` states.
 
 These states are not corrections of one another. They function like the Terah `70/130` begetting-state field: both readings are retained under named modal states.
 
-The two-year difference is the Shem `±2` hinge. In Regular chronology it is localized to Noah / Shem. In Cumulative chronology it may propagate through the cumulative chain where that state is opened.
+The two-year difference is the Shem `±2` binding hinge. In Regular chronology this local binding distinction concerns Noah/Shem; ordinary coherent Flood Gear transport remains separately available (§3.1.4). In Cumulative chronology the anomaly may propagate through the cumulative chain where that state is opened.
 
 #### 1.3.6 The `16 × 8` expectation and the cumulative Cainan extension
 
@@ -1047,7 +1110,7 @@ Regular-localized Shem `±2` and cumulative-propagated Shem `±2` distinguished.
 
 Genesis 11:10 creates a two-year ambiguity at Shem, Arphaxad, and the Flood.
 
-- In Regular chronology, this anomaly is local and does not propagate beyond Noah / Shem.
+- In Regular chronology, this binding anomaly is local to Noah/Shem. Ordinary coherent Gear transport of the Flood and other admitted pre-Flood biographies is separately retained; it does not move the Arphaxad-forward suffix at held variant settings (§3.1.4).
 - In Cumulative chronology, the same anomaly propagates through the entire chain and creates the 7-year cumulative margin, `2 + 3 + 2`.
 
 ### 1.6 The 2nd Cainan switch
@@ -1193,7 +1256,7 @@ When external sources reference MT Creation at `4114 BC`, this corresponds to th
 Active state:
 Regular-localized Shem `±2`.
 
-Genesis 11:10 creates a 2-year ambiguity affecting only Noah and Shem in Regular chronology. In Cumulative chronology, the `±2` propagates through the entire chain; see §6 and `File_02`.
+Genesis 11:10 supplies the two-year distinction used in the regular Noah/Shem binding comparisons. This localized comparison permission does not restrict ordinary coherent Gear transport of the Flood; see §3.1.4. In Cumulative chronology, the `±2` propagates through the chain; see §6 and `File_02`.
 
 | Patriarch | Literal, in table | Idealistic `±2` | Source direction label |
 |---|---|---|---|
@@ -1202,14 +1265,21 @@ Genesis 11:10 creates a 2-year ambiguity affecting only Noah and Shem in Regular
 
 The literal dates represent the minimum baseline. The idealistic dates represent the alternative reading of Genesis 11:10. Both are valid.
 
-For SP and LXX, apply the same `±2` to Noah and Shem at their respective positions.
+For LXX, retain the independently sourced `±2` comparisons at its own native-Cainan positions:
 
 | Tradition | Patriarch | Literal | Idealistic `±2` |
 |---|---|---|---|
-| SP | Noah | 3492–2542 BC | 3493–2543 BC |
-| SP | Shem | 2991–2391 BC | 2993–2393 BC |
 | LXX | Noah | 3623–2673 BC | 3621–2671 BC |
 | LXX | Shem | 3121–2521 BC | 3123–2523 BC |
+
+The corrected SP field additionally has a local one-year companion. Its native-frame G2 pairs are:
+
+| SP person | G2 primary biography | G2 lower-companion biography |
+|---|---|---|
+| Noah | 3493–2543 BC | 3492–2542 BC |
+| Shem | 2993–2393 BC | 2992–2392 BC |
+
+These columns differ by one year and must not be labelled `±2`. The ordinary SP G1 Shem biography `2991–2391` remains the displayed Arphaxad-bound row, distinct from G2 `2993–2393` by two years. §3.2.1 gives all three Gears and the named bindings. MT and LXX do not inherit this SP-only adjacent rail.
 
 Cross-reference:
 Axiom definition: `File_00`, Shem `±2`. Entity logic: `File_02`, Shem `±2` anomaly.
@@ -1247,202 +1317,287 @@ Joseph, born `1700 BC`, is born 4 years after Levi, born `1704 BC`, but Joseph d
 Note:
 Aaron's date can optionally shift 0.5 years back to Tishri / Fall, which cascades back through all dates to Adam. Nisan / Spring remains the primary New Year season used in this baseline.
 
-### 2.5 Kings of Judah baseline: the `+50` Year Offset
+### 2.5 Kings of Judah baseline: literal, Rounded, and schematic ledgers
 
-Active state:
-Kings dual-ledger state.
+Active states:
+literal/precise United Monarchy; Rounded Scaffold United Monarchy; post-Solomon conventional table; Kings `+50` schematic ledger.
 
 Anchor:
-Fall of Jerusalem `586 BC`.
+Fall of Jerusalem `586 BC` for the broader Kings table; Exodus `1446 BC` for the Temple foundation.
 
-Logic:
-The verbatim sum of regnal years exceeds actual history by about 50 years, one Jubilee. This `+50` Offset creates the Triple-`430` harmonic by dependency through `File_16`.
+#### 2.5.1 Literal / precise United Monarchy
 
-| King | Verbatim | Actual | Accession BC | End / death BC | Logic / chronological anchor |
-|---|---:|---:|---:|---:|---|
-| Saul | 40 | 40 | 1051 | 1011 | Acts 13:21 |
-| David | 40 | 40.5 | 1011 | 971/970 | 2 Sam 5:5; 7.5 Hebron + 33 Jerusalem |
-| Solomon | 40 | 40 | 971/970 | 931 | Temple foundation, Year 4: 966 BC |
-| Rehoboam | 17 | 17 | 931 | 913 | Division of Kingdom, 931 |
-| Abijam | 3 | 3 | 913 | 911 | — |
-| Asa | 41 | 41 | 911 | 870 | — |
-| Jehoshaphat | 25 | 25 | 870 | 848 | — |
-| Jehoram | 8 | 8 | 848 | 841 | — |
-| Ahaziah | 1 | 1 | 841 | 841 | — |
-| Athaliah | 6 | 6 | 841 | 835 | Usurper Queen |
-| Joash | 40 | 40 | 835 | 796 | — |
-| Amaziah | 29 | 29 | 796 | 767 | — |
-| Uzziah | 52 | 52 | 767 | 740 | Azariah |
-| Jotham | 16 | 16 | 740 | 732 | — |
-| Ahaz | 16 | 16 | 732 | 716 | Northern Kingdom falls, 722/721 |
-| Hezekiah | 29 | 29 | 715 | 687 | Year 14 = 701 BC, Sennacherib |
-| Manasseh | 55 | 55 | 687 | 643 | — |
-| Amon | 2 | 2 | 643 | 641 | — |
-| Josiah | 31 | 31 | 640 | 609 | — |
-| Jehoahaz | 0.25 | 0.25 | 609 | 609 | 3 months |
-| Jehoiakim | 11 | 11 | 609 | 598 | 1st Exile, 606; 2nd, 597 |
-| Jehoiachin | 0.25 | 0.25 | 598 | 597 | 3 months |
-| Zedekiah | 11 | 11 | 597 | 586 | Fall of Jerusalem |
+The literal royal phase fields are:
 
-#### 2.5.1 Arithmetic verification of the 480th year
-
-```markdown
-Exodus anchor: 1446 BC
-Biblical span: 480 years, 1 Kings 6:1
-Calculation: 1446 − 480 = 966 BC
-Historical confirmation: Solomon accession 970 BC → Year 4 = 966 BC
+```text
+Nisan:  1050n → 1010n → 970n → 930n BC
+Tishri: 1050t → 1010t → 970t → 930t BC.
 ```
 
-#### 2.5.2 Arithmetic verification of the `+50` Offset
+| King | Textual reign | Precise accession | Precise transition / terminus | Handling |
+|---|---:|---:|---:|---|
+| Saul | `40` | `1050t/n BC` | `1010t/n BC` | Same-phase `40`. |
+| David | `40`; exact `40.5` | `1010t/n BC` | `970t/n BC` | Same-phase `40`; exact diagonal `1010n→970t=40.5`, matching `7.5+33`. |
+| Solomon | `40` | `970t/n BC` | `930t/n BC` | Same-phase `40`; `970n→970t` is a precise half-year joint whose co-rule interpretation remains proposed downstream. |
 
-```markdown
-Schematic link, File_16: 1446 BC − 430 years = 1016 BC
-Historical link, File_18: 1446 BC − 480 years = 966 BC
-Offset: 1016 − 966 = 50 years
+Checks:
+
+```text
+1050−1010=40
+1010−970=40
+970−930=40
+1010n→970t=40.5.
 ```
 
-Significance:
-The 50-year offset acts as a Jubilee Expansion allowing the Triple-`430` harmonic, `1876 → 1446 → 1016 → 586`, to coexist with the 480-year historical count.
+#### 2.5.2 Rounded Scaffold United Monarchy
+
+The mod-5 companion rail is:
+
+```text
+1051n → 1011n → 971n → 931n BC.
+```
+
+| King | Rounded accession | Rounded terminus | Span |
+|---|---:|---:|---:|
+| Saul | `1051n BC` | `1011n BC` | `40` |
+| David | `1011n BC` | `971n BC` | `40` |
+| Solomon | `971n BC` | `931n BC` | `40` |
+
+The rounded Aaron/Moses comparisons are:
+
+```text
+1531n−971n=560=14×40
+1526n−966n=560=14×40.
+```
+
+The Rounded rail is a File_51a state. It is not the literal / precise monarchy.
+
+#### 2.5.3 Post-Solomon conventional Kings table
+
+The one-year royal state split is not automatically propagated through every later king. The division boundary remains an adjacent `931n/930t/n BC` field: `931n BC` belongs to the Rounded/conventional accession display, while `930t/n BC` closes the precise Solomonic rail.
+
+| King | Verbatim | Conventional accession BC | Conventional end / death BC | Logic / chronological anchor |
+|---|---:|---:|---:|---|
+| Rehoboam | 17 | `931/930` | 913 | Division-of-kingdom adjacent boundary. |
+| Abijam | 3 | 913 | 911 | — |
+| Asa | 41 | 911 | 870 | — |
+| Jehoshaphat | 25 | 870 | 848 | — |
+| Jehoram | 8 | 848 | 841 | — |
+| Ahaziah | 1 | 841 | 841 | — |
+| Athaliah | 6 | 841 | 835 | Usurper queen. |
+| Joash | 40 | 835 | 796 | — |
+| Amaziah | 29 | 796 | 767 | — |
+| Uzziah | 52 | 767 | 740 | Azariah. |
+| Jotham | 16 | 740 | 732 | — |
+| Ahaz | 16 | 732 | 716 | Northern Kingdom falls, 722/721. |
+| Hezekiah | 29 | 715 | 687 | Year 14 = 701 BC, Sennacherib. |
+| Manasseh | 55 | 687 | 643 | — |
+| Amon | 2 | 643 | 641 | — |
+| Josiah | 31 | 640 | 609 | — |
+| Jehoahaz | 0.25 | 609 | 609 | 3 months. |
+| Jehoiakim | 11 | 609 | 598 | 1st Exile, 606; 2nd, 597. |
+| Jehoiachin | 0.25 | 598 | 597 | 3 months. |
+| Zedekiah | 11 | 597 | 586 | Fall of Jerusalem. |
+
+#### 2.5.4 Arithmetic verification of the Temple states
+
+```text
+Literal cardinal state: 1446n−966n=480
+Literal ordinal state: 1446n−967n=479 completed years; foundation in the following 480th year
+Rounded Moses lock:     1526n−966n=560=14×40
+Rounded Aaron lock:     1531n−971n=560=14×40.
+```
+
+`966n BC` is a shared label under different operators. `967n BC` remains the ordinal `480th-year` state; `966n BC` remains the cardinal elapsed-`480` state and the Rounded `560`-year Moses landing.
+
+#### 2.5.5 Arithmetic verification of the `+50` Offset
+
+```text
+Schematic link, File_16: 1446 BC−430 years=1016 BC
+Historical link, File_18: 1446 BC−480 years=966 BC
+Offset: 1016−966=50 years.
+```
+
+The `50`-year offset allows the Triple-`430` harmonic, `1876→1446→1016→586`, to coexist with the literal `480`-year Temple count. It is a third ledger and must not be confused with the one-year Rounded monarchy offset.
+
 
 ## 3. SP Regular Baseline
 
 Active state:
-SP Normal / Toggle ON.
+SP Normal / G2, native Sojourn `215`, Terah `+60` OFF, second Cainan OFF.
 
-Anchor:
-Exodus `1446 BC`; Entry into Egypt `1661 BC`.
+Anchors:
+Exodus `1446 BC`; Entry into Egypt `1661 BC`; preferred Creation / genealogical chain head `4199 BC`; Lamech birth `3545 BC`; Flood start `2893 BC`; Flood close `2892 BC`; fixed Arphaxad `2891 BC`.
 
-Website adjustment:
-Subtract `275` from Adam through Levi.
+Frame conversion:
+Add `215` to the affected regular dates for the reports’ full-430 comparison: Creation `4414`, Lamech `3760`, Flood `3108→3107`, Arphaxad `3106`. Appendix A distinguishes this current website setting from the older `+275` setting.
 
-Normative definition:
-Inclusive Reckoning / Toggle ON.
+Counting convention:
+Qualify each interval as ordinary completed-year subtraction or inclusive endpoint counting. The legacy name `SP Normal / Toggle ON` does not impose one convention on every interval or create a global one-year operator. The legacy SP Ideal / Exclusive `4200` comparison is one above the preferred head `4199`; this numerical relation does not generate the SP-local Noah/Shem companion rail or change upstream birth nodes.
 
-Logic:
+The preferred SP head remains exactly `300` years earlier than MT Minimum-Regular: `4199−3899=300`. Creation-week, Adam-Day, and genealogical node classes remain distinct. The superseded `4415 Adam → 4414 Creation` repair is not restored in the preferred chain.
 
-```markdown
-SP Normal / Toggle ON = SP Ideal / Exclusive 4200 BC − 1 year = 4199 BC
-```
+### 3.1 Creation to Flood: SP Normal / G2
 
-Note:
-SP Normal / Toggle ON, `4199 BC`, equals MT Minimum-Regular, `3899 BC`, plus 300 years.
+The table uses the native SP frame. Jared, Methuselah, and Lamech retain their lifespan numbers under the inclusive Flood-cap convention. Their selected deaths lie at Flood start; ordinary subtraction to Flood close is the equivalent capacity calculation, not an alternative physical-death assignment.
 
-### 3.1 Creation to Flood: SP Normal / Toggle ON
-
-This table reflects the SP normative Toggle ON state, `4199 BC`, exactly 300 years from the MT Minimum-Regular state, `3899 BC`.
-
-| Patriarch / event | Birth BC | Death BC | Lifespan | Begetting age |
-|---|---:|---:|---:|---:|
+| Patriarch / event | Birth BC | Death BC | Lifespan / count | Begetting age / binding |
+|---|---:|---:|---|---|
 | Creation Week | 4206 | 4199 | 7 | — |
-| Adam | 4199 | 3269 | 930 | 130 |
+| Adam / preferred chain head | 4199 | 3269 | 930 | 130 |
 | Seth | 4069 | 3157 | 912 | 105 |
 | Enosh | 3964 | 3059 | 905 | 90 |
 | Kenan | 3874 | 2964 | 910 | 70 |
 | Mahalalel | 3804 | 2909 | 895 | 65 |
-| Jared | 3739 | 2892 | 847 | 62 |
+| Jared | 3739 | 2893 | 847 inclusive | 62 |
 | Enoch | 3677 | 3312 | 365 | 65 |
-| Methuselah | 3612 | 2892 | 720 | 67 |
-| Lamech | 3545 | 2892 | 653 | 53 |
-| Noah | 3492 | 2542 | 950 | 502* |
-| The Flood | 2892 | 2891 | 1 | — |
+| Methuselah | 3612 | 2893 | 720 inclusive | 67 |
+| Lamech | 3545 | 2893 | 653 inclusive | 53rd year to primary Noah; full 53 to companion |
+| Noah — G2 primary | 3493 | 2543 | 950 | 500 to G2 primary Shem; other bindings in §3.2.1 |
+| Noah — G2 companion | 3492 | 2542 | 950 | 500 to G2 companion Shem; other bindings in §3.2.1 |
+| Flood — start / close | 2893 | 2892 | 1 event-year | — |
+
+For the Flood row, the two coordinate columns mean start and close. The remaining uncapped lifespan rows retain their ordinary subtraction conventions; inclusive cap counting does not impose an extra year on every lifespan.
 
 Arithmetic verification:
 
-| Row | Verification |
+| Row / path | Verification |
 |---|---|
-| Adam | `4199 − 130 = 4069`, Seth. |
-| Seth | `4069 − 105 = 3964`, Enosh. |
-| Enosh | `3964 − 90 = 3874`, Kenan. |
-| Kenan | `3874 − 70 = 3804`, Mahalalel. |
-| Mahalalel | `3804 − 65 = 3739`, Jared. |
-| Jared | `3739 − 62 = 3677`, Enoch. |
-| Enoch | `3677 − 65 = 3612`, Methuselah. |
-| Methuselah | `3612 − 67 = 3545`, Lamech. |
-| Lamech | `3545 − 53 = 3492`, Noah. |
-| Noah | `3492 − 600 = 2892`, Flood; Toggle ON: “600th year” = 600 elapsed. |
+| Adam | `4199−130=4069`, Seth. |
+| Seth | `4069−105=3964`, Enosh. |
+| Enosh | `3964−90=3874`, Kenan. |
+| Kenan | `3874−70=3804`, Mahalalel. |
+| Mahalalel | `3804−65=3739`, Jared. |
+| Jared | `3739−62=3677`, Enoch. |
+| Enoch | `3677−65=3612`, Methuselah. |
+| Methuselah | `3612−67=3545`, Lamech. |
+| Lamech → primary Noah | `3545−52=3493`: 53rd year at the declared annual station. |
+| Lamech → companion Noah | `3545−53=3492`: 53 full units. |
+| Primary Noah → Flood start | `3493−600=2893`. |
+| Companion Noah → Flood start | `3492−599=2893`: ordinal 600th-year boundary, `599+`. |
+| Companion Noah → Flood close | `3492−600=2892`; close independently belongs to `2893→2892`. |
 
-#### 3.1.1 Methodological note: BJ / Jubilees support for Toggle ON
+The three admitted local paths use the one-year counting distinction once:
 
-Claim-status: shared-tradition evidence and structural inference.
-The SP normative Toggle ON state, `4199 BC`, is supported by BJ / Jubilees under the source argument. BJ / Jubilees places Shem's birth at `2650 BC` and Ham's at `2648 BC`, 2 years later.
+| Path | Lamech→Noah | Noah birth | Noah→Shem | Shem birth | Shem→Flood start | Flood start |
+|---|---|---:|---|---:|---|---:|
+| Primary Noah / primary Shem | 53rd year: 52 | 3493 | 500 full | 2993 | 100 full | 2893 |
+| Companion Noah / primary Shem | 53 full | 3492 | 500th year: 499 | 2993 | 100 full | 2893 |
+| Companion Noah / companion Shem | 53 full | 3492 | 500 full | 2992 | 100th year: 99 | 2893 |
 
-Source lock:
-BJ / Jubilees places the drying of the Flood waters, Noah's “601st year,” in `2548 BC`.
+`52+500+100 = 53+499+100 = 53+500+99 = 652`. The Flood therefore lies in Lamech’s `653rd` counted year. The annual coordinates do not supply an otherwise unstated birthday or fractional-year phase. Genesis 7:6 supplies the cardinal age expression; Genesis 7:11 supplies the ordinal 600th-year expression. Their coordination in this SP field is the study’s reconstruction.
 
-Source calculation:
-If “601st year” means 600 full years, Toggle ON, then Noah was born in `3148 BC`:
+#### 3.1.1 Methodological note: BJ / Jubilees corroboration
 
-```markdown
-2548 + 600 = 3148 BC
-```
+Claim-status: derivative/corroborating witness and structural inference in the project model. SP supplies the underlying architecture; the arithmetic alone does not prove the historical direction of literary dependence.
 
-Arithmetic result:
-Noah, born `3148 BC`, was exactly 500 years old when Ham was born in `2648 BC`.
+BJ / Jubilees places Shem’s birth at `2650 BC`, Ham’s at `2648 BC`, and Japheth’s at `2645 BC`. It places Ark preparation at `2550`, Flood start at `2549`, the earth-dry / closing boundary at `2548`, and Arphaxad at `2547`.
 
-As shared-tradition evidence, this supports the source's claim that the BJ / SP tradition preserves the classic 500/502-year patriarchal gap found in MT / LXX while pivoting it through Inclusive Reckoning. Within this source argument, `4199 BC` functions as the SP Normal / Toggle ON state.
+The retained conditional calculation reads the 601st-year closing boundary after `600` completed units: `2548+600=3148`, yielding a derived BJ Noah station. It gives `3148−2648=500` to Ham and `3148−2549=599` to Flood start. This illustrates interval-specific ordinal/completed reckoning; it does not generate SP’s upstream birth dates or a Flood companion rail.
+
+BJ event coordinates translate by `+344` into the native SP frame and by `+559` into the equalized SP frame: `2550/2549/2548/2547 + 344 = 2894/2893/2892/2891`, or `+559 = 3109/3108/3107/3106`. The SP Ark-preparation interval remains conjectural, supported by the BJ parallel. The native SP `2894` / equalized `3109` is independently also the G3 Flood close; sharing a coordinate does not identify these event classes.
 
 #### 3.1.2 Methodological note: 100-year harmonic preservation
 
-Claim-status: shared-tradition evidence.
-BJ / Jubilees supports the SP logic by retaining standard 100-year intervals while re-anchoring them to accommodate Shem as firstborn.
+Claim-status: derivative/corroborating structural comparison. BJ retains the following intervals while giving Shem the firstborn chronological position:
 
 | Son | Birth BC | Event | Event BC | Interval |
-|---|---:|---|---:|---:|
+|---|---:|---|---:|---|
 | Shem, 1st | 2650 | Ark construction begins | 2550 | 100 years |
 | Ham, 2nd | 2648 | Earth dry | 2548 | 100 years |
 | Japheth, 3rd | 2645 | Arphaxad born | 2547 | 98 years, 2 Jubilees |
 
-#### 3.1.3 SP Flood and patriarchal deaths
+Keep birth-position correspondence separate from event correspondence. BJ births plus `345` reach native SP `2995/2993/2990`, selecting G3 primary / G2 primary / G1 companion from the Shem field. In the equalized frame the same birth-position translation is `+560`, reaching `3210/3208/3205`. It preserves BJ’s `2+3` spacing. The ordinary SP upper son-order reconstruction remains Japheth `3210` → Shem `3208` → Ham `3206`, with `2+2` spacing. Birth-order position, named person, and representative status are distinct; Report V and its companion supply the fuller interpretation.
 
-In this SP baseline, the Flood occurs in `2892 BC`. This date aligns with the standard reading of Genesis 7:6, “Noah was 600 years old,” placing the Flood exactly 600 years after Noah's birth:
+#### 3.1.3 SP Flood cap and patriarchal deaths
 
-```markdown
-3492 − 600 = 2892 BC
-```
+For the nine pre-Noah rows Adam through Lamech, native G2 inclusive capacity is `birth−2893+1`, equivalently `birth−2892`. Noah is outside this cap domain.
 
-Unique to the Samaritan Pentateuch, the lifespans of Jared, Methuselah, and Lamech are mathematically structured so that all three die in the exact year of the Flood, `2892 BC`.
+| Row | Native G2 birth | Inclusive capacity to Flood start |
+|---|---:|---:|
+| Adam / preferred chain head | 4199 | 1307 |
+| Seth | 4069 | 1177 |
+| Enosh | 3964 | 1072 |
+| Kenan | 3874 | 982 |
+| Mahalalel | 3804 | 912 |
+| Jared | 3739 | 847 |
+| Enoch | 3677 | 785 |
+| Methuselah | 3612 | 720 |
+| Lamech | 3545 | 653 |
 
-| Patriarch | Death BC | Verification |
-|---|---:|---|
-| Jared | 2892 | `3739 − 847 = 2892`. |
-| Methuselah | 2892 | `3612 − 720 = 2892`. |
-| Lamech | 2892 | `3545 − 653 = 2892`. |
+Capacities are not nine asserted lifespans. The retained SP lifespans of Jared, Methuselah, and Lamech meet their capacities and place their selected deaths at the G2 Flood start:
 
-Shem anomaly:
-To accommodate the fixed anchor of Arphaxad's birth “2 years after the Flood,” Genesis 11:10, and Shem's age of 100 at that time, Noah is calculated as 502 at Shem's birth.
+| Patriarch | Selected death BC | Inclusive verification | Equivalent capacity to Flood close |
+|---|---:|---|---|
+| Jared | 2893 | `3739−2893+1=847` | `3739−2892=847` |
+| Methuselah | 2893 | `3612−2893+1=720` | `3612−2892=720` |
+| Lamech | 2893 | `3545−2893+1=653` | `3545−2892=653` |
 
-### 3.2 Post-Flood to Patriarchs: SP Minimum / post-Flood Toggle OFF
+The equivalent closing-boundary calculation does not move their selected deaths to `2892`. The inclusive `+1` counts the endpoint year; it does not give Adam through Lamech a Noah/Shem companion birth rail.
 
-Note:
-The Toggle ON, `−1` year, stops at the Flood. Post-Flood dating resumes standard intervals with Arphaxad anchored at `2891 BC`: “2 years after the Flood” = one-year mathematical gap under inclusive interval reading.
+For coherent Gear displacement `δ = −2, 0, +2`, transport each selected birth and Flood start together. The capacity stays `(birth+δ)−(2893+δ)+1 = birth−2893+1`; close is independently `2892+δ`. A cap takes the minimum of the current lifespan count and this qualified capacity. Gear carries the current capped lifespan unchanged and does not restore discarded information. This is guarded/source-qualified commutation, with no wider state-count claim.
 
-#### 3.2.1 The Shem Superposition
+#### 3.1.4 Ordinary Flood Gears, fixed Arphaxad, and the SP midpoint
 
-Active state:
-Shem Superposition in the SP tradition.
+This table uses the full-430 comparison frame, Terah `+60` OFF, MT/SP second Cainan OFF, and LXX native second Cainan ON. The LXX G2 Creation head is `5494`, consistent with `5494−3238=2256`; Cainan-OFF `5364` must not be paired with native-ON Flood `3238`.
 
-Shem uniquely occupies both Toggle states simultaneously in the SP tradition.
+| Tradition | G3 Flood start→close | G2 Flood start→close | G1 Flood start→close | Fixed Arphaxad |
+|---|---|---|---|---:|
+| MT | 2460→2459 | 2458→2457 | 2456→2455 | 2456 |
+| LXX — native Cainan ON | 3240→3239 | 3238→3237 | 3236→3235 | 3236 |
+| SP | 3110→3109 | 3108→3107 | 3106→3105 | 3106 |
 
-Author clarification:
-The SP superposition turns on whether Noah's `600th year` is read as a full `600` years or as the inclusive `599+` form analogous to other biblical ordinal-year expressions. The SP appears to privilege the inclusive reading while retaining the round `600` for schematic purposes. This allowance can ripple backward toward Adam inside the antediluvian SP state, but it does not propagate forward into the Arphaxad-bound post-Flood row.
+Every row has the ladder `G3 start → G2 start → G1 start → G1 close = 2+2+1 = 5`. At this layer LXX is MT `+780`, including Arphaxad. Each Flood close arises from that Gear’s one-year event span, independently of SP Noah/Shem primary→companion. At held Sojourn, Terah, and Cainan settings, regular Arphaxad onward through Moses does not move with Gear; the separately scoped variant mechanisms retain their own permissions.
 
-| Shem binding | Toggle state | Birth BC | Death BC | Derivation |
-|---|---|---:|---:|---|
-| To Noah, antediluvian | ON | 2990 | 2390 | `3492 − 502 = 2990`. |
-| To Arphaxad, post-Flood | OFF | 2991 | 2391 | `2891 + 100 = 2991`. |
+Subtract `215` from this table for the corresponding minimum/native frames. The native SP starts G3/G2/G1 are `2895/2893/2891`, with closes `2894/2892/2890`; fixed Arphaxad is `2891`.
 
-Why Shem is “equally either or”:
+The coherent SP Lamech biographies are:
 
-- Shem is bound to Noah by the “500 years old” begetting notation, Genesis 5:32, placing him in the Toggle ON antediluvian system.
-- Shem is also bound to Arphaxad by “Shem was 100 years old,” Genesis 11:10, placing him in the Toggle OFF post-Flood system.
-- The “601st year of Noah,” Genesis 8:13, may preserve the round `600` schematic state while the SP inclusive reading treats the Flood-year boundary as `599+`. This affects Shem's Noah-bound date but does not have to affect his Arphaxad-bound date.
+| Gear | Native SP Lamech | Equalized SP Lamech | Lifespan count |
+|---|---|---|---|
+| G1 | 3543→2891 | 3758→3106 | 653 inclusive |
+| G2 | 3545→2893 | 3760→3108 | 653 inclusive |
+| G3 | 3547→2895 | 3762→3110 | 653 inclusive |
 
-State result:
-Shem functions as the architectural pivot between eras, occupying both `2990 BC` and `2991 BC` under named toggle bindings.
+Preserve two separate observations:
+
+1. G2 midpoint to fixed Arphaxad: `4414→3760→3106 = 654+654`, equivalently native `4199→3545→2891`. Lamech’s G2 birth is the midpoint; this is not a Flood midpoint.
+2. G1 convergence: Lamech death / Flood start / fixed Arphaxad birth share `3106`, equivalently native `2891`, as three distinct node classes. No midpoint language belongs to this convergence.
+
+### 3.2 Post-Flood to Patriarchs: SP Minimum / Arphaxad-bound suffix
+
+At the held native settings, G2 Flood start `2893` is two ordinary years before fixed Arphaxad `2891`. Flood close `2892` is the intervening boundary. No SP companion operator acts on Arphaxad or the subsequent regular rows.
+
+#### 3.2.1 SP Noah/Shem field and named bindings
+
+Each slash-pair below is ordered primary / lower companion. The companion is one year farther forward in time. The rows display ordinary Gear combined with SP-local person-station adjacency; they are not six independently attested source states or a new unrestricted execution generator.
+
+| Gear | Noah birth | Noah death | Shem birth | Shem death |
+|---|---|---|---|---|
+| G1 | 3491/3490 | 2541/2540 | 2991/2990 | 2391/2390 |
+| G2 | 3493/3492 | 2543/2542 | 2993/2992 | 2393/2392 |
+| G3 | 3495/3494 | 2545/2544 | 2995/2994 | 2395/2394 |
+
+Add `215` for the reports’ equalized dates. Noah’s primary death column carries the inclusive/harmonic qualification and the lower column the ordinary-companion qualification. Matched birth/death endpoints preserve Noah `950` and Shem `600`; matched Noah/Shem births preserve `500`. The mixed G2 companion-Noah / primary-Shem path is `3492−2993=499`, the ordinal 500th-year alternative.
+
+The native G2 post-Flood spans are `2893−2543=350` and `2892−2542=350`. The second uses Flood close and Noah’s companion death; it does not type the Flood close as a companion. The cross-pair `2893−2542=351` is not an unqualified `350`.
+
+The following bindings preserve the prior usable stations while making their Gears explicit:
+
+| Shem station / binding | Birth BC | Death BC | Qualified relation |
+|---|---:|---:|---|
+| G2 primary, Noah/Flood comparison | 2993 | 2393 | G2 primary Noah `3493−500=2993`; `2993−100=2893`, Flood start. |
+| G2 companion, Noah/Flood comparison | 2992 | 2392 | G2 companion Noah `3492−500=2992`; ordinal `2992−99=2893`, Flood start. |
+| G1 primary, Arphaxad-bound | 2991 | 2391 | `2991−100=2891`, fixed Arphaxad; also `3493−502=2991` from G2 primary Noah. |
+| G1 companion, Noah-bound comparison | 2990 | 2390 | `3492−502=2990` from G2 companion Noah; it does not replace the full-100 Arphaxad-bound row. |
+
+G2 primary Shem `2993` is `102` from fixed Arphaxad `2891`. These comparisons retain their endpoint roles and bindings. Noah/Shem alone have the full qualified cross-Gear endpoint-comparison permission in this domain; other patriarchs retain coherent-Gear biographies. Qualified Noah↔Flood comparisons are allowed, while the Flood remains an event start/close structure.
+
+The post-Flood begetting table selects the G1 primary / Arphaxad-bound Shem row:
 
 | Patriarch / event | Birth BC | Death BC | Lifespan | Begetting age |
 |---|---:|---:|---:|---:|
-| Shem | 2991 or 2990 | 2391 or 2390 | 600 | 100 |
+| Shem — Arphaxad-bound | 2991 | 2391 | 600 | 100 |
 | Arphaxad | 2891 | 2453 | 438 | 135 |
 | Shelah | 2756 | 2323 | 433 | 130 |
 | Eber | 2626 | 2222 | 404 | 134 |
@@ -1453,19 +1608,19 @@ Shem functions as the architectural pivot between eras, occupying both `2990 BC`
 | Terah | 2021 | 1876 | 145, or 205 ideal | 70 |
 | Abraham | 1951 | 1776 | 175 | — |
 
-Arithmetic verification, Toggle OFF / post-Flood standard:
+Arithmetic verification, Arphaxad-bound standard intervals:
 
 | Row | Verification |
 |---|---|
-| Shem | `2991 − 100 = 2891`, Arphaxad. |
-| Arphaxad | `2891 − 135 = 2756`, Shelah. |
-| Shelah | `2756 − 130 = 2626`, Eber. |
-| Eber | `2626 − 134 = 2492`, Peleg. |
-| Peleg | `2492 − 130 = 2362`, Reu. |
-| Reu | `2362 − 132 = 2230`, Serug. |
-| Serug | `2230 − 130 = 2100`, Nahor. |
-| Nahor | `2100 − 79 = 2021`, Terah. |
-| Terah | `2021 − 70 = 1951`, Abraham. |
+| Shem | `2991−100=2891`, Arphaxad. |
+| Arphaxad | `2891−135=2756`, Shelah. |
+| Shelah | `2756−130=2626`, Eber. |
+| Eber | `2626−134=2492`, Peleg. |
+| Peleg | `2492−130=2362`, Reu. |
+| Reu | `2362−132=2230`, Serug. |
+| Serug | `2230−130=2100`, Nahor. |
+| Nahor | `2100−79=2021`, Terah. |
+| Terah | `2021−70=1951`, Abraham. |
 
 Convergence note:
 SP Abraham, `1951 BC`, matches MT Minimum-Regular Abraham, `1951 BC`.
@@ -1547,22 +1702,12 @@ LXX Regular-Minimum = MT Minimum-Regular + `1380` years.
 | Jared | 4319 | 3357 | 962 | 162 |
 | Enoch | 4157 | 3792 | 365 | 165 |
 | Methuselah | 3992 | 3023 | 969 | 187 |
-| Lamech | 3805 | 3028 (753 vestige: 3052) | 777 (753 vestige) | 182 |
+| Lamech | 3805 | 3052 | 753 | 182 |
 | Noah | 3623 | 2673 | 950 | 500 |
 | Flood | 3023 | 3022 | 1 | — |
 
 Source note:
-Claim-status: source-control note and source-retained chronology datum.
-Author ruling of July 2026 supersedes the prior clarification. The originals are the MT set `(182, 595, 777)`; the attested LXX set `(188, 565, 753)` is their Key-of-23 transform (§4A). The regular table therefore uses begetting `182` with lifespan `777` primary and `753` as vestige display. Under the active state, Methuselah dies in the Flood year (`3023 BC`) and Lamech dies five years before the Flood (`3028 BC`; vestige form `3052 BC`). Smith's discussion remains important as an external LXX reconstruction witness; his conclusion for `777` is adopted by independent author ruling, not by importing his emendation argument.
-
-Source references retained:
-
-- LAB 1:1–22; 5:8.
-- Josephus, Antiquities 1:67, 82–87.
-- biblearchaeology.org/research/biblical-chronologies/4353.
-
-Source-control note:
-Henry B. Smith Jr. is the controlling external source-reconstruction witness to mention once for the LXX Genesis 5 and 11 chronological layer. The LAB / Josephus / Bible Archaeology note remains source-retained and should be source-controlled in a later pass if quotation or proof use is required.
+The main LXX reconstruction pairs restored begetting `182` with attested LXX lifespan `753` in both Regular and Cumulative execution. The remainder `571` is calculated. The lack of an identified surviving joint `182/753` attestation concerns the combination, not `753` itself; §4A.1 explains its retention as the author-preferred original LXX lifespan. Methuselah still dies in the Flood year (`3023 BC`); Lamech dies `29` years before (`3052 BC`). See §4A for the source distinction and qualified Key-of-23 explanation, and Appendix B for the MT-derived LXX `777` overlay and retained external references. No other row in this birth chain changes.
 
 ### 4.2 Post-Flood to Patriarchs: LXX Regular-Minimum
 
@@ -1573,9 +1718,9 @@ Henry B. Smith Jr. is the controlling external source-reconstruction witness to 
 | 2nd Cainan | 2886 | 2426 | 460 | 130, LXX native |
 | Shelah | 2756 | 2296 | 460 | 130 |
 | Eber | 2626 | 2122 | 504 | 134 |
-| Peleg | 2492 | 2253 | 239 | 130 |
-| Reu | 2362 | 2123 | 239 | 132 |
-| Serug | 2230 | 2000 | 230 | 130 |
+| Peleg | 2492 | 2153 | 339 | 130 |
+| Reu | 2362 | 2023 | 339 | 132 |
+| Serug | 2230 | 1900 | 330 | 130 |
 | Nahor | 2100 | 1892 | 208 | 79 |
 | Terah | 2021 | 1816 | 205 | 70/130 state-dependent |
 
@@ -1583,6 +1728,8 @@ Note:
 The Terah / Abraham relation is resolved by the author-clarified four-position field. The displayed LXX Regular-Minimum Terah row, `2021–1816 BC`, is the no-`+60 Terah`, no-`+215 Sojourn` minimum row. In that state, Terah begets Abraham at `70`, producing Abraham `1951 BC`. When `+60 Terah` is active, Terah shifts to `2081–1876 BC`; the `130` begetting-state then also produces Abraham `1951 BC`. With the `+215 Sojourn` state active, the corresponding pair is `2236–2031 BC` with begetting-state `70`, producing Abraham `2166 BC`, and `2296–2091 BC` with begetting-state `130`, also producing Abraham `2166 BC`.
 
 Therefore Abraham has two birth states, `1951 BC` and `2166 BC`, while Terah has four birth/death states.
+
+Author-confirmed LXX table correction (September 2026): the former §4.2 Peleg/Reu/Serug lifespan cells `239/239/230` were copy errors, not manuscript variants. The controlling LXX Regular-Minimum values are `339/339/330`; births remain `2492/2362/2230 BC`, so the corrected deaths are `2153/2023/1900 BC`. Begetting ages remain `130/132/130`. This correction is independent of the Lamech `182/753` source hierarchy.
 
 See MT §2.2.1 for `±2` anomaly details at tradition-specific dates.
 
@@ -1594,41 +1741,127 @@ Same as MT Minimum-Regular in the Abraham → Levi / Joseph minimum state. Abrah
 
 Identical to MT §2.4.
 
-## 4A. The Lamech record: originals, transform, and locks (bounded addition)
+## 4A. Lamech: common `182/753` reconstruction and the Key-of-23 crossover hypothesis
 
-Active states: LXX original-Lamech state; Lamech dual-locality state. Source record: the Regular / Cumulative page publication discussion. Frame declaration: displays below use the `+215 Sojourn` website frame (Appendix A conversion `−215` to the minimum frame) unless stated.
+Active state: author-adopted LXX main reconstruction, September 8 2026. `182` is the restored regular begetting input; `753` is the retained attested LXX lifespan in both Regular and Cumulative execution. This supersedes the former regular-`777` / cumulative-`753` dual-locality ruling. Unless specified otherwise, the displays below use the website `+215 Sojourn`, no-`+60 Terah`, native-LXX-Cainan frame. Appendix A retains the minimum-frame conversion. Appendix B preserves the MT-derived LXX `777` overlay, overlap geometry, and lesser corroborations outside the main chronology.
 
-### 4A.1 Non-attestation disclosure
+### 4A.1 Source hierarchy and the component-wise reconstruction
 
-No manuscript reads `571` remaining years for Lamech; `571 = 753 − 182` is arithmetic residue only, and no stage of the text ever paired `182` with `753` in one record. Claim-status: text-critical datum (the attestation survey); arithmetic fact (the residue).
+The standard transmitted LXX record is `188 + 565 = 753`. **`753` itself is the attested/transmitted LXX lifespan in Genesis 5:31, not a reconstructed number.** This study retains it as the **preferred original LXX lifespan**, an author-adopted textual/structural conclusion supported especially by §4A.3. Its attestation is a textual fact; the judgment that it preserves the original LXX lifespan is distinct from that fact and does not establish the earliest Hebrew reading or a complete scribal transmission history.
 
-### 4A.2 The transform quanta
+The component-wise reconstruction pairs this retained `753` with the restored operative begetting age `182`, supported by the repository's MT/external-witness argument and source-selected birth chain. It gives `182 + 571 = 753`, with `571` calculated. No surviving manuscript witness jointly attesting `182/753`, or independently reading `571`, has been identified in the sources reviewed here. That qualification concerns the combined biography, not the attestation of `753`, and is not a claim that such a joint text could never have existed.
 
-```markdown
-(182, 595, 777) → (+6, −30, −24) → (188, 565, 753);   6 − 30 = −24
+Smith is an external reconstruction witness, not an endorsement of this combined selection. His different full-biography restoration and its source qualifications are retained in Appendix B.1/B.7. MT-like ancestry is the author's working transmission hypothesis, not a historical priority established by the numerical comparisons.
+
+Claim-status: attested LXX lifespan `753`; author-adopted judgment that it preserves the original LXX lifespan; restored begetting `182`; component-wise `182/753` reconstruction; calculated remainder `571`. Structural analysis supports retention of the attested lifespan but does not create joint manuscript attestation.
+
+### 4A.2 What changes, and what stays fixed
+
+| Frame / method | Main Lamech input or biography | Consequence |
+|---|---|---|
+| LXX Regular-Minimum | `3805 → 3052 BC`; begetting `182`; lifespan `753` | Noah remains `3623 BC`; Flood remains `3023 BC`. |
+| LXX regular `+215` | `4020 → 3267 BC`; begetting `182`; lifespan `753` | Noah remains `3838 BC`; Flood remains `3238 BC`. |
+| LXX cumulative | `753` chain value; Nisan member `8048 BC`; envelope `8053–8046 BC` | Existing cumulative coordinates and totals remain unchanged. |
+
+```text
+3805 − 3052 = 4020 − 3267 = 753
+3805 − 3623 = 4020 − 3838 = 182
+3052 − 3023 = 3267 − 3238 = 29
 ```
 
-The third delta is forced by the other two. Claim-status: arithmetic fact; the transform reading is structural inference.
+Lamech now dies `29` years before the regular LXX Flood. The selected Methuselah `187` / Lamech `182` birth chain still puts Methuselah's death at the Flood: `187 + 182 + 600 = 969`. No regular birth date, Creation endpoint, Noah biography, Flood anchor, or Cainan/Terah/Sojourn operator is changed by the lifespan decision.
 
-### 4A.3 The Key-of-23 vestige mechanism
+The six LXX centenary begetting changes remain lifespan-preserving at their own rows. The whole regular LXX lifespan vector is no longer identical to MT: Lamech contributes a separate difference of `−24`. A Flood-cap rule does not generate the attested LXX `753`; that lifespan enters as LXX source data, not as a fitted numerical exception. Failure to derive it from an unmodified MT lifespan vector limits that proposed generator, not the LXX datum or its adopted source hierarchy.
 
-MT Lamech's birth stands `1794 = 299 × 6` from the Exodus (`3240 BC → 1446 BC`, `+215` frame). The `300/299` expansion to `1800 = 5 × 360` sets the birth-label back six years (`3246 BC`), stretching `182` before Noah into the attested `188` with Noah fixed. The `1656` (Creation → Noah's birth, LXX; the Triple-1656 Spine member) expands by `70/69` to `1680 = 5 × 336`, adding exactly one `24`-unit — the restoration route `753 ↔ 777`. The five-of-years pair (`1800` / `1680`) is the transform's signature (`File_17` §14 conversions). Claim-status: arithmetic fact and exact-ratio arithmetic fact throughout; the scribal-motive reading is historical-critical inference.
+### 4A.3 Primary structural rationale: the `69 | 529 = 598` family
 
-### 4A.4 The five-before-Flood pair
+The author ranks this family first among the structural reasons for retaining `753`; it is not ranked as independent manuscript evidence.
 
-Lamech dies five years before the Flood in the MT (`2463 / 2458`) and in the original-state LXX alike (minimum frame `3028 / 3023`; `+215` frame `3243 / 3238`). Claim-status: arithmetic fact.
+The LXX main Lamech death supplies an internal divider between declared Shem endpoints:
 
-### 4A.5 The `188` motive and the Kainan hinge
+```text
+3336 − 3267 = 69 = 3 × 23
+3267 − 2738 = 529 = 23 × 23
+3336 − 2738 = 598 = 69 + 529 = 2 × 299
+598 × 300/299 = 600
+69 × 70/69 = 70
+69 × 25/23 = 75
+529 × 25/23 = 575
+```
 
-Anchored from below, the `188` variant sets Lamech's birth at `4026 BC` — `2580 = 1290 + 1290 = 430 × 6` to the Exodus — and without Cainan at `3896 BC` — `2450 = 49 × 50`. Either side of the Kainan question, `188` lands Lamech on a jubilee node aimed at the deliverance. Shared-label guard: `4026 BC` and `3896 BC` coincide with the SOR `+130` Year-6 and Year-6 heads respectively; those are distinct states controlled by `File_20`. The `2580` pair is jointed at its midpoint: `4026 − 1290 = 2736 BC`, the death of Shem, closing the antediluvian age in full. Claim-status: arithmetic fact (spans); historical-critical inference (the emendation-target reading).
+Endpoint register: `3336 BC` is the Shem birth on the `3336–2736 BC` biography; `2738 BC` is the death on the alternate `3338–2738 BC` biography. Each matched biography retains `600`. The selected `3336 → 2738` span is therefore a cross-Gear `598` comparison, not Shem's ordinary lifespan. `3267 BC` is the main Lamech death (`4020 − 753`) and is not shifted to manufacture the partition.
 
-### 4A.6 The Flood-gear derivation from above
+The MT supplies the corresponding Key ingredients under its own controlled states:
 
-The LXX Flood carries the gearbox of Noah's 600th year — Gears 3, 2, 1 at `3240 / 3238 / 3236 BC` (`+215` frame; minimum frame `3025 / 3023 / 3021`; `File_11` Three-Gear Protocol). Gear 3 stands exactly `1794 = 299 × 6` from the Exodus, licensing the same `300/299` conversion; applied, it sets the Gear-2 Flood back six years to `3244 BC`, whence Methuselah — dying in the Flood at `969` — is born `4213 BC` and begets Lamech at `187` in `4026 BC`, the same node the `188` reaches from below. One `+6`, traced from either end. Claim-status: arithmetic fact; dependency-controlled (gear labels by `File_11`).
+```text
+3127 − 3058 = 69
+3056 − 2458 = 598
+598 = 69 + 529
+598 × 300/299 = 600
+```
 
-### 4A.7 Dual-locality principle
+Here `3127 → 3058` is Enoch's ascension/end-of-life to Noah's standard birth; `3056 → 2458` is the alternate Noah birth to the standard Flood. File_02 §6.2–6.3 controls the latter `598 → 600` configuration. These are two separately located MT intervals; the scalar decomposition of `598` must not invent an intervening MT event or be represented as the same continuous three-node sequence as the LXX display.
 
-`182` is local to the regular spine; `753` is local to the cumulative chain; `777` and `188` are the secondary members in each, joined by the transform. The cumulative overlay and its non-propagation guard are registered at §6D. Claim-status: author-declared convention; structural inference.
+The proposed crossover is that a Key grammar already visible in MT's Enoch–Noah/Flood field is concentrated in the LXX Lamech–Shem comparison. Shared inherited grammar, partial scribal awareness, or providential synchronization are possible interpretations. Exact arithmetic alone does not decide between them or establish a direction of transmission.
+
+### 4A.4 Supporting lifespan relations: `24` and the SP century
+
+```text
+4114 − 2458 = 1656
+1656 × 70/69 = 1680 = 5 × 336
+1680 − 1656 = 24
+777 − 753 = 24
+753 − 653 = 100
+454 − 24 = 430
+```
+
+The `777` in this main-body comparison is MT Lamech's unchanged lifespan; `753` is the adopted LXX lifespan and `653` is SP Lamech's lifespan. The `24` gain and the LXX–SP `100` difference give structural support to the choice of `753`. They do not imply that multiplying `753` by a Key yields `777`, or prove that SP was historically produced from the LXX. The cumulative `454 → 430` consequence remains controlled by §6D and uses the retained `753` input, rather than explaining that input independently of its selection.
+
+### 4A.5 Supporting six-year anchored comparisons and their targets
+
+An anchored expansion holds the later endpoint fixed. In positive BC labels, the earlier comparison endpoint is `a + (300/299)(b − a)`.
+
+| Comparison | Earlier BC | Fixed later BC | Input span | Generated earlier BC |
+|---|---:|---:|---:|---:|
+| MT Lamech → Exodus | 3240 | 1446 | `1794 = 299 × 6` | 3246 |
+| LXX Lamech, native Cainan / no `+60` → Terah firstborn in the `+60` state | 4020 | 2226 | `1794 = 299 × 6` | 4026 |
+| LXX Lamech, Cainan OFF / `+60` ON → Sarah | 3950 | 2156 | `1794 = 299 × 6` | 3956 |
+
+All three input spans expand to `1800 = 300 × 6`, gaining `6`. The first LXX route deliberately crosses Terah settings: `4020` belongs to no `+60`, whereas `2226 = 2296 − 70` is the firstborn threshold of the `+60` Terah state. The Sarah alternative uses `3950 = 4020 − 130 + 60`; Sarah remains `2156 BC`. Files 69 §5B.5 and 70 §2.3 control that firstborn/Sarah framework. These are translated realizations of one span mechanism, not automatically independent witnesses.
+
+The paired promoted birth comparisons then expose the anchor consequences emphasized by the author:
+
+```text
+3246 − 1446 = 1800 = 5 × 360
+4026 − 1446 = 2580 = 1290 + 1290 = 6 × 430
+4026 − 1876 = 2150 = 5 × 430
+1876 − 1446 = 430
+4020 − 3240 = 4026 − 3246 = 780 = 390 + 390
+4026 − 130 = 3896
+3896 − 3246 = 650 = 5 × 130
+3896 − 1446 = 2450 = 5 × 490 = 50 × 49
+```
+
+The exact `2450` belongs to the promoted Cainan-OFF comparison, not the unshifted `3890` member. `4026` and `3896` also occur as SOR labels elsewhere; those remain distinct node-classes controlled by File_20. These generated endpoints do not enter the main regular table or the Primary-anchor inventory.
+
+### 4A.6 Possible origin of the transmitted `188`
+
+The author's favored explanation is a cross-register gain-transfer: a six-year Key comparison around Lamech may have been preserved alongside the underlying begetting figure, then incorporated into transmission as though the adjusted value were the original. A marginal calculation, alternative comparison register, or subsequent conflation is a possible mechanism; no surviving sequence of scribal acts establishing one of these routes is supplied here.
+
+```text
+182 + 6 = 188
+4020 − 182 = 4026 − 188 = 3838
+```
+
+These equations express equal Noah endpoints under different Lamech birth labels, not numerical synonymy of `182` and `188`. The nearby `69 → 75` supplies another possible six-year gain, but moving the whole Lamech biography six years earlier is a gain-transfer, not expansion of that same Shem interval. With Shem's birth fixed at `3336`, literal expansion of `69` to `75` would give death `3261`, not `3273`; the transferred `+6` biography is instead `4026 → 3273`, and its Shem gap is `63`.
+
+The non-operative `188` comparison must also preserve path accounting. With Noah fixed, retaining all other begetting intervals moves the earlier chain by six years and changes the Creation-to-Noah total from `1656` to `1662`. With Methuselah's `187`, `187 + 188 + 600 = 975`, which places his `969`-year death six years **before**, not after, the Flood. The distinct `167/188` combination has `167 + 188 + 600 = 955` and a fourteen-year survival excess. Neither execution replaces the main `187/182` reconstruction.
+
+Claim-status: exact arithmetic for the comparisons; author-favored but unproved transmission hypothesis for their entry into the text. The model does not establish historical MT priority, intentional ancient use of these exact anchors, or a probability of scribal causation.
+
+### 4A.7 Main-chain / appendix hierarchy
+
+Use `182/753` consistently in the actual regular and cumulative LXX reconstructions. Keep `571` explicitly calculated. Retain transmitted `188` as non-operative source data and as the object of the qualified hypothesis in §4A.6, not as a newly licensed toggle. LXX `777` biographies and cumulative extensions belong in Appendix B; their downstream operator examples belong in the relevant file's appendix. A short routing reference does not import those examples as main-chain evidence. The MT `777`, unrelated symbolic `777` structures, existing rounded protocols, and all main cumulative totals remain unchanged.
 
 ## 5. Source-numbering note
 
@@ -1645,11 +1878,38 @@ Full tables source retained:
 Methodology:
 Lifespans are added end-to-end from Adam to Moses to generate deep-time scalars.
 
+Joseph and half-clutch routing note:
+The §6 tables remain the direct Adam–Moses/Aaron lifespan-stacking trunk and therefore do not add Joseph as a new patriarchal row. Corrected Final File_61 derives Joseph's original collateral double portion from the unchanged rows: backward from Kohath (`1906 → 1796` and `1909.5 → 1799.5 = 110`) and forward from Levi (`1933 → 1823` and `1936.5 → 1826.5 = 110`). Because these are fixed-offset `±110` constructions, File_61 and Final File_62 also derive the following downstream translations without changing the table source:
+
+```text
+Forward — Moses/Nisan:
+original 1933 → 1823
+H7       1926 → 1816
+T14      1919 → 1809
+
+Forward — Aaron/Tishri exact:
+original 1936.5 → 1826.5
+H7       1929.5 → 1819.5
+T14      1922.5 → 1812.5
+
+Backward — Moses/Nisan:
+original 1906 → 1796
+H7       1899 → 1789
+T14      1892 → 1782
+
+Backward — Aaron/Tishri exact:
+original 1909.5 → 1799.5
+H7       1902.5 → 1792.5
+T14      1895.5 → 1785.5
+```
+
+Every portion remains `110`. These dates are downstream File_61/File_62 coordinates, not new File_18 rows; Joseph remains collateral rather than a direct trunk member.
+
 | Cumulative element | Handling |
 |---|---|
 | Moses Line, Nisan / Spring | Primary trunk. |
 | Aaron Line, Tishri / Fall | Secondary trunk, `+3.5` years. |
-| The 3.5-year straddle | Aaron is born 3 years before Moses, and Moses dies 0.5 years before Aaron, creating two parallel tracks. |
+| The 3.5-year straddle | Aaron is born about 3/3.5 years before Moses and dies first (Av 1 in the repository’s 1407 BC terminal chronology); Moses dies later in the winter phase of 1406 BC. The `3.5` is a phase-track separation, not a lifespan change: Aaron remains `123`, Moses `120`. |
 | Cumulative Shem `±2` anomaly | Propagates through the entire chain and creates a 7-year margin from lower bound to upper bound. |
 | Adam Year 6 | `14006 BC` is treated as Year 6; Apparent Age is calculated from `14006 + 30 = 14036`. |
 
@@ -1713,8 +1973,23 @@ Reinserts the 460-year lifespan of 2nd Cainan, LXX / Luke 3:36, into the MT Cumu
 Effect:
 Shifts all dates from Adam to Arphaxad earlier by 460 years.
 
+Derived companion execution:
+
+```markdown
+14036 + 460 = 14496
+14039.5 + 460 = 14499.5
+14041–14034 + 460 = 14501–14494
+
+14466 + 30 = 14496
+14469.5 + 30 = 14499.5
+14471–14464 + 30 = 14501–14494
+```
+
+The ordinary whole-year Aaron member is `14499 BC`; the exact phase-resolved member remains `14499.5 BC`. This companion is admitted only as an explicitly derived row.
+
 | Patriarch | Lifespan | Standard, Moses | With Cainan, Moses Line | 7-year span with Cainan, start – end | Note |
 |---|---:|---:|---:|---|---|
+| Apparent Adam — derived companion | — | 14036 | 14496 | 14501–14494 | Aaron `14499` whole-year / `14499.5` exact; derived only, not a raw row |
 | Adam, Year 6 | 930 | 14006 | 14466 | 14471–14464 | `14466` versus `1446`, Exodus |
 | Seth | 912 | 13076 | 13536 | 13541–13534 | — |
 | … | … | … | … | … | … |
@@ -1779,20 +2054,19 @@ Anchor:
 Conquest / Moses Death = `1406 BC`.
 
 Logic:
-Uses LXX lifespans, including Lamech 753 (chain value; dual-locality per §4A.7) and Nahor 208. Includes 2nd Cainan. Lamech 777 appears as a row-local overlay only.
+Uses LXX lifespans, including Lamech's attested/transmitted `753`, retained as the author-preferred original LXX lifespan in agreement with Regular execution (§4A.1), and Nahor `208`. Includes 2nd Cainan. The former main-table overlay is preserved separately in Appendix B.2; all main-chain values remain unchanged.
 
 | Patriarch | Lifespan | Moses Line, Nisan | 7-year span, start – end | Note |
 |---|---:|---:|---|---|
 | Adam | 930 | 14896 BC | 14901–14894 BC | — |
 | Lamech, chain | 753 | 8048 BC | 8053–8046 BC | Flood chief marker: the death of Methuselah |
-| Lamech, `777` overlay | 777 | 8072 BC | 8077–8070 BC | Row-local; non-propagating |
 | Flood | — | 5745 BC | 5750–5743 BC | — |
 | Cainan | 460 | 5280 BC | 5285–5278 BC | Includes 2nd Cainan |
 | Peleg | 339 | 3856 BC | 3861–3854 BC | `3856 BC` = BJ / Jubilees Creation |
 | Conquest | — | 1406 BC | — | Target |
 
-Overlay-row state (bounded addition):
-The `777` overlay is row-local and does not propagate upward: the chain above Lamech must remain `753`-based, since the LXX Exodus lock `14901 − 1446 = 13455 = 299 × 45` (`File_56`) breaks under any carry. In the LXX the Flood's chief marker is the death of Methuselah, matching the regular chronology, where the original-state Lamech (`182`) sets Methuselah's death in the Flood year exactly.
+Appendix routing:
+The `777` cumulative overlay formerly printed here is preserved in Appendix B.2. It shares the Noah endpoint with the `753` chain and must not propagate upward. The LXX Flood's chief cumulative marker remains the death of Methuselah, matching the selected regular `187/182` alignment. The `14901 − 1446 = 13455 = 299 × 45` lock (File_56 dependency) and all main §6D coordinates remain unchanged.
 
 `430`-alignment justification state (bounded addition):
 Leveling the MT with the LXX by restoring Cainan (`+460`, §6B), the two cumulative chronologies differ by exactly `430` from Lamech back to Adam (`14896 − 14466`), but only with Lamech at `753`: the accumulated difference below him is `454`, and his `−24` trims it to Ezekiel's figure, carried unbroken to the head (`8048 − 7618 = 430` at Lamech). The four Adam heads — each tradition with and without Cainan: `14896 / 14466 / 14436 / 14006 BC` — read `430 + 30 + 430` (the Adam field; narrative at `File_22` / `File_46` §6A.5). Claim-status: arithmetic fact; the functional-choice reading is structural inference.
@@ -2085,9 +2359,9 @@ These source-retained rows were checked during the Arithmetic Pass. Same-side BC
 
 | From | To | Span | Verification | Arithmetic-control result |
 |---|---|---:|---|---|
-| MT Minimum-Regular Adam | SP Normal / Toggle ON Adam | 300 years | `4199 − 3899 = 300` | checks |
+| MT Minimum-Regular Adam | SP Normal / G2 Adam | 300 years | `4199 − 3899 = 300` | checks |
 | MT Minimum-Regular Adam | LXX Regular-Minimum Adam | 1380 years | `5279 − 3899 = 1380` | checks |
-| SP Normal / Toggle ON Adam | LXX Regular-Minimum Adam | 1080 years | `5279 − 4199 = 1080` | checks |
+| SP Normal / G2 Adam | LXX Regular-Minimum Adam | 1080 years | `5279 − 4199 = 1080` | checks |
 | Entry, minimum | Entry, `+215` | 215 years | `1876 − 1661 = 215` | checks |
 | MT Standard-Normal Adam | MT maximum Adam | 60 years | `4174 − 4114 = 60` | checks |
 | MT Minimum-Regular Adam | MT Standard-Normal Adam | 215 years | `4114 − 3899 = 215` | checks |
@@ -2169,12 +2443,13 @@ This appendix records how to convert website tables, 490d.com, to the minimum ba
 |---|---|---|
 | MT Regular | 430 in Egypt; no `+60 Terah` | Subtract 215. |
 | SP Regular | `+60 Terah`; `+215 Sojourn` | Subtract 275 from Adam through Levi. |
-| SP Regular, Noah / Flood | Range caused by `600th year` ambiguity | Noah / Flood shown as range, `±1`. |
+| SP Regular, Noah / Shem | Local ordinal/cardinal counting field | Primary / lower companion at each Gear; lower = primary−1 for Noah/Shem only. |
+| Flood in MT / LXX / SP | Ordinary G3/G2/G1 plus one event-year per Gear | Each close = start−1; independent of the SP person-station companion rail. |
 | LXX Regular | `+60 Terah`; `+215 Sojourn` | Subtract 275. |
 | SP-215 hybrid | `+60 Terah` applied | Subtract 60. |
 
 Note on SP:
-The “600th year” ambiguity, 599–600, creates a one-year range at Noah and the Flood. Rather than forcing one reading, ranges are shown in §3.
+The ordinal `599+` and conventional cardinal `600` readings are reconciled through qualified SP Noah/Shem stations. They do not generate a one-year Flood uncertainty range or shift Adam through Lamech. §3 gives native G2 Flood start→close `2893→2892`, while Arphaxad stays `2891`; add `215` for `3108→3107` and `3106`. The Flood has ordinary three-Gear transport in MT, LXX, and SP. LXX remains native Cainan ON in the full-430 comparison, including Creation `5494`, Flood `3238→3237`, and Arphaxad `3236`.
 
 July 2026 replacement pages (bounded addition):
 The rewritten website pages supersede the settings above for the live site. Both pages present the three traditions level at the normative state: `+215 Sojourn`, no `+60 Terah`.
@@ -2184,7 +2459,103 @@ The rewritten website pages supersede the settings above for the live site. Both
 | Regular page, MT / LXX / SP tables | `+215`; no `+60`; LXX at the actual `5494` family; Lamech per §4A | Subtract 215. |
 | Regular page, SP −215 landing values | no `+60`; native SP Sojourn | None (already minimum-frame). |
 | Regular page, SOR section | MT sub-variant, `−220` from the MT `+215` state | `File_20` controls; not a File_18 table state. |
-| Cumulative page, MT / LXX / SP | Full lifespan chains anchored at `1446 BC`; §6 values; LXX overlay row per §6D | None (cumulative). |
+| Cumulative page, MT / LXX / SP | Full lifespan chains anchored at `1446 BC`; main §6 values; LXX `753` chain and separate Appendix B.2 `777` overlay | None (cumulative). |
+
+## Appendix B. LXX Lamech `777` overlay, source comparison, and subsidiary corroborations
+
+Status: appendix-only comparison and preservation layer, subordinate to the main `182/753` ruling in §4A. No row here replaces Lamech's main lifespan, adds a regular begetting interval, propagates an extra `24` through the cumulative chain, or proves a historical transmission sequence.
+
+### B.1 The alternative full biography and the five-before-Flood comparison
+
+The MT record and Smith's proposed LXX restoration are `182 + 595 = 777`. In this repository, applying MT `777` to the LXX is an appendix-only overlay, not the preferred original LXX lifespan. Smith's restoration is retained as an external reconstruction, not as a jointly attested original established here. The main LXX reconstruction retains attested `753` with restored `182` and does not claim Smith's support for that pair.
+
+| Frame | LXX `777` comparison biography, BC | Flood BC | Death before Flood |
+|---|---|---:|---:|
+| Minimum | `3805 → 3028` | 3023 | 5 |
+| `+215`, no `+60` | `4020 → 3243` | 3238 | 5 |
+
+MT independently retains `3240 → 2463 BC`, with Flood `2458 BC`, and its own five-year pre-Flood margin. The former claim that the **main** MT and LXX biographies both end five years before their Floods is superseded: the LXX part is now confined to this `777` comparison, while main LXX `753` ends `29` years before.
+
+### B.2 The cumulative overlay: shared endpoint, no propagation
+
+| Cumulative LXX row | Lifespan | Nisan member | Seven-year start envelope, BC | Status |
+|---|---:|---:|---|---|
+| Lamech, main chain | 753 | 8048 | `8053–8046` | Main row retained in §6D. |
+| Lamech, `777` overlay | 777 | 8072 | `8077–8070` | Appendix-only; row-local; non-propagating. |
+
+Both starts lead to the same Noah envelope:
+
+```text
+8053 − 753 = 8077 − 777 = 7300
+8048 − 753 = 8072 − 777 = 7295
+8046 − 753 = 8070 − 777 = 7293
+9022 − 969 = 8053
+8077 − 8053 = 24
+```
+
+Thus the `777` overlay overlaps Methuselah's final `24` cumulative years rather than inserting new time before Noah. The unchanged `753` chain preserves `14901 − 1446 = 13455 = 299 × 45` (File_56 dependency) and the §6D `430` alignment. File_46 Appendix A now holds the preserved `8070` twenty-of-years, staged-Flood, and double-expansion examples; its §6A.1–§6A.3 remain routing points only where those overlay instances are concerned.
+
+### B.3 Triad comparison and the two Key gains
+
+```text
+(182, 595, 777) + (6, −30, −24) = (188, 565, 753)
+6 − 30 = −24
+1794 × 300/299 − 1794 = 6
+1656 × 70/69 − 1656 = 24
+```
+
+These exact differences compare the MT/Smith biography with the transmitted LXX triad. The signs and assignment of gains from different spans to one biographical record are the proposed crossover, not a single demonstrated textual operator. In particular, a `+24` span expansion does not automatically cause a `−24` lifespan change. The main chronology does not execute this triad as a reversible textual-history theorem.
+
+### B.4 The two equal `782` arms and the `874` co-shift
+
+```text
+4020 − 3238 = 3238 − 2456 = 782 = 23 × 34
+4020 − 2456 = 1564 = 23 × 68
+2458 + 1680 = 4138
+4138 − 3264 = 4114 − 3240 = 874 = 23 × 38
+```
+
+`4020` is LXX Lamech's main birth, `3238` the LXX Flood, and `2456` MT Arphaxad's birth/two-years-after-the-standard-Flood state. The `874` construction shifts Creation and Lamech's birth together by `24`, preserving their separation. This co-shift and the `777 − 753` duration difference are two uses of the same increment, not one mechanically causing the other. The earlier `874 = 23 × 34` wording was a slip; `23 × 34` is `782`.
+
+### B.5 The `777` separation / overlap geometry
+
+```text
+4020 − 3243 = 777
+3243 − 3240 = 3
+3240 − 2463 = 777
+```
+
+The unshifted appendix LXX and MT biographies therefore form `777 | 3 | 777`.
+
+If the entire MT biography, including its death, is translated six years earlier, it becomes `3246 → 2469 BC`. Against the unshifted LXX comparison this gives:
+
+```text
+4020 − 3246 = 774
+3246 − 3243 = 3
+3243 − 2469 = 774
+```
+
+The union now reads `774 | 3 | 774`. Translating the MT death with its birth is an additional declared whole-biography choice; the birth-to-Exodus expansion alone does not prescribe it. The longer sequence `774 + 3 + 3 + 771 + 6 = 1557`, from `4020` to `2463`, is arithmetically valid but is not itself a palindrome.
+
+### B.6 Former Flood-Gear-from-above explanation: retained qualification
+
+The previous §4A.6 used the LXX Flood Gears `3240 / 3238 / 3236 BC` (minimum `3025 / 3023 / 3021`) and the `3240 − 1446 = 1794` span, then spoke of advancing the Gear-2 Flood by six years. The exact anchored conversion applies to the `3240` Gear-3 endpoint; it gives `3246`. Applying its gain to Gear 2 is a further cross-Gear gain-transfer, not that same direct anchored expansion. This route is retained only as a qualified subsidiary comparison and is not needed for the main rule or the better-specified §4A.5 comparisons.
+
+### B.7 Source register and evidential boundary
+
+| Source | Use / limitation |
+|---|---|
+| File_18 §§2–4, §§6A–6D; File_02 §6.2–§6.3 | Repository chronology inputs, Shem/Noah bindings, cumulative envelopes, and `598 → 600`. |
+| File_69 §5B.5; File_70 §2.3 | Terah firstborn `2226 BC` and Sarah `2156 BC`, with explicit Terah-state distinctions. |
+| [Regular chronology page](https://490d.com/mt-lxx-sp-sp215-regular-short-chronology-table/) | Public page checked September 8 2026: main `182/753`, Lamech `4020–3267 BC`, and appendix-only LXX `777` are already displayed. The present package supplies a source-hierarchy wording replacement only; no new website edit is claimed deployed. |
+| [Cumulative chronology page](https://490d.com/mt-lxx-sp-lifespan-accumulative-long-chronology-table/) | Public page checked September 8 2026: main `753` chain, `430` rationale, and row-local `777` overlay already separated in its Appendix A. The present wording clarification changes no chain coordinate and is not claimed deployed. |
+| Smith Jr., H. B. (2018), “The case for the Septuagint's chronology in Genesis 5 and 11,” in J. H. Whitmore (ed.), *Proceedings of the Eighth International Conference on Creationism*, pp. 117–132; Tables 3–4 and Lamech discussion | External reconstruction witness. His proposed full restoration is not the selected `182/753` reconstruction. The September 8 discussion record reports his statement that `182` is absent from the surviving LXX witnesses he surveyed; support is drawn from MT and external witnesses, some themselves reconstructed. No fresh manuscript collation is claimed. |
+| LAB 1:1–22; 5:8; Josephus, *Antiquities* 1:67, 82–87; Genesis 5:28–31 in NETS | Retained source references from the Lamech review. Direct readings and scholarly restorations must remain distinguished; no universal non-attestation theorem is inferred. |
+| [Genesis 5:31, Brenton LXX](https://www.biblestudytools.com/lxx/genesis/5-31.html) | Direct published-text check, September 8 2026: lifespan `753`. This verifies the transmitted component, not a joint `182/753` manuscript or the historical-priority judgment. |
+| Author discussion, September 8 2026 | Main `182/753` decision; retention of attested `753` as the preferred original LXX lifespan; preference for the `69 \| 529 = 598` family; supporting `+6/+24/100` comparisons; qualified crossover/transmission hypothesis. |
+
+Historical inference ceiling: these patterns make the selected numbers structurally intelligible within the repository, but do not prove that a scribe used its BC anchors, that `188` was consciously encoded, that MT historically preceded every other witness, or that the lost joint `182/753` text existed. Providential interpretation remains the author's interpretive framework rather than an arithmetic parameter.
+
 
 ## Audit Notes
 
@@ -2198,7 +2569,7 @@ Author clarification note 3 — 299 / 300 residue line:
 The source-retained line `(299 × 365.24) − (300 × 364) ≈ 7.5 days` remains preserved, but Current source-state control classifies it as dependency-controlled conceptual residual-display / calibration language. `File_17` defines the exact `300/299` operator; `File_12` preserves legacy `299/300` wording only as source-history / inverse-caption language and gives the true-solar display `7.4178`; `File_11` distinguishes physical residue from conceptual residual-display and gives physical `300/299` residue as `299/40 = 7.475` days. `File_28` remains optional legacy provenance rather than a current blocker.
 
 Audit note 5 — Lamech supersession record:
-Two prior author-clarified guards are superseded by the July 2026 author ruling: the regular-table guard against `777` (§0 register row; §4.1 source note) and the corresponding item 11 wording. The supersessions are author-ruled, recorded here per the non-silent-repair rule, and routed to the Repository_Change_Archive. The cumulative chain value `753` is unchanged.
+The September 8 2026 author ruling supersedes the July regular-`777` / cumulative-`753` split and the September prohibition on considering `188` as structural evidence for a qualified transmission hypothesis. Main execution is `182/753`; `188` remains non-operative; the LXX `777` layer is appendix-only. The earlier blanket claim that no historical stage ever paired `182/753` is replaced by the narrower reviewed-source non-attestation disclosure. Earlier editions are preserved in the revision package; the Repository Change Archive is not rewritten by this amendment.
 
 Dependency note 4 — `File_28` dependency:
 The source cites `File_28`, §1 for physics. Current repository status treats `File_28` as a retired placeholder / legacy provenance pointer, not an active proof file. Current source-state control no longer treats `File_28` as blocking the residue-control issue because the active project controls now assign the exact ratio to `File_17`, legacy wording / true-solar display to `File_12`, and physical-residue / conceptual residual-display to `File_11`. Use `File_28` for archive / provenance review only unless a future author decision reactivates its material through another controlling file.
@@ -2216,10 +2587,10 @@ Author clarification note 8 — MT cumulative Peleg `3495t` member-label:
 Resolved. MT cumulative Peleg spans `3501n–3494n BC`, with the parallel Tishri span `3502t–3495t BC`. The Conquest / land-rest span is `1406n–1399n BC`, with the parallel Tishri span `1407t–1400t BC`. Under File_09 Mirror suffix inversion, the AD-side display is `AD 1399t/1400n–1406t/1407n`. Component checks equal `4900 = 70 × 70 = 100` Jubilees. Therefore `3495t` is the Tishri terminal member participating in `3495t → AD 1406t = 4900`, not an erroneous upper-member label.
 
 Author clarification note 9 — LXX Regular-Minimum versus LXX cumulative source-table state:
-Resolved. The active File_18 LXX Regular-Minimum table and LXX cumulative table both use Lamech lifespan `753`, with Lamech begetting age `182`. Nahor uses lifespan `208` where the corrected LXX source-table state is active. Smith remains the external LXX source-reconstruction witness; his `777` lifespan amendment is not adopted as the File_18 LXX table value.
+Resolved under the September 8 2026 ruling: both main LXX reconstructions select lifespan `753`, with begetting `182` in the regular chain and calculated remainder `571`. No joint attestation is claimed. Nahor's controlled `208` is unchanged. Appendix B preserves Smith's different full-biography reconstruction and the row-local `777` cumulative comparison without promoting either into main execution.
 
-Author clarification note 10 — SP ordinary `±2` labels versus SP Shem Superposition:
-Resolved as a state distinction. Ordinary regular-localized `±2` remains distinct from SP Shem Superposition. In SP, the Noah `600th year` can be read as full `600` or inclusive `599+`; the allowance may ripple backward toward Adam under the antediluvian SP toggle but does not propagate forward past the Arphaxad-bound row. BJ / Jubilees echoes this same inclusive / schematic tension.
+Author clarification note 10 — SP locality, ordinary Flood Gears, and ordinal/completed counting:
+Superseded in scope by the September 18 2026 author ruling. The SP `−1` companion belongs only to Noah/Shem person-stations; the former upstream-ripple wording is withdrawn. Native G2 Noah `3493/3492` and Shem `2993/2992` give qualified paths to Flood start `2893`; Flood close `2892` comes independently from the event-year span. Lamech `3545→2893` is `653` inclusive. Ordinary Flood Gears apply across MT/LXX/SP, while regular Arphaxad `2891` stays fixed under Gear at held variant settings. G1 Shem `2991/2990` and deaths `2391/2390` remain under the named bindings in §3.2.1. The G2 `654+654` midpoint ends at fixed Arphaxad and remains distinct from the G1 triple coordinate convergence. BJ provides derivative/corroborating structural evidence in the project model; no SP companion operator transfers to MT or LXX.
 
 Author clarification note 11 — SP Terah `145 (205)` dual-lock:
 Resolved. `145` is the official SP textual lifespan and lands Terah's death at Abram's call. `205` is the architectural lifespan mirroring MT/LXX and showing that the Terah difficulty remains as a swapped lifespan / begetting-age issue rather than disappearing. The SP still permits a `+60 Terah` state where opened, while SP cumulative tables use the official `145` span.
@@ -2264,10 +2635,37 @@ No author-decision blocker remains. The following retained notes are dependency-
 
 ## Revision and archive note
 
-This public-clean Markdown source removes only archival amendment history, pass logs, pressure-test repetition, pointer-refresh records, and obsolete replacement-workflow notes.
+This public-clean Markdown source retains the prior Final and full-pressure-tested baseline while applying the bounded July 24 2026 monarchy-state correction.
 
-Detailed revision history is preserved in the `Repository_Change_Archive`.
+The amendment:
 
-No arithmetic, anchors, modal states, node-classes, sign conventions, operators, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed.
+- assigns `1050t/n→1010t/n→970t/n→930t/n BC` to the literal/precise United Monarchy;
+- assigns `1051n→1011n→971n→931n BC` to the File_51a Rounded Scaffold;
+- records `1531n→971n=560` and `1526n→966n=560` as Rounded comparisons;
+- preserves `967/966 BC` as ordinal/cardinal literal Temple states;
+- preserves `1016 BC` as the separate Verbatim / Schematic `+50` pivot;
+- leaves all unrelated regular, cumulative, Cainan, SKL, post-Solomon, Mirror, and theological material unchanged.
 
-Final pressure-test status is preserved in the file header. Detailed pressure-test records are archived rather than repeated in the public file body.
+Detailed revision history belongs in the `Repository_Change_Archive`. The bounded amendment is independently focused-verified; no new full pressure test is claimed. The prior June 28 2026 full-pressure-test baseline remains retained for unaffected material.
+
+
+## Revision Log — September 8 2026 bounded Lamech settlement
+
+Author-directed correction: main LXX `182/753` in both methods; one regular death/lifespan row changed; cumulative overlay relocated to Appendix B; §4A replaced with source distinctions and qualified Key-of-23 hypothesis. Register v1.53 §D.43 / Capsule v11.52 §10.30 control this amendment. Focused arithmetic, diff, guard, dependency, and protected-region checks are recorded in the accompanying verification report. No new full-file pressure test, separate re-Finalization, website deployment, manifest update, or external archival capture is claimed.
+
+
+## Bounded wording clarification — September 8 2026
+
+Attested LXX `753` is now explicitly distinguished from restored `182`, calculated `571`, and the combined reconstruction at the source note, state row, existing Machine Guard, §4A.1, and §6D. The preferred-original judgment is retained as the author's textual/structural conclusion; MT-derived LXX `777` remains appendix-only. Register v1.54 §D.43 / Capsule v11.53 §10.30 route the clarification. No numeric table cell, equation, anchor, or operator changes; focused diff, guard-fidelity, and arithmetic checks only. The two live WordPress pages were reviewed; supplied wording replacements are not claimed deployed.
+
+
+## Revision Log — September 18 2026 bounded SP / Flood-Gear correction
+
+- Authority: author’s reviewed Report V / Canonical Register correction and explicit instruction to correct both reports and File_18; native LXX Cainan ON confirmed for both Creation and Flood.
+- Scope: SP regular rows, named Noah/Shem bindings, relevant state/display/operator tables and Machine Guards, §2.2.1 comparison labels, §3, Appendix A, and clarification note 10. Unrelated table systems remain inherited.
+- Numerical correction: native G2 Flood start/close `2892→2891` replaced by `2893→2892`; selected capped deaths of Jared/Methuselah/Lamech use `2893` with inclusive counts `847/720/653`. Noah `3493/3492` and deaths `2543/2542` are correctly ordered primary/companion. Creation `4199`, Lamech birth `3545`, and Arphaxad `2891` are retained.
+- Mechanism correction: distinguish cross-tradition Flood Gears and event-year boundaries from the SP-only Noah/Shem `−1` companion. Withdraw whole-chain toggle/ripple language; retain interval-specific ordinal/completed readings and the qualified older Shem stations.
+- LXX frame: normal native Cainan ON gives equalized G2 Creation `5494`, Flood `3238→3237`, and Arphaxad `3236`; no existing LXX main-table number changes.
+- Verification: affected arithmetic and table comparisons, unchanged-region source diff, and Markdown structure checked. This is focused verification of an authorized amendment, not a new full-file pressure test or re-Finalization.
+- Cross-file status: both companion reports corrected in the same task. Central State Vocabulary Register, Restart Capsule, earlier research checkpoints, publication records, and website deployment remain separate work; no update to those items is claimed.
+- Unresolved author decisions within this correction: none. The conjectural SP Ark-preparation year retains its existing claim-status.

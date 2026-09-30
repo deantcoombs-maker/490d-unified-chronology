@@ -3,22 +3,26 @@ Title: The Generational Axiom
 Entity: Generational Units
 Classification: Foundational Axiom / Authorized Measuring Standards
 UUID: AXIOM_GENERATIONAL_UNITS
-Status: Final; post-final pressure tested
-Pressure-test status: Current; publication-clean verification complete; post-final pressure-tested status retained.
-Register Agreement status: Checked against State_Vocabulary_Register v1.17 and active companion controls; convergence / pointer update only; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries changed.
-Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive.
+Status: Final; post-final pressure tested; bounded File_62 generational-carrier reciprocal pointer applied (July 2026); bounded Final File_69 August 18 thematic reciprocal extension applied and focused verified August 18 2026.
+Pressure-test status: Current; publication-clean verification complete; post-final pressure-tested status retained; bounded File_62 reciprocal pointer machine-diff checked; no publication blocker; focused reciprocal-routing verification complete August 18 2026 for the bounded File_69 August 18 extension; no new full pressure test claimed.
+Reciprocal-routing verification status: File_62 pointer applied and bounded machine-diff checked; no new full pressure test was performed for this pointer-only update; bounded Final File_69 August 18 pointer applied and focused machine-diff, dependency, guard, Markdown-structure, and publication-clean checks completed August 18 2026; no new full pressure test.
+Register Agreement status: Checked against State_Vocabulary_Register v1.31 and Restart Capsule v11.30; bounded File_62 generational-carrier dependency pointer and one File_15 non-redefinition guard only; no pre-existing arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, claim-status labels, theological claims, or dependency boundaries changed; File_69 August 18 reciprocal guard registered at State_Vocabulary_Register v1.42 Part D §D.33 and routed through Restart Capsule v11.41; no pre-existing proof-bearing state or Primary anchor changed.
+Publication-cleanup status: Public-clean Markdown source; archival amendment history routed to Repository_Change_Archive; bounded File_69 August 18 reciprocal replacement incorporated into the Publication Manifest v23 release package; no live deployment or external archival capture claimed.
 Source-history status: Version 5.1
 Primary domain: Regular; Cumulative; Theological; Foundational Axiom
 Traditions: MT; NT / Matthew; patriarchal narrative chronology; Exodus / Conquest chronology
 Canonical source: Markdown
 Primary anchors: 2166 BC; 1886 BC; 1846 BC; 1486 BC; 1446 BC; 1406 BC; 1399 BC; 6 BC; AD 2; 14006 BC; 14466 BC
-Related files: File_00; File_01; File_04; File_05; File_06; File_07; File_09; File_13; File_14; File_16; File_17; File_51a; File_54; Restart Capsule v11.15; 490d Repository Style Guide v2.5; Project Procedures v3.2; State Vocabulary Register v1.17
-Major operators: post-calling lifespan authorization; Abrahamic 100; Jacobean 70; Mosaic 40; exact normalized triad `100:70:40 = 10:7:4`; Abrahamic-base fractions `10/10`, `7/10`, `4/10`; 10x macro scale; fourth-generation multiplication; LCM(40, 70, 100) = 1400; same-side BC span; civil cross-axis span `BC + AD − 1`; endpoint-pair bracket display; cumulative-state distinction; chiastic overlap; Matthew 14-generation echo
-Major modal states: authorized generational-unit state; call-to-death generational-span register; biological-fractal generation register by dependency; exact normalized generational triad state; Abrahamic unit; Jacobean unit; Mosaic unit; fourth-generation multi-scale state; 1400-year LCM state; regular Christological 1400 endpoint state; cross-axis Christological endpoint state; ordered endpoint-pair bracket state; cumulative MT 14000 state; MT + Cainan / restored cumulative 2nd Cainan dependency state; chiastic-overlap state; Terah-Egypt center/doubled-center display state; Matthew 14-generations echo state; Double-7 Sabbath-completion state
-Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.15; State Vocabulary Register v1.17; Project Procedures v3.2; prior finalized source; Repository_Change_Archive (non-controlling history)
-Current refresh note: Public-clean trust-status equalization aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.15, State_Vocabulary_Register v1.17, and Project Procedures v3.2. Register Agreement status is recorded in the header; no arithmetic, anchors, modal states, node-classes, operators, sign conventions, slash-pairs, ranges, envelopes, Mirror protocols, Machine Guards, claim-status labels, theological claims, or dependency boundaries are changed. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive.
+Related files: File_00; File_01; File_04; File_05; File_06; File_07; File_09; File_13; File_14; File_16; File_17; File_51a; File_54; File_61; File_62; Restart Capsule v11.30; 490d Repository Style Guide v2.5; Project Procedures v3.5; State Vocabulary Register v1.31; File_69
+Major operators: post-calling lifespan authorization; Abrahamic 100; Jacobean 70; Mosaic 40; exact normalized triad `100:70:40 = 10:7:4`; Abrahamic-base fractions `10/10`, `7/10`, `4/10`; 10x macro scale; fourth-generation multiplication; LCM(40, 70, 100) = 1400; same-side BC span; civil cross-axis span `BC + AD − 1`; endpoint-pair bracket display; cumulative-state distinction; chiastic overlap; Matthew 14-generation echo; File_62 downstream Jacob carrier `1929 → 1859 = 70` and `1929 → 1446 → 1439 = 483 + 7 = 490`; File_62 phase-scaled Mosaic comparison `40.25/80.5` by dependency
+Major modal states: authorized generational-unit state; call-to-death generational-span register; biological-fractal generation register by dependency; exact normalized generational triad state; Abrahamic unit; Jacobean unit; Mosaic unit; fourth-generation multi-scale state; 1400-year LCM state; regular Christological 1400 endpoint state; cross-axis Christological endpoint state; ordered endpoint-pair bracket state; cumulative MT 14000 state; MT + Cainan / restored cumulative 2nd Cainan dependency state; chiastic-overlap state; Terah-Egypt center/doubled-center display state; Matthew 14-generations echo state; Double-7 Sabbath-completion state; File_62 generational-carrier dependency state
+Revision basis: 490d Repository Style Guide v2.5; Restart Capsule v11.30; State Vocabulary Register v1.31; Project Procedures v3.5; prior finalized source; corrected Final File_61; Final File_62; Repository_Change_Archive (non-controlling history); Final File_69 August 18 thematic reopening; State Vocabulary Register v1.42; Restart Capsule v11.41; Repository Change Archive v1.51; Publication Manifest v23.
+Current refresh note: Bounded reciprocal routing aligns active control pointers to 490d Repository Style Guide v2.5, Restart Capsule v11.30, State_Vocabulary_Register v1.31, and Project Procedures v3.5. Register Agreement status is recorded in the header; the File_62 pointer changes no File_15 arithmetic, Primary anchor, authorized generational unit, modal-state logic, node-class, operator definition, sign convention, slash-pair, range, envelope, Mirror protocol, claim-status label, theological claim, or dependency boundary. Detailed pass logs, pressure-test records where applicable, pointer-refresh history, and replacement-workflow notes are preserved in Repository_Change_Archive. File_15 remains controlling for the authorized `100/70/40` units; Final File_62 controls its proposed phase chronology and downstream `483 → 490` application; Bounded File_69 August 18 reciprocal routing applied; the registered guard changes no pre-existing arithmetic, anchor, source duration, node-class, operator, sign convention, calendar definition, Mirror protocol, claim-status label, theological claim, or dependency boundary.
 
 # File_15 — The Generational Axiom
+
+File_62 generational-carrier reciprocal note:
+Final `File_62` applies File_15’s Jacobean `70` and Mosaic `40` units in a downstream phase-sensitive construction. It observes that `1929 BC → 1859 BC = 70` forms the first Jacobean unit inside `1929 BC → 1439 BC = 490 = 7 × 70`, while `1929 BC → 1446 BC = 483 = 69 × 7` receives the final `7` by the Prophetic expansion. File_62 also refines the Mosaic `40` into proposed quarter- and half-year phase comparisons `40.25/80.5`. These values do not become additional authorized generational units and do not replace File_15’s `100:70:40 = 10:7:4` triad.
 
 ## Related Repository Files
 
@@ -35,7 +39,15 @@ Current refresh note: Public-clean trust-status equalization aligns active contr
 | `File_14` | Controls Biological Fractals dependency vocabulary where Moses `40` / `80`, purification, gestation, or biological-fractal state logic is opened by dependency. |
 | `File_16` | Controls `1846 BC`, `1876 BC`, Affliction / Sojourn distinctions, and Christological criterion material. |
 | `File_17` | Controls prophetic span-component anatomy and identifies `File_15` as a related foundational axiom file. |
+| `File_61` | Uses the authorized `40/70/100` units inside the corrected cumulative–regular root system; File_15’s definitions remain unchanged. |
+| `File_62` | Applies the Jacobean `70` to the `1929 → 1859 → 1439 BC` carrier and the Mosaic `40` to proposed `40.25/80.5` phase comparisons. File_62 controls the local dates and dual-`490` application; File_15 controls the authorized units. |
 | `File_51a`; `File_54` | Provide current procedural, state-register, File map, and claim-status style precedents. |
+
+File_69 Mosaic-center reciprocal note:
+Final File_69 now routes its Matthean slot–rail theorem through the controlled Mosaic center matrix: `1406 BC` historical Moses-death / Conquest, `1446 BC` primary Exodus, `1448 BC` strict `72`-carrier companion, and `1486 BC` Moses age `40`. The parent anchor and generational-unit hierarchies remain unchanged.
+
+Machine Guard [FILE_05 FILE_06 FILE_14 FILE_15 FILE_69 MOSAIC-CENTER ROUTING]:
+Final File_69 may register the center matrix `1406/1446/1448/1486 BC` and the paired slot–rail exchanges `110−70=40` and `110−72=38`. File_05 retains `1446 BC` as the primary Exodus anchor; File_06 retains `1406 BC` as the historical Moses-death / Conquest transition; File_14 retains `1486 BC` as Moses age `40` and the biological-fractal controls; File_15 retains the authorized `100/70/40` generational units. `1448 BC` remains a strict schematic companion center and does not replace any historical anchor.
 
 ## 0. File-function
 
@@ -91,6 +103,7 @@ The following states are active in `File_15`. They are simultaneous, non-competi
 | Synchronization-at-1400 state | `1400 ÷ 100`; `1400 ÷ 70`; `1400 ÷ 40` | tri-unit synchronization display | Preserved as generational convergence table. |
 | Matthew 14-generations echo state | `14 + 14 + 14 = 42`; `14000 = 14 × 1000`; `1400 = 14 × 100` | NT / Matthew comparison state | Preserve Matthew’s genealogical `14` and the chronological `14` echoes as related but non-identical uses. |
 | Double-7 Sabbath-completion state | `14 = 7 + 7`; `1400 = 7 × 200`; `14000 = 7 × 2000` | theological / structural interpretation | Preserved as source theological meaning. Does not replace arithmetic. |
+| File_62 generational-carrier dependency state | `1929 → 1859 = 70`; `1929 → 1446 → 1439 = 483 + 7 = 490`; proposed `40.25/80.5` Mosaic phase forms | downstream generational / phase comparison | Final File_62 controls the local dates, proposed phase states, and `25/23` / `70/69` applications. File_15 controls only the authorized `100`, `70`, and `40` units. |
 
 ### 0.2 Node-class and display-state register
 
@@ -157,6 +170,7 @@ The following states are active in `File_15`. They are simultaneous, non-competi
 | Approximate decimal display | `100 ≈ 1.43 × 70` | Source display only. The exact executable form is `100/70 = 10/7 ≈ 1.43`; the decimal is retained only as an approximate display. |
 | Mirror protocol | inactive | No formal Mirror target-generation protocol is active in the main `File_15` argument. Civil cross-axis span counting remains distinct from Mirror. |
 | LXX source-reconstruction witness | inactive | No active LXX Genesis chronology layer appears in `File_15`; Smith / Rudd source-control is not invoked locally. |
+| File_62 downstream generational application | `1929 → 1859 = 70`; `1929 → 1439 = 490 = 7 × 70`; `40 → 40.25`; `80 → 80.5` by proposed phase addition | Dependency application only. The phase values and Danielic carrier are not additional File_15 authorized units and do not modify the `10x` macro-scale definition. |
 
 ### 0.5 Slash-pair, range, and display-state register
 
@@ -208,6 +222,10 @@ Arithmetic facts and textual / source-retained chronology data carry the proof b
 Machine Guard [CANONICAL MARKDOWN / DERIVED AI FORMATS]:
 
 This file remains canonical Markdown source. The file header, File map, state register, tables, Machine Guards, and audit notes are source controls, not JSONL, prompt/response, or generic AI-summary format.
+
+Machine Guard [FILE_62 AUTHORIZED-UNIT NON-REDEFINITION]:
+
+Final File_62 may apply the Jacobean `70` to its `1929 → 1859 → 1439 BC` carrier and may refine the Mosaic `40` into proposed phase values `40.25/80.5`. Do not promote those phase values, proposed phase dates, `483`, or `490` into additional File_15 authorized generational units; do not replace `100:70:40 = 10:7:4`; and do not collapse File_62’s local phase scaling or ratio operations into File_15’s `10x` macro-scale operator.
 
 ### 0.7 Pre-Arithmetic audit clarification register
 
@@ -395,6 +413,27 @@ These three units, and their 10x multiples, function in this file as the authori
 
 Modal-state note:
 The macro-scale values `1000`, `700`, and `400` are 10x scale-state displays. They do not erase the primary unit values `100`, `70`, and `40`.
+
+### 2.3 File_62 downstream generational application
+
+Final File_62 uses the File_15 units without redefining them. Its Jacob carrier begins with the controlled Bethel / Haran call at `1929 BC` and reaches Jacob’s death at `1859 BC` after one authorized Jacobean unit:
+
+```markdown
+1929 → 1859 = 70
+1929 → 1446 = 483 = 69 × 7
+1929 → 1439 = 490 = 7 × 70
+```
+
+The first `70` therefore lands at Jacob’s death, while the full `490` contains seven Jacobean units. File_62 controls the local chronological and Danielic interpretation.
+
+File_62 also applies proposed quarter- and half-year phase refinements to the Mosaic unit:
+
+```markdown
+40 years + 0.25 year = 40.25
+80 years + 0.5 year = 80.5
+```
+
+These are downstream phase-sensitive measurements, not new authorized units. File_15 continues to define the Mosaic unit as `40`, while File_12, File_17, File_23, and File_62 control the phase, ratio, and calendar applications.
 
 ## 3. The fourth-generation principle
 
@@ -742,6 +781,8 @@ The Double-7 state explains theological meaning. It does not replace the Matthew
 | `File_09` | Controls cumulative architecture and restored cumulative 2nd Cainan `+460` where the source `MT + Cainan` row is active. |
 | `File_14` | Controls Biological Fractals vocabulary where Moses `40` / `80`, purification, gestation, or biological-fractal structures are opened by dependency. |
 | `File_17` | Controls span-component terminology and already identifies `File_15` as a related foundational axiom file. |
+| `File_61` | Applies the authorized generational units inside the corrected cumulative–regular root system; it does not redefine File_15’s measuring standards. |
+| `File_62` | Applies the Jacobean `70` to the `1929 → 1859 → 1439 BC` carrier and the Mosaic `40` to proposed `40.25/80.5` phase refinements. Its local dates, phase states, and dual-`490` operators remain downstream. |
 | `File_51a` | Controls state-register, File map, cumulative / rounded dependency style, and pass-structure precedent. |
 | `File_54` | Controls later-file claim-status restraint and theological / typological note preservation. |
 
@@ -761,6 +802,9 @@ The decimal approximation `1 Abrahamic (100) ≈ 1.43 Jacobean (70)` is retained
 
 Dependency note [FILE_15 LEGACY SECTION LABELS]:
 Legacy cross-reference labels such as `File_00`, Section J and Section B remain source-history labels until current conformed section mappings are confirmed.
+
+Dependency note [FILE_15 FILE_62 GENERATIONAL CARRIER]:
+Final File_62 uses File_15’s authorized Jacobean `70` and Mosaic `40` in a downstream phase-sensitive carrier. The equations `1929 → 1859 = 70`, `1929 → 1446 = 483`, and `1929 → 1439 = 490` do not create a new File_15 span operator; the proposed `40.25/80.5` values do not replace the Mosaic `40`; and File_62’s `25/23`, `70/69`, `336`, and `360` applications remain governed by Files 12, 17, 23, and 62.
 
 Scope note [FILE_15 INACTIVE STATES]:
 No formal Mirror protocol, inverse-number operator, Residue Protocol, calendar suffix state, or LXX source-reconstruction witness is active in the main argument of `File_15`.
