@@ -19,7 +19,7 @@ The Markdown files are the **canonical source layer**; WordPress pages, PDFs, an
 
 The separately preserved [October 20, 2026 book collection](published-books/2026-10-20/) contains both introductions, all 34 chapters of Books 1 and 2, the updated Birth and Cross companion study, unchanged public HTML and figure files, offline reading copies, provenance, and checksums. Start with [the collection contents](published-books/2026-10-20/index.html) or [preservation notes](published-books/2026-10-20/README.md).
 
-The `published-books/` collection retains its own [rights and edition notice](published-books/2026-10-20/RIGHTS-AND-EDITIONS.txt); no additional reuse license is applied by this preservation capture.
+At the author’s direction, the original text, charts and figures in `published-books/` use **CC BY-ND 4.0**, with the same additional, irrevocable posthumous **CC BY 4.0** release as the canonical corpus. The [October 20 rights amendment](PUBLISHED-BOOKS-LICENSE.md) supersedes the conservative licensing language inside the unchanged preservation package; separately credited third-party material retains its own rights. The complete package is also preserved at [Zenodo, DOI 10.5281/zenodo.23510039](https://doi.org/10.5281/zenodo.23510039).
 
 ## Reading order
 
@@ -53,7 +53,7 @@ Archived copies preserve their recorded editions; the live directory carries the
 
 ## License
 
-The canonical corpus uses CC BY-ND 4.0, with an irrevocable posthumous release under CC BY 4.0 — see [LICENSE.md](LICENSE.md). The separate `supporting-studies/` and `published-books/` collections are excluded; see their [supporting-study rights notice](supporting-studies/2026-09-30/RIGHTS-AND-EDITIONS.txt) and [published-book rights notice](published-books/2026-10-20/RIGHTS-AND-EDITIONS.txt).
+The canonical corpus and the author’s original material in `published-books/` use CC BY-ND 4.0, with an additional, irrevocable posthumous CC BY 4.0 release — see [LICENSE.md](LICENSE.md) and the [published-book rights amendment](PUBLISHED-BOOKS-LICENSE.md). The separate `supporting-studies/` collection remains governed by its [own rights notice](supporting-studies/2026-09-30/RIGHTS-AND-EDITIONS.txt).
 
 ## Author
 
