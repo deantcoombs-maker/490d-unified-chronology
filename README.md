@@ -15,6 +15,12 @@ Canonical Markdown source corpus of the **490d Unified Chronology Knowledge Cata
 
 The Markdown files are the **canonical source layer**; WordPress pages, PDFs, and other formats at 490d.com are derived publication layers.
 
+## Published books and companion study
+
+The separately preserved [October 20, 2026 book collection](published-books/2026-10-20/) contains both introductions, all 34 chapters of Books 1 and 2, the updated Birth and Cross companion study, unchanged public HTML and figure files, offline reading copies, provenance, and checksums. Start with [the collection contents](published-books/2026-10-20/index.html) or [preservation notes](published-books/2026-10-20/README.md).
+
+The `published-books/` collection retains its own [rights and edition notice](published-books/2026-10-20/RIGHTS-AND-EDITIONS.txt); no additional reuse license is applied by this preservation capture.
+
 ## Reading order
 
 Start with `File_00` (Repository Foundation, Axiom Engine, and Source Map) and the four control documents in `control/`, which define the reading rules, state vocabulary, and claim-status conventions used throughout the corpus.
@@ -47,7 +53,7 @@ Archived copies preserve their recorded editions; the live directory carries the
 
 ## License
 
-The canonical corpus uses CC BY-ND 4.0, with an irrevocable posthumous release under CC BY 4.0 — see [LICENSE.md](LICENSE.md). The separate `supporting-studies/` collection is excluded; see its [rights notice](supporting-studies/2026-09-30/RIGHTS-AND-EDITIONS.txt).
+The canonical corpus uses CC BY-ND 4.0, with an irrevocable posthumous release under CC BY 4.0 — see [LICENSE.md](LICENSE.md). The separate `supporting-studies/` and `published-books/` collections are excluded; see their [supporting-study rights notice](supporting-studies/2026-09-30/RIGHTS-AND-EDITIONS.txt) and [published-book rights notice](published-books/2026-10-20/RIGHTS-AND-EDITIONS.txt).
 
 ## Author
 
