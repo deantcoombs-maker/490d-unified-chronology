@@ -2250,6 +2250,19 @@ A clean, mod-10, 10x, Mirror-like, SKL, or harmonically regular value is not aut
 Machine Guard [FILE_51A / FILE_51B HANDOFF]:
 `File_51a` supplies the Rounded Scaffold and its mod-5 mechanics. `File_51b` supplies Cross-Polarity Mirror and deep-time translation mechanics. Do not read `File_51b` Mirror mechanics back into `File_51a` as the scaffold's proof layer, and do not reduce `File_51a` scaffold states to Mirror states when `File_51b` cites them. Where `AD 1406 / AD 1401` are reused from §§16.7–16.8, they are rounded Conquest-week block display labels. Strict Protocol 1 remains `1406 BC → AD 1405` and `1401 BC → AD 1400`; `BC + AD − 1` remains the civil cross-axis span operator.
 
+### Research cross-reference — the 9,900-year Rounded Creation bridge and a π–Φ companion (9 November 2026)
+
+This is a **cross-reference only**, not a change to the canonical Rounded Scaffold. A later, explicitly **noncanonical** π–Φ study observes that the derived **5011/5006 BC** intermediate pair partitions the existing MT *Rounded cumulative-to-regular Creation* comparison in two parallel branches:
+
+- **14011 → 5011 → 4111 BC** = **9000 + 900 = 9900 years**;
+- **14006 → 5006 → 4106 BC** = **9000 + 900 = 9900 years**.
+
+The same result reads **(25 + 2½) × 360**, a **10:1** ratio. The linked research connects these derived intermediate dates to the proposed **15811/15806 BC Fibonacci–Φ origins**, the π midpoint **7706 BC**, and the symbolic **5006 → 6 BC = 5000 years** (five completed millennial days, from the beginning of the first to the beginning of the sixth schematic calendar day). The 5011 BC companion extends the last interval to **5005 years**. The research further notes **15806 → 7706 → 5006 BC = 8100 + 2700 years** and **15806 → 5006 → 1406 BC = 10800 + 3600 years**, both 3:1 subdivisions; **3600 = 60² = 10 × 360** is used as circular/sexagesimal symbolism.
+
+**Detailed linked explanation:** [*Phi and the Biblical Chronology*, §12 supplementary π–Rounded endnote](https://490d.com/phi-and-the-biblical-chronology/#phi-pi-rounded-5006). See also the [π main study](https://490d.com/pi-and-the-biblical-chronology/), [π technical appendix](https://490d.com/pi-biblical-chronology-technical-appendix/), and [Rounded 9,900-year bridge](https://490d.com/the-9900-year-bridge-in-rounded-biblical-chronology/).
+
+**Source-state guard:** The 5011/5006 BC pair is *projected*, not an independently attested creation/flood date. The five-year Aaron/Moses register is distinct from the actual-to-Rounded cumulative Flood adjustment. The 9000 + 900 result follows algebraically from the existing 9900-year difference and previously selected 1800/10800-year projections; it therefore cannot be counted as an independent proof of π, Φ, or divine intentionality. All existing canonical dates, state labels, algorithms, and evidence grades remain unchanged.
+
 ## Revision and archive note
 
 This public-clean Markdown source retains the prior Final and focused-pressure-tested baseline while applying the bounded July 24 2026 Rounded United-Monarchy amendment.
